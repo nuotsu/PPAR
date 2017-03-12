@@ -1,5 +1,5 @@
 $(function() {
-	// BG
+	// Click other/BG to hide Menu
 		$('body').prepend('<div class="bg"></div>')
 		$('.bg').css({
 			'position':'fixed',
@@ -10,16 +10,17 @@ $(function() {
 			'z-index': '-1'
 		})
 
-	$('.menu .dragger').click(function() {
-		$(this)
-			.toggleClass('open')
-			.toggleClass('close')
-		$('.menu .contents').slideToggle(150, 'swing')
-	})
-	$('div:not(.menu), .bg').click(function() {
-		$('.menu .dragger')
-			.addClass('open')
-			.removeClass('close')
-		$('.menu .contents').slideUp(150, 'swing')
-	})
+	// Menu
+		$('.menu .dragger').click(function() {
+			$(this)
+				.toggleClass('open')
+				.toggleClass('close')
+			$('.menu .contents').slideToggle(150, 'swing')
+		})
+		$('div:not(.menu), .bg').click(function() {
+			$('.menu .dragger')
+				.addClass('open')
+				.removeClass('close')
+			$('.menu .contents').slideUp(150, 'swing')
+		})
 })

@@ -52,13 +52,26 @@
 	.dimensions input {
 		text-align: right;
 	}
-	#randomize, #organize, #save, #locate, #showAll {
+	#randomize, #organize, #locate, #showAll, #save{
 		cursor: pointer;
 		display: inline-block;
-		margin: 0 5px;
+		margin: 5px;
+		padding: 2px 5px;
+		border-radius: 5px;
+		color: #fff;
 	}
 	.hideRest {
 		cursor: pointer;
 		display: inline-block;
 		transition: opacity 0.3s ease-in-out;
 	}
+	/* Buttons */
+		#randomize { background: #2196F3; }
+		#organize { background: #D50000; }
+		#locate {
+			background: #FFD600;
+			color: #000;}
+		#showAll { background: #00C853; }
+		#save {
+			background: #CFD8DC;
+			color: #000;}

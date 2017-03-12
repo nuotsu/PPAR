@@ -34,7 +34,6 @@ $(function() {
 				onrendered: function(canvas) {
 					canvas.id = 'canvasId'
 					$('#result').append(canvas)
-					// $('#canvasLength').html(' (' + $('canvas').length + ')')
 				},
 			allowTaint: true
 			})

@@ -17,7 +17,7 @@
 		position: fixed;
 		left: 10px;
 		top: 0;
-		z-index: 1;
+		z-index: 9999;
 	}
 	.menu .dragger {
 		cursor: pointer;
@@ -43,8 +43,12 @@
 		padding: 5px 10px;
 	}
 	.menu .contents p a {
+		display: block;
 		text-decoration: none;
 		color: #fff;
+	}
+	.menu .contents p a:hover {
+		opacity: 0.5;
 	}
 
 /* Top */
