@@ -1,0 +1,137 @@
+.counter {
+	display: inline-block;
+	background: #fff;
+	border-radius: 4px;
+	height: 128px;
+	padding: 2px;
+	margin: 20px 0;
+}
+
+/* Display */
+	.display {
+		display: inline-block;
+		position: relative;
+		width: 300px;
+		overflow: hidden;
+		vertical-align: top;
+	}
+	.display .name {
+		font-size: 20px;
+		font-family: "Rounded Mplus 1c";
+	}
+	.display #number {
+		position: relative;
+		z-index: 0;
+		font-size: 64px;
+		padding: 12px 1px 0px 1px;
+		font-family: 'Quicksand', sans-serif;
+	}
+	.display .name, .display #number {
+		display: block;
+		outline: none;
+		width: 100%;
+		text-align: center;
+	}
+	/* Markings */
+		.markings {
+			position: absolute;
+			z-index: 1;
+			left: 50%;
+			transform: translateX(-50%);
+			font-family: "メイリオ", meiryo;
+			color: #CFD8DC;
+			background: #fff;
+			opacity: 0.2;
+			transition: opacity 0.3s ease-in-out;
+		}
+		.markings:hover {
+			opacity: 1;
+		}
+		.markings span {
+			cursor: pointer;
+			margin: 0 2px;
+		}
+		.m_0 { color: #CFD8DC }
+		.m_1 { color: #00B0FF }
+		.m_2 { color: #EC407A }
+	/* Pokérus */
+		.pokerus {
+			cursor: pointer;
+			position: absolute;
+			z-index: 1;
+			right: -85px;
+			bottom: 0;
+			color: #fd69de;
+			padding: 0 0 0 5px;
+			opacity: 1;
+			transition:
+				right 0.3s ease;
+		}
+		.pokerus:hover {
+			right: 2px;
+		}
+		.pokerus input {
+			cursor: pointer;
+			transform: translateY(-2px);
+		}
+		.pkrs_pink { background: #fd69de }
+	/* Active */
+		.active-icon {
+			cursor: pointer;
+			position: absolute;
+			bottom: 5px;
+			left: 0;
+			animation: ai-anim 0.3s ease;
+		} @keyframes ai-anim {
+			from { left: -20px }
+			to { left: 0 }
+		}
+		.ai-hide {
+			display: none;
+		}
+	/* Encounter */
+		#encounter {
+			position: absolute;
+			bottom: 20px;
+			right: 0;
+			opacity: 0.3;
+		}
+
+/* Buttons */
+	.buttons {
+		display: inline-block;
+		text-align: center;
+	}
+	.buttons td {
+		cursor: pointer;
+		width: 100px;
+		font-family: 'Quicksand', sans-serif;
+		font-size: 30px;
+		color: #fff;
+		border-radius: 2px;
+	}
+	.buttons td:hover {
+		opacity: 0.7;
+	}
+	.reset { background: #000; }
+	.plus:before { content: '+'; }
+	.c-1 .plus { background: #E91E63; }
+	.c-2 .plus { background: #FFC400; }
+	.minus:before { content: '-'; }
+	.c-1 .minus { background: #2196F3; }
+	.c-2 .minus { background: #00E676; }
+
+#undo { display: none; }
+
+@media only screen and (max-width: 732px) {
+	.counter {
+		width: 90%;
+		height: 392px;
+	}
+	.display { width: 99%; }
+	.pokerus {
+		right: -81px;
+	}
+	.buttons { width: 100%; }
+	.buttons td { width: 1%; }
+}

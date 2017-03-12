@@ -1,0 +1,89 @@
+/* Common */
+	* {
+		margin: 0;
+	}
+	body {
+		user-select: none;
+		text-align: center;
+		background: #ECEFF1;
+		font-family: "Rounded Mplus 1c";
+	}
+	input {
+		border: none;
+	}
+
+/* Menu */
+	.menu {
+		position: fixed;
+		left: 10px;
+		top: 0;
+		z-index: 1;
+	}
+	.menu .dragger {
+		cursor: pointer;
+		display: block;
+		width: 40px;
+		height: 40px;
+		font-size: 25px;
+		background: rgba(0,0,0,0.8);
+		color: #fff;
+		border-radius: 0 0 5px 5px;
+	}
+	.menu .open:before { content: '≡'; }
+	.menu .close:before { content: '×'; }
+	.menu .contents {
+		display: none;
+		position: relative;
+		background: rgba(0,0,0,0.8);
+		color: #fff;
+		text-align: left;
+		border-radius: 0 0 5px 0;
+	}
+	.menu .contents p {
+		padding: 5px 10px;
+	}
+	.menu .contents p a {
+		text-decoration: none;
+		color: #fff;
+	}
+
+/* Top */
+	.top {
+		margin: 10px 0;
+	}
+	.top .title-pkmn {
+		font-size: 12px;
+	}
+	.top .sun { color: #FFC107 }
+	.top .moon{ color: #29B6F6 }
+	.top .title {
+		font-size: 20px;
+		margin: 10px 0;
+	}
+	.top .title span {
+		display: inline-block;
+		font-size: 12px;
+		opacity: 0.5;
+	}
+
+/* How To */
+	.howto {
+		margin: 15px 0;
+	}
+	.howto .title {
+		cursor: pointer;
+		display: inline-block;
+	}
+	.howto .howto-info {
+		display: none;
+		font-size: 12px;
+		color: #546E7A;
+	}
+	.howto .key_legend {
+		display: inline-block;
+		text-align: left;
+		margin: 5px;
+	}
+	.howto .kl_plus span { color: #E91E63; }
+	.howto .kl_minus span { color: #2196F3; }
+	.howto .kl_other span { color: #000; }
