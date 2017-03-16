@@ -37,7 +37,9 @@
 		vertical-align: middle;
 		margin: 10px;
 	}
-	.settings input[type="number"], .settings input[type="text"] {
+	.settings input[type="number"],
+	.settings input[type="color"],
+	.settings input[type="text"] {
 		font-size: 16px;
 		width: 60px;
 		background: none;

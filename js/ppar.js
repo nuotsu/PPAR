@@ -1,4 +1,10 @@
 $(function() {
+	// BG Color
+		$('#bg_color').change(function() {
+			$('.wallpaper').css({
+				'background': $('#bg_color').val()
+			})
+		})
 	// Dimensions
 		$('.dimensions input').change(function() {
 			$('.wallpaper').css({
