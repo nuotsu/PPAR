@@ -6,7 +6,7 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 
 	<link id="randFavicon" rel="icon">
-	<title>カウンター</title>
+	<title>Counter</title>
 
 	<link rel="stylesheet" type="text/css" href="css/common.css">
 	<link rel="stylesheet" type="text/css" href="css/counter.css">
@@ -23,20 +23,20 @@
 <body>
 	<div class="menu">
 		<div class="contents">
-			<p><a href="index.html">PPAR</a></p>
-			<p><a href="counter.html">カウンター</a></p>
+			<p><a href="index_eng.html">PPAR</a></p>
+			<p><a href="counter_eng.html">Counter</a></p>
 		</div>
 		<span class="dragger open"></span>
 	</div>
 
 	<div class="language">
-		<a href="counter.html" style="text-decoration: underline;">JPN</a>
-		<a href="counter_eng.html">ENG</a>
+		<a href="counter.html">JPN</a>
+		<a href="counter_eng.html" style="text-decoration: underline;">ENG</a>
 	</div>
 
 	<div class="top">
-		<p class="title-pkmn">ポケットモンスター <span class="sun">サン</span>・<span class="moon">ムーン</span></p>
-		<p class="title">カウンター</p>
+		<p class="title-pkmn">Pokémon <span class="sun">Sun</span>・<span class="moon">Moon</span></p>
+		<p class="title">Counter</p>
 	</div>
 
 	<!-- Counter #1 -->
@@ -57,15 +57,15 @@
 			</table>
 
 			<div class="display">
-				<input class="name" type="text" placeholder="カウンター１">
+				<input class="name" type="text" placeholder="Counter 1">
 				<span class="markings">
 					<span>●</span><span>▲</span><span>■</span><span>♥</span><span>★</span><span>◆</span>
 				</span>
 				<input id="number" type="number" placeholder="0">
 				<img class="active-icon ai-anim" src="http://cdn.bulbagarden.net/upload/f/f2/GB_icon.png">
-				<label class="pokerus">
+				<label class="pokerus pokerus_eng">
 					<img style="width: 10px" src="http://cdn.bulbagarden.net/upload/6/6d/Pok%C3%A9rusIC_VI_cured.png">
-					<span>ポケルス</span>
+					<span>Pokérus</span>
 					<input id="pokerus" type="checkbox">
 				</label>
 				<span id="encounter"></span>
@@ -107,15 +107,15 @@
 			</table>
 
 			<div class="display">
-				<input class="name" type="text" placeholder="カウンター２">
+				<input class="name" type="text" placeholder="Counter 2">
 				<span class="markings">
 					<span>●</span><span>▲</span><span>■</span><span>♥</span><span>★</span><span>◆</span>
 				</span>
 				<input id="number" type="number" placeholder="0">
 				<img class="active-icon ai-anim ai-hide" src="http://cdn.bulbagarden.net/upload/f/f2/GB_icon.png">
-				<label class="pokerus">
+				<label class="pokerus pokerus_eng">
 					<img style="width: 10px" src="http://cdn.bulbagarden.net/upload/6/6d/Pok%C3%A9rusIC_VI_cured.png">
-					<span>ポケルス</span>
+					<span>Pokérus</span>
 					<input id="pokerus" type="checkbox">
 				</label>
 				<span id="encounter"></span>
@@ -140,30 +140,30 @@
 		</div>
 
 	<div class="howto">
-		<p class="title">使い方</p>
+		<p class="title">How To Use:</p>
 		<div class="howto-info">
 			<p>
-				クリックかキーボード入力でカウンターを操作できます。
+				Counter can be used with either clicks or keyboard shortcuts.
 			</p>
 			<p class="kl_other">
-				「<span>`</span>」「<span>~</span>」で<span>対称のカウンター</span>を変えます。
+				Switch between counters with <span>`</span> or <span>~</span> (<i>tilda key</i>)
 				( <img src="http://cdn.bulbagarden.net/upload/f/f2/GB_icon.png"> )
 			</p>
 			<p class="key_legend kl_minus">
-				「<span> [ </span>」「<span> { </span>」・・・<span> -1 </span><br>
-				「<span> - </span>」「<span> _ </span>」・・・<span> -10 </span><br>
-				「<span> ; </span>」「<span> : </span>」・・・<span> -18 </span>
+				<span> [ </span>&nbsp; or &nbsp;<span> { </span>・・・<span> -1 </span><br>
+				<span> - </span>&nbsp; or &nbsp;<span> _ </span>・・・<span> -10 </span><br>
+				<span> ; </span>&nbsp; or &nbsp;<span> : </span>・・・<span> -18 </span>
 			</p>
 			<p class="key_legend kl_plus">
-				「<span> ] </span>」「<span> } </span>」・・・<span> +1 </span><br>
-				「<span> = </span>」「<span> + </span>」・・・<span> +10 </span><br>
-				「<span> ' </span>」「<span> " </span>」・・・<span> +18 </span>
+				<span> ] </span>&nbsp; or &nbsp;<span> } </span>・・・<span> +1 </span><br>
+				<span> = </span>&nbsp; or &nbsp;<span> + </span>・・・<span> +10 </span><br>
+				<span> ' </span>&nbsp; or &nbsp;<span> " </span>・・・<span> +18 </span>
 			</p>
 			<p class="kl_other">
-				「<span style="color: #fd69de">p</span>」で<span style="color: #fd69de">ポケルス</span>を有効にします。
+				Activate <span style="color: #fd69de">Pokérus</span> with "<span style="color: #fd69de">p</span>".
 				( <img style="width: 10px" src="http://cdn.bulbagarden.net/upload/6/6d/Pok%C3%A9rusIC_VI_cured.png"> )
 				<br>
-				「<span>z</span>」で一度だけ "<span>やり直し</span>" 機能が使えます。
+				Undo once with "<span>z</span>".
 			</p>
 		</div>
 	</div>

@@ -61,8 +61,17 @@
 		padding: 2px 5px;
 		border-radius: 5px;
 		color: #fff;
+		transition: box-shadow 0.2s ease-in-out;
 	}
-	.hideRest {
+	#randomize:hover,
+	#organize:hover,
+	#locate:hover,
+	#showAll:hover,
+	#save:hover {
+		box-shadow: 0 2px 15px 0 rgba(0,0,0,0.3);
+	}
+
+.hideRest {
 		cursor: pointer;
 		display: inline-block;
 		transition: opacity 0.3s ease-in-out;

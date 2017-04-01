@@ -70,6 +70,9 @@
 		.pokerus:hover {
 			right: 2px;
 		}
+		.pokerus_eng {
+			right: -80px;
+		}
 		.pokerus input {
 			cursor: pointer;
 			transform: translateY(-2px);
