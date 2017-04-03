@@ -10,10 +10,9 @@
 	}
 	.wallpaper img {
 		width: 40px;
+		background: none;
 	}
-	.wallpaper img[src=''] {
-		display: none;
-	}
+	.wallpaper img[src=''] { display: none; }
 
 /* Canvas */
 	.result canvas {
@@ -22,9 +21,7 @@
 		max-height: 300px;
 		vertical-align: middle;
 	}
-	.result #save {
-		margin: 5px;
-	}
+	.result #save { margin: 5px; }
 	.result #result {
 		display: none;
 		border: 1px dashed #000;
@@ -45,15 +42,9 @@
 		background: none;
 		outline: none;
 	}
-	.dimensions {
-		margin: 0 auto;
-	}
-	.dimensions td {
-		text-align: right;
-	}
-	.dimensions input {
-		text-align: right;
-	}
+	.dimensions { margin: 0 auto; }
+	.dimensions td { text-align: right; }
+	.dimensions input { text-align: right; }
 	#randomize, #organize, #locate, #showAll, #save{
 		cursor: pointer;
 		display: inline-block;
@@ -67,9 +58,7 @@
 	#organize:hover,
 	#locate:hover,
 	#showAll:hover,
-	#save:hover {
-		box-shadow: 0 2px 15px 0 rgba(0,0,0,0.3);
-	}
+	#save:hover { box-shadow: 0 2px 15px 0 rgba(0,0,0,0.3); }
 
 .hideRest {
 		cursor: pointer;

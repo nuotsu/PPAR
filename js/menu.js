@@ -21,4 +21,8 @@ $(function() {
 				.removeClass('close')
 			$('.menu .contents').slideUp(150, 'swing')
 		})
+
+	// Copyright
+		today = new Date()
+		$('#cprt_year').html(today.getFullYear())
 })
