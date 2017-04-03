@@ -72,6 +72,10 @@ $(function(){
 				if (keycode == '122') {
 					$('.c-active #number').val($('.c-active #undo').html())
 				}
+			// 'd' = Dark Mode
+				if (keycode == '100') {
+					$('#mode').click()
+				}
 		})
 
 	// Add
@@ -143,33 +147,65 @@ $(function(){
 
 	// Pokerus
 		$('.c-1 #pokerus').change(function() {
-			if ($(this).prop('checked') == true) {
-				$('.c-1 .plus').each(function() {
-					$(this)
-						.html($(this).html() * 2)
-						.css({ 'background': '#fd69de' })
-				})
+			if ($('body').hasClass('darkest_bg') == false) {
+				if ($(this).prop('checked') == true) {
+					$('.c-1 .plus').each(function() {
+						$(this)
+							.html($(this).html() * 2)
+							.css({ 'background': '#fd69de' })
+					})
+				} else {
+					$('.c-1 .plus').each(function() {
+						$(this)
+							.html($(this).html() / 2)
+							.css({ 'background': '#E91E63' })
+					})
+				}
 			} else {
-				$('.c-1 .plus').each(function() {
-					$(this)
-						.html($(this).html() / 2)
-						.css({ 'background': '#E91E63' })
-				})
+				if ($(this).prop('checked') == true) {
+					$('.c-1 .plus').each(function() {
+						$(this)
+							.html($(this).html() * 2)
+							.css({ 'background': '#fd69de' })
+					})
+				} else {
+					$('.c-1 .plus').each(function() {
+						$(this)
+							.html($(this).html() / 2)
+							.css({ 'background': '#455A64' })
+					})
+				}
 			}
 		})
 		$('.c-2 #pokerus').change(function() {
-			if ($(this).prop('checked') == true) {
-				$('.c-2 .plus').each(function() {
-					$(this)
-						.html($(this).html() * 2)
-						.css({ 'background': '#fd69de' })
-				})
+			if ($('body').hasClass('darkest_bg') == false) {
+				if ($(this).prop('checked') == true) {
+					$('.c-2 .plus').each(function() {
+						$(this)
+							.html($(this).html() * 2)
+							.css({ 'background': '#fd69de' })
+					})
+				} else {
+					$('.c-2 .plus').each(function() {
+						$(this)
+							.html($(this).html() / 2)
+							.css({ 'background': '#FFC400' })
+					})
+				}
 			} else {
-				$('.c-2 .plus').each(function() {
-					$(this)
-						.html($(this).html() / 2)
-						.css({ 'background': '#FFC400' })
-				})
+				if ($(this).prop('checked') == true) {
+					$('.c-2 .plus').each(function() {
+						$(this)
+							.html($(this).html() * 2)
+							.css({ 'background': '#fd69de' })
+					})
+				} else {
+					$('.c-2 .plus').each(function() {
+						$(this)
+							.html($(this).html() / 2)
+							.css({ 'background': '#455A64' })
+					})
+				}
 			}
 		})
 

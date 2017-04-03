@@ -40,7 +40,6 @@
 			transform: translateX(-50%);
 			font-family: "メイリオ", meiryo;
 			color: #CFD8DC;
-			background: #fff;
 			opacity: 0.2;
 			transition: opacity 0.3s ease-in-out;
 		}
@@ -108,11 +107,11 @@
 	.buttons td:hover { opacity: 0.7; }
 	.reset { background: #000; }
 	.plus:before { content: '+'; }
-	.c-1 .plus { background: #E91E63; }
-	.c-2 .plus { background: #FFC400; }
 	.minus:before { content: '-'; }
-	.c-1 .minus { background: #2196F3; }
-	.c-2 .minus { background: #00E676; }
+	.c-1 .plus.btn_color { background: #E91E63; }
+	.c-1 .minus.btn_color { background: #2196F3; }
+	.c-2 .plus.btn_color { background: #FFC400; }
+	.c-2 .minus.btn_color { background: #00E676; }
 
 #undo { display: none; }
 

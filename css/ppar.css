@@ -15,6 +15,9 @@
 	.wallpaper img[src=''] { display: none; }
 
 /* Canvas */
+	.result {
+		margin: 0 0 15px 0;
+	}
 	.result canvas {
 		margin: 10px;
 		max-width: 300px;
@@ -66,12 +69,12 @@
 		transition: opacity 0.3s ease-in-out;
 	}
 	/* Buttons */
-		#randomize { background: #2196F3; }
-		#organize { background: #D50000; }
-		#locate {
+		#randomize.btn_color { background: #2196F3; }
+		#organize.btn_color { background: #D50000; }
+		#locate.btn_color {
 			background: #FFD600;
 			color: #000;}
-		#showAll { background: #00C853; }
-		#save {
+		#showAll.btn_color { background: #00C853; }
+		#save.btn_color {
 			background: #CFD8DC;
 			color: #000;}

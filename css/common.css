@@ -7,6 +7,7 @@
 		font-family: "Rounded Mplus 1c";
 	}
 	input { border: none; }
+	a { color: #fff; }
 
 /* Menu */
 	.menu {
@@ -54,6 +55,8 @@
 		margin: 2px;
 		text-decoration: none;
 		font-size: 12px;
+	}
+	.language_txt {
 		color: #000;
 	}
 

@@ -5,6 +5,7 @@ $(function() {
 				'background': $('#bg_color').val()
 			})
 		})
+
 	// Dimensions
 		$('.dimensions input').change(function() {
 			$('.wallpaper').css({
@@ -15,6 +16,7 @@ $(function() {
 				'width': $('.dimensions #icon-size').val()
 			})
 		})
+
 	// Randomize
 		$('#randomize').click(function() {
 			rX = $('.wallpaper').width() - $('.wallpaper img').width()
@@ -34,6 +36,7 @@ $(function() {
 				'position': 'static'
 			})
 		})
+
 	// Save
 		$('#save').click(function() {
 			html2canvas($('.wallpaper'), {
@@ -47,6 +50,7 @@ $(function() {
 				'display': 'inline-block'
 			})
 		})
+
 	// Locate
 		//Hide Rest Initial
 			$('.hideRest').css({
@@ -102,4 +106,14 @@ $(function() {
 				'opacity': '1'
 			})
 		})
+
+	// Keypresses
+		$(document).keypress(function(e) {
+			current = $('.c-active #number').val()
+			keycode = (e.keycode ? e.keycode : e.which)
+		// 'd' = Dark Mode
+			if (keycode == '100') {
+				$('#mode').click()
+			}
+	})
 })
