@@ -6,7 +6,6 @@
 		margin: 0 auto;
 		overflow: scroll;
 		text-align: left;
-		background: #fff;
 	}
 	.wallpaper img {
 		width: 40px;
@@ -24,12 +23,13 @@
 		max-height: 300px;
 		vertical-align: middle;
 	}
-	.result #save { margin: 5px; }
-	.result #result {
+	#save { margin: 5px; }
+	#result {
 		display: none;
 		border: 1px dashed #000;
 		border-radius: 5px;
 	}
+	#result.white_border { border-color: #fff; }
 
 /* Options */
 	.settings {
