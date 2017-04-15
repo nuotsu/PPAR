@@ -72,10 +72,6 @@ $(function(){
 				if (keycode == '122') {
 					$('.c-active #number').val($('.c-active #undo').html())
 				}
-			// 'd' = Dark Mode
-				if (keycode == '100') {
-					$('#mode').click()
-				}
 		})
 
 	// Add

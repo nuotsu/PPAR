@@ -18,7 +18,7 @@ $(function() {
   // PPAR
     $('body, .howto').toggleClass('darkest_bg')
     $('.language a').toggleClass('language_txt')
-    $('.language a, .top, .settings, .settings input, .display input, .howto, #mode').toggleClass('white_txt')
+    $('.language a, .top, .settings, .settings input, .display input, .howto, #collection, #mode').toggleClass('white_txt')
     $('#randomize, #organize, #locate, #showAll, #save').toggleClass('btn_color')
     $('#randomize, #organize, #locate, #showAll, #save').toggleClass('dark_bg')
     $('#result').toggleClass('white_border')
@@ -29,4 +29,13 @@ $(function() {
     $('.buttons td').toggleClass('dark_bg')
     $('.reset').toggleClass('light_bg')
   })
+
+  // Keypresses
+    $(document).keypress(function(e) {
+      keycode = (e.keycode ? e.keycode : e.which)
+      // 'd' = Dark Mode
+        if (keycode == '100') {
+          $('#mode').click()
+        }
+    })
 })

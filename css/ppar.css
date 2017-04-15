@@ -29,7 +29,6 @@
 		border: 1px dashed #000;
 		border-radius: 5px;
 	}
-	#result.white_border { border-color: #fff; }
 
 /* Options */
 	.settings {
@@ -62,6 +61,9 @@
 	#locate:hover,
 	#showAll:hover,
 	#save:hover { box-shadow: 0 2px 15px 0 rgba(0,0,0,0.3); }
+	#collection {
+		background: none;
+	}
 
 .hideRest {
 		cursor: pointer;

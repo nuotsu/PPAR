@@ -16,6 +16,9 @@ $(function() {
 				'width': $('.dimensions #icon-size').val()
 			})
 		})
+		$('.dimensions #width').attr({
+			'value': $('.wallpaper').width()
+		})
 
 	// Randomize
 		$('#randomize').click(function() {
@@ -53,48 +56,12 @@ $(function() {
 
 	// Collection
 		$('#collection').change(function() {
-			if ($(this).val() == 'all') {
+			collection = $(this).val()
+			if (collection == 'all') {
 				$('.wallpaper img').css({'opacity': '1'})
-			}
-			if ($(this).val() == 'kanto') {
+			} else {
 				$('.wallpaper img').css({'opacity': '0'})
-				$('.wallpaper img[data-collection*=kanto]').css({'opacity': '1'})
-			}
-			if ($(this).val() == 'johto') {
-				$('.wallpaper img').css({'opacity': '0'})
-				$('.wallpaper img[data-collection*=johto]').css({'opacity': '1'})
-			}
-			if ($(this).val() == 'hoenn') {
-				$('.wallpaper img').css({'opacity': '0'})
-				$('.wallpaper img[data-collection*=hoenn]').css({'opacity': '1'})
-			}
-			if ($(this).val() == 'sinnoh') {
-				$('.wallpaper img').css({'opacity': '0'})
-				$('.wallpaper img[data-collection*=sinnoh]').css({'opacity': '1'})
-			}
-			if ($(this).val() == 'unova') {
-				$('.wallpaper img').css({'opacity': '0'})
-				$('.wallpaper img[data-collection*=unova]').css({'opacity': '1'})
-			}
-			if ($(this).val() == 'kalos') {
-				$('.wallpaper img').css({'opacity': '0'})
-				$('.wallpaper img[data-collection*=kalos]').css({'opacity': '1'})
-			}
-			if ($(this).val() == 'alola') {
-				$('.wallpaper img').css({'opacity': '0'})
-				$('.wallpaper img[data-collection*=alola]').css({'opacity': '1'})
-			}
-			if ($(this).val() == 'mega') {
-				$('.wallpaper img').css({'opacity': '0'})
-				$('.wallpaper img[data-collection*=mega]').css({'opacity': '1'})
-			}
-			if ($(this).val() == 'rf') {
-				$('.wallpaper img').css({'opacity': '0'})
-				$('.wallpaper img[data-collection*=rf]').css({'opacity': '1'})
-			}
-			if ($(this).val() == 'starter') {
-				$('.wallpaper img').css({'opacity': '0'})
-				$('.wallpaper img[data-collection*=starter]').css({'opacity': '1'})
+				$('.wallpaper img[data-collection*=' + collection + ']').css({'opacity': '1'})
 			}
 		})
 
@@ -157,7 +124,6 @@ $(function() {
 
 	// Keypresses
 		$(document).keypress(function(e) {
-			current = $('.c-active #number').val()
 			keycode = (e.keycode ? e.keycode : e.which)
 		// 'r' = Randomize
 			if (keycode == '114') {
@@ -166,10 +132,6 @@ $(function() {
 		// 'o' = Organize
 			if (keycode == '111') {
 				$('#organize').click()
-			}
-		// 'd' = Dark Mode
-			if (keycode == '100') {
-				$('#mode').click()
 			}
 	})
 })

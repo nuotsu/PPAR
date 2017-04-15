@@ -15,7 +15,7 @@ $(function() {
 				.toggleClass('close')
 			$('.menu .contents').slideToggle(150, 'swing')
 		})
-		$('div:not(.menu), .bg').click(function() {
+		$('body div:not(.menu)').click(function() {
 			$('.menu .dragger')
 				.addClass('open')
 				.removeClass('close')
