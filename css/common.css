@@ -80,10 +80,14 @@
 		opacity: 0.5;
 	}
 
+/* Settings */
+	.settings_bg {
+		background: #ECEFF1;
+	}
+
 /* How To */
 	.howto {
 		margin: 15px 0 30px 0;
-		background: #ECEFF1;
 	}
 	.howto .title {
 		cursor: pointer;

@@ -58,10 +58,16 @@ $(function() {
 		$('#collection').change(function() {
 			collection = $(this).val()
 			if (collection == 'all') {
-				$('.wallpaper img').css({'opacity': '1'})
+				$('.wallpaper img').css({
+					'display': 'inline'
+				})
 			} else {
-				$('.wallpaper img').css({'opacity': '0'})
-				$('.wallpaper img[data-collection*=' + collection + ']').css({'opacity': '1'})
+				$('.wallpaper img').css({
+					'display': 'none'
+				})
+				$('.wallpaper img[data-collection*=' + collection + ']').css({
+					'display': 'inline'
+				})
 			}
 		})
 
@@ -76,7 +82,7 @@ $(function() {
 				$('.wallpaper img').css({
 					'opacity': '0.1'
 				})
-				find = $('.find').val().split(',')
+				find = $('#find').val().split(',')
 				for (i = 0; i <= find.length; i++) {
 					$('.wallpaper img[src*=' + find[i] +']').css({
 						'opacity': '1',
@@ -94,7 +100,7 @@ $(function() {
 						$('.wallpaper img').css({
 							'opacity': '0'
 						})
-						find = $('.find').val().split(',')
+						find = $('#find').val().split(',')
 						for (i = 0; i <= find.length; i++) {
 							$('.wallpaper img[src*=' + find[i] +']').css({
 								'opacity': '1',
@@ -105,7 +111,7 @@ $(function() {
 						$('.wallpaper img').css({
 							'opacity': '0.1'
 						})
-						find = $('.find').val().split(',')
+						find = $('#find').val().split(',')
 						for (i = 0; i <= find.length; i++) {
 							$('.wallpaper img[src*=' + find[i] +']').css({
 								'opacity': '1',
@@ -120,6 +126,7 @@ $(function() {
 					$('.wallpaper img').css({
 						'opacity': '1'
 					})
+					$('#find').val('')
 				})
 
 	// Keypresses
