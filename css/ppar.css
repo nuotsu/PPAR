@@ -29,6 +29,13 @@
 		border: 1px dashed #000;
 		border-radius: 5px;
 	}
+	#canvasId {
+		border-radius: 5px;
+		transition: box-shadow 0.2s ease-in-out;
+	}
+	#canvasId:hover {
+		box-shadow: 0 2px 15px 0 rgba(0,0,0,0.3);
+	}
 
 /* Options */
 	.settings {
@@ -47,7 +54,12 @@
 	.dimensions { margin: 0 auto; }
 	.dimensions td { text-align: right; }
 	.dimensions input { text-align: right; }
-	#randomize, #organize, #locate, #showAll, #save{
+	#bg_img,
+	#randomize,
+	#organize,
+	#locate,
+	#showAll,
+	#save{
 		cursor: pointer;
 		display: inline-block;
 		margin: 5px;
@@ -56,6 +68,7 @@
 		color: #fff;
 		transition: box-shadow 0.2s ease-in-out;
 	}
+	#bg_img:hover,
 	#randomize:hover,
 	#organize:hover,
 	#locate:hover,
@@ -71,6 +84,7 @@
 		transition: opacity 0.3s ease-in-out;
 	}
 	/* Buttons */
+		#bg_img.btn_color { background: #AA00FF; }
 		#randomize.btn_color { background: #2196F3; }
 		#organize.btn_color { background: #D50000; }
 		#locate.btn_color {

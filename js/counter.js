@@ -23,16 +23,19 @@ $(function(){
 
 			// ']' = +1
 				if (keycode == '93') {
+					button_beep()
 					$('.c-active #undo').html(current)
 					$('.c-active #number').val(current*1 + $('.c-active #key93').html()*1)
 				}
 			// '=/+' = +10
 				if (keycode == '61') {
+					button_beep()
 					$('.c-active #undo').html(current)
 					$('.c-active #number').val(current*1 + $('.c-active #key61').html()*1)
 				}
 			// '[Quotation]' = +18
 				if (keycode == '39') {
+					button_beep()
 					$('.c-active #undo').html(current)
 					$('.c-active #number').val(current*1 + $('.c-active #key39').html()*1)
 					encounter = Math.floor($('.c-active #number').val() / 18)
@@ -40,16 +43,19 @@ $(function(){
 				}
 			// '[' = -1
 				if (keycode == '91') {
+					button_beep()
 					$('.c-active #undo').html(current)
 					$('.c-active #number').val(current*1 - 1)
 				}
 			// '-' - -10
 				if (keycode == '45') {
+					button_beep()
 					$('.c-active #undo').html(current)
 					$('.c-active #number').val(current*1 - 10)
 				}
 			// ';/:' = -18
 				if (keycode == '59') {
+					button_beep()
 					$('.c-active #undo').html(current)
 					$('.c-active #number').val(current*1 - $('.c-active #key59').html()*1)
 					encounter = Math.floor($('.c-active #number').val() / 18)
@@ -73,6 +79,14 @@ $(function(){
 					$('.c-active #number').val($('.c-active #undo').html())
 				}
 		})
+
+	// Sounds
+		$('.buttons td').click(function() {
+			button_beep()
+		})
+		function button_beep() {
+			new Audio('images/button.mp3').play()
+		}
 
 	// Add
 		$('.c-1 .plus').on('click', function() {

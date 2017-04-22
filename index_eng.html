@@ -1065,10 +1065,6 @@
 		<div class="settings">
 			<table class="dimensions">
 				<tr>
-					<td>Background: </td>
-					<td colspan="2"><input id="bg_color" type="color" value="#ffffff"></td>
-				</tr>
-				<tr>
 					<td>Width: </td>
 					<td><input id="width" type="number" step="10" min="10"></td>
 					<td>px</td>
@@ -1130,6 +1126,19 @@
 				<span>Hide rest</span>
 			</label><br>
 			<p id="showAll">Show all</p>
+		</div>
+
+		<div class="settings">
+			<table class="dimensions">
+				<tr>
+					<td>BG Color:</td>
+					<td><input id="bg_color" type="color" value="#ffffff"></td>
+				</tr>
+			</table>
+			<p>
+				<span id="bg_img">BG Image</span>
+				<input id="bg_img_upload" type="file" accept="image/*" style="display: none;">
+			</p>
 		</div><br>
 
 		<div class="result">
@@ -1143,16 +1152,16 @@
 			<p class="title">How To Use:</p>
 			<div class="howto-info">
 				<p class="kl_other">
-					Designate canvas and icon sizes, and click either"<span style="color: #2196F3">Randomize</span>" or "<span style="color: #D50000">Organize</span>".
+					Designate canvas and icon sizes, and click either「<span style="color: #2196F3">Randomize</span>」or「<span style="color: #D50000">Organize</span>」.
 					<br>
 					Keyboard strokes "<span>r</span>" and "<span>o</span>" also function as the respective buttons.
 				</p>
 				<p class="kl_other">
-					You can locate specified Pokémon by entering their <span>Dex Number</span> and clicking "<span style="color: #FFD600">Locate</span>".<br>
-					Use <span>commas</span> (<span>,</span>) to separate multiple entries.
+					You can locate specified Pokémon by entering their <span>Dex Number</span> and clicking「<span style="color: #FFD600">Locate</span>」.<br>
+					Use <span>commas</span> ("<span>,</span>") to separate multiple entries.
 				</p>
 				<p class="kl_other">
-					"<span>Generate</span>" will generate images of the canvas.
+					「<span>Generate</span>」or "<span>s</span>" will generate images of the canvas.
 					<br>
 					Right-click to save. (Incompatible on some mobile devices.)
 					<br>

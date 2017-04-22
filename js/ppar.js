@@ -5,6 +5,25 @@ $(function() {
 				'background': $('#bg_color').val()
 			})
 		})
+	// BG Image
+		$('#bg_img').click(function() {
+			$('#bg_img_upload').click()
+		})
+		$('#bg_img_upload').change(function() {
+			img= this.files[0]
+			reader = new FileReader()
+			reader.onloadend = function() {
+				$('.wallpaper').css({
+					'background': 'none',
+					'background-image': 'url("' + reader.result + '")',
+					'background-size': 'cover',
+					'background-position': 'center'
+				})
+			}
+			if (img) {
+				reader.readAsDataURL(img)
+			}
+		})
 
 	// Dimensions
 		$('.dimensions input').change(function() {
@@ -24,19 +43,22 @@ $(function() {
 		$('#randomize').click(function() {
 			rX = $('.wallpaper').width() - $('.wallpaper img').width()
 			rY = $('.wallpaper').height() - $('.wallpaper img').height()
+			direction = ['-1', '1']
 			$('.wallpaper img').each(function() {
 				$(this).css({
 					'position': 'absolute',
 					'left': Math.floor(Math.random() * rX),
 					'top': Math.floor(Math.random() * rY),
-					'z-index': Math.floor(Math.random() * $('.wallpaper img').length)
+					'z-index': Math.floor(Math.random() * $('.wallpaper img').length),
+					'transform': 'scaleX(' + direction[Math.floor(Math.random() * 2)] + ')'
 				})
 			})
 		})
 	// Organize
 		$('#organize').click(function() {
 			$('.wallpaper img').css({
-				'position': 'static'
+				'position': 'static',
+				'transform': 'scaleX(' + 1 + ')'
 			})
 		})
 
@@ -139,6 +161,10 @@ $(function() {
 		// 'o' = Organize
 			if (keycode == '111') {
 				$('#organize').click()
+			}
+		// 's' = Save
+			if (keycode == '115') {
+				$('#save').click()
 			}
 	})
 })

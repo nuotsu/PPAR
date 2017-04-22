@@ -1065,10 +1065,6 @@
 		<div class="settings">
 			<table class="dimensions">
 				<tr>
-					<td>背景: </td>
-					<td colspan="2"><input id="bg_color" type="color" value="#ffffff"></td>
-				</tr>
-				<tr>
 					<td>横: </td>
 					<td><input id="width" type="number" step="10" min="10"></td>
 					<td>px</td>
@@ -1130,6 +1126,19 @@
 				<span>他を隠す</span>
 			</label><br>
 			<p id="showAll">全てを表示</p>
+		</div>
+
+		<div class="settings">
+			<table class="dimensions">
+				<tr>
+					<td>背景色:</td>
+					<td><input id="bg_color" type="color" value="#ffffff"></td>
+				</tr>
+			</table>
+			<p>
+				<span id="bg_img">背景画像</span>
+				<input id="bg_img_upload" type="file" accept="image/*" style="display: none;">
+			</p>
 		</div><br>
 
 		<div class="result">
@@ -1143,16 +1152,16 @@
 			<p class="title">使い方</p>
 			<div class="howto-info">
 				<p class="kl_other">
-					キャンバスとドット絵のサイズを指定し、<br>「<span style="color: #2196F3">ランダム</span>」か「<span style="color: #D50000">図鑑番号順</span>」で配置を変えます。
+					キャンバスとドット絵のサイズを指定し、<br>「<span style="color: #2196F3">ランダム</span>」("<span style="color: #2196F3">d</span>")か「<span style="color: #D50000">図鑑番号順</span>」("<span style="color: #D50000">o</span>")で配置を変えます。
 				</p>
 				<p class="kl_other">
 					<span>図鑑番号</span>を指定し、「<span style="color: #FFD600">探す</span>」でドット絵の配置場所を確認できます。<br>
-					複数表示したい場合は「<span>,</span>」(<span>コンマ</span>)を使用します。
+					複数表示したい場合は<span>コンマ</span>("<span>,</span>")を使用します。
 				</p>
 				<p class="kl_other">
-					「<span>画像作成</span>」を押し、右クリックで保存できます。（モバイル未対応）
+					「<span>画像作成</span>」("<span>s</span>")を押し、右クリックで保存できます。（モバイル未対応）
 					<br>
-					「<span>d</span>」入力で<span>モード</span>を切り替えられます。
+					"<span>d</span>"入力で<span>モード</span>を切り替えられます。
 				</p>
 			</div>
 		</div>

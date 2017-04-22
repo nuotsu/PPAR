@@ -1,6 +1,6 @@
 $(function() {
   // PPAR
-    $('#randomize, #organize, #locate, #showAll, #save').addClass('btn_color')
+    $('#bg_img, #randomize, #organize, #locate, #showAll, #save').addClass('btn_color')
   // Counter
     $('.c-1 .plus, .c-1 .minus, .c-2 .plus, .c-2 .minus').addClass('btn_color')
     $('.language a').addClass('language_txt')
@@ -19,8 +19,8 @@ $(function() {
       $('body, .settings_bg').toggleClass('darkest_bg')
       $('.language a').toggleClass('language_txt')
       $('.language a, .top, .settings, .settings input, .display input, .howto, #collection, #mode').toggleClass('white_txt')
-      $('#randomize, #organize, #locate, #showAll, #save').toggleClass('btn_color')
-      $('#randomize, #organize, #locate, #showAll, #save').toggleClass('dark_bg')
+      $('#bg_img, #randomize, #organize, #locate, #showAll, #save').toggleClass('btn_color')
+      $('#bg_img, #randomize, #organize, #locate, #showAll, #save').toggleClass('dark_bg')
       $('#result').toggleClass('white_border')
 
     // Counter
