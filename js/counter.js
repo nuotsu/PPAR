@@ -89,34 +89,34 @@ $(function(){
 		}
 
 	// Add
-		$('.c-1 .plus').on('click', function() {
+		$('.c-1 .plus').click(function() {
 			current = $('.c-1 #number').val()
-			count = $(this).html()
+			count = $(this).data('count')
 			$('.c-1 #number').val( current*1 + count*1 )
 		})
-		$('.c-2 .plus').on('click', function() {
+		$('.c-2 .plus').click(function() {
 			current = $('.c-2 #number').val()
-			count = $(this).html()
+			count = $(this).data('count')
 			$('.c-2 #number').val( current*1 + count*1 )
 		})
 	// Subtract
-		$('.c-1 .minus').on('click', function() {
+		$('.c-1 .minus').click(function() {
 			current = $('.c-1 #number').val()
-			count = $(this).html()
+			count = $(this).data('count')
 			$('.c-1 #number').val( current*1 - count*1 )
 		})
-		$('.c-2 .minus').on('click', function() {
+		$('.c-2 .minus').click(function() {
 			current = $('.c-2 #number').val()
-			count = $(this).html()
+			count = $(this).data('count')
 			$('.c-2 #number').val( current*1 - count*1 )
 		})
 	// Reset
-		$('.c-1 .reset').on('click', function() {
-			reset = $(this).html()
+		$('.c-1 .reset').click(function() {
+			reset = $(this).data('count')
 			$('.c-1 #number').val(reset)
 		})
-		$('.c-2 .reset').on('click', function() {
-			reset = $(this).html()
+		$('.c-2 .reset').click(function() {
+			reset = $(this).data('count')
 			$('.c-2 #number').val(reset)
 		})
 
@@ -161,13 +161,15 @@ $(function(){
 				if ($(this).prop('checked') == true) {
 					$('.c-1 .plus').each(function() {
 						$(this)
-							.html($(this).html() * 2)
+							.data({'count': $(this).data('count') * 2})
+							.html($(this).data('count'))
 							.css({ 'background': '#fd69de' })
 					})
 				} else {
 					$('.c-1 .plus').each(function() {
 						$(this)
-							.html($(this).html() / 2)
+							.data({'count': $(this).data('count') / 2})
+							.html($(this).data('count'))
 							.css({ 'background': '#E91E63' })
 					})
 				}
@@ -175,13 +177,15 @@ $(function(){
 				if ($(this).prop('checked') == true) {
 					$('.c-1 .plus').each(function() {
 						$(this)
-							.html($(this).html() * 2)
+							.data({'count': $(this).data('count') * 2})
+							.html($(this).data('count'))
 							.css({ 'background': '#fd69de' })
 					})
 				} else {
 					$('.c-1 .plus').each(function() {
 						$(this)
-							.html($(this).html() / 2)
+							.data({'count': $(this).data('count') / 2})
+							.html($(this).data('count'))
 							.css({ 'background': '#455A64' })
 					})
 				}
@@ -192,13 +196,15 @@ $(function(){
 				if ($(this).prop('checked') == true) {
 					$('.c-2 .plus').each(function() {
 						$(this)
-							.html($(this).html() * 2)
+							.data({'count': $(this).data('count') * 2})
+							.html($(this).data('count'))
 							.css({ 'background': '#fd69de' })
 					})
 				} else {
 					$('.c-2 .plus').each(function() {
 						$(this)
-							.html($(this).html() / 2)
+							.data({'count': $(this).data('count') / 2})
+							.html($(this).data('count'))
 							.css({ 'background': '#FFC400' })
 					})
 				}
@@ -206,13 +212,15 @@ $(function(){
 				if ($(this).prop('checked') == true) {
 					$('.c-2 .plus').each(function() {
 						$(this)
-							.html($(this).html() * 2)
+							.data({'count': $(this).data('count') * 2})
+							.html($(this).data('count'))
 							.css({ 'background': '#fd69de' })
 					})
 				} else {
 					$('.c-2 .plus').each(function() {
 						$(this)
-							.html($(this).html() / 2)
+							.data({'count': $(this).data('count') / 2})
+							.html($(this).data('count'))
 							.css({ 'background': '#455A64' })
 					})
 				}

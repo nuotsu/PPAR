@@ -11,15 +11,18 @@
 	<link rel="stylesheet" type="text/css" href="css/common.css">
 	<link rel="stylesheet" type="text/css" href="css/counter.css">
 	<link rel="stylesheet" type="text/css" href="css/dark_mode.css">
+	<link rel="stylesheet" type="text/css" href="css/rippleria.css">
 
 	<link href="https://fonts.googleapis.com/css?family=Quicksand" rel="stylesheet">
 	<link href="https://fonts.googleapis.com/earlyaccess/roundedmplus1c.css" rel="stylesheet">
 
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+
 	<script src="js/favicon.js"></script>
 	<script src="js/menu.js"></script>
 	<script src="js/counter.js"></script>
 	<script src="js/dark_mode.js"></script>
+	<script src="js/rippleria.js"></script>
 </head>
 
 <body>
@@ -45,16 +48,16 @@
 		<div class="counter c-active c-1">
 			<table class="buttons">
 				<tr>
-					<td class="minus">8</td>
-					<td class="reset">252</td>
+					<td class="minus" data-count="8">8</td>
+					<td class="reset" data-count="252">252</td>
 				</tr>
 				<tr>
-					<td class="minus">10</td>
-					<td class="minus">1</td>
+					<td class="minus" data-count="10">10</td>
+					<td class="minus" data-count="1">1</td>
 				</tr>
 				<tr>
-					<td class="minus enc-btn" id="key59">18</td>
-					<td class="minus">2</td>
+					<td class="minus enc-btn" id="key59" data-count="18">18</td>
+					<td class="minus" data-count="2">2</td>
 				</tr>
 			</table>
 
@@ -75,16 +78,16 @@
 
 			<table class="buttons">
 				<tr>
-					<td class="reset">0</td>
-					<td class="plus">8</td>
+					<td class="reset" data-count="0">0</td>
+					<td class="plus" data-count="8">8</td>
 				</tr>
 				<tr>
-					<td class="plus" id="key93">1</td>
-					<td class="plus" id="key61">10</td>
+					<td class="plus" id="key93" data-count="1">1</td>
+					<td class="plus" id="key61" data-count="10">10</td>
 				</tr>
 				<tr>
-					<td class="plus">2</td>
-					<td class="plus enc-btn" id="key39">18</td>
+					<td class="plus" data-count="2">2</td>
+					<td class="plus enc-btn" id="key39" data-count="18">18</td>
 				</tr>
 			</table>
 
@@ -95,16 +98,16 @@
 		<div class="counter c-2">
 			<table class="buttons">
 				<tr>
-					<td class="minus">8</td>
-					<td class="reset">252</td>
+					<td class="minus" data-count="8">8</td>
+					<td class="reset" data-count="252">252</td>
 				</tr>
 				<tr>
-					<td class="minus">10</td>
-					<td class="minus">1</td>
+					<td class="minus" data-count="10">10</td>
+					<td class="minus" data-count="1">1</td>
 				</tr>
 				<tr>
-					<td class="minus enc-btn" id="key59">18</td>
-					<td class="minus">2</td>
+					<td class="minus enc-btn" id="key59" data-count="18">18</td>
+					<td class="minus" data-count="2">2</td>
 				</tr>
 			</table>
 
@@ -125,16 +128,16 @@
 
 			<table class="buttons">
 				<tr>
-					<td class="reset">0</td>
-					<td class="plus">8</td>
+					<td class="reset" data-count="0">0</td>
+					<td class="plus" data-count="8">8</td>
 				</tr>
 				<tr>
-					<td class="plus" id="key93">1</td>
-					<td class="plus" id="key61">10</td>
+					<td class="plus" id="key93" data-count="1">1</td>
+					<td class="plus" id="key61" data-count="10">10</td>
 				</tr>
 				<tr>
-					<td class="plus">2</td>
-					<td class="plus enc-btn" id="key39">18</td>
+					<td class="plus" data-count="2">2</td>
+					<td class="plus enc-btn" id="key39" data-count="18">18</td>
 				</tr>
 			</table>
 
@@ -181,6 +184,18 @@
 	</script>
 
 	<span class="copyright">© <a href="https://twitter.com/pkmn_maru" target="_blank">Nuotsu</a> <span id="cprt_year"></span>
+
+	<!-- Rippleria -->
+		<script>
+			$('.buttons td')
+				.attr({
+					'data-rippleria': '',
+					'data-rippleria-duration': 600
+				})
+				.rippleria({
+					detectBrightness: false
+				})
+		</script>
 </body>
 
 </html>
