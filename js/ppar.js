@@ -11,7 +11,7 @@ $(function() {
 			}, 250)
 			setTimeout(function() {
 				$('#loader').fadeOut(500)
-			}, 2700)
+			}, 5000)
 		}
 
 	// Dimensions
