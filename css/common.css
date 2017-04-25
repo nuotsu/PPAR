@@ -1,3 +1,7 @@
+/* Google Fonts */
+	@import url(https://fonts.googleapis.com/css?family=Quicksand);
+	@import url(https://fonts.googleapis.com/earlyaccess/roundedmplus1c.css);
+
 /* Common */
 	* { margin: 0; }
 	body {
@@ -67,16 +71,16 @@
 
 /* Top */
 	.top { margin: 10px 0; }
-	.top .title-pkmn { font-size: 12px; }
+	.top .title-pkmn { font-size: 11px; }
 	.top .sun { color: #FFC107 }
 	.top .moon{ color: #29B6F6 }
 	.top .title {
 		font-size: 20px;
-		margin: 10px 0;
+		margin: 5px 0;
 	}
 	.top .title span {
 		display: inline-block;
-		font-size: 12px;
+		font-size: 11px;
 		opacity: 0.5;
 	}
 

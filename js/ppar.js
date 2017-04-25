@@ -1,29 +1,18 @@
 $(function() {
-	// BG Color
-		$('#bg_color').change(function() {
-			$('.wallpaper').css({
-				'background': $('#bg_color').val()
+	// Loading...
+		$('#loader')
+			.css({
+				'z-index': $('.wallpaper img').length + 1
 			})
-		})
-	// BG Image
-		$('#bg_img').click(function() {
-			$('#bg_img_upload').click()
-		})
-		$('#bg_img_upload').change(function() {
-			img= this.files[0]
-			reader = new FileReader()
-			reader.onloadend = function() {
-				$('.wallpaper').css({
-					'background': 'none',
-					'background-image': 'url("' + reader.result + '")',
-					'background-size': 'cover',
-					'background-position': 'center'
-				})
-			}
-			if (img) {
-				reader.readAsDataURL(img)
-			}
-		})
+			.hide()
+		function showLoader() {
+			setTimeout(function() {
+				$('#loader').fadeIn(500)
+			}, 250)
+			setTimeout(function() {
+				$('#loader').fadeOut(500)
+			}, 2700)
+		}
 
 	// Dimensions
 		$('.dimensions input').change(function() {
@@ -37,6 +26,34 @@ $(function() {
 		})
 		$('.dimensions #width').attr({
 			'value': $('.wallpaper').width()
+		})
+
+	// BG Color
+		$('#bg_color').change(function() {
+			$('.wallpaper').css({
+				'background': $('#bg_color').val()
+			})
+		})
+	// BG Image
+		$('#bg_img').click(function() {
+			$('#bg_img_upload').click()
+		})
+		$('#bg_img_upload').change(function() {
+			img = this.files[0]
+			reader = new FileReader()
+			reader.onloadend = function() {
+				$('.wallpaper').css({
+					// 'width': img.width(),
+					// 'height': img.height(),
+					'background': 'none',
+					'background-image': 'url("' + reader.result + '")',
+					'background-size': 'cover',
+					'background-position': 'center'
+				})
+			}
+			if (img) {
+				reader.readAsDataURL(img)
+			}
 		})
 
 	// Randomize
@@ -62,8 +79,44 @@ $(function() {
 			})
 		})
 
+	// Fullscreen Preview
+		fullscreen = false
+		$('#FS_BG').hide()
+		$('#FS_BG, #FS_exit').css({
+				'z-index': $('.wallpaper img').length
+			})
+		init_width = $('#FS_BG').width()
+		$('.wallpaper').click(function() {
+			showLoader()
+			fullscreen = true
+			$('#previewId').remove()
+			$('#FS_BG')
+				.fadeIn(500)
+				.css({
+					'width': init_width
+				})
+			// html2canvas for Fullscreen Preview
+				html2canvas($('.wallpaper'), {
+					onrendered: function(canvas) {
+						canvas.id = 'previewId'
+						$('#FS_BG').append(canvas)
+						$('#previewId').css({
+							'max-width': init_width
+						})
+					},
+				allowTaint: true
+				})
+				$('#FS_BG').css({
+					'display': 'inline-block'
+				})
+		})
+		$('#FS_BG, #FS_exit').click(function() {
+			fullscreen = false
+			$('#FS_BG').fadeOut(500)
+		})
 	// Save
 		$('#save').click(function() {
+			showLoader()
 			html2canvas($('.wallpaper'), {
 				onrendered: function(canvas) {
 					canvas.id = 'canvasId'
@@ -92,7 +145,6 @@ $(function() {
 				})
 			}
 		})
-
 	// Locate
 		// Hide Rest Initial
 			$('.hideRest').css({
@@ -165,6 +217,14 @@ $(function() {
 		// 's' = Save
 			if (keycode == '115') {
 				$('#save').click()
+			}
+		// 'f' = Toggle Fullscreen Preview
+			if (keycode == '102') {
+				if (fullscreen == false) {
+					$('.wallpaper').click()
+				} else {
+					$('#FS_BG').click()
+				}
 			}
 	})
 })
