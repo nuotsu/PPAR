@@ -1,18 +1,18 @@
 $(function() {
 	// Loading...
-		$('#loader')
-			.css({
-				'z-index': $('.wallpaper img').length + 1
-			})
-			.hide()
-		function showLoader() {
-			setTimeout(function() {
-				$('#loader').fadeIn(500)
-			}, 250)
-			setTimeout(function() {
-				$('#loader').fadeOut(500)
-			}, 5000)
-		}
+		// $('#loader')
+		// 	.css({
+		// 		'z-index': $('.wallpaper img').length + 1
+		// 	})
+		// 	.hide()
+		// function showLoader() {
+		// 	setTimeout(function() {
+		// 		$('#loader').fadeIn(500)
+		// 	}, 250)
+		// 	setTimeout(function() {
+		// 		$('#loader').fadeOut(500)
+		// 	}, 5000)
+		// }
 
 	// Dimensions
 		$('.dimensions input').change(function() {
@@ -43,8 +43,6 @@ $(function() {
 			reader = new FileReader()
 			reader.onloadend = function() {
 				$('.wallpaper').css({
-					// 'width': img.width(),
-					// 'height': img.height(),
 					'background': 'none',
 					'background-image': 'url("' + reader.result + '")',
 					'background-size': 'cover',
@@ -87,7 +85,7 @@ $(function() {
 			})
 		init_width = $('#FS_BG').width()
 		$('.wallpaper').click(function() {
-			showLoader()
+			// showLoader()
 			fullscreen = true
 			$('#previewId').remove()
 			$('#FS_BG')
@@ -116,7 +114,7 @@ $(function() {
 		})
 	// Save
 		$('#save').click(function() {
-			showLoader()
+			// showLoader()
 			html2canvas($('.wallpaper'), {
 				onrendered: function(canvas) {
 					canvas.id = 'canvasId'
