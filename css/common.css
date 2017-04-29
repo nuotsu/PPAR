@@ -3,16 +3,18 @@
 	@import url(https://fonts.googleapis.com/earlyaccess/roundedmplus1c.css);
 
 /* Common */
-	* { margin: 0; }
+	* {
+		margin: 0;
+		outline: none;
+	}
 	body {
 		user-select: none;
 		text-align: center;
-		background: #ECEFF1;
+		background: rgba(236, 239, 241, 1);
 		font-family: "Rounded Mplus 1c";
 	}
 	input, select {
 		border: none;
-		outline: none;
 		font-family: "Rounded Mplus 1c";
 		font-size: 16px;
 	}
@@ -72,8 +74,8 @@
 /* Top */
 	.top { margin: 10px 0; }
 	.top .title-pkmn { font-size: 11px; }
-	.top .sun { color: #FFC107 }
-	.top .moon{ color: #29B6F6 }
+	.top .sun { color: rgba(255, 193, 7, 1); }
+	.top .moon{ color: rgba(41, 182, 246, 1); }
 	.top .title {
 		font-size: 20px;
 		margin: 5px 0;
@@ -86,7 +88,7 @@
 
 /* Settings */
 	.settings_bg {
-		background: #ECEFF1;
+		background: rgba(236, 239, 241, 1);
 	}
 
 /* How To */
@@ -107,8 +109,8 @@
 		text-align: left;
 		margin: 5px;
 	}
-	.howto .kl_plus span { color: #E91E63; }
-	.howto .kl_minus span { color: #2196F3; }
+	.howto .kl_plus span { color: rgba(233, 30, 99, 1); }
+	.howto .kl_minus span { color: rgba(33, 150, 243, 1); }
 	.howto .kl_other span { color: #000; }
 
 /* Copyright */
@@ -119,11 +121,11 @@
 		z-index: -1;
 		margin: 0 0 5px 0;
 		font-size: 10px;
-		color: #607D8B;
+		color: rgba(96, 125, 139, 1);
 	}
 	.copyright a {
 		text-decoration: none;
-		color: #607D8B;
+		color: rgba(96, 125, 139, 1);
 	}
 	@media only screen and (max-width: 732px) {
 		.howto { margin: 15px 0; }

@@ -1,10 +1,10 @@
 .counter {
 	display: inline-block;
-	background: #fff;
-	border-radius: 4px;
-	height: 128px;
-	padding: 2px;
 	margin: 20px 0;
+	padding: 2px;
+	height: 128px;
+	border-radius: 4px;
+	background: #fff;
 }
 
 /* Display */
@@ -12,21 +12,21 @@
 		display: inline-block;
 		position: relative;
 		width: 300px;
-		overflow: hidden;
+		overflow-x: hidden;
 		vertical-align: top;
 	}
 	.display .name {
 		font-size: 20px;
 		font-family: "Rounded Mplus 1c";
 	}
-	.display #number {
+	#number {
 		position: relative;
 		z-index: 0;
-		font-size: 64px;
 		padding: 12px 1px 0px 1px;
 		font-family: 'Quicksand', sans-serif;
+		font-size: 64px;
 	}
-	.display .name, .display #number {
+	.display .name,  #number {
 		display: block;
 		outline: none;
 		width: 100%;
@@ -48,16 +48,16 @@
 			cursor: pointer;
 			margin: 0 5px;
 		}
-		.m_0 { color: #CFD8DC }
-		.m_1 { color: #00B0FF }
-		.m_2 { color: #EC407A }
+		.m_0 { color: rgba(207, 216, 220, 1); }
+		.m_1 { color: rgba(0, 176, 255, 1); }
+		.m_2 { color: rgba(236, 64, 122, 1); }
 	/* Pokérus */
 		.pokerus {
 			cursor: pointer;
 			position: absolute;
 			z-index: 1;
 			bottom: 0;
-			color: #fd69de;
+			color: rgba(253, 105, 222, 1);
 			padding: 0 0 0 5px;
 			opacity: 1;
 			transition:
@@ -70,7 +70,7 @@
 			cursor: pointer;
 			transform: translateY(-2px);
 		}
-		.pkrs_pink { background: #fd69de }
+		.pkrs_pink { background: rgba(253, 105, 222, 1); }
 	/* Active */
 		.active-icon {
 			cursor: pointer;
@@ -109,20 +109,56 @@
 		opacity: 0.8;
 		/*box-shadow: 0 2px 15px 0 rgba(0,0,0,0.5);*/
 	}
-	.reset { background: #000; }
+	.reset, .undoBtn { background: #000; }
 	.plus:before { content: '+'; }
 	.minus:before { content: '-'; }
-	.c-1 .plus.btn_color { background: #E91E63; }
-	.c-1 .minus.btn_color { background: #2196F3; }
-	.c-2 .plus.btn_color { background: #FFC400; }
-	.c-2 .minus.btn_color { background: #00E676; }
+	.c-1 .plus.btn_color { background: rgba(233, 30, 99, 1); }
+	.c-1 .minus.btn_color { background: rgba(33, 150, 243, 1); }
+	.c-2 .plus.btn_color { background: rgba(255, 196, 0, 1); }
+	.c-2 .minus.btn_color { background: rgba(0, 230, 118, 1); }
 
 #undo { display: none; }
+
+/* EV Calculator */
+	.calcEV {
+		display: inline-block;
+		margin: 20px 10px;
+		border-radius: 4px;
+		background-color: #fff;
+	}
+	.calcEV span:not(.EVresults) {
+		display: inline-block;
+		color: #fff;
+		padding: 0 10px;
+		border-radius: 4px;
+	}
+	.EVresults {
+		display: inline-block;
+		margin: 10px;
+	}
+	#calcEV {
+		margin: 0 -5px 0 0;
+		padding: 0 10px;
+		text-align: center;
+		border-radius: 4px;
+		color: #fff;
+	}
+	#calcEV.btn_color { background: rgba(233, 30, 99, 1); }
+	#sos.btn_color { background: rgba(33, 150, 243, 1); }
+		.sosJPN:after { content: '回'; }
+		/*.sosENG:after { content: ' times'; }*/
+	#remainder.btn_color { background: rgba(0, 230, 118, 1); }
+		.remainderJPN:before { content: '残り '; }
+		/*.remainderENG:after { content: ' remaining'; }*/
+
 
 @media only screen and (max-width: 732px) {
 	.counter {
 		width: 90%;
 		height: 392px;
+	}
+	.calcEV {
+		margin: 5%;
 	}
 	.display { width: 99%; }
 	.pkrs_jpn { right: -85px; }

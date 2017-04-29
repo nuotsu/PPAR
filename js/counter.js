@@ -1,14 +1,4 @@
 $(function(){
-	// Undo
-		$('.c-1 .plus, .c-1 .minus, .c-1 .reset').click(function() {
-			current = $('.c-1 #number').val()
-			$('.c-1 #undo').html(current)
-		})
-		$('.c-2 .plus, .c-2 .minus, .c-2 .reset').click(function() {
-			current = $('.c-2 #number').val()
-			$('.c-2 #undo').html(current)
-		})
-
 	// Keypresses
 		$(document).keypress(function(e) {
 			current = $('.c-active #number').val()
@@ -76,7 +66,7 @@ $(function(){
 				}
 			// 'z' = Undo
 				if (keycode == '122') {
-					$('.c-active #number').val($('.c-active #undo').html())
+					$('.c-active #number').val( $('.c-active #undo').html() )
 				}
 		})
 
@@ -88,6 +78,21 @@ $(function(){
 			new Audio('images/button.mp3').play()
 		}
 
+	// Undo
+		$('.c-1 .buttons td:not(.undoBtn)').click(function() {
+			current = $('.c-1 #number').val()
+			$('.c-1 #undo').html(current)
+		})
+		$('.c-2 .buttons td:not(.undoBtn)').click(function() {
+			current = $('.c-2 #number').val()
+			$('.c-2 #undo').html(current)
+		})
+		$('.c-1 .undoBtn').click(function() {
+			$('.c-1 #number').val( $('.c-1 #undo').html() )
+		})
+		$('.c-2 .undoBtn').click(function() {
+			$('.c-2 #number').val( $('.c-2 #undo').html() )
+		})
 	// Add
 		$('.c-1 .plus').click(function() {
 			current = $('.c-1 #number').val()

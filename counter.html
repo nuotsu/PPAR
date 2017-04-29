@@ -18,6 +18,7 @@
 	<script src="js/favicon.js"></script>
 	<script src="js/menu.js"></script>
 	<script src="js/counter.js"></script>
+	<script src="js/calcEV.js"></script>
 	<script src="js/dark_mode.js"></script>
 	<script src="js/rippleria.js"></script>
 </head>
@@ -46,7 +47,7 @@
 			<table class="buttons">
 				<tr>
 					<td class="minus" data-count="8">8</td>
-					<td class="reset" data-count="252">252</td>
+					<td class="undoBtn">⤾</td>
 				</tr>
 				<tr>
 					<td class="minus" data-count="10">10</td>
@@ -64,9 +65,9 @@
 					<span>●</span><span>▲</span><span>■</span><span>♥</span><span>★</span><span>◆</span>
 				</span>
 				<input id="number" type="number" placeholder="0">
-				<img class="active-icon ai-anim" src="http://cdn.bulbagarden.net/upload/f/f2/GB_icon.png">
+				<img class="active-icon ai-anim" src="images/GB_icon.png">
 				<label class="pokerus pkrs_jpn">
-					<img style="width: 10px" src="http://cdn.bulbagarden.net/upload/6/6d/Pok%C3%A9rusIC_VI_cured.png">
+					<img style="width: 10px" src="images/pokerus.png">
 					<span>ポケルス</span>
 					<input id="pokerus" type="checkbox">
 				</label>
@@ -90,13 +91,14 @@
 
 			<span id="undo"></span>
 		</div>
+		<br>
 
 	<!-- Counter #2 -->
 		<div class="counter c-2">
 			<table class="buttons">
 				<tr>
 					<td class="minus" data-count="8">8</td>
-					<td class="reset" data-count="252">252</td>
+					<td class="undoBtn">⤾</td>
 				</tr>
 				<tr>
 					<td class="minus" data-count="10">10</td>
@@ -114,9 +116,9 @@
 					<span>●</span><span>▲</span><span>■</span><span>♥</span><span>★</span><span>◆</span>
 				</span>
 				<input id="number" type="number" placeholder="0">
-				<img class="active-icon ai-anim ai-hide" src="http://cdn.bulbagarden.net/upload/f/f2/GB_icon.png">
+				<img class="active-icon ai-anim ai-hide" src="images/GB_icon.png">
 				<label class="pokerus pkrs_jpn">
-					<img style="width: 10px" src="http://cdn.bulbagarden.net/upload/6/6d/Pok%C3%A9rusIC_VI_cured.png">
+					<img style="width: 10px" src="images/pokerus.png">
 					<span>ポケルス</span>
 					<input id="pokerus" type="checkbox">
 				</label>
@@ -140,6 +142,14 @@
 
 			<span id="undo"></span>
 		</div>
+		<br>
+
+	<div class="calcEV">
+		<label>
+			<span class="EVresults">努力値：<input id="calcEV" type="number" maxlength="3" max="252" min="0" step="4" value="252"></span>
+			<span class="EVresults">=　18 × <span class="sosJPN" id="sos">14</span>　+　<span class="remainderJPN" id="remainder">0</span>
+		</label>
+	</div>
 
 	<span class="DM_JPN DM_txt_JPN" id="mode"></span>
 

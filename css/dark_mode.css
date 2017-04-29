@@ -9,9 +9,9 @@
 .LM_txt_ENG:after { content: 'Light Mode'; }
 
 .white_txt { color: #fff; }
-.darkest_bg { background: #263238; }
-.darker_bg { background: #37474F; }
-.dark_bg { background: #455A64; }
-.light_bg { background: #607D8B; }
+.darkest_bg { background: rgba(38, 50, 56, 1); }
+.darker_bg { background: rgba(55, 71, 79, 1); }
+.dark_bg { background: rgba(69, 90, 100, 1); }
+.light_bg { background: rgba(96, 125, 139, 1); }
 
 #result.white_border { border-color: #fff; }
