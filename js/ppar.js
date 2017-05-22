@@ -1,19 +1,4 @@
 $(function() {
-	// Loading...
-		// $('#loader')
-		// 	.css({
-		// 		'z-index': $('.wallpaper img').length + 1
-		// 	})
-		// 	.hide()
-		// function showLoader() {
-		// 	setTimeout(function() {
-		// 		$('#loader').fadeIn(500)
-		// 	}, 250)
-		// 	setTimeout(function() {
-		// 		$('#loader').fadeOut(500)
-		// 	}, 5000)
-		// }
-
 	// Dimensions
 		$('.dimensions input').change(function() {
 			$('.wallpaper').css({
@@ -89,10 +74,10 @@ $(function() {
 			fullscreen = true
 			$('#previewId').remove()
 			$('#FS_BG')
-				.fadeIn(500)
 				.css({
 					'width': init_width
 				})
+				.fadeIn(500)
 			// html2canvas for Fullscreen Preview
 				html2canvas($('.wallpaper'), {
 					onrendered: function(canvas) {
@@ -157,37 +142,34 @@ $(function() {
 				find = $('#find').val().split(',')
 				for (i = 0; i <= find.length; i++) {
 					$('.wallpaper img[src*=' + find[i] +']').css({
-						'opacity': '1',
-						// 'z-index': $('.wallpaper img').length
+						'opacity': 1
 				})
 				}
 				$('.hideRest').css({
 					'pointer-events': 'auto',
-					'opacity': '1'
+					'opacity': 1
 				})
 				$('#hideRest').prop('checked', false)
 			// Hide Rest
 				$('#hideRest').change(function() {
 					if ($(this).prop('checked') == true) {
 						$('.wallpaper img').css({
-							'opacity': '0'
+							'opacity': 0
 						})
 						find = $('#find').val().split(',')
 						for (i = 0; i <= find.length; i++) {
 							$('.wallpaper img[src*=' + find[i] +']').css({
-								'opacity': '1',
-								// 'z-index': $('.wallpaper img').length
+								'opacity': 1
 						})
 						}
 					} else {
 						$('.wallpaper img').css({
-							'opacity': '0.1'
+							'opacity': 0.1
 						})
 						find = $('#find').val().split(',')
 						for (i = 0; i <= find.length; i++) {
 							$('.wallpaper img[src*=' + find[i] +']').css({
-								'opacity': '1',
-								// 'z-index': $('.wallpaper img').length
+								'opacity': 1
 						})
 						}
 					}
@@ -196,7 +178,7 @@ $(function() {
 			// Show All
 				$('#showAll').click(function() {
 					$('.wallpaper img').css({
-						'opacity': '1'
+						'opacity': 1
 					})
 					$('#find').val('')
 				})
