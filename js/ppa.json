@@ -1,6032 +1,6032 @@
-[{
-    "nEgg": {
+[
+    {
         "dex": "Egg",
         "data": [
                 ""
         ]
     },
-    "n1": {
+    {
         "dex": "0001",
         "data": [
                 "kanto", "starter"
         ]
     },
-    "n2": {
+    {
         "dex": "0002",
         "data": [
                 "kanto", "starter"
         ]
     },
-    "n3": {
+    {
         "dex": "0003",
         "data": [
                 "kanto", "starter"
         ]
     },
-    "n4": {
+    {
         "dex": "0003M",
         "data": [
                 "kanto", "mega", "starter"
         ]
     },
-    "n5": {
+    {
         "dex": "0004",
         "data": [
                 "kanto", "starter"
         ]
     },
-    "n6": {
+    {
         "dex": "0005",
         "data": [
                 "kanto", "starter"
         ]
     },
-    "n7": {
+    {
         "dex": "0006",
         "data": [
                 "kanto", "starter"
         ]
     },
-    "n8": {
+    {
         "dex": "0006MX",
         "data": [
                 "kanto", "mega", "starter"
         ]
     },
-    "n9": {
+    {
         "dex": "0006MY",
         "data": [
                 "kanto", "mega", "starter"
         ]
     },
-    "n10": {
+    {
         "dex": "0007",
         "data": [
                 "kanto", "starter"
         ]
     },
-    "n11": {
+    {
         "dex": "0008",
         "data": [
                 "kanto", "starter"
         ]
     },
-    "n12": {
+    {
         "dex": "0009",
         "data": [
                 "kanto", "starter"
         ]
     },
-    "n13": {
+    {
         "dex": "0009M",
         "data": [
                 "kanto", "mega", "starter"
         ]
     },
-    "n14": {
+    {
         "dex": "0010",
         "data": [
                 "kanto"
         ]
     },
-    "n15": {
+    {
         "dex": "0011",
         "data": [
                 "kanto"
         ]
     },
-    "n16": {
+    {
         "dex": "0012",
         "data": [
                 "kanto"
         ]
     },
-    "n17": {
+    {
         "dex": "0013",
         "data": [
                 "kanto"
         ]
     },
-    "n18": {
+    {
         "dex": "0014",
         "data": [
                 "kanto"
         ]
     },
-    "n19": {
+    {
         "dex": "0015",
         "data": [
                 "kanto"
         ]
     },
-    "n20": {
+    {
         "dex": "0016",
         "data": [
                 "kanto"
         ]
     },
-    "n21": {
+    {
         "dex": "0017",
         "data": [
                 "kanto"
         ]
     },
-    "n22": {
+    {
         "dex": "0018",
         "data": [
                 "kanto"
         ]
     },
-    "n23": {
+    {
         "dex": "0018M",
         "data": [
                 "kanto", "mega"
         ]
     },
-    "n24": {
+    {
         "dex": "0019",
         "data": [
                 "kanto"
         ]
     },
-    "n25": {
+    {
         "dex": "0019A",
         "data": [
                 "kanto", "rf"
         ]
     },
-    "n26": {
+    {
         "dex": "0020",
         "data": [
                 "kanto"
         ]
     },
-    "n27": {
+    {
         "dex": "0020A",
         "data": [
                 "kanto", "rf"
         ]
     },
-    "n28": {
+    {
         "dex": "0021",
         "data": [
                 "kanto"
         ]
     },
-    "n29": {
+    {
         "dex": "0022",
         "data": [
                 "kanto"
         ]
     },
-    "n30": {
+    {
         "dex": "0023",
         "data": [
                 "kanto"
         ]
     },
-    "n31": {
+    {
         "dex": "0024",
         "data": [
                 "kanto"
         ]
     },
-    "n32": {
+    {
         "dex": "0025MS",
         "data": [
                 "kanto"
         ]
     },
-    "n33": {
+    {
         "dex": "0025Co",
         "data": [
                 "kanto"
         ]
     },
-    "n34": {
+    {
         "dex": "0025Ro",
         "data": [
                 "kanto"
         ]
     },
-    "n35": {
+    {
         "dex": "0025Po",
         "data": [
                 "kanto"
         ]
     },
-    "n36": {
+    {
         "dex": "0025Be",
         "data": [
                 "kanto"
         ]
     },
-    "n37": {
+    {
         "dex": "0025Ph",
         "data": [
                 "kanto"
         ]
     },
-    "n38": {
+    {
         "dex": "0025Li",
         "data": [
                 "kanto"
         ]
     },
-    "n39": {
+    {
         "dex": "0025OMSO",
         "data": [
                 "kanto"
         ]
     },
-    "n40": {
+    {
         "dex": "0025HMSH",
         "data": [
                 "kanto"
         ]
     },
-    "n41": {
+    {
         "dex": "0025SMSS",
         "data": [
                 "kanto"
         ]
     },
-    "n42": {
+    {
         "dex": "0025UMSU",
         "data": [
                 "kanto"
         ]
     },
-    "n43": {
+    {
         "dex": "0025KMSK",
         "data": [
                 "kanto"
         ]
     },
-    "n44": {
+    {
         "dex": "0025AMSA",
         "data": [
                 "kanto"
         ]
     },
-    "n45": {
+    {
         "dex": "0026",
         "data": [
                 "kanto"
         ]
     },
-    "n46": {
+    {
         "dex": "0026A",
         "data": [
                 "kanto", "rf"
         ]
     },
-    "n47": {
+    {
         "dex": "0027",
         "data": [
                 "kanto"
         ]
     },
-    "n48": {
+    {
         "dex": "0027A",
         "data": [
                 "kanto", "rf"
         ]
     },
-    "n49": {
+    {
         "dex": "0028",
         "data": [
                 "kanto"
         ]
     },
-    "n50": {
+    {
         "dex": "0028A",
         "data": [
                 "kanto", "rf"
         ]
     },
-    "n51": {
+    {
         "dex": "0029",
         "data": [
                 "kanto"
         ]
     },
-    "n52": {
+    {
         "dex": "0030",
         "data": [
                 "kanto"
         ]
     },
-    "n53": {
+    {
         "dex": "0031",
         "data": [
                 "kanto"
         ]
     },
-    "n54": {
+    {
         "dex": "0032",
         "data": [
                 "kanto"
         ]
     },
-    "n55": {
+    {
         "dex": "0033",
         "data": [
                 "kanto"
         ]
     },
-    "n56": {
+    {
         "dex": "0034",
         "data": [
                 "kanto"
         ]
     },
-    "n57": {
+    {
         "dex": "0035",
         "data": [
                 "kanto"
         ]
     },
-    "n58": {
+    {
         "dex": "0036",
         "data": [
                 "kanto"
         ]
     },
-    "n59": {
+    {
         "dex": "0037",
         "data": [
                 "kanto"
         ]
     },
-    "n60": {
+    {
         "dex": "0037A",
         "data": [
                 "kanto", "rf"
         ]
     },
-    "n61": {
+    {
         "dex": "0038",
         "data": [
                 "kanto"
         ]
     },
-    "n62": {
+    {
         "dex": "0038A",
         "data": [
                 "kanto", "rf"
         ]
     },
-    "n63": {
+    {
         "dex": "0039",
         "data": [
                 "kanto"
         ]
     },
-    "n64": {
+    {
         "dex": "0040",
         "data": [
                 "kanto"
         ]
     },
-    "n65": {
+    {
         "dex": "0041",
         "data": [
                 "kanto"
         ]
     },
-    "n66": {
+    {
         "dex": "0042",
         "data": [
                 "kanto"
         ]
     },
-    "n67": {
+    {
         "dex": "0043",
         "data": [
                 "kanto"
         ]
     },
-    "n68": {
+    {
         "dex": "0044",
         "data": [
                 "kanto"
         ]
     },
-    "n69": {
+    {
         "dex": "0045",
         "data": [
                 "kanto"
         ]
     },
-    "n70": {
+    {
         "dex": "0046",
         "data": [
                 "kanto"
         ]
     },
-    "n71": {
+    {
         "dex": "0047",
         "data": [
                 "kanto"
         ]
     },
-    "n72": {
+    {
         "dex": "0048",
         "data": [
                 "kanto"
         ]
     },
-    "n73": {
+    {
         "dex": "0049",
         "data": [
                 "kanto"
         ]
     },
-    "n74": {
+    {
         "dex": "0050",
         "data": [
                 "kanto"
         ]
     },
-    "n75": {
+    {
         "dex": "0050A",
         "data": [
                 "kanto", "rf"
         ]
     },
-    "n76": {
+    {
         "dex": "0051",
         "data": [
                 "kanto"
         ]
     },
-    "n77": {
+    {
         "dex": "0051A",
         "data": [
                 "kanto", "rf"
         ]
     },
-    "n78": {
+    {
         "dex": "0052",
         "data": [
                 "kanto"
         ]
     },
-    "n79": {
+    {
         "dex": "0052A",
         "data": [
                 "kanto", "rf"
         ]
     },
-    "n80": {
+    {
         "dex": "0053",
         "data": [
                 "kanto"
         ]
     },
-    "n81": {
+    {
         "dex": "0053A",
         "data": [
                 "kanto", "rf"
         ]
     },
-    "n82": {
+    {
         "dex": "0054",
         "data": [
                 "kanto"
         ]
     },
-    "n83": {
+    {
         "dex": "0055",
         "data": [
                 "kanto"
         ]
     },
-    "n84": {
+    {
         "dex": "0056",
         "data": [
                 "kanto"
         ]
     },
-    "n85": {
+    {
         "dex": "0057",
         "data": [
                 "kanto"
         ]
     },
-    "n86": {
+    {
         "dex": "0058",
         "data": [
                 "kanto"
         ]
     },
-    "n87": {
+    {
         "dex": "0059",
         "data": [
                 "kanto"
         ]
     },
-    "n88": {
+    {
         "dex": "0060",
         "data": [
                 "kanto"
         ]
     },
-    "n89": {
+    {
         "dex": "0061",
         "data": [
                 "kanto"
         ]
     },
-    "n90": {
+    {
         "dex": "0062",
         "data": [
                 "kanto"
         ]
     },
-    "n91": {
+    {
         "dex": "0063",
         "data": [
                 "kanto"
         ]
     },
-    "n92": {
+    {
         "dex": "0064",
         "data": [
                 "kanto"
         ]
     },
-    "n93": {
+    {
         "dex": "0065",
         "data": [
                 "kanto"
         ]
     },
-    "n94": {
+    {
         "dex": "0065M",
         "data": [
                 "kanto", "mega"
         ]
     },
-    "n95": {
+    {
         "dex": "0066",
         "data": [
                 "kanto"
         ]
     },
-    "n96": {
+    {
         "dex": "0067",
         "data": [
                 "kanto"
         ]
     },
-    "n97": {
+    {
         "dex": "0068",
         "data": [
                 "kanto"
         ]
     },
-    "n98": {
+    {
         "dex": "0069",
         "data": [
                 "kanto"
         ]
     },
-    "n99": {
+    {
         "dex": "0070",
         "data": [
                 "kanto"
         ]
     },
-    "n100": {
+    {
         "dex": "0071",
         "data": [
                 "kanto"
         ]
     },
-    "n101": {
+    {
         "dex": "0072",
         "data": [
                 "kanto"
         ]
     },
-    "n102": {
+    {
         "dex": "0073",
         "data": [
                 "kanto"
         ]
     },
-    "n103": {
+    {
         "dex": "0074",
         "data": [
                 "kanto"
         ]
     },
-    "n104": {
+    {
         "dex": "0074A",
         "data": [
                 "kanto", "rf"
         ]
     },
-    "n105": {
+    {
         "dex": "0075",
         "data": [
                 "kanto"
         ]
     },
-    "n106": {
+    {
         "dex": "0075A",
         "data": [
                 "kanto", "rf"
         ]
     },
-    "n107": {
+    {
         "dex": "0076",
         "data": [
                 "kanto"
         ]
     },
-    "n108": {
+    {
         "dex": "0076A",
         "data": [
                 "kanto", "rf"
         ]
     },
-    "n109": {
+    {
         "dex": "0077",
         "data": [
                 "kanto"
         ]
     },
-    "n110": {
+    {
         "dex": "0078",
         "data": [
                 "kanto"
         ]
     },
-    "n111": {
+    {
         "dex": "0079",
         "data": [
                 "kanto"
         ]
     },
-    "n112": {
+    {
         "dex": "0080",
         "data": [
                 "kanto"
         ]
     },
-    "n113": {
+    {
         "dex": "0080M",
         "data": [
                 "kanto", "mega"
         ]
     },
-    "n114": {
+    {
         "dex": "0081",
         "data": [
                 "kanto"
         ]
     },
-    "n115": {
+    {
         "dex": "0082",
         "data": [
                 "kanto"
         ]
     },
-    "n116": {
+    {
         "dex": "0083",
         "data": [
                 "kanto"
         ]
     },
-    "n117": {
+    {
         "dex": "0084",
         "data": [
                 "kanto"
         ]
     },
-    "n118": {
+    {
         "dex": "0085",
         "data": [
                 "kanto"
         ]
     },
-    "n119": {
+    {
         "dex": "0086",
         "data": [
                 "kanto"
         ]
     },
-    "n120": {
+    {
         "dex": "0087",
         "data": [
                 "kanto"
         ]
     },
-    "n121": {
+    {
         "dex": "0088",
         "data": [
                 "kanto"
         ]
     },
-    "n122": {
+    {
         "dex": "0088A",
         "data": [
                 "kanto", "rf"
         ]
     },
-    "n123": {
+    {
         "dex": "0089",
         "data": [
                 "kanto"
         ]
     },
-    "n124": {
+    {
         "dex": "0089A",
         "data": [
                 "kanto", "rf"
         ]
     },
-    "n125": {
+    {
         "dex": "0090",
         "data": [
                 "kanto"
         ]
     },
-    "n126": {
+    {
         "dex": "0091",
         "data": [
                 "kanto"
         ]
     },
-    "n127": {
+    {
         "dex": "0092",
         "data": [
                 "kanto"
         ]
     },
-    "n128": {
+    {
         "dex": "0093",
         "data": [
                 "kanto"
         ]
     },
-    "n129": {
+    {
         "dex": "0094",
         "data": [
                 "kanto"
         ]
     },
-    "n130": {
+    {
         "dex": "0094M",
         "data": [
                 "kanto", "mega"
         ]
     },
-    "n131": {
+    {
         "dex": "0095",
         "data": [
                 "kanto"
         ]
     },
-    "n132": {
+    {
         "dex": "0096",
         "data": [
                 "kanto"
         ]
     },
-    "n133": {
+    {
         "dex": "0097",
         "data": [
                 "kanto"
         ]
     },
-    "n134": {
+    {
         "dex": "0098",
         "data": [
                 "kanto"
         ]
     },
-    "n135": {
+    {
         "dex": "0099",
         "data": [
                 "kanto"
         ]
     },
-    "n136": {
+    {
         "dex": "0100",
         "data": [
                 "kanto"
         ]
     },
-    "n137": {
+    {
         "dex": "0101",
         "data": [
                 "kanto"
         ]
     },
-    "n138": {
+    {
         "dex": "0102",
         "data": [
                 "kanto"
         ]
     },
-    "n139": {
+    {
         "dex": "0103",
         "data": [
                 "kanto"
         ]
     },
-    "n140": {
+    {
         "dex": "0103A",
         "data": [
                 "kanto", "rf"
         ]
     },
-    "n141": {
+    {
         "dex": "0104",
         "data": [
                 "kanto"
         ]
     },
-    "n142": {
+    {
         "dex": "0105",
         "data": [
                 "kanto"
         ]
     },
-    "n143": {
+    {
         "dex": "0105A",
         "data": [
                 "kanto", "rf"
         ]
     },
-    "n144": {
+    {
         "dex": "0106",
         "data": [
                 "kanto"
         ]
     },
-    "n145": {
+    {
         "dex": "0107",
         "data": [
                 "kanto"
         ]
     },
-    "n146": {
+    {
         "dex": "0108",
         "data": [
                 "kanto"
         ]
     },
-    "n147": {
+    {
         "dex": "0109",
         "data": [
                 "kanto"
         ]
     },
-    "n148": {
+    {
         "dex": "0110",
         "data": [
                 "kanto"
         ]
     },
-    "n149": {
+    {
         "dex": "0111",
         "data": [
                 "kanto"
         ]
     },
-    "n150": {
+    {
         "dex": "0112",
         "data": [
                 "kanto"
         ]
     },
-    "n151": {
+    {
         "dex": "0113",
         "data": [
                 "kanto"
         ]
     },
-    "n152": {
+    {
         "dex": "0114",
         "data": [
                 "kanto"
         ]
     },
-    "n153": {
+    {
         "dex": "0115",
         "data": [
                 "kanto"
         ]
     },
-    "n154": {
+    {
         "dex": "0116",
         "data": [
                 "kanto"
         ]
     },
-    "n155": {
+    {
         "dex": "0117",
         "data": [
                 "kanto"
         ]
     },
-    "n156": {
+    {
         "dex": "0118",
         "data": [
                 "kanto"
         ]
     },
-    "n157": {
+    {
         "dex": "0119",
         "data": [
                 "kanto"
         ]
     },
-    "n158": {
+    {
         "dex": "0120",
         "data": [
                 "kanto"
         ]
     },
-    "n159": {
+    {
         "dex": "0121",
         "data": [
                 "kanto"
         ]
     },
-    "n160": {
+    {
         "dex": "0122",
         "data": [
                 "kanto"
         ]
     },
-    "n161": {
+    {
         "dex": "0123",
         "data": [
                 "kanto"
         ]
     },
-    "n162": {
+    {
         "dex": "0124",
         "data": [
                 "kanto"
         ]
     },
-    "n163": {
+    {
         "dex": "0125",
         "data": [
                 "kanto"
         ]
     },
-    "n164": {
+    {
         "dex": "0126",
         "data": [
                 "kanto"
         ]
     },
-    "n165": {
+    {
         "dex": "0127",
         "data": [
                 "kanto"
         ]
     },
-    "n166": {
+    {
         "dex": "0127M",
         "data": [
                 "kanto", "mega"
         ]
     },
-    "n167": {
+    {
         "dex": "0128",
         "data": [
                 "kanto"
         ]
     },
-    "n168": {
+    {
         "dex": "0129",
         "data": [
                 "kanto"
         ]
     },
-    "n169": {
+    {
         "dex": "0129s",
         "data": [
                 "kanto"
         ]
     },
-    "n170": {
+    {
         "dex": "0130",
         "data": [
                 "kanto"
         ]
     },
-    "n171": {
+    {
         "dex": "0130s",
         "data": [
                 "kanto"
         ]
     },
-    "n172": {
+    {
         "dex": "0130M",
         "data": [
                 "kanto", "mega"
         ]
     },
-    "n173": {
+    {
         "dex": "0131",
         "data": [
                 "kanto"
         ]
     },
-    "n174": {
+    {
         "dex": "0132",
         "data": [
                 "kanto"
         ]
     },
-    "n175": {
+    {
         "dex": "0133",
         "data": [
                 "kanto", "eevee"
         ]
     },
-    "n176": {
+    {
         "dex": "0134",
         "data": [
                 "kanto", "eevee"
         ]
     },
-    "n177": {
+    {
         "dex": "0135",
         "data": [
                 "kanto", "eevee"
         ]
     },
-    "n178": {
+    {
         "dex": "0136",
         "data": [
                 "kanto", "eevee"
         ]
     },
-    "n179": {
+    {
         "dex": "0137",
         "data": [
                 "kanto"
         ]
     },
-    "n180": {
+    {
         "dex": "0138",
         "data": [
                 "kanto"
         ]
     },
-    "n181": {
+    {
         "dex": "0139",
         "data": [
                 "kanto"
         ]
     },
-    "n182": {
+    {
         "dex": "0140",
         "data": [
                 "kanto"
         ]
     },
-    "n183": {
+    {
         "dex": "0141",
         "data": [
                 "kanto"
         ]
     },
-    "n184": {
+    {
         "dex": "0142",
         "data": [
                 "kanto"
         ]
     },
-    "n185": {
+    {
         "dex": "0142M",
         "data": [
                 "kanto", "mega"
         ]
     },
-    "n186": {
+    {
         "dex": "0143",
         "data": [
                 "kanto"
         ]
     },
-    "n187": {
+    {
         "dex": "0144",
         "data": [
                 "kanto", "trio"
         ]
     },
-    "n188": {
+    {
         "dex": "0145",
         "data": [
                 "kanto", "trio"
         ]
     },
-    "n189": {
+    {
         "dex": "0146",
         "data": [
                 "kanto", "trio"
         ]
     },
-    "n190": {
+    {
         "dex": "0147",
         "data": [
                 "kanto", "bs600"
         ]
     },
-    "n191": {
+    {
         "dex": "0148",
         "data": [
                 "kanto", "bs600"
         ]
     },
-    "n192": {
+    {
         "dex": "0149",
         "data": [
                 "kanto", "bs600"
         ]
     },
-    "n193": {
+    {
         "dex": "0150",
         "data": [
                 "kanto", "legendary"
         ]
     },
-    "n194": {
+    {
         "dex": "0150MX",
         "data": [
                 "kanto", "mega"
         ]
     },
-    "n195": {
+    {
         "dex": "0150MY",
         "data": [
                 "kanto", "mega"
         ]
     },
-    "n196": {
+    {
         "dex": "0151",
         "data": [
                 "kanto", "mirage"
         ]
     },
-    "n197": {
+    {
         "dex": "0152",
         "data": [
                 "johto", "starter"
         ]
     },
-    "n198": {
+    {
         "dex": "0153",
         "data": [
                 "johto", "starter"
         ]
     },
-    "n199": {
+    {
         "dex": "0154",
         "data": [
                 "johto", "starter"
         ]
     },
-    "n200": {
+    {
         "dex": "0155",
         "data": [
                 "johto", "starter"
         ]
     },
-    "n201": {
+    {
         "dex": "0156",
         "data": [
                 "johto", "starter"
         ]
     },
-    "n202": {
+    {
         "dex": "0157",
         "data": [
                 "johto", "starter"
         ]
     },
-    "n203": {
+    {
         "dex": "0158",
         "data": [
                 "johto", "starter"
         ]
     },
-    "n204": {
+    {
         "dex": "0159",
         "data": [
                 "johto", "starter"
         ]
     },
-    "n205": {
+    {
         "dex": "0160",
         "data": [
                 "johto", "starter"
         ]
     },
-    "n206": {
+    {
         "dex": "0161",
         "data": [
                 "johto"
         ]
     },
-    "n207": {
+    {
         "dex": "0162",
         "data": [
                 "johto"
         ]
     },
-    "n208": {
+    {
         "dex": "0163",
         "data": [
                 "johto"
         ]
     },
-    "n209": {
+    {
         "dex": "0164",
         "data": [
                 "johto"
         ]
     },
-    "n210": {
+    {
         "dex": "0165",
         "data": [
                 "johto"
         ]
     },
-    "n211": {
+    {
         "dex": "0166",
         "data": [
                 "johto"
         ]
     },
-    "n212": {
+    {
         "dex": "0167",
         "data": [
                 "johto"
         ]
     },
-    "n213": {
+    {
         "dex": "0168",
         "data": [
                 "johto"
         ]
     },
-    "n214": {
+    {
         "dex": "0169",
         "data": [
                 "johto"
         ]
     },
-    "n215": {
+    {
         "dex": "0170",
         "data": [
                 "johto"
         ]
     },
-    "n216": {
+    {
         "dex": "0171",
         "data": [
                 "johto"
         ]
     },
-    "n217": {
+    {
         "dex": "0172",
         "data": [
                 "johto"
         ]
     },
-    "n218": {
+    {
         "dex": "0173",
         "data": [
                 "johto"
         ]
     },
-    "n219": {
+    {
         "dex": "0174",
         "data": [
                 "johto"
         ]
     },
-    "n220": {
+    {
         "dex": "0175",
         "data": [
                 "johto"
         ]
     },
-    "n221": {
+    {
         "dex": "0176",
         "data": [
                 "johto"
         ]
     },
-    "n222": {
+    {
         "dex": "0177",
         "data": [
                 "johto"
         ]
     },
-    "n223": {
+    {
         "dex": "0178",
         "data": [
                 "johto"
         ]
     },
-    "n224": {
+    {
         "dex": "0179",
         "data": [
                 "johto"
         ]
     },
-    "n225": {
+    {
         "dex": "0180",
         "data": [
                 "johto"
         ]
     },
-    "n226": {
+    {
         "dex": "0181",
         "data": [
                 "johto"
         ]
     },
-    "n227": {
+    {
         "dex": "0181M",
         "data": [
                 "johto", "mega"
         ]
     },
-    "n228": {
+    {
         "dex": "0182",
         "data": [
                 "johto"
         ]
     },
-    "n229": {
+    {
         "dex": "0183",
         "data": [
                 "johto"
         ]
     },
-    "n230": {
+    {
         "dex": "0184",
         "data": [
                 "johto"
         ]
     },
-    "n231": {
+    {
         "dex": "0185",
         "data": [
                 "johto"
         ]
     },
-    "n232": {
+    {
         "dex": "0186",
         "data": [
                 "johto"
         ]
     },
-    "n233": {
+    {
         "dex": "0187",
         "data": [
                 "johto"
         ]
     },
-    "n234": {
+    {
         "dex": "0188",
         "data": [
                 "johto"
         ]
     },
-    "n235": {
+    {
         "dex": "0189",
         "data": [
                 "johto"
         ]
     },
-    "n236": {
+    {
         "dex": "0190",
         "data": [
                 "johto"
         ]
     },
-    "n237": {
+    {
         "dex": "0191",
         "data": [
                 "johto"
         ]
     },
-    "n238": {
+    {
         "dex": "0192",
         "data": [
                 "johto"
         ]
     },
-    "n239": {
+    {
         "dex": "0193",
         "data": [
                 "johto"
         ]
     },
-    "n240": {
+    {
         "dex": "0194",
         "data": [
                 "johto"
         ]
     },
-    "n241": {
+    {
         "dex": "0195",
         "data": [
                 "johto"
         ]
     },
-    "n242": {
+    {
         "dex": "0196",
         "data": [
                 "johto", "eevee"
         ]
     },
-    "n243": {
+    {
         "dex": "0197",
         "data": [
                 "johto", "eevee"
         ]
     },
-    "n244": {
+    {
         "dex": "0198",
         "data": [
                 "johto"
         ]
     },
-    "n245": {
+    {
         "dex": "0199",
         "data": [
                 "johto"
         ]
     },
-    "n246": {
+    {
         "dex": "0200",
         "data": [
                 "johto"
         ]
     },
-    "n247": {
+    {
         "dex": "0201",
         "data": [
                 "johto", "unown"
         ]
     },
-    "n248": {
+    {
         "dex": "0201B",
         "data": [
                 "johto", "unown"
         ]
     },
-    "n249": {
+    {
         "dex": "0201C",
         "data": [
                 "johto", "unown"
         ]
     },
-    "n250": {
+    {
         "dex": "0201D",
         "data": [
                 "johto", "unown"
         ]
     },
-    "n251": {
+    {
         "dex": "0201E",
         "data": [
                 "johto", "unown"
         ]
     },
-    "n252": {
+    {
         "dex": "0201F",
         "data": [
                 "johto", "unown"
         ]
     },
-    "n253": {
+    {
         "dex": "0201G",
         "data": [
                 "johto", "unown"
         ]
     },
-    "n254": {
+    {
         "dex": "0201H",
         "data": [
                 "johto", "unown"
         ]
     },
-    "n255": {
+    {
         "dex": "0201I",
         "data": [
                 "johto", "unown"
         ]
     },
-    "n256": {
+    {
         "dex": "0201J",
         "data": [
                 "johto", "unown"
         ]
     },
-    "n257": {
+    {
         "dex": "0201K",
         "data": [
                 "johto", "unown"
         ]
     },
-    "n258": {
+    {
         "dex": "0201L",
         "data": [
                 "johto", "unown"
         ]
     },
-    "n259": {
+    {
         "dex": "0201M",
         "data": [
                 "johto", "unown"
         ]
     },
-    "n260": {
+    {
         "dex": "0201N",
         "data": [
                 "johto", "unown"
         ]
     },
-    "n261": {
+    {
         "dex": "0201O",
         "data": [
                 "johto", "unown"
         ]
     },
-    "n262": {
+    {
         "dex": "0201P",
         "data": [
                 "johto", "unown"
         ]
     },
-    "n263": {
+    {
         "dex": "0201Q",
         "data": [
                 "johto", "unown"
         ]
     },
-    "n264": {
+    {
         "dex": "0201R",
         "data": [
                 "johto", "unown"
         ]
     },
-    "n265": {
+    {
         "dex": "0201S",
         "data": [
                 "johto", "unown"
         ]
     },
-    "n266": {
+    {
         "dex": "0201T",
         "data": [
                 "johto", "unown"
         ]
     },
-    "n267": {
+    {
         "dex": "0201U",
         "data": [
                 "johto", "unown"
         ]
     },
-    "n268": {
+    {
         "dex": "0201V",
         "data": [
                 "johto", "unown"
         ]
     },
-    "n269": {
+    {
         "dex": "0201W",
         "data": [
                 "johto", "unown"
         ]
     },
-    "n270": {
+    {
         "dex": "0201X",
         "data": [
                 "johto", "unown"
         ]
     },
-    "n271": {
+    {
         "dex": "0201Y",
         "data": [
                 "johto", "unown"
         ]
     },
-    "n272": {
+    {
         "dex": "0201Z",
         "data": [
                 "johto", "unown"
         ]
     },
-    "n273": {
+    {
         "dex": "0201Ex",
         "data": [
                 "johto", "unown"
         ]
     },
-    "n274": {
+    {
         "dex": "0201Qu",
         "data": [
                 "johto", "unown"
         ]
     },
-    "n275": {
+    {
         "dex": "0202",
         "data": [
                 "johto"
         ]
     },
-    "n276": {
+    {
         "dex": "0203",
         "data": [
                 "johto"
         ]
     },
-    "n277": {
+    {
         "dex": "0204",
         "data": [
                 "johto"
         ]
     },
-    "n278": {
+    {
         "dex": "0205",
         "data": [
                 "johto"
         ]
     },
-    "n279": {
+    {
         "dex": "0206",
         "data": [
                 "johto"
         ]
     },
-    "n280": {
+    {
         "dex": "0207",
         "data": [
                 "johto"
         ]
     },
-    "n281": {
+    {
         "dex": "0208",
         "data": [
                 "johto"
         ]
     },
-    "n282": {
+    {
         "dex": "0208M",
         "data": [
                 "johto", "mega"
         ]
     },
-    "n283": {
+    {
         "dex": "0209",
         "data": [
                 "johto"
         ]
     },
-    "n284": {
+    {
         "dex": "0210",
         "data": [
                 "johto"
         ]
     },
-    "n285": {
+    {
         "dex": "0211",
         "data": [
                 "johto"
         ]
     },
-    "n286": {
+    {
         "dex": "0212",
         "data": [
                 "johto"
         ]
     },
-    "n287": {
+    {
         "dex": "0212M",
         "data": [
                 "johto", "mega"
         ]
     },
-    "n288": {
+    {
         "dex": "0213",
         "data": [
                 "johto"
         ]
     },
-    "n289": {
+    {
         "dex": "0214",
         "data": [
                 "johto"
         ]
     },
-    "n290": {
+    {
         "dex": "0214M",
         "data": [
                 "johto", "mega"
         ]
     },
-    "n291": {
+    {
         "dex": "0215",
         "data": [
                 "johto"
         ]
     },
-    "n292": {
+    {
         "dex": "0216",
         "data": [
                 "johto"
         ]
     },
-    "n293": {
+    {
         "dex": "0217",
         "data": [
                 "johto"
         ]
     },
-    "n294": {
+    {
         "dex": "0218",
         "data": [
                 "johto"
         ]
     },
-    "n295": {
+    {
         "dex": "0219",
         "data": [
                 "johto"
         ]
     },
-    "n296": {
+    {
         "dex": "0220",
         "data": [
                 "johto"
         ]
     },
-    "n297": {
+    {
         "dex": "0221",
         "data": [
                 "johto"
         ]
     },
-    "n298": {
+    {
         "dex": "0222",
         "data": [
                 "johto"
         ]
     },
-    "n299": {
+    {
         "dex": "0223",
         "data": [
                 "johto"
         ]
     },
-    "n300": {
+    {
         "dex": "0224",
         "data": [
                 "johto"
         ]
     },
-    "n301": {
+    {
         "dex": "0225",
         "data": [
                 "johto"
         ]
     },
-    "n302": {
+    {
         "dex": "0226",
         "data": [
                 "johto"
         ]
     },
-    "n303": {
+    {
         "dex": "0227",
         "data": [
                 "johto"
         ]
     },
-    "n304": {
+    {
         "dex": "0228",
         "data": [
                 "johto"
         ]
     },
-    "n305": {
+    {
         "dex": "0229",
         "data": [
                 "johto"
         ]
     },
-    "n306": {
+    {
         "dex": "0229M",
         "data": [
                 "johto", "mega"
         ]
     },
-    "n307": {
+    {
         "dex": "0230",
         "data": [
                 "johto"
         ]
     },
-    "n308": {
+    {
         "dex": "0231",
         "data": [
                 "johto"
         ]
     },
-    "n309": {
+    {
         "dex": "0232",
         "data": [
                 "johto"
         ]
     },
-    "n310": {
+    {
         "dex": "0233",
         "data": [
                 "johto"
         ]
     },
-    "n311": {
+    {
         "dex": "0234",
         "data": [
                 "johto"
         ]
     },
-    "n312": {
+    {
         "dex": "0235",
         "data": [
                 "johto"
         ]
     },
-    "n313": {
+    {
         "dex": "0236",
         "data": [
                 "johto"
         ]
     },
-    "n314": {
+    {
         "dex": "0237",
         "data": [
                 "johto"
         ]
     },
-    "n315": {
+    {
         "dex": "0238",
         "data": [
                 "johto"
         ]
     },
-    "n316": {
+    {
         "dex": "0239",
         "data": [
                 "johto"
         ]
     },
-    "n317": {
+    {
         "dex": "0240",
         "data": [
                 "johto"
         ]
     },
-    "n318": {
+    {
         "dex": "0241",
         "data": [
                 "johto"
         ]
     },
-    "n319": {
+    {
         "dex": "0242",
         "data": [
                 "johto"
         ]
     },
-    "n320": {
+    {
         "dex": "0243",
         "data": [
                 "johto", "trio"
         ]
     },
-    "n321": {
+    {
         "dex": "0244",
         "data": [
                 "johto", "trio"
         ]
     },
-    "n322": {
+    {
         "dex": "0245",
         "data": [
                 "johto", "trio"
         ]
     },
-    "n323": {
+    {
         "dex": "0246",
         "data": [
                 "johto", "bs600"
         ]
     },
-    "n324": {
+    {
         "dex": "0247",
         "data": [
                 "johto", "bs600"
         ]
     },
-    "n325": {
+    {
         "dex": "0248",
         "data": [
                 "johto", "bs600"
         ]
     },
-    "n326": {
+    {
         "dex": "0248M",
         "data": [
                 "johto", "mega"
         ]
     },
-    "n327": {
+    {
         "dex": "0249",
         "data": [
                 "johto", "legendary"
         ]
     },
-    "n328": {
+    {
         "dex": "0250",
         "data": [
                 "johto", "legendary"
         ]
     },
-    "n329": {
+    {
         "dex": "0251",
         "data": [
                 "johto", "mirage"
         ]
     },
-    "n330": {
+    {
         "dex": "0252",
         "data": [
                 "hoenn", "starter"
         ]
     },
-    "n331": {
+    {
         "dex": "0253",
         "data": [
                 "hoenn", "starter"
         ]
     },
-    "n332": {
+    {
         "dex": "0254",
         "data": [
                 "hoenn", "starter"
         ]
     },
-    "n333": {
+    {
         "dex": "0254M",
         "data": [
                 "hoenn", "mega", "starter"
         ]
     },
-    "n334": {
+    {
         "dex": "0255",
         "data": [
                 "hoenn", "starter"
         ]
     },
-    "n335": {
+    {
         "dex": "0256",
         "data": [
                 "hoenn", "starter"
         ]
     },
-    "n336": {
+    {
         "dex": "0257",
         "data": [
                 "hoenn", "starter"
         ]
     },
-    "n337": {
+    {
         "dex": "0257M",
         "data": [
                 "hoenn", "mega", "starter"
         ]
     },
-    "n338": {
+    {
         "dex": "0258",
         "data": [
                 "hoenn", "starter"
         ]
     },
-    "n339": {
+    {
         "dex": "0259",
         "data": [
                 "hoenn", "starter"
         ]
     },
-    "n340": {
+    {
         "dex": "0260",
         "data": [
                 "hoenn", "starter"
         ]
     },
-    "n341": {
+    {
         "dex": "0260M",
         "data": [
                 "hoenn", "mega", "starter"
         ]
     },
-    "n342": {
+    {
         "dex": "0261",
         "data": [
                 "hoenn"
         ]
     },
-    "n343": {
+    {
         "dex": "0262",
         "data": [
                 "hoenn"
         ]
     },
-    "n344": {
+    {
         "dex": "0263",
         "data": [
                 "hoenn"
         ]
     },
-    "n345": {
+    {
         "dex": "0264",
         "data": [
                 "hoenn"
         ]
     },
-    "n346": {
+    {
         "dex": "0265",
         "data": [
                 "hoenn"
         ]
     },
-    "n347": {
+    {
         "dex": "0266",
         "data": [
                 "hoenn"
         ]
     },
-    "n348": {
+    {
         "dex": "0267",
         "data": [
                 "hoenn"
         ]
     },
-    "n349": {
+    {
         "dex": "0268",
         "data": [
                 "hoenn"
         ]
     },
-    "n350": {
+    {
         "dex": "0269",
         "data": [
                 "hoenn"
         ]
     },
-    "n351": {
+    {
         "dex": "0270",
         "data": [
                 "hoenn"
         ]
     },
-    "n352": {
+    {
         "dex": "0271",
         "data": [
                 "hoenn"
         ]
     },
-    "n353": {
+    {
         "dex": "0272",
         "data": [
                 "hoenn"
         ]
     },
-    "n354": {
+    {
         "dex": "0273",
         "data": [
                 "hoenn"
         ]
     },
-    "n355": {
+    {
         "dex": "0274",
         "data": [
                 "hoenn"
         ]
     },
-    "n356": {
+    {
         "dex": "0275",
         "data": [
                 "hoenn"
         ]
     },
-    "n357": {
+    {
         "dex": "0276",
         "data": [
                 "hoenn"
         ]
     },
-    "n358": {
+    {
         "dex": "0277",
         "data": [
                 "hoenn"
         ]
     },
-    "n359": {
+    {
         "dex": "0278",
         "data": [
                 "hoenn"
         ]
     },
-    "n360": {
+    {
         "dex": "0279",
         "data": [
                 "hoenn"
         ]
     },
-    "n361": {
+    {
         "dex": "0280",
         "data": [
                 "hoenn"
         ]
     },
-    "n362": {
+    {
         "dex": "0281",
         "data": [
                 "hoenn"
         ]
     },
-    "n363": {
+    {
         "dex": "0282",
         "data": [
                 "hoenn"
         ]
     },
-    "n364": {
+    {
         "dex": "0282M",
         "data": [
                 "hoenn", "mega"
         ]
     },
-    "n365": {
+    {
         "dex": "0283",
         "data": [
                 "hoenn"
         ]
     },
-    "n366": {
+    {
         "dex": "0284",
         "data": [
                 "hoenn"
         ]
     },
-    "n367": {
+    {
         "dex": "0285",
         "data": [
                 "hoenn"
         ]
     },
-    "n368": {
+    {
         "dex": "0286",
         "data": [
                 "hoenn"
         ]
     },
-    "n369": {
+    {
         "dex": "0287",
         "data": [
                 "hoenn"
         ]
     },
-    "n370": {
+    {
         "dex": "0288",
         "data": [
                 "hoenn"
         ]
     },
-    "n371": {
+    {
         "dex": "0289",
         "data": [
                 "hoenn"
         ]
     },
-    "n372": {
+    {
         "dex": "0290",
         "data": [
                 "hoenn"
         ]
     },
-    "n373": {
+    {
         "dex": "0291",
         "data": [
                 "hoenn"
         ]
     },
-    "n374": {
+    {
         "dex": "0292",
         "data": [
                 "hoenn"
         ]
     },
-    "n375": {
+    {
         "dex": "0293",
         "data": [
                 "hoenn"
         ]
     },
-    "n376": {
+    {
         "dex": "0294",
         "data": [
                 "hoenn"
         ]
     },
-    "n377": {
+    {
         "dex": "0295",
         "data": [
                 "hoenn"
         ]
     },
-    "n378": {
+    {
         "dex": "0296",
         "data": [
                 "hoenn"
         ]
     },
-    "n379": {
+    {
         "dex": "0297",
         "data": [
                 "hoenn"
         ]
     },
-    "n380": {
+    {
         "dex": "0298",
         "data": [
                 "hoenn"
         ]
     },
-    "n381": {
+    {
         "dex": "0299",
         "data": [
                 "hoenn"
         ]
     },
-    "n382": {
+    {
         "dex": "0300",
         "data": [
                 "hoenn"
         ]
     },
-    "n383": {
+    {
         "dex": "0301",
         "data": [
                 "hoenn"
         ]
     },
-    "n384": {
+    {
         "dex": "0302",
         "data": [
                 "hoenn"
         ]
     },
-    "n385": {
+    {
         "dex": "0302M",
         "data": [
                 "hoenn", "mega"
         ]
     },
-    "n386": {
+    {
         "dex": "0303",
         "data": [
                 "hoenn"
         ]
     },
-    "n387": {
+    {
         "dex": "0303M",
         "data": [
                 "hoenn", "mega"
         ]
     },
-    "n388": {
+    {
         "dex": "0304",
         "data": [
                 "hoenn"
         ]
     },
-    "n389": {
+    {
         "dex": "0305",
         "data": [
                 "hoenn"
         ]
     },
-    "n390": {
+    {
         "dex": "0306",
         "data": [
                 "hoenn"
         ]
     },
-    "n391": {
+    {
         "dex": "0306M",
         "data": [
                 "hoenn", "mega"
         ]
     },
-    "n392": {
+    {
         "dex": "0307",
         "data": [
                 "hoenn"
         ]
     },
-    "n393": {
+    {
         "dex": "0308",
         "data": [
                 "hoenn"
         ]
     },
-    "n394": {
+    {
         "dex": "0308M",
         "data": [
                 "hoenn", "mega"
         ]
     },
-    "n395": {
+    {
         "dex": "0309",
         "data": [
                 "hoenn"
         ]
     },
-    "n396": {
+    {
         "dex": "0310",
         "data": [
                 "hoenn"
         ]
     },
-    "n397": {
+    {
         "dex": "0310M",
         "data": [
                 "hoenn", "mega"
         ]
     },
-    "n398": {
+    {
         "dex": "0311",
         "data": [
                 "hoenn"
         ]
     },
-    "n399": {
+    {
         "dex": "0312",
         "data": [
                 "hoenn"
         ]
     },
-    "n400": {
+    {
         "dex": "0313",
         "data": [
                 "hoenn"
         ]
     },
-    "n401": {
+    {
         "dex": "0314",
         "data": [
                 "hoenn"
         ]
     },
-    "n402": {
+    {
         "dex": "0315",
         "data": [
                 "hoenn"
         ]
     },
-    "n403": {
+    {
         "dex": "0316",
         "data": [
                 "hoenn"
         ]
     },
-    "n404": {
+    {
         "dex": "0317",
         "data": [
                 "hoenn"
         ]
     },
-    "n405": {
+    {
         "dex": "0318",
         "data": [
                 "hoenn"
         ]
     },
-    "n406": {
+    {
         "dex": "0319",
         "data": [
                 "hoenn"
         ]
     },
-    "n407": {
+    {
         "dex": "0319M",
         "data": [
                 "hoenn", "mega"
         ]
     },
-    "n408": {
+    {
         "dex": "0320",
         "data": [
                 "hoenn"
         ]
     },
-    "n409": {
+    {
         "dex": "0321",
         "data": [
                 "hoenn"
         ]
     },
-    "n410": {
+    {
         "dex": "0322",
         "data": [
                 "hoenn"
         ]
     },
-    "n411": {
+    {
         "dex": "0323",
         "data": [
                 "hoenn"
         ]
     },
-    "n412": {
+    {
         "dex": "0323M",
         "data": [
                 "hoenn", "mega"
         ]
     },
-    "n413": {
+    {
         "dex": "0324",
         "data": [
                 "hoenn"
         ]
     },
-    "n414": {
+    {
         "dex": "0325",
         "data": [
                 "hoenn"
         ]
     },
-    "n415": {
+    {
         "dex": "0326",
         "data": [
                 "hoenn"
         ]
     },
-    "n416": {
+    {
         "dex": "0327",
         "data": [
                 "hoenn"
         ]
     },
-    "n417": {
+    {
         "dex": "0328",
         "data": [
                 "hoenn"
         ]
     },
-    "n418": {
+    {
         "dex": "0329",
         "data": [
                 "hoenn"
         ]
     },
-    "n419": {
+    {
         "dex": "0330",
         "data": [
                 "hoenn"
         ]
     },
-    "n420": {
+    {
         "dex": "0331",
         "data": [
                 "hoenn"
         ]
     },
-    "n421": {
+    {
         "dex": "0332",
         "data": [
                 "hoenn"
         ]
     },
-    "n422": {
+    {
         "dex": "0333",
         "data": [
                 "hoenn"
         ]
     },
-    "n423": {
+    {
         "dex": "0334",
         "data": [
                 "hoenn"
         ]
     },
-    "n424": {
+    {
         "dex": "0334M",
         "data": [
                 "hoenn", "mega"
         ]
     },
-    "n425": {
+    {
         "dex": "0335",
         "data": [
                 "hoenn"
         ]
     },
-    "n426": {
+    {
         "dex": "0336",
         "data": [
                 "hoenn"
         ]
     },
-    "n427": {
+    {
         "dex": "0337",
         "data": [
                 "hoenn"
         ]
     },
-    "n428": {
+    {
         "dex": "0338",
         "data": [
                 "hoenn"
         ]
     },
-    "n429": {
+    {
         "dex": "0339",
         "data": [
                 "hoenn"
         ]
     },
-    "n430": {
+    {
         "dex": "0340",
         "data": [
                 "hoenn"
         ]
     },
-    "n431": {
+    {
         "dex": "0341",
         "data": [
                 "hoenn"
         ]
     },
-    "n432": {
+    {
         "dex": "0342",
         "data": [
                 "hoenn"
         ]
     },
-    "n433": {
+    {
         "dex": "0343",
         "data": [
                 "hoenn"
         ]
     },
-    "n434": {
+    {
         "dex": "0344",
         "data": [
                 "hoenn"
         ]
     },
-    "n435": {
+    {
         "dex": "0345",
         "data": [
                 "hoenn"
         ]
     },
-    "n436": {
+    {
         "dex": "0346",
         "data": [
                 "hoenn"
         ]
     },
-    "n437": {
+    {
         "dex": "0347",
         "data": [
                 "hoenn"
         ]
     },
-    "n438": {
+    {
         "dex": "0348",
         "data": [
                 "hoenn"
         ]
     },
-    "n439": {
+    {
         "dex": "0349",
         "data": [
                 "hoenn"
         ]
     },
-    "n440": {
+    {
         "dex": "0350",
         "data": [
                 "hoenn"
         ]
     },
-    "n441": {
+    {
         "dex": "0351",
         "data": [
                 "hoenn"
         ]
     },
-    "n442": {
+    {
         "dex": "0351S",
         "data": [
                 "hoenn"
         ]
     },
-    "n443": {
+    {
         "dex": "0351R",
         "data": [
                 "hoenn"
         ]
     },
-    "n444": {
+    {
         "dex": "0351H",
         "data": [
                 "hoenn"
         ]
     },
-    "n445": {
+    {
         "dex": "0352",
         "data": [
                 "hoenn"
         ]
     },
-    "n446": {
+    {
         "dex": "0353",
         "data": [
                 "hoenn"
         ]
     },
-    "n447": {
+    {
         "dex": "0354",
         "data": [
                 "hoenn"
         ]
     },
-    "n448": {
+    {
         "dex": "0354M",
         "data": [
                 "hoenn", "mega"
         ]
     },
-    "n449": {
+    {
         "dex": "0355",
         "data": [
                 "hoenn"
         ]
     },
-    "n450": {
+    {
         "dex": "0356",
         "data": [
                 "hoenn"
         ]
     },
-    "n451": {
+    {
         "dex": "0357",
         "data": [
                 "hoenn"
         ]
     },
-    "n452": {
+    {
         "dex": "0358",
         "data": [
                 "hoenn"
         ]
     },
-    "n453": {
+    {
         "dex": "0359",
         "data": [
                 "hoenn"
         ]
     },
-    "n454": {
+    {
         "dex": "0360",
         "data": [
                 "hoenn"
         ]
     },
-    "n455": {
+    {
         "dex": "0361",
         "data": [
                 "hoenn"
         ]
     },
-    "n456": {
+    {
         "dex": "0362",
         "data": [
                 "hoenn"
         ]
     },
-    "n457": {
+    {
         "dex": "0362M",
         "data": [
                 "hoenn", "mega"
         ]
     },
-    "n458": {
+    {
         "dex": "0363",
         "data": [
                 "hoenn"
         ]
     },
-    "n459": {
+    {
         "dex": "0364",
         "data": [
                 "hoenn"
         ]
     },
-    "n460": {
+    {
         "dex": "0365",
         "data": [
                 "hoenn"
         ]
     },
-    "n461": {
+    {
         "dex": "0366",
         "data": [
                 "hoenn"
         ]
     },
-    "n462": {
+    {
         "dex": "0367",
         "data": [
                 "hoenn"
         ]
     },
-    "n463": {
+    {
         "dex": "0368",
         "data": [
                 "hoenn"
         ]
     },
-    "n464": {
+    {
         "dex": "0369",
         "data": [
                 "hoenn"
         ]
     },
-    "n465": {
+    {
         "dex": "0370",
         "data": [
                 "hoenn"
         ]
     },
-    "n466": {
+    {
         "dex": "0371",
         "data": [
                 "hoenn"
         ]
     },
-    "n467": {
+    {
         "dex": "0372",
         "data": [
                 "hoenn", "bs600"
         ]
     },
-    "n468": {
+    {
         "dex": "0373",
         "data": [
                 "hoenn", "bs600"
         ]
     },
-    "n469": {
+    {
         "dex": "0373M",
         "data": [
                 "hoenn", "mega", "bs600"
         ]
     },
-    "n470": {
+    {
         "dex": "0374",
         "data": [
                 "hoenn"
         ]
     },
-    "n471": {
+    {
         "dex": "0375",
         "data": [
                 "hoenn", "bs600"
         ]
     },
-    "n472": {
+    {
         "dex": "0376",
         "data": [
                 "hoenn", "bs600"
         ]
     },
-    "n473": {
+    {
         "dex": "0376M",
         "data": [
                 "hoenn", "mega", "bs600"
         ]
     },
-    "n474": {
+    {
         "dex": "0377",
         "data": [
                 "hoenn", "trio"
         ]
     },
-    "n475": {
+    {
         "dex": "0378",
         "data": [
                 "hoenn", "trio"
         ]
     },
-    "n476": {
+    {
         "dex": "0379",
         "data": [
                 "hoenn", "trio"
         ]
     },
-    "n477": {
+    {
         "dex": "0380",
         "data": [
                 "hoenn"
         ]
     },
-    "n478": {
+    {
         "dex": "0380M",
         "data": [
                 "hoenn", "mega"
         ]
     },
-    "n479": {
+    {
         "dex": "0381",
         "data": [
                 "hoenn"
         ]
     },
-    "n480": {
+    {
         "dex": "0381M",
         "data": [
                 "hoenn", "mega"
         ]
     },
-    "n481": {
+    {
         "dex": "0382",
         "data": [
                 "hoenn", "legendary"
         ]
     },
-    "n482": {
+    {
         "dex": "0382P",
         "data": [
                 "hoenn", "mega"
         ]
     },
-    "n483": {
+    {
         "dex": "0383",
         "data": [
                 "hoenn", "legendary"
         ]
     },
-    "n484": {
+    {
         "dex": "0383P",
         "data": [
                 "hoenn", "mega"
         ]
     },
-    "n485": {
+    {
         "dex": "0384",
         "data": [
                 "hoenn", "legendary"
         ]
     },
-    "n486": {
+    {
         "dex": "0384M",
         "data": [
                 "hoenn", "mega"
         ]
     },
-    "n487": {
+    {
         "dex": "0385",
         "data": [
                 "hoenn", "mirage"
         ]
     },
-    "n488": {
+    {
         "dex": "0386",
         "data": [
                 "hoenn", "mirage"
         ]
     },
-    "n489": {
+    {
         "dex": "0386D",
         "data": [
                 "hoenn", "mirage"
         ]
     },
-    "n490": {
+    {
         "dex": "0386A",
         "data": [
                 "hoenn", "mirage"
         ]
     },
-    "n491": {
+    {
         "dex": "0386S",
         "data": [
                 "hoenn", "mirage"
         ]
     },
-    "n492": {
+    {
         "dex": "0387",
         "data": [
                 "sinnoh", "starter"
         ]
     },
-    "n493": {
+    {
         "dex": "0388",
         "data": [
                 "sinnoh", "starter"
         ]
     },
-    "n494": {
+    {
         "dex": "0389",
         "data": [
                 "sinnoh", "starter"
         ]
     },
-    "n495": {
+    {
         "dex": "0390",
         "data": [
                 "sinnoh", "starter"
         ]
     },
-    "n496": {
+    {
         "dex": "0391",
         "data": [
                 "sinnoh", "starter"
         ]
     },
-    "n497": {
+    {
         "dex": "0392",
         "data": [
                 "sinnoh", "starter"
         ]
     },
-    "n498": {
+    {
         "dex": "0393",
         "data": [
                 "sinnoh", "starter"
         ]
     },
-    "n499": {
+    {
         "dex": "0394",
         "data": [
                 "sinnoh", "starter"
         ]
     },
-    "n500": {
+    {
         "dex": "0395",
         "data": [
                 "sinnoh", "starter"
         ]
     },
-    "n501": {
+    {
         "dex": "0396",
         "data": [
                 "sinnoh"
         ]
     },
-    "n502": {
+    {
         "dex": "0397",
         "data": [
                 "sinnoh"
         ]
     },
-    "n503": {
+    {
         "dex": "0398",
         "data": [
                 "sinnoh"
         ]
     },
-    "n504": {
+    {
         "dex": "0399",
         "data": [
                 "sinnoh"
         ]
     },
-    "n505": {
+    {
         "dex": "0400",
         "data": [
                 "sinnoh"
         ]
     },
-    "n506": {
+    {
         "dex": "0401",
         "data": [
                 "sinnoh"
         ]
     },
-    "n507": {
+    {
         "dex": "0402",
         "data": [
                 "sinnoh"
         ]
     },
-    "n508": {
+    {
         "dex": "0403",
         "data": [
                 "sinnoh"
         ]
     },
-    "n509": {
+    {
         "dex": "0404",
         "data": [
                 "sinnoh"
         ]
     },
-    "n510": {
+    {
         "dex": "0405",
         "data": [
                 "sinnoh"
         ]
     },
-    "n511": {
+    {
         "dex": "0406",
         "data": [
                 "sinnoh"
         ]
     },
-    "n512": {
+    {
         "dex": "0407",
         "data": [
                 "sinnoh"
         ]
     },
-    "n513": {
+    {
         "dex": "0408",
         "data": [
                 "sinnoh"
         ]
     },
-    "n514": {
+    {
         "dex": "0409",
         "data": [
                 "sinnoh"
         ]
     },
-    "n515": {
+    {
         "dex": "0410",
         "data": [
                 "sinnoh"
         ]
     },
-    "n516": {
+    {
         "dex": "0411",
         "data": [
                 "sinnoh"
         ]
     },
-    "n517": {
+    {
         "dex": "0412",
         "data": [
                 "sinnoh"
         ]
     },
-    "n518": {
+    {
         "dex": "0412G",
         "data": [
                 "sinnoh"
         ]
     },
-    "n519": {
+    {
         "dex": "0412S",
         "data": [
                 "sinnoh"
         ]
     },
-    "n520": {
+    {
         "dex": "0413",
         "data": [
                 "sinnoh"
         ]
     },
-    "n521": {
+    {
         "dex": "0413G",
         "data": [
                 "sinnoh"
         ]
     },
-    "n522": {
+    {
         "dex": "0413S",
         "data": [
                 "sinnoh"
         ]
     },
-    "n523": {
+    {
         "dex": "0414",
         "data": [
                 "sinnoh"
         ]
     },
-    "n524": {
+    {
         "dex": "0415",
         "data": [
                 "sinnoh"
         ]
     },
-    "n525": {
+    {
         "dex": "0416",
         "data": [
                 "sinnoh"
         ]
     },
-    "n526": {
+    {
         "dex": "0417",
         "data": [
                 "sinnoh"
         ]
     },
-    "n527": {
+    {
         "dex": "0418",
         "data": [
                 "sinnoh"
         ]
     },
-    "n528": {
+    {
         "dex": "0419",
         "data": [
                 "sinnoh"
         ]
     },
-    "n529": {
+    {
         "dex": "0420",
         "data": [
                 "sinnoh"
         ]
     },
-    "n530": {
+    {
         "dex": "0421",
         "data": [
                 "sinnoh"
         ]
     },
-    "n531": {
+    {
         "dex": "0422",
         "data": [
                 "sinnoh"
         ]
     },
-    "n532": {
+    {
         "dex": "0422E",
         "data": [
                 "sinnoh"
         ]
     },
-    "n533": {
+    {
         "dex": "0423",
         "data": [
                 "sinnoh"
         ]
     },
-    "n534": {
+    {
         "dex": "0423E",
         "data": [
                 "sinnoh"
         ]
     },
-    "n535": {
+    {
         "dex": "0424",
         "data": [
                 "sinnoh"
         ]
     },
-    "n536": {
+    {
         "dex": "0425",
         "data": [
                 "sinnoh"
         ]
     },
-    "n537": {
+    {
         "dex": "0426",
         "data": [
                 "sinnoh"
         ]
     },
-    "n538": {
+    {
         "dex": "0427",
         "data": [
                 "sinnoh"
         ]
     },
-    "n539": {
+    {
         "dex": "0428",
         "data": [
                 "sinnoh"
         ]
     },
-    "n540": {
+    {
         "dex": "0428M",
         "data": [
                 "sinnoh", "mega"
         ]
     },
-    "n541": {
+    {
         "dex": "0429",
         "data": [
                 "sinnoh"
         ]
     },
-    "n542": {
+    {
         "dex": "0430",
         "data": [
                 "sinnoh"
         ]
     },
-    "n543": {
+    {
         "dex": "0431",
         "data": [
                 "sinnoh"
         ]
     },
-    "n544": {
+    {
         "dex": "0432",
         "data": [
                 "sinnoh"
         ]
     },
-    "n545": {
+    {
         "dex": "0433",
         "data": [
                 "sinnoh"
         ]
     },
-    "n546": {
+    {
         "dex": "0434",
         "data": [
                 "sinnoh"
         ]
     },
-    "n547": {
+    {
         "dex": "0435",
         "data": [
                 "sinnoh"
         ]
     },
-    "n548": {
+    {
         "dex": "0436",
         "data": [
                 "sinnoh"
         ]
     },
-    "n549": {
+    {
         "dex": "0437",
         "data": [
                 "sinnoh"
         ]
     },
-    "n550": {
+    {
         "dex": "0438",
         "data": [
                 "sinnoh"
         ]
     },
-    "n551": {
+    {
         "dex": "0439",
         "data": [
                 "sinnoh"
         ]
     },
-    "n552": {
+    {
         "dex": "0440",
         "data": [
                 "sinnoh"
         ]
     },
-    "n553": {
+    {
         "dex": "0441",
         "data": [
                 "sinnoh"
         ]
     },
-    "n554": {
+    {
         "dex": "0442",
         "data": [
                 "sinnoh"
         ]
     },
-    "n555": {
+    {
         "dex": "0443",
         "data": [
                 "sinnoh"
         ]
     },
-    "n556": {
+    {
         "dex": "0444",
         "data": [
                 "sinnoh", "bs600"
         ]
     },
-    "n557": {
+    {
         "dex": "0445",
         "data": [
                 "sinnoh", "bs600"
         ]
     },
-    "n558": {
+    {
         "dex": "0445M",
         "data": [
                 "sinnoh", "mega", "bs600"
         ]
     },
-    "n559": {
+    {
         "dex": "0446",
         "data": [
                 "sinnoh"
         ]
     },
-    "n560": {
+    {
         "dex": "0447",
         "data": [
                 "sinnoh"
         ]
     },
-    "n561": {
+    {
         "dex": "0448",
         "data": [
                 "sinnoh"
         ]
     },
-    "n562": {
+    {
         "dex": "0448M",
         "data": [
                 "sinnoh", "mega"
         ]
     },
-    "n563": {
+    {
         "dex": "0449",
         "data": [
                 "sinnoh"
         ]
     },
-    "n564": {
+    {
         "dex": "0450",
         "data": [
                 "sinnoh"
         ]
     },
-    "n565": {
+    {
         "dex": "0451",
         "data": [
                 "sinnoh"
         ]
     },
-    "n566": {
+    {
         "dex": "0452",
         "data": [
                 "sinnoh"
         ]
     },
-    "n567": {
+    {
         "dex": "0453",
         "data": [
                 "sinnoh"
         ]
     },
-    "n568": {
+    {
         "dex": "0454",
         "data": [
                 "sinnoh"
         ]
     },
-    "n569": {
+    {
         "dex": "0455",
         "data": [
                 "sinnoh"
         ]
     },
-    "n570": {
+    {
         "dex": "0456",
         "data": [
                 "sinnoh"
         ]
     },
-    "n571": {
+    {
         "dex": "0457",
         "data": [
                 "sinnoh"
         ]
     },
-    "n572": {
+    {
         "dex": "0458",
         "data": [
                 "sinnoh"
         ]
     },
-    "n573": {
+    {
         "dex": "0459",
         "data": [
                 "sinnoh"
         ]
     },
-    "n574": {
+    {
         "dex": "0460",
         "data": [
                 "sinnoh"
         ]
     },
-    "n575": {
+    {
         "dex": "0460M",
         "data": [
                 "sinnoh", "mega"
         ]
     },
-    "n576": {
+    {
         "dex": "0461",
         "data": [
                 "sinnoh"
         ]
     },
-    "n577": {
+    {
         "dex": "0462",
         "data": [
                 "sinnoh"
         ]
     },
-    "n578": {
+    {
         "dex": "0463",
         "data": [
                 "sinnoh"
         ]
     },
-    "n579": {
+    {
         "dex": "0464",
         "data": [
                 "sinnoh"
         ]
     },
-    "n580": {
+    {
         "dex": "0465",
         "data": [
                 "sinnoh"
         ]
     },
-    "n581": {
+    {
         "dex": "0466",
         "data": [
                 "sinnoh"
         ]
     },
-    "n582": {
+    {
         "dex": "0467",
         "data": [
                 "sinnoh"
         ]
     },
-    "n583": {
+    {
         "dex": "0468",
         "data": [
                 "sinnoh"
         ]
     },
-    "n584": {
+    {
         "dex": "0469",
         "data": [
                 "sinnoh"
         ]
     },
-    "n585": {
+    {
         "dex": "0470",
         "data": [
                 "sinnoh", "eevee"
         ]
     },
-    "n586": {
+    {
         "dex": "0471",
         "data": [
                 "sinnoh", "eevee"
         ]
     },
-    "n587": {
+    {
         "dex": "0472",
         "data": [
                 "sinnoh"
         ]
     },
-    "n588": {
+    {
         "dex": "0473",
         "data": [
                 "sinnoh"
         ]
     },
-    "n589": {
+    {
         "dex": "0474",
         "data": [
                 "sinnoh"
         ]
     },
-    "n590": {
+    {
         "dex": "0475",
         "data": [
                 "sinnoh"
         ]
     },
-    "n591": {
+    {
         "dex": "0475M",
         "data": [
                 "sinnoh", "mega"
         ]
     },
-    "n592": {
+    {
         "dex": "0476",
         "data": [
                 "sinnoh"
         ]
     },
-    "n593": {
+    {
         "dex": "0477",
         "data": [
                 "sinnoh"
         ]
     },
-    "n594": {
+    {
         "dex": "0478",
         "data": [
                 "sinnoh"
         ]
     },
-    "n595": {
+    {
         "dex": "0479",
         "data": [
                 "sinnoh"
         ]
     },
-    "n596": {
+    {
         "dex": "0479O",
         "data": [
                 "sinnoh"
         ]
     },
-    "n597": {
+    {
         "dex": "0479W",
         "data": [
                 "sinnoh"
         ]
     },
-    "n598": {
+    {
         "dex": "0479R",
         "data": [
                 "sinnoh"
         ]
     },
-    "n599": {
+    {
         "dex": "0479F",
         "data": [
                 "sinnoh"
         ]
     },
-    "n600": {
+    {
         "dex": "0479L",
         "data": [
                 "sinnoh"
         ]
     },
-    "n601": {
+    {
         "dex": "0480",
         "data": [
                 "sinnoh", "trio"
         ]
     },
-    "n602": {
+    {
         "dex": "0481",
         "data": [
                 "sinnoh", "trio"
         ]
     },
-    "n603": {
+    {
         "dex": "0482",
         "data": [
                 "sinnoh", "trio"
         ]
     },
-    "n604": {
+    {
         "dex": "0483",
         "data": [
                 "sinnoh", "legendary"
         ]
     },
-    "n605": {
+    {
         "dex": "0484",
         "data": [
                 "sinnoh", "legendary"
         ]
     },
-    "n606": {
+    {
         "dex": "0485",
         "data": [
                 "sinnoh"
         ]
     },
-    "n607": {
+    {
         "dex": "0486",
         "data": [
                 "sinnoh"
         ]
     },
-    "n608": {
+    {
         "dex": "0487",
         "data": [
                 "sinnoh", "legendary"
         ]
     },
-    "n609": {
+    {
         "dex": "0487O",
         "data": [
                 "sinnoh"
         ]
     },
-    "n610": {
+    {
         "dex": "0488",
         "data": [
                 "sinnoh"
         ]
     },
-    "n611": {
+    {
         "dex": "0489",
         "data": [
                 "sinnoh", "mirage"
         ]
     },
-    "n612": {
+    {
         "dex": "0490",
         "data": [
                 "sinnoh", "mirage"
         ]
     },
-    "n613": {
+    {
         "dex": "0491",
         "data": [
                 "sinnoh", "mirage"
         ]
     },
-    "n614": {
+    {
         "dex": "0492",
         "data": [
                 "sinnoh", "mirage"
         ]
     },
-    "n615": {
+    {
         "dex": "0492S",
         "data": [
                 "sinnoh", "mirage"
         ]
     },
-    "n616": {
+    {
         "dex": "0493",
         "data": [
                 "sinnoh", "mirage"
         ]
     },
-    "n617": {
+    {
         "dex": "0494",
         "data": [
                 "unova mirage"
         ]
     },
-    "n618": {
+    {
         "dex": "0495",
         "data": [
                 "unova starter"
         ]
     },
-    "n619": {
+    {
         "dex": "0496",
         "data": [
                 "unova starter"
         ]
     },
-    "n620": {
+    {
         "dex": "0497",
         "data": [
                 "unova starter"
         ]
     },
-    "n621": {
+    {
         "dex": "0498",
         "data": [
                 "unova starter"
         ]
     },
-    "n622": {
+    {
         "dex": "0499",
         "data": [
                 "unova starter"
         ]
     },
-    "n623": {
+    {
         "dex": "0500",
         "data": [
                 "unova starter"
         ]
     },
-    "n624": {
+    {
         "dex": "0501",
         "data": [
                 "unova starter"
         ]
     },
-    "n625": {
+    {
         "dex": "0502",
         "data": [
                 "unova starter"
         ]
     },
-    "n626": {
+    {
         "dex": "0503",
         "data": [
                 "unova starter"
         ]
     },
-    "n627": {
+    {
         "dex": "0504",
         "data": [
                 "unova"
         ]
     },
-    "n628": {
+    {
         "dex": "0505",
         "data": [
                 "unova"
         ]
     },
-    "n629": {
+    {
         "dex": "0506",
         "data": [
                 "unova"
         ]
     },
-    "n630": {
+    {
         "dex": "0507",
         "data": [
                 "unova"
         ]
     },
-    "n631": {
+    {
         "dex": "0508",
         "data": [
                 "unova"
         ]
     },
-    "n632": {
+    {
         "dex": "0509",
         "data": [
                 "unova"
         ]
     },
-    "n633": {
+    {
         "dex": "0510",
         "data": [
                 "unova"
         ]
     },
-    "n634": {
+    {
         "dex": "0511",
         "data": [
                 "unova"
         ]
     },
-    "n635": {
+    {
         "dex": "0512",
         "data": [
                 "unova"
         ]
     },
-    "n636": {
+    {
         "dex": "0513",
         "data": [
                 "unova"
         ]
     },
-    "n637": {
+    {
         "dex": "0514",
         "data": [
                 "unova"
         ]
     },
-    "n638": {
+    {
         "dex": "0515",
         "data": [
                 "unova"
         ]
     },
-    "n639": {
+    {
         "dex": "0516",
         "data": [
                 "unova"
         ]
     },
-    "n640": {
+    {
         "dex": "0517",
         "data": [
                 "unova"
         ]
     },
-    "n641": {
+    {
         "dex": "0518",
         "data": [
                 "unova"
         ]
     },
-    "n642": {
+    {
         "dex": "0519",
         "data": [
                 "unova"
         ]
     },
-    "n643": {
+    {
         "dex": "0520",
         "data": [
                 "unova"
         ]
     },
-    "n644": {
+    {
         "dex": "0521",
         "data": [
                 "unova"
         ]
     },
-    "n645": {
+    {
         "dex": "0521F",
         "data": [
                 "unova"
         ]
     },
-    "n646": {
+    {
         "dex": "0522",
         "data": [
                 "unova"
         ]
     },
-    "n647": {
+    {
         "dex": "0523",
         "data": [
                 "unova"
         ]
     },
-    "n648": {
+    {
         "dex": "0524",
         "data": [
                 "unova"
         ]
     },
-    "n649": {
+    {
         "dex": "0525",
         "data": [
                 "unova"
         ]
     },
-    "n650": {
+    {
         "dex": "0526",
         "data": [
                 "unova"
         ]
     },
-    "n651": {
+    {
         "dex": "0527",
         "data": [
                 "unova"
         ]
     },
-    "n652": {
+    {
         "dex": "0528",
         "data": [
                 "unova"
         ]
     },
-    "n653": {
+    {
         "dex": "0529",
         "data": [
                 "unova"
         ]
     },
-    "n654": {
+    {
         "dex": "0530",
         "data": [
                 "unova"
         ]
     },
-    "n655": {
+    {
         "dex": "0531",
         "data": [
                 "unova"
         ]
     },
-    "n656": {
+    {
         "dex": "0531M",
         "data": [
                 "unova mega"
         ]
     },
-    "n657": {
+    {
         "dex": "0532",
         "data": [
                 "unova"
         ]
     },
-    "n658": {
+    {
         "dex": "0533",
         "data": [
                 "unova"
         ]
     },
-    "n659": {
+    {
         "dex": "0534",
         "data": [
                 "unova"
         ]
     },
-    "n660": {
+    {
         "dex": "0535",
         "data": [
                 "unova"
         ]
     },
-    "n661": {
+    {
         "dex": "0536",
         "data": [
                 "unova"
         ]
     },
-    "n662": {
+    {
         "dex": "0537",
         "data": [
                 "unova"
         ]
     },
-    "n663": {
+    {
         "dex": "0538",
         "data": [
                 "unova"
         ]
     },
-    "n664": {
+    {
         "dex": "0539",
         "data": [
                 "unova"
         ]
     },
-    "n665": {
+    {
         "dex": "0540",
         "data": [
                 "unova"
         ]
     },
-    "n666": {
+    {
         "dex": "0541",
         "data": [
                 "unova"
         ]
     },
-    "n667": {
+    {
         "dex": "0542",
         "data": [
                 "unova"
         ]
     },
-    "n668": {
+    {
         "dex": "0543",
         "data": [
                 "unova"
         ]
     },
-    "n669": {
+    {
         "dex": "0544",
         "data": [
                 "unova"
         ]
     },
-    "n670": {
+    {
         "dex": "0545",
         "data": [
                 "unova"
         ]
     },
-    "n671": {
+    {
         "dex": "0546",
         "data": [
                 "unova"
         ]
     },
-    "n672": {
+    {
         "dex": "0547",
         "data": [
                 "unova"
         ]
     },
-    "n673": {
+    {
         "dex": "0548",
         "data": [
                 "unova"
         ]
     },
-    "n674": {
+    {
         "dex": "0549",
         "data": [
                 "unova"
         ]
     },
-    "n675": {
+    {
         "dex": "0550",
         "data": [
                 "unova"
         ]
     },
-    "n676": {
+    {
         "dex": "0550B",
         "data": [
                 "unova"
         ]
     },
-    "n677": {
+    {
         "dex": "0551",
         "data": [
                 "unova"
         ]
     },
-    "n678": {
+    {
         "dex": "0552",
         "data": [
                 "unova"
         ]
     },
-    "n679": {
+    {
         "dex": "0553",
         "data": [
                 "unova"
         ]
     },
-    "n680": {
+    {
         "dex": "0554",
         "data": [
                 "unova"
         ]
     },
-    "n681": {
+    {
         "dex": "0555",
         "data": [
                 "unova"
         ]
     },
-    "n682": {
+    {
         "dex": "0555Z",
         "data": [
                 "unova"
         ]
     },
-    "n683": {
+    {
         "dex": "0556",
         "data": [
                 "unova"
         ]
     },
-    "n684": {
+    {
         "dex": "0557",
         "data": [
                 "unova"
         ]
     },
-    "n685": {
+    {
         "dex": "0558",
         "data": [
                 "unova"
         ]
     },
-    "n686": {
+    {
         "dex": "0559",
         "data": [
                 "unova"
         ]
     },
-    "n687": {
+    {
         "dex": "0560",
         "data": [
                 "unova"
         ]
     },
-    "n688": {
+    {
         "dex": "0561",
         "data": [
                 "unova"
         ]
     },
-    "n689": {
+    {
         "dex": "0562",
         "data": [
                 "unova"
         ]
     },
-    "n690": {
+    {
         "dex": "0563",
         "data": [
                 "unova"
         ]
     },
-    "n691": {
+    {
         "dex": "0564",
         "data": [
                 "unova"
         ]
     },
-    "n692": {
+    {
         "dex": "0565",
         "data": [
                 "unova"
         ]
     },
-    "n693": {
+    {
         "dex": "0566",
         "data": [
                 "unova"
         ]
     },
-    "n694": {
+    {
         "dex": "0567",
         "data": [
                 "unova"
         ]
     },
-    "n695": {
+    {
         "dex": "0568",
         "data": [
                 "unova"
         ]
     },
-    "n696": {
+    {
         "dex": "0569",
         "data": [
                 "unova"
         ]
     },
-    "n697": {
+    {
         "dex": "0570",
         "data": [
                 "unova"
         ]
     },
-    "n698": {
+    {
         "dex": "0571",
         "data": [
                 "unova"
         ]
     },
-    "n699": {
+    {
         "dex": "0572",
         "data": [
                 "unova"
         ]
     },
-    "n700": {
+    {
         "dex": "0573",
         "data": [
                 "unova"
         ]
     },
-    "n701": {
+    {
         "dex": "0574",
         "data": [
                 "unova"
         ]
     },
-    "n702": {
+    {
         "dex": "0575",
         "data": [
                 "unova"
         ]
     },
-    "n703": {
+    {
         "dex": "0576",
         "data": [
                 "unova"
         ]
     },
-    "n704": {
+    {
         "dex": "0577",
         "data": [
                 "unova"
         ]
     },
-    "n705": {
+    {
         "dex": "0578",
         "data": [
                 "unova"
         ]
     },
-    "n706": {
+    {
         "dex": "0579",
         "data": [
                 "unova"
         ]
     },
-    "n707": {
+    {
         "dex": "0580",
         "data": [
                 "unova"
         ]
     },
-    "n708": {
+    {
         "dex": "0581",
         "data": [
                 "unova"
         ]
     },
-    "n709": {
+    {
         "dex": "0582",
         "data": [
                 "unova"
         ]
     },
-    "n710": {
+    {
         "dex": "0583",
         "data": [
                 "unova"
         ]
     },
-    "n711": {
+    {
         "dex": "0584",
         "data": [
                 "unova"
         ]
     },
-    "n712": {
+    {
         "dex": "0585",
         "data": [
                 "unova"
         ]
     },
-    "n713": {
+    {
         "dex": "0585S",
         "data": [
                 "unova"
         ]
     },
-    "n714": {
+    {
         "dex": "0585A",
         "data": [
                 "unova"
         ]
     },
-    "n715": {
+    {
         "dex": "0585W",
         "data": [
                 "unova"
         ]
     },
-    "n716": {
+    {
         "dex": "0586",
         "data": [
                 "unova"
         ]
     },
-    "n717": {
+    {
         "dex": "0586S",
         "data": [
                 "unova"
         ]
     },
-    "n718": {
+    {
         "dex": "0586A",
         "data": [
                 "unova"
         ]
     },
-    "n719": {
+    {
         "dex": "0586W",
         "data": [
                 "unova"
         ]
     },
-    "n720": {
+    {
         "dex": "0587",
         "data": [
                 "unova"
         ]
     },
-    "n721": {
+    {
         "dex": "0588",
         "data": [
                 "unova"
         ]
     },
-    "n722": {
+    {
         "dex": "0589",
         "data": [
                 "unova"
         ]
     },
-    "n723": {
+    {
         "dex": "0590",
         "data": [
                 "unova"
         ]
     },
-    "n724": {
+    {
         "dex": "0591",
         "data": [
                 "unova"
         ]
     },
-    "n725": {
+    {
         "dex": "0592",
         "data": [
                 "unova"
         ]
     },
-    "n726": {
+    {
         "dex": "0592F",
         "data": [
                 "unova"
         ]
     },
-    "n727": {
+    {
         "dex": "0593",
         "data": [
                 "unova"
         ]
     },
-    "n728": {
+    {
         "dex": "0593F",
         "data": [
                 "unova"
         ]
     },
-    "n729": {
+    {
         "dex": "0594",
         "data": [
                 "unova"
         ]
     },
-    "n730": {
+    {
         "dex": "0595",
         "data": [
                 "unova"
         ]
     },
-    "n731": {
+    {
         "dex": "0596",
         "data": [
                 "unova"
         ]
     },
-    "n732": {
+    {
         "dex": "0597",
         "data": [
                 "unova"
         ]
     },
-    "n733": {
+    {
         "dex": "0598",
         "data": [
                 "unova"
         ]
     },
-    "n734": {
+    {
         "dex": "0599",
         "data": [
                 "unova"
         ]
     },
-    "n735": {
+    {
         "dex": "0600",
         "data": [
                 "unova"
         ]
     },
-    "n736": {
+    {
         "dex": "0601",
         "data": [
                 "unova"
         ]
     },
-    "n737": {
+    {
         "dex": "0602",
         "data": [
                 "unova"
         ]
     },
-    "n738": {
+    {
         "dex": "0603",
         "data": [
                 "unova"
         ]
     },
-    "n739": {
+    {
         "dex": "0604",
         "data": [
                 "unova"
         ]
     },
-    "n740": {
+    {
         "dex": "0605",
         "data": [
                 "unova"
         ]
     },
-    "n741": {
+    {
         "dex": "0606",
         "data": [
                 "unova"
         ]
     },
-    "n742": {
+    {
         "dex": "0607",
         "data": [
                 "unova"
         ]
     },
-    "n743": {
+    {
         "dex": "0608",
         "data": [
                 "unova"
         ]
     },
-    "n744": {
+    {
         "dex": "0609",
         "data": [
                 "unova"
         ]
     },
-    "n745": {
+    {
         "dex": "0610",
         "data": [
                 "unova"
         ]
     },
-    "n746": {
+    {
         "dex": "0611",
         "data": [
                 "unova"
         ]
     },
-    "n747": {
+    {
         "dex": "0612",
         "data": [
                 "unova"
         ]
     },
-    "n748": {
+    {
         "dex": "0613",
         "data": [
                 "unova"
         ]
     },
-    "n749": {
+    {
         "dex": "0614",
         "data": [
                 "unova"
         ]
     },
-    "n750": {
+    {
         "dex": "0615",
         "data": [
                 "unova"
         ]
     },
-    "n751": {
+    {
         "dex": "0616",
         "data": [
                 "unova"
         ]
     },
-    "n752": {
+    {
         "dex": "0617",
         "data": [
                 "unova"
         ]
     },
-    "n753": {
+    {
         "dex": "0618",
         "data": [
                 "unova"
         ]
     },
-    "n754": {
+    {
         "dex": "0619",
         "data": [
                 "unova"
         ]
     },
-    "n755": {
+    {
         "dex": "0620",
         "data": [
                 "unova"
         ]
     },
-    "n756": {
+    {
         "dex": "0621",
         "data": [
                 "unova"
         ]
     },
-    "n757": {
+    {
         "dex": "0622",
         "data": [
                 "unova"
         ]
     },
-    "n758": {
+    {
         "dex": "0623",
         "data": [
                 "unova"
         ]
     },
-    "n759": {
+    {
         "dex": "0624",
         "data": [
                 "unova"
         ]
     },
-    "n760": {
+    {
         "dex": "0625",
         "data": [
                 "unova"
         ]
     },
-    "n761": {
+    {
         "dex": "0626",
         "data": [
                 "unova"
         ]
     },
-    "n762": {
+    {
         "dex": "0627",
         "data": [
                 "unova"
         ]
     },
-    "n763": {
+    {
         "dex": "0628",
         "data": [
                 "unova"
         ]
     },
-    "n764": {
+    {
         "dex": "0629",
         "data": [
                 "unova"
         ]
     },
-    "n765": {
+    {
         "dex": "0630",
         "data": [
                 "unova"
         ]
     },
-    "n766": {
+    {
         "dex": "0631",
         "data": [
                 "unova"
         ]
     },
-    "n767": {
+    {
         "dex": "0632",
         "data": [
                 "unova"
         ]
     },
-    "n768": {
+    {
         "dex": "0633",
         "data": [
                 "unova bs600"
         ]
     },
-    "n769": {
+    {
         "dex": "0634",
         "data": [
                 "unova bs600"
         ]
     },
-    "n770": {
+    {
         "dex": "0635",
         "data": [
                 "unova bs600"
         ]
     },
-    "n771": {
+    {
         "dex": "0636",
         "data": [
                 "unova"
         ]
     },
-    "n772": {
+    {
         "dex": "0637",
         "data": [
                 "unova"
         ]
     },
-    "n773": {
+    {
         "dex": "0638",
         "data": [
                 "unova trio"
         ]
     },
-    "n774": {
+    {
         "dex": "0639",
         "data": [
                 "unova trio"
         ]
     },
-    "n775": {
+    {
         "dex": "0640",
         "data": [
                 "unova trio"
         ]
     },
-    "n776": {
+    {
         "dex": "0641",
         "data": [
                 "unova trio"
         ]
     },
-    "n777": {
+    {
         "dex": "0641T",
         "data": [
                 "unova"
         ]
     },
-    "n778": {
+    {
         "dex": "0642",
         "data": [
                 "unova trio"
         ]
     },
-    "n779": {
+    {
         "dex": "0642T",
         "data": [
                 "unova"
         ]
     },
-    "n780": {
+    {
         "dex": "0643",
         "data": [
                 "unova legendary"
         ]
     },
-    "n781": {
+    {
         "dex": "0644",
         "data": [
                 "unova legendary"
         ]
     },
-    "n782": {
+    {
         "dex": "0645",
         "data": [
                 "unova trio"
         ]
     },
-    "n783": {
+    {
         "dex": "0646",
         "data": [
                 "unova legendary"
         ]
     },
-    "n784": {
+    {
         "dex": "0647",
         "data": [
                 "unova mirage"
         ]
     },
-    "n785": {
+    {
         "dex": "0647R",
         "data": [
                 "unova mirage"
         ]
     },
-    "n786": {
+    {
         "dex": "0648",
         "data": [
                 "unova mirage"
         ]
     },
-    "n787": {
+    {
         "dex": "0648P",
         "data": [
                 "unova mirage"
         ]
     },
-    "n788": {
+    {
         "dex": "0649",
         "data": [
                 "unova mirage"
         ]
     },
-    "n789": {
+    {
         "dex": "0650",
         "data": [
                 "kalos", "starter"
         ]
     },
-    "n790": {
+    {
         "dex": "0651",
         "data": [
                 "kalos", "starter"
         ]
     },
-    "n791": {
+    {
         "dex": "0652",
         "data": [
                 "kalos", "starter"
         ]
     },
-    "n792": {
+    {
         "dex": "0653",
         "data": [
                 "kalos", "starter"
         ]
     },
-    "n793": {
+    {
         "dex": "0654",
         "data": [
                 "kalos", "starter"
         ]
     },
-    "n794": {
+    {
         "dex": "0655",
         "data": [
                 "kalos", "starter"
         ]
     },
-    "n795": {
+    {
         "dex": "0656",
         "data": [
                 "kalos", "starter"
         ]
     },
-    "n796": {
+    {
         "dex": "0657",
         "data": [
                 "kalos", "starter"
         ]
     },
-    "n797": {
+    {
         "dex": "0658",
         "data": [
                 "kalos", "starter"
         ]
     },
-    "n798": {
+    {
         "dex": "0658A",
         "data": [
                 "kalos", "starter"
         ]
     },
-    "n799": {
+    {
         "dex": "0659",
         "data": [
                 "kalos"
         ]
     },
-    "n800": {
+    {
         "dex": "0660",
         "data": [
                 "kalos"
         ]
     },
-    "n801": {
+    {
         "dex": "0661",
         "data": [
                 "kalos"
         ]
     },
-    "n802": {
+    {
         "dex": "0662",
         "data": [
                 "kalos"
         ]
     },
-    "n803": {
+    {
         "dex": "0663",
         "data": [
                 "kalos"
         ]
     },
-    "n804": {
+    {
         "dex": "0664",
         "data": [
                 "kalos"
         ]
     },
-    "n805": {
+    {
         "dex": "0665",
         "data": [
                 "kalos"
         ]
     },
-    "n806": {
+    {
         "dex": "0666",
         "data": [
                 "kalos"
         ]
     },
-    "n807": {
+    {
         "dex": "0666A",
         "data": [
                 "kalos"
         ]
     },
-    "n808": {
+    {
         "dex": "0666C",
         "data": [
                 "kalos"
         ]
     },
-    "n809": {
+    {
         "dex": "0666E",
         "data": [
                 "kalos"
         ]
     },
-    "n810": {
+    {
         "dex": "0666F",
         "data": [
                 "kalos"
         ]
     },
-    "n811": {
+    {
         "dex": "0666G",
         "data": [
                 "kalos"
         ]
     },
-    "n812": {
+    {
         "dex": "0666H",
         "data": [
                 "kalos"
         ]
     },
-    "n813": {
+    {
         "dex": "0666I",
         "data": [
                 "kalos"
         ]
     },
-    "n814": {
+    {
         "dex": "0666J",
         "data": [
                 "kalos"
         ]
     },
-    "n815": {
+    {
         "dex": "0666M",
         "data": [
                 "kalos"
         ]
     },
-    "n816": {
+    {
         "dex": "0666M",
         "data": [
                 "kalos"
         ]
     },
-    "n817": {
+    {
         "dex": "0666M",
         "data": [
                 "kalos"
         ]
     },
-    "n818": {
+    {
         "dex": "0666O",
         "data": [
                 "kalos"
         ]
     },
-    "n819": {
+    {
         "dex": "0666P",
         "data": [
                 "kalos"
         ]
     },
-    "n820": {
+    {
         "dex": "0666P",
         "data": [
                 "kalos"
         ]
     },
-    "n821": {
+    {
         "dex": "0666R",
         "data": [
                 "kalos"
         ]
     },
-    "n822": {
+    {
         "dex": "0666S",
         "data": [
                 "kalos"
         ]
     },
-    "n823": {
+    {
         "dex": "0666S",
         "data": [
                 "kalos"
         ]
     },
-    "n824": {
+    {
         "dex": "0666S",
         "data": [
                 "kalos"
         ]
     },
-    "n825": {
+    {
         "dex": "0666T",
         "data": [
                 "kalos"
         ]
     },
-    "n826": {
+    {
         "dex": "0667",
         "data": [
                 "kalos"
         ]
     },
-    "n827": {
+    {
         "dex": "0668",
         "data": [
                 "kalos"
         ]
     },
-    "n828": {
+    {
         "dex": "0668F",
         "data": [
                 "kalos"
         ]
     },
-    "n829": {
+    {
         "dex": "0669",
         "data": [
                 "kalos"
         ]
     },
-    "n830": {
+    {
         "dex": "0669B",
         "data": [
                 "kalos"
         ]
     },
-    "n831": {
+    {
         "dex": "0669Y",
         "data": [
                 "kalos"
         ]
     },
-    "n832": {
+    {
         "dex": "0669O",
         "data": [
                 "kalos"
         ]
     },
-    "n833": {
+    {
         "dex": "0669W",
         "data": [
                 "kalos"
         ]
     },
-    "n834": {
+    {
         "dex": "0670",
         "data": [
                 "kalos"
         ]
     },
-    "n835": {
+    {
         "dex": "0670B",
         "data": [
                 "kalos"
         ]
     },
-    "n836": {
+    {
         "dex": "0670Y",
         "data": [
                 "kalos"
         ]
     },
-    "n837": {
+    {
         "dex": "0670O",
         "data": [
                 "kalos"
         ]
     },
-    "n838": {
+    {
         "dex": "0670W",
         "data": [
                 "kalos"
         ]
     },
-    "n839": {
+    {
         "dex": "0670E",
         "data": [
                 "kalos"
         ]
     },
-    "n840": {
+    {
         "dex": "0671",
         "data": [
                 "kalos"
         ]
     },
-    "n841": {
+    {
         "dex": "0671B",
         "data": [
                 "kalos"
         ]
     },
-    "n842": {
+    {
         "dex": "0671Y",
         "data": [
                 "kalos"
         ]
     },
-    "n843": {
+    {
         "dex": "0671O",
         "data": [
                 "kalos"
         ]
     },
-    "n844": {
+    {
         "dex": "0671W",
         "data": [
                 "kalos"
         ]
     },
-    "n845": {
+    {
         "dex": "0672",
         "data": [
                 "kalos"
         ]
     },
-    "n846": {
+    {
         "dex": "0673",
         "data": [
                 "kalos"
         ]
     },
-    "n847": {
+    {
         "dex": "0674",
         "data": [
                 "kalos"
         ]
     },
-    "n848": {
+    {
         "dex": "0675",
         "data": [
                 "kalos"
         ]
     },
-    "n849": {
+    {
         "dex": "0676",
         "data": [
                 "kalos"
         ]
     },
-    "n850": {
+    {
         "dex": "0676",
         "data": [
                 "kalos"
         ]
     },
-    "n851": {
+    {
         "dex": "0676",
         "data": [
                 "kalos"
         ]
     },
-    "n852": {
+    {
         "dex": "0676",
         "data": [
                 "kalos"
         ]
     },
-    "n853": {
+    {
         "dex": "0676",
         "data": [
                 "kalos"
         ]
     },
-    "n854": {
+    {
         "dex": "0676",
         "data": [
                 "kalos"
         ]
     },
-    "n855": {
+    {
         "dex": "0676",
         "data": [
                 "kalos"
         ]
     },
-    "n856": {
+    {
         "dex": "0676",
         "data": [
                 "kalos"
         ]
     },
-    "n857": {
+    {
         "dex": "0676",
         "data": [
                 "kalos"
         ]
     },
-    "n858": {
+    {
         "dex": "0676",
         "data": [
                 "kalos"
         ]
     },
-    "n859": {
+    {
         "dex": "0677",
         "data": [
                 "kalos"
         ]
     },
-    "n860": {
+    {
         "dex": "0678",
         "data": [
                 "kalos"
         ]
     },
-    "n861": {
+    {
         "dex": "0678F",
         "data": [
                 "kalos"
         ]
     },
-    "n862": {
+    {
         "dex": "0679",
         "data": [
                 "kalos"
         ]
     },
-    "n863": {
+    {
         "dex": "0680",
         "data": [
                 "kalos"
         ]
     },
-    "n864": {
+    {
         "dex": "0681",
         "data": [
                 "kalos"
         ]
     },
-    "n865": {
+    {
         "dex": "0681B",
         "data": [
                 "kalos"
         ]
     },
-    "n866": {
+    {
         "dex": "0682",
         "data": [
                 "kalos"
         ]
     },
-    "n867": {
+    {
         "dex": "0683",
         "data": [
                 "kalos"
         ]
     },
-    "n868": {
+    {
         "dex": "0684",
         "data": [
                 "kalos"
         ]
     },
-    "n869": {
+    {
         "dex": "0685",
         "data": [
                 "kalos"
         ]
     },
-    "n870": {
+    {
         "dex": "0686",
         "data": [
                 "kalos"
         ]
     },
-    "n871": {
+    {
         "dex": "0687",
         "data": [
                 "kalos"
         ]
     },
-    "n872": {
+    {
         "dex": "0688",
         "data": [
                 "kalos"
         ]
     },
-    "n873": {
+    {
         "dex": "0689",
         "data": [
                 "kalos"
         ]
     },
-    "n874": {
+    {
         "dex": "0690",
         "data": [
                 "kalos"
         ]
     },
-    "n875": {
+    {
         "dex": "0691",
         "data": [
                 "kalos"
         ]
     },
-    "n876": {
+    {
         "dex": "0692",
         "data": [
                 "kalos"
         ]
     },
-    "n877": {
+    {
         "dex": "0693",
         "data": [
                 "kalos"
         ]
     },
-    "n878": {
+    {
         "dex": "0694",
         "data": [
                 "kalos"
         ]
     },
-    "n879": {
+    {
         "dex": "0695",
         "data": [
                 "kalos"
         ]
     },
-    "n880": {
+    {
         "dex": "0696",
         "data": [
                 "kalos"
         ]
     },
-    "n881": {
+    {
         "dex": "0697",
         "data": [
                 "kalos"
         ]
     },
-    "n882": {
+    {
         "dex": "0698",
         "data": [
                 "kalos"
         ]
     },
-    "n883": {
+    {
         "dex": "0699",
         "data": [
                 "kalos"
         ]
     },
-    "n884": {
+    {
         "dex": "0700",
         "data": [
                 "kalos", "eevee"
         ]
     },
-    "n885": {
+    {
         "dex": "0701",
         "data": [
                 "kalos"
         ]
     },
-    "n886": {
+    {
         "dex": "0702",
         "data": [
                 "kalos"
         ]
     },
-    "n887": {
+    {
         "dex": "0703",
         "data": [
                 "kalos"
         ]
     },
-    "n888": {
+    {
         "dex": "0704",
         "data": [
                 "kalos", "bs600"
         ]
     },
-    "n889": {
+    {
         "dex": "0705",
         "data": [
                 "kalos", "bs600"
         ]
     },
-    "n890": {
+    {
         "dex": "0706",
         "data": [
                 "kalos", "bs600"
         ]
     },
-    "n891": {
+    {
         "dex": "0707",
         "data": [
                 "kalos"
         ]
     },
-    "n892": {
+    {
         "dex": "0708",
         "data": [
                 "kalos"
         ]
     },
-    "n893": {
+    {
         "dex": "0709",
         "data": [
                 "kalos"
         ]
     },
-    "n894": {
+    {
         "dex": "0710",
         "data": [
                 "kalos"
         ]
     },
-    "n895": {
+    {
         "dex": "0711",
         "data": [
                 "kalos"
         ]
     },
-    "n896": {
+    {
         "dex": "0712",
         "data": [
                 "kalos"
         ]
     },
-    "n897": {
+    {
         "dex": "0713",
         "data": [
                 "kalos"
         ]
     },
-    "n898": {
+    {
         "dex": "0714",
         "data": [
                 "kalos"
         ]
     },
-    "n899": {
+    {
         "dex": "0715",
         "data": [
                 "kalos"
         ]
     },
-    "n900": {
+    {
         "dex": "0716N",
         "data": [
                 "kalos"
         ]
     },
-    "n901": {
+    {
         "dex": "0716",
         "data": [
                 "kalos", "legendary"
         ]
     },
-    "n902": {
+    {
         "dex": "0717",
         "data": [
                 "kalos", "legendary"
         ]
     },
-    "n903": {
+    {
         "dex": "0718T",
         "data": [
                 "kalos", "legendary"
         ]
     },
-    "n904": {
+    {
         "dex": "0718",
         "data": [
                 "kalos", "legendary"
         ]
     },
-    "n905": {
+    {
         "dex": "0718C",
         "data": [
                 "kalos", "legendary"
         ]
     },
-    "n906": {
+    {
         "dex": "0719",
         "data": [
                 "kalos", "mirage"
         ]
     },
-    "n907": {
+    {
         "dex": "0719M",
         "data": [
                 "kalos", "mega", "mirage"
         ]
     },
-    "n908": {
+    {
         "dex": "0720",
         "data": [
                 "kalos", "mirage"
         ]
     },
-    "n909": {
+    {
         "dex": "0720U",
         "data": [
                 "kalos", "mirage"
         ]
     },
-    "n910": {
+    {
         "dex": "0721",
         "data": [
                 "kalos", "mirage"
         ]
     },
-    "n911": {
+    {
         "dex": "0722",
         "data": [
                 "alola", "starter"
         ]
     },
-    "n912": {
+    {
         "dex": "0723",
         "data": [
                 "alola", "starter"
         ]
     },
-    "n913": {
+    {
         "dex": "0724",
         "data": [
                 "alola", "starter"
         ]
     },
-    "n914": {
+    {
         "dex": "0725",
         "data": [
                 "alola", "starter"
         ]
     },
-    "n915": {
+    {
         "dex": "0726",
         "data": [
                 "alola", "starter"
         ]
     },
-    "n916": {
+    {
         "dex": "0727",
         "data": [
                 "alola", "starter"
         ]
     },
-    "n917": {
+    {
         "dex": "0728",
         "data": [
                 "alola", "starter"
         ]
     },
-    "n918": {
+    {
         "dex": "0729",
         "data": [
                 "alola", "starter"
         ]
     },
-    "n919": {
+    {
         "dex": "0730",
         "data": [
                 "alola", "starter"
         ]
     },
-    "n920": {
+    {
         "dex": "0731",
         "data": [
                 "alola"
         ]
     },
-    "n921": {
+    {
         "dex": "0732",
         "data": [
                 "alola"
         ]
     },
-    "n922": {
+    {
         "dex": "0733",
         "data": [
                 "alola"
         ]
     },
-    "n923": {
+    {
         "dex": "0734",
         "data": [
                 "alola"
         ]
     },
-    "n924": {
+    {
         "dex": "0735",
         "data": [
                 "alola"
         ]
     },
-    "n925": {
+    {
         "dex": "0736",
         "data": [
                 "alola"
         ]
     },
-    "n926": {
+    {
         "dex": "0737",
         "data": [
                 "alola"
         ]
     },
-    "n927": {
+    {
         "dex": "0738",
         "data": [
                 "alola"
         ]
     },
-    "n928": {
+    {
         "dex": "0739",
         "data": [
                 "alola"
         ]
     },
-    "n929": {
+    {
         "dex": "0740",
         "data": [
                 "alola"
         ]
     },
-    "n930": {
+    {
         "dex": "0741",
         "data": [
                 "alola"
         ]
     },
-    "n931": {
+    {
         "dex": "0741",
         "data": [
                 "alola"
         ]
     },
-    "n932": {
+    {
         "dex": "0741",
         "data": [
                 "alola"
         ]
     },
-    "n933": {
+    {
         "dex": "0741",
         "data": [
                 "alola"
         ]
     },
-    "n934": {
+    {
         "dex": "0742",
         "data": [
                 "alola"
         ]
     },
-    "n935": {
+    {
         "dex": "0743",
         "data": [
                 "alola"
         ]
     },
-    "n936": {
+    {
         "dex": "0744",
         "data": [
                 "alola"
         ]
     },
-    "n937": {
+    {
         "dex": "0745",
         "data": [
                 "alola"
         ]
     },
-    "n938": {
+    {
         "dex": "0745",
         "data": [
                 "alola"
         ]
     },
-    "n939": {
+    {
         "dex": "0746",
         "data": [
                 "alola"
         ]
     },
-    "n940": {
+    {
         "dex": "0746",
         "data": [
                 "alola"
         ]
     },
-    "n941": {
+    {
         "dex": "0747",
         "data": [
                 "alola"
         ]
     },
-    "n942": {
+    {
         "dex": "0748",
         "data": [
                 "alola"
         ]
     },
-    "n943": {
+    {
         "dex": "0749",
         "data": [
                 "alola"
         ]
     },
-    "n944": {
+    {
         "dex": "0750",
         "data": [
                 "alola"
         ]
     },
-    "n945": {
+    {
         "dex": "0751",
         "data": [
                 "alola"
         ]
     },
-    "n946": {
+    {
         "dex": "0752",
         "data": [
                 "alola"
         ]
     },
-    "n947": {
+    {
         "dex": "0753",
         "data": [
                 "alola"
         ]
     },
-    "n948": {
+    {
         "dex": "0754",
         "data": [
                 "alola"
         ]
     },
-    "n949": {
+    {
         "dex": "0755",
         "data": [
                 "alola"
         ]
     },
-    "n950": {
+    {
         "dex": "0756",
         "data": [
                 "alola"
         ]
     },
-    "n951": {
+    {
         "dex": "0757",
         "data": [
                 "alola"
         ]
     },
-    "n952": {
+    {
         "dex": "0758",
         "data": [
                 "alola"
         ]
     },
-    "n953": {
+    {
         "dex": "0759",
         "data": [
                 "alola"
         ]
     },
-    "n954": {
+    {
         "dex": "0760",
         "data": [
                 "alola"
         ]
     },
-    "n955": {
+    {
         "dex": "0761",
         "data": [
                 "alola"
         ]
     },
-    "n956": {
+    {
         "dex": "0762",
         "data": [
                 "alola"
         ]
     },
-    "n957": {
+    {
         "dex": "0763",
         "data": [
                 "alola"
         ]
     },
-    "n958": {
+    {
         "dex": "0764",
         "data": [
                 "alola"
         ]
     },
-    "n959": {
+    {
         "dex": "0765",
         "data": [
                 "alola"
         ]
     },
-    "n960": {
+    {
         "dex": "0766",
         "data": [
                 "alola"
         ]
     },
-    "n961": {
+    {
         "dex": "0767",
         "data": [
                 "alola"
         ]
     },
-    "n962": {
+    {
         "dex": "0768",
         "data": [
                 "alola"
         ]
     },
-    "n963": {
+    {
         "dex": "0769",
         "data": [
                 "alola"
         ]
     },
-    "n964": {
+    {
         "dex": "0770",
         "data": [
                 "alola"
         ]
     },
-    "n965": {
+    {
         "dex": "0771",
         "data": [
                 "alola"
         ]
     },
-    "n966": {
+    {
         "dex": "0772",
         "data": [
                 "alola"
         ]
     },
-    "n967": {
+    {
         "dex": "0773",
         "data": [
                 "alola"
         ]
     },
-    "n968": {
+    {
         "dex": "0774",
         "data": [
                 "alola"
         ]
     },
-    "n969": {
+    {
         "dex": "0774R",
         "data": [
                 "alola"
         ]
     },
-    "n970": {
+    {
         "dex": "0774O",
         "data": [
                 "alola"
         ]
     },
-    "n971": {
+    {
         "dex": "0774Y",
         "data": [
                 "alola"
         ]
     },
-    "n972": {
+    {
         "dex": "0774G",
         "data": [
                 "alola"
         ]
     },
-    "n973": {
+    {
         "dex": "0774B",
         "data": [
                 "alola"
         ]
     },
-    "n974": {
+    {
         "dex": "0774I",
         "data": [
                 "alola"
         ]
     },
-    "n975": {
+    {
         "dex": "0774V",
         "data": [
                 "alola"
         ]
     },
-    "n976": {
+    {
         "dex": "0775",
         "data": [
                 "alola"
         ]
     },
-    "n977": {
+    {
         "dex": "0776",
         "data": [
                 "alola"
         ]
     },
-    "n978": {
+    {
         "dex": "0777",
         "data": [
                 "alola"
         ]
     },
-    "n979": {
+    {
         "dex": "0778",
         "data": [
                 "alola"
         ]
     },
-    "n980": {
+    {
         "dex": "0779",
         "data": [
                 "alola"
         ]
     },
-    "n981": {
+    {
         "dex": "0780",
         "data": [
                 "alola"
         ]
     },
-    "n982": {
+    {
         "dex": "0781",
         "data": [
                 "alola"
         ]
     },
-    "n983": {
+    {
         "dex": "0782",
         "data": [
                 "alola", "bs600"
         ]
     },
-    "n984": {
+    {
         "dex": "0783",
         "data": [
                 "alola", "bs600"
         ]
     },
-    "n985": {
+    {
         "dex": "0784",
         "data": [
                 "alola", "bs600"
         ]
     },
-    "n986": {
+    {
         "dex": "0785",
         "data": [
                 "alola", "trio"
         ]
     },
-    "n987": {
+    {
         "dex": "0786",
         "data": [
                 "alola", "trio"
         ]
     },
-    "n988": {
+    {
         "dex": "0787",
         "data": [
                 "alola", "trio"
         ]
     },
-    "n989": {
+    {
         "dex": "0788",
         "data": [
                 "alola", "trio"
         ]
     },
-    "n990": {
+    {
         "dex": "0789",
         "data": [
                 "alola"
         ]
     },
-    "n991": {
+    {
         "dex": "0790",
         "data": [
                 "alola"
         ]
     },
-    "n992": {
+    {
         "dex": "0791",
         "data": [
                 "alola", "legendary"
         ]
     },
-    "n993": {
+    {
         "dex": "0792",
         "data": [
                 "alola", "legendary"
         ]
     },
-    "n994": {
+    {
         "dex": "0793",
         "data": [
                 "alola", "UB"
         ]
     },
-    "n995": {
+    {
         "dex": "0794",
         "data": [
                 "alola", "UB"
         ]
     },
-    "n996": {
+    {
         "dex": "0795",
         "data": [
                 "alola", "UB"
         ]
     },
-    "n997": {
+    {
         "dex": "0796",
         "data": [
                 "alola", "UB"
         ]
     },
-    "n998": {
+    {
         "dex": "0797",
         "data": [
                 "alola", "UB"
         ]
     },
-    "n999": {
+    {
         "dex": "0798",
         "data": [
                 "alola", "UB"
         ]
     },
-    "n1000": {
+    {
         "dex": "0799",
         "data": [
                 "alola", "UB"
         ]
     },
-    "n1001": {
+    {
         "dex": "0800",
         "data": [
                 "alola", "legendary"
         ]
     },
-    "n1002": {
+    {
         "dex": "0801",
         "data": [
                 "alola", "mirage"
         ]
     },
-    "n1003": {
+    {
         "dex": "0801O",
         "data": [
                 "alola", "mirage"
         ]
     },
-    "n1004": {
+    {
         "dex": "0802",
         "data": [
                 "alola"
         ]
     }
-}]
+]
