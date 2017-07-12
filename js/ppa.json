@@ -1,6 +1,6 @@
 {
     "0": {
-        "dex": "Egg",
+        "dex": "",
         "data": [
                 ""
         ]
@@ -1184,55 +1184,55 @@
     "197": {
         "dex": "152",
         "data": [
-                "johto", starter"
+                "johto", "starter"
         ]
     },
     "198": {
         "dex": "153",
         "data": [
-                "johto", starter"
+                "johto", "starter"
         ]
     },
     "199": {
         "dex": "154",
         "data": [
-                "johto", starter"
+                "johto", "starter"
         ]
     },
     "200": {
         "dex": "155",
         "data": [
-                "johto", starter"
+                "johto", "starter"
         ]
     },
     "201": {
         "dex": "156",
         "data": [
-                "johto", starter"
+                "johto", "starter"
         ]
     },
     "202": {
         "dex": "157",
         "data": [
-                "johto", starter"
+                "johto", "starter"
         ]
     },
     "203": {
         "dex": "158",
         "data": [
-                "johto", starter"
+                "johto", "starter"
         ]
     },
     "204": {
         "dex": "159",
         "data": [
-                "johto", starter"
+                "johto", "starter"
         ]
     },
     "205": {
         "dex": "160",
         "data": [
-                "johto", starter"
+                "johto", "starter"
         ]
     },
     "206": {
@@ -1364,7 +1364,7 @@
     "227": {
         "dex": "181M",
         "data": [
-                "johto", mega"
+                "johto", "mega"
         ]
     },
     "228": {
@@ -1454,13 +1454,13 @@
     "242": {
         "dex": "196",
         "data": [
-                "johto", eevee"
+                "johto", "eevee"
         ]
     },
     "243": {
         "dex": "197",
         "data": [
-                "johto", eevee"
+                "johto", "eevee"
         ]
     },
     "244": {
@@ -1484,169 +1484,169 @@
     "247": {
         "dex": "201",
         "data": [
-                "johto", unown"
+                "johto", "unown"
         ]
     },
     "248": {
         "dex": "201B",
         "data": [
-                "johto", unown"
+                "johto", "unown"
         ]
     },
     "249": {
         "dex": "201C",
         "data": [
-                "johto", unown"
+                "johto", "unown"
         ]
     },
     "250": {
         "dex": "201D",
         "data": [
-                "johto", unown"
+                "johto", "unown"
         ]
     },
     "251": {
         "dex": "201E",
         "data": [
-                "johto", unown"
+                "johto", "unown"
         ]
     },
     "252": {
         "dex": "201F",
         "data": [
-                "johto", unown"
+                "johto", "unown"
         ]
     },
     "253": {
         "dex": "201G",
         "data": [
-                "johto", unown"
+                "johto", "unown"
         ]
     },
     "254": {
         "dex": "201H",
         "data": [
-                "johto", unown"
+                "johto", "unown"
         ]
     },
     "255": {
         "dex": "201I",
         "data": [
-                "johto", unown"
+                "johto", "unown"
         ]
     },
     "256": {
         "dex": "201J",
         "data": [
-                "johto", unown"
+                "johto", "unown"
         ]
     },
     "257": {
         "dex": "201K",
         "data": [
-                "johto", unown"
+                "johto", "unown"
         ]
     },
     "258": {
         "dex": "201L",
         "data": [
-                "johto", unown"
+                "johto", "unown"
         ]
     },
     "259": {
         "dex": "201M",
         "data": [
-                "johto", unown"
+                "johto", "unown"
         ]
     },
     "260": {
         "dex": "201N",
         "data": [
-                "johto", unown"
+                "johto", "unown"
         ]
     },
     "261": {
         "dex": "201O",
         "data": [
-                "johto", unown"
+                "johto", "unown"
         ]
     },
     "262": {
         "dex": "201P",
         "data": [
-                "johto", unown"
+                "johto", "unown"
         ]
     },
     "263": {
         "dex": "201Q",
         "data": [
-                "johto", unown"
+                "johto", "unown"
         ]
     },
     "264": {
         "dex": "201R",
         "data": [
-                "johto", unown"
+                "johto", "unown"
         ]
     },
     "265": {
         "dex": "201S",
         "data": [
-                "johto", unown"
+                "johto", "unown"
         ]
     },
     "266": {
         "dex": "201T",
         "data": [
-                "johto", unown"
+                "johto", "unown"
         ]
     },
     "267": {
         "dex": "201U",
         "data": [
-                "johto", unown"
+                "johto", "unown"
         ]
     },
     "268": {
         "dex": "201V",
         "data": [
-                "johto", unown"
+                "johto", "unown"
         ]
     },
     "269": {
         "dex": "201W",
         "data": [
-                "johto", unown"
+                "johto", "unown"
         ]
     },
     "270": {
         "dex": "201X",
         "data": [
-                "johto", unown"
+                "johto", "unown"
         ]
     },
     "271": {
         "dex": "201Y",
         "data": [
-                "johto", unown"
+                "johto", "unown"
         ]
     },
     "272": {
         "dex": "201Z",
         "data": [
-                "johto", unown"
+                "johto", "unown"
         ]
     },
     "273": {
         "dex": "201Ex",
         "data": [
-                "johto", unown"
+                "johto", "unown"
         ]
     },
     "274": {
         "dex": "201Qu",
         "data": [
-                "johto", unown"
+                "johto", "unown"
         ]
     },
     "275": {
@@ -1694,7 +1694,7 @@
     "282": {
         "dex": "208M",
         "data": [
-                "johto", mega"
+                "johto", "mega"
         ]
     },
     "283": {
@@ -1724,7 +1724,7 @@
     "287": {
         "dex": "212M",
         "data": [
-                "johto", mega"
+                "johto", "mega"
         ]
     },
     "288": {
@@ -1742,7 +1742,7 @@
     "290": {
         "dex": "214M",
         "data": [
-                "johto", mega"
+                "johto", "mega"
         ]
     },
     "291": {
@@ -1838,7 +1838,7 @@
     "306": {
         "dex": "229M",
         "data": [
-                "johto", mega"
+                "johto", "mega"
         ]
     },
     "307": {
@@ -1922,61 +1922,61 @@
     "320": {
         "dex": "243",
         "data": [
-                "johto", trio"
+                "johto", "trio"
         ]
     },
     "321": {
         "dex": "244",
         "data": [
-                "johto", trio"
+                "johto", "trio"
         ]
     },
     "322": {
         "dex": "245",
         "data": [
-                "johto", trio"
+                "johto", "trio"
         ]
     },
     "323": {
         "dex": "246",
         "data": [
-                "johto", bs600"
+                "johto", "bs600"
         ]
     },
     "324": {
         "dex": "247",
         "data": [
-                "johto", bs600"
+                "johto", "bs600"
         ]
     },
     "325": {
         "dex": "248",
         "data": [
-                "johto", bs600"
+                "johto", "bs600"
         ]
     },
     "326": {
         "dex": "248M",
         "data": [
-                "johto", mega"
+                "johto", "mega"
         ]
     },
     "327": {
         "dex": "249",
         "data": [
-                "johto", legendary"
+                "johto", "legendary"
         ]
     },
     "328": {
         "dex": "250",
         "data": [
-                "johto", legendary"
+                "johto", "legendary"
         ]
     },
     "329": {
         "dex": "251",
         "data": [
-                "johto", mirage"
+                "johto", "mirage"
         ]
     },
     "330": {
