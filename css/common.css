@@ -1,4 +1,4 @@
-/* Google Fonts */
+/* Fonts */
 	@import url(https://fonts.googleapis.com/css?family=Quicksand);
 	@import url(https://fonts.googleapis.com/earlyaccess/roundedmplus1c.css);
 
@@ -6,16 +6,15 @@
 	* {
 		margin: 0;
 		outline: none;
+		font-family: 'Rounded Mplus 1c';
 	}
 	body {
 		user-select: none;
 		text-align: center;
 		background: rgba(236, 239, 241, 1);
-		font-family: "Rounded Mplus 1c";
 	}
 	input, select {
 		border: none;
-		font-family: "Rounded Mplus 1c";
 		font-size: 16px;
 	}
 	a { color: #fff; }
