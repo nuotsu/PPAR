@@ -237,4 +237,10 @@ $(function(){
 		$('.markings span').on('click', function() {
 			this.className = steps[($.inArray(this.className, steps) + 1) % steps.length]
 		})
+
+	// Calculate remaning EV
+		$('#calcEV').change(function() {
+			$('#sos').html( Math.floor($(this).val() / 18) )
+			$('#remainder').html( $(this).val() % 18 )
+		})
 })

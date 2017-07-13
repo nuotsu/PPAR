@@ -10,6 +10,6 @@ $(function() {
 		'Egg']
 	randFavicon = favicon[Math.floor(Math.random() * favicon.length)]
 	$('head #randFavicon').attr({
-		'href': 'images/ppa/' + randFavicon + 'MS.png'
+		'href': 'images/ppa/0' + randFavicon + '_PPA.png'
 	})
 })
