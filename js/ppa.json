@@ -1,11 +1,5 @@
 [
     {
-        "dex": "Egg",
-        "data": [
-                ""
-        ]
-    },
-    {
         "dex": "0001",
         "data": [
                 "kanto", "starter"
@@ -5100,55 +5094,55 @@
         ]
     },
     {
-        "dex": "0676",
+        "dex": "0676Da",
         "data": [
                 "kalos"
         ]
     },
     {
-        "dex": "0676",
+        "dex": "0676De",
         "data": [
                 "kalos"
         ]
     },
     {
-        "dex": "0676",
+        "dex": "0676Di",
         "data": [
                 "kalos"
         ]
     },
     {
-        "dex": "0676",
+        "dex": "0676He",
         "data": [
                 "kalos"
         ]
     },
     {
-        "dex": "0676",
+        "dex": "0676Ka",
         "data": [
                 "kalos"
         ]
     },
     {
-        "dex": "0676",
+        "dex": "0676La",
         "data": [
                 "kalos"
         ]
     },
     {
-        "dex": "0676",
+        "dex": "0676Ma",
         "data": [
                 "kalos"
         ]
     },
     {
-        "dex": "0676",
+        "dex": "0676Ph",
         "data": [
                 "kalos"
         ]
     },
     {
-        "dex": "0676",
+        "dex": "0676Ph",
         "data": [
                 "kalos"
         ]
@@ -5586,19 +5580,19 @@
         ]
     },
     {
-        "dex": "0741",
+        "dex": "0741Po",
         "data": [
                 "alola"
         ]
     },
     {
-        "dex": "0741",
+        "dex": "0741Pa",
         "data": [
                 "alola"
         ]
     },
     {
-        "dex": "0741",
+        "dex": "0741Se",
         "data": [
                 "alola"
         ]
@@ -5628,7 +5622,7 @@
         ]
     },
     {
-        "dex": "0745",
+        "dex": "0745Mn",
         "data": [
                 "alola"
         ]
@@ -5640,7 +5634,7 @@
         ]
     },
     {
-        "dex": "0746",
+        "dex": "0746Sc",
         "data": [
                 "alola"
         ]
@@ -6027,6 +6021,11 @@
         "dex": "0802",
         "data": [
                 "alola"
+        ]
+    },{
+        "dex": "Egg",
+        "data": [
+                ""
         ]
     }
 ]
