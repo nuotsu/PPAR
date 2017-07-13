@@ -1,6 +1,6 @@
 $(function() {
 	// load ppaJSON
-		$.getJSON('https://nuotsu.github.io/PPAR/js/ppa.json', function(ppaJSON) {
+		$.getJSON('js/ppa.json', function(ppaJSON) {
             for (var i in ppaJSON) {
 				$('.wallpaper').append(
 					'<img src="images/ppa/' + ppaJSON[i].dex + '_PPA.png" ' +
