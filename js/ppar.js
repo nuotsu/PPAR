@@ -1,9 +1,9 @@
 $(function() {
 	// load ppaJSON
-		$.getJSON('js/ppa.json', function(ppaJSON) {
+		$.getJSON('../js/ppa.json', function(ppaJSON) {
             for (var i in ppaJSON) {
 				$('.wallpaper').append(
-					'<img src="images/ppa/' + ppaJSON[i].dex + '_PPA.png" ' +
+					'<img src="../images/ppa/' + ppaJSON[i].dex + '_PPA.png" ' +
 					'data-collection="' + ppaJSON[i].data.join(' ') + '">\n'
 				);
             }
@@ -75,14 +75,12 @@ $(function() {
 	// Fullscreen Preview
 		fullscreen = false;
 		$('#FS_BG').hide();
-		$('#FS_BG, #FS_exit').css({
-			'z-index': $('.wallpaper img').length
-		});
 		init_width = $('#FS_BG').width();
 		$('.wallpaper').click(function() {
 			fullscreen = true;
 			$('#previewId').remove();
 			$('#FS_BG').css({
+				'z-index': $('.wallpaper img').length,
 				'width': init_width
 			});
 			$('#FS_BG').fadeIn(500);

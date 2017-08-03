@@ -1,3 +1,8 @@
+/* Variables */
+	:root {
+		--ppar-blur: blur(20px);
+	}
+
 /* Loader */
 	#loader {
 		pointer-events: none;
@@ -31,7 +36,7 @@
 		position: fixed;
 		left: 0;	right: 0;
 		top: 0;		bottom: 0;
-		background: rgba(0, 0, 0, 0.95);
+		background: rgba(0, 0, 0, 0.8);
 	}
 	#FS_exit {
 		cursor: pointer;
@@ -50,14 +55,10 @@
 	}
 
 /* Canvas */
-	.result {
-		position: relative;
-		margin: 0 0 15px 0;
-	}
+	.result { margin: 0 0 15px 0; }
 	.result canvas {
 		margin: 10px;
-		max-width: 300px;
-		max-height: 300px;
+		max-width: 300px;	max-height: 300px;
 		vertical-align: middle;
 	}
 	#save { margin: 5px; }
@@ -115,19 +116,32 @@
 		background: none;
 	}
 
-.hideRest {
+	.hideRest {
 		cursor: pointer;
 		display: inline-block;
 		transition: opacity 0.3s ease-in-out;
 	}
 	/* Buttons */
-		#bg_img.btn_color { background: #AA00FF; }
-		#randomize.btn_color { background: #2196F3; }
-		#organize.btn_color { background: #D50000; }
-		#locate.btn_color {
+		#bg_img { background: #AA00FF; }
+		#randomize { background: #2196F3; }
+		#organize { background: #D50000; }
+		#locate {
 			background: #FFD600;
 			color: #000;}
-		#showAll.btn_color { background: #00C853; }
-		#save.btn_color {
+		#showAll { background: #00C853; }
+		#save {
 			background: #CFD8DC;
 			color: #000;}
+
+@supports
+    (-webkit-backdrop-filter: var(--ppar-blur)) or
+    (-moz-backdrop-filter: var(--ppar-blur)) or
+    (backdrop-filter: var(--ppar-blur)) {
+    #FS_BG {
+        -webkit-backdrop-filter: var(--ppar-blur);
+        -moz-backdrop-filter: var(--ppar-blur);
+        backdrop-filter: var(--ppar-blur);
+        background: rgba(0, 0, 0, 0);
+		/* box-shadow: none; */
+    }
+}
