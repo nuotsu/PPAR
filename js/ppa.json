@@ -1,4022 +1,5027 @@
 [
     {
         "dex": "0001",
+        "name": "Bulbasaur",
         "data": ["kanto", "starter"]
     },
     {
         "dex": "0002",
+        "name": "",
         "data": ["kanto", "starter"]
     },
     {
         "dex": "0003",
+        "name": "",
         "data": ["kanto", "starter"]
     },
     {
         "dex": "0003M",
+        "name": "",
         "data": ["kanto", "mega", "starter"]
     },
     {
         "dex": "0004",
+        "name": "",
         "data": ["kanto", "starter"]
     },
     {
         "dex": "0005",
+        "name": "",
         "data": ["kanto", "starter"]
     },
     {
         "dex": "0006",
+        "name": "",
         "data": ["kanto", "starter"]
     },
     {
         "dex": "0006MX",
+        "name": "",
         "data": ["kanto", "mega", "starter"]
     },
     {
         "dex": "0006MY",
+        "name": "",
         "data": ["kanto", "mega", "starter"]
     },
     {
         "dex": "0007",
+        "name": "",
         "data": ["kanto", "starter"]
     },
     {
         "dex": "0008",
+        "name": "",
         "data": ["kanto", "starter"]
     },
     {
         "dex": "0009",
+        "name": "",
         "data": ["kanto", "starter"]
     },
     {
         "dex": "0009M",
+        "name": "",
         "data": ["kanto", "mega", "starter"]
     },
     {
         "dex": "0010",
+        "name": "",
         "data": ["kanto"]
     },
     {
         "dex": "0011",
+        "name": "",
         "data": ["kanto"]
     },
     {
         "dex": "0012",
+        "name": "",
         "data": ["kanto"]
     },
     {
         "dex": "0013",
+        "name": "",
         "data": ["kanto"]
     },
     {
         "dex": "0014",
+        "name": "",
         "data": ["kanto"]
     },
     {
         "dex": "0015",
+        "name": "",
         "data": ["kanto"]
     },
     {
         "dex": "0016",
+        "name": "",
         "data": ["kanto"]
     },
     {
         "dex": "0017",
+        "name": "",
         "data": ["kanto"]
     },
     {
         "dex": "0018",
+        "name": "",
         "data": ["kanto"]
     },
     {
         "dex": "0018M",
+        "name": "",
         "data": ["kanto", "mega"]
     },
     {
         "dex": "0019",
+        "name": "",
         "data": ["kanto"]
     },
     {
         "dex": "0019A",
+        "name": "",
         "data": ["kanto", "rf"]
     },
     {
         "dex": "0020",
+        "name": "",
         "data": ["kanto"]
     },
     {
         "dex": "0020A",
+        "name": "",
         "data": ["kanto", "rf"]
     },
     {
         "dex": "0021",
+        "name": "",
         "data": ["kanto"]
     },
     {
         "dex": "0022",
+        "name": "",
         "data": ["kanto"]
     },
     {
         "dex": "0023",
+        "name": "",
         "data": ["kanto"]
     },
     {
         "dex": "0024",
+        "name": "",
         "data": ["kanto"]
     },
     {
         "dex": "0025",
+        "name": "",
         "data": ["kanto"]
     },
     {
         "dex": "0025Co",
+        "name": "",
         "data": ["kanto"]
     },
     {
         "dex": "0025Ro",
+        "name": "",
         "data": ["kanto"]
     },
     {
         "dex": "0025Po",
+        "name": "",
         "data": ["kanto"]
     },
     {
         "dex": "0025Be",
+        "name": "",
         "data": ["kanto"]
     },
     {
         "dex": "0025Ph",
+        "name": "",
         "data": ["kanto"]
     },
     {
         "dex": "0025Li",
+        "name": "",
         "data": ["kanto"]
     },
     {
         "dex": "0025O",
+        "name": "",
         "data": ["kanto"]
     },
     {
         "dex": "0025H",
+        "name": "",
         "data": ["kanto"]
     },
     {
         "dex": "0025S",
+        "name": "",
         "data": ["kanto"]
     },
     {
         "dex": "0025U",
+        "name": "",
         "data": ["kanto"]
     },
     {
         "dex": "0025K",
+        "name": "",
         "data": ["kanto"]
     },
     {
         "dex": "0025A",
+        "name": "",
         "data": ["kanto"]
     },
     {
         "dex": "0026",
+        "name": "",
         "data": ["kanto"]
     },
     {
         "dex": "0026A",
+        "name": "",
         "data": ["kanto", "rf"]
     },
     {
         "dex": "0027",
+        "name": "",
         "data": ["kanto"]
     },
     {
         "dex": "0027A",
+        "name": "",
         "data": ["kanto", "rf"]
     },
     {
         "dex": "0028",
+        "name": "",
         "data": ["kanto"]
     },
     {
         "dex": "0028A",
+        "name": "",
         "data": ["kanto", "rf"]
     },
     {
         "dex": "0029",
+        "name": "",
         "data": ["kanto"]
     },
     {
         "dex": "0030",
+        "name": "",
         "data": ["kanto"]
     },
     {
         "dex": "0031",
+        "name": "",
         "data": ["kanto"]
     },
     {
         "dex": "0032",
+        "name": "",
         "data": ["kanto"]
     },
     {
         "dex": "0033",
+        "name": "",
         "data": ["kanto"]
     },
     {
         "dex": "0034",
+        "name": "",
         "data": ["kanto"]
     },
     {
         "dex": "0035",
+        "name": "",
         "data": ["kanto"]
     },
     {
         "dex": "0036",
+        "name": "",
         "data": ["kanto"]
     },
     {
         "dex": "0037",
+        "name": "",
         "data": ["kanto"]
     },
     {
         "dex": "0037A",
+        "name": "",
         "data": ["kanto", "rf"]
     },
     {
         "dex": "0038",
+        "name": "",
         "data": ["kanto"]
     },
     {
         "dex": "0038A",
+        "name": "",
         "data": ["kanto", "rf"]
     },
     {
         "dex": "0039",
+        "name": "",
         "data": ["kanto"]
     },
     {
         "dex": "0040",
+        "name": "",
         "data": ["kanto"]
     },
     {
         "dex": "0041",
+        "name": "",
         "data": ["kanto"]
     },
     {
         "dex": "0042",
+        "name": "",
         "data": ["kanto"]
     },
     {
         "dex": "0043",
+        "name": "",
         "data": ["kanto"]
     },
     {
         "dex": "0044",
+        "name": "",
         "data": ["kanto"]
     },
     {
         "dex": "0045",
+        "name": "",
         "data": ["kanto"]
     },
     {
         "dex": "0046",
+        "name": "",
         "data": ["kanto"]
     },
     {
         "dex": "0047",
+        "name": "",
         "data": ["kanto"]
     },
     {
         "dex": "0048",
+        "name": "",
         "data": ["kanto"]
     },
     {
         "dex": "0049",
+        "name": "",
         "data": ["kanto"]
     },
     {
         "dex": "0050",
+        "name": "",
         "data": ["kanto"]
     },
     {
         "dex": "0050A",
+        "name": "",
         "data": ["kanto", "rf"]
     },
     {
         "dex": "0051",
+        "name": "",
         "data": ["kanto"]
     },
     {
         "dex": "0051A",
+        "name": "",
         "data": ["kanto", "rf"]
     },
     {
         "dex": "0052",
+        "name": "",
         "data": ["kanto"]
     },
     {
         "dex": "0052A",
+        "name": "",
         "data": ["kanto", "rf"]
     },
     {
         "dex": "0053",
+        "name": "",
         "data": ["kanto"]
     },
     {
         "dex": "0053A",
+        "name": "",
         "data": ["kanto", "rf"]
     },
     {
         "dex": "0054",
+        "name": "",
         "data": ["kanto"]
     },
     {
         "dex": "0055",
+        "name": "",
         "data": ["kanto"]
     },
     {
         "dex": "0056",
+        "name": "",
         "data": ["kanto"]
     },
     {
         "dex": "0057",
+        "name": "",
         "data": ["kanto"]
     },
     {
         "dex": "0058",
+        "name": "",
         "data": ["kanto"]
     },
     {
         "dex": "0059",
+        "name": "",
         "data": ["kanto"]
     },
     {
         "dex": "0060",
+        "name": "",
         "data": ["kanto"]
     },
     {
         "dex": "0061",
+        "name": "",
         "data": ["kanto"]
     },
     {
         "dex": "0062",
+        "name": "",
         "data": ["kanto"]
     },
     {
         "dex": "0063",
+        "name": "",
         "data": ["kanto"]
     },
     {
         "dex": "0064",
+        "name": "",
         "data": ["kanto"]
     },
     {
         "dex": "0065",
+        "name": "",
         "data": ["kanto"]
     },
     {
         "dex": "0065M",
+        "name": "",
         "data": ["kanto", "mega"]
     },
     {
         "dex": "0066",
+        "name": "",
         "data": ["kanto"]
     },
     {
         "dex": "0067",
+        "name": "",
         "data": ["kanto"]
     },
     {
         "dex": "0068",
+        "name": "",
         "data": ["kanto"]
     },
     {
         "dex": "0069",
+        "name": "",
         "data": ["kanto"]
     },
     {
         "dex": "0070",
+        "name": "",
         "data": ["kanto"]
     },
     {
         "dex": "0071",
+        "name": "",
         "data": ["kanto"]
     },
     {
         "dex": "0072",
+        "name": "",
         "data": ["kanto"]
     },
     {
         "dex": "0073",
+        "name": "",
         "data": ["kanto"]
     },
     {
         "dex": "0074",
+        "name": "",
         "data": ["kanto"]
     },
     {
         "dex": "0074A",
+        "name": "",
         "data": ["kanto", "rf"]
     },
     {
         "dex": "0075",
+        "name": "",
         "data": ["kanto"]
     },
     {
         "dex": "0075A",
+        "name": "",
         "data": ["kanto", "rf"]
     },
     {
         "dex": "0076",
+        "name": "",
         "data": ["kanto"]
     },
     {
         "dex": "0076A",
+        "name": "",
         "data": ["kanto", "rf"]
     },
     {
         "dex": "0077",
+        "name": "",
         "data": ["kanto"]
     },
     {
         "dex": "0078",
+        "name": "",
         "data": ["kanto"]
     },
     {
         "dex": "0079",
+        "name": "",
         "data": ["kanto"]
     },
     {
         "dex": "0080",
+        "name": "",
         "data": ["kanto"]
     },
     {
         "dex": "0080M",
+        "name": "",
         "data": ["kanto", "mega"]
     },
     {
         "dex": "0081",
+        "name": "",
         "data": ["kanto"]
     },
     {
         "dex": "0082",
+        "name": "",
         "data": ["kanto"]
     },
     {
         "dex": "0083",
+        "name": "",
         "data": ["kanto"]
     },
     {
         "dex": "0084",
+        "name": "",
         "data": ["kanto"]
     },
     {
         "dex": "0085",
+        "name": "",
         "data": ["kanto"]
     },
     {
         "dex": "0086",
+        "name": "",
         "data": ["kanto"]
     },
     {
         "dex": "0087",
+        "name": "",
         "data": ["kanto"]
     },
     {
         "dex": "0088",
+        "name": "",
         "data": ["kanto"]
     },
     {
         "dex": "0088A",
+        "name": "",
         "data": ["kanto", "rf"]
     },
     {
         "dex": "0089",
+        "name": "",
         "data": ["kanto"]
     },
     {
         "dex": "0089A",
+        "name": "",
         "data": ["kanto", "rf"]
     },
     {
         "dex": "0090",
+        "name": "",
         "data": ["kanto"]
     },
     {
         "dex": "0091",
+        "name": "",
         "data": ["kanto"]
     },
     {
         "dex": "0092",
+        "name": "",
         "data": ["kanto"]
     },
     {
         "dex": "0093",
+        "name": "",
         "data": ["kanto"]
     },
     {
         "dex": "0094",
+        "name": "",
         "data": ["kanto"]
     },
     {
         "dex": "0094M",
+        "name": "",
         "data": ["kanto", "mega"]
     },
     {
         "dex": "0095",
+        "name": "",
         "data": ["kanto"]
     },
     {
         "dex": "0096",
+        "name": "",
         "data": ["kanto"]
     },
     {
         "dex": "0097",
+        "name": "",
         "data": ["kanto"]
     },
     {
         "dex": "0098",
+        "name": "",
         "data": ["kanto"]
     },
     {
         "dex": "0099",
+        "name": "",
         "data": ["kanto"]
     },
     {
         "dex": "0100",
+        "name": "",
         "data": ["kanto"]
     },
     {
         "dex": "0101",
+        "name": "",
         "data": ["kanto"]
     },
     {
         "dex": "0102",
+        "name": "",
         "data": ["kanto"]
     },
     {
         "dex": "0103",
+        "name": "",
         "data": ["kanto"]
     },
     {
         "dex": "0103A",
+        "name": "",
         "data": ["kanto", "rf"]
     },
     {
         "dex": "0104",
+        "name": "",
         "data": ["kanto"]
     },
     {
         "dex": "0105",
+        "name": "",
         "data": ["kanto"]
     },
     {
         "dex": "0105A",
+        "name": "",
         "data": ["kanto", "rf"]
     },
     {
         "dex": "0106",
+        "name": "",
         "data": ["kanto"]
     },
     {
         "dex": "0107",
+        "name": "",
         "data": ["kanto"]
     },
     {
         "dex": "0108",
+        "name": "",
         "data": ["kanto"]
     },
     {
         "dex": "0109",
+        "name": "",
         "data": ["kanto"]
     },
     {
         "dex": "0110",
+        "name": "",
         "data": ["kanto"]
     },
     {
         "dex": "0111",
+        "name": "",
         "data": ["kanto"]
     },
     {
         "dex": "0112",
+        "name": "",
         "data": ["kanto"]
     },
     {
         "dex": "0113",
+        "name": "",
         "data": ["kanto"]
     },
     {
         "dex": "0114",
+        "name": "",
         "data": ["kanto"]
     },
     {
         "dex": "0115",
+        "name": "",
         "data": ["kanto"]
     },
     {
         "dex": "0116",
+        "name": "",
         "data": ["kanto"]
     },
     {
         "dex": "0117",
+        "name": "",
         "data": ["kanto"]
     },
     {
         "dex": "0118",
+        "name": "",
         "data": ["kanto"]
     },
     {
         "dex": "0119",
+        "name": "",
         "data": ["kanto"]
     },
     {
         "dex": "0120",
+        "name": "",
         "data": ["kanto"]
     },
     {
         "dex": "0121",
+        "name": "",
         "data": ["kanto"]
     },
     {
         "dex": "0122",
+        "name": "",
         "data": ["kanto"]
     },
     {
         "dex": "0123",
+        "name": "",
         "data": ["kanto"]
     },
     {
         "dex": "0124",
+        "name": "",
         "data": ["kanto"]
     },
     {
         "dex": "0125",
+        "name": "",
         "data": ["kanto"]
     },
     {
         "dex": "0126",
+        "name": "",
         "data": ["kanto"]
     },
     {
         "dex": "0127",
+        "name": "",
         "data": ["kanto"]
     },
     {
         "dex": "0127M",
+        "name": "",
         "data": ["kanto", "mega"]
     },
     {
         "dex": "0128",
+        "name": "",
         "data": ["kanto"]
     },
     {
         "dex": "0129",
+        "name": "",
         "data": ["kanto"]
     },
     {
         "dex": "0129s",
+        "name": "",
         "data": ["kanto"]
     },
     {
         "dex": "0130",
+        "name": "",
         "data": ["kanto"]
     },
     {
         "dex": "0130s",
+        "name": "",
         "data": ["kanto"]
     },
     {
         "dex": "0130M",
+        "name": "",
         "data": ["kanto", "mega"]
     },
     {
         "dex": "0131",
+        "name": "",
         "data": ["kanto"]
     },
     {
         "dex": "0132",
+        "name": "",
         "data": ["kanto"]
     },
     {
         "dex": "0133",
+        "name": "",
         "data": ["kanto", "eevee"]
     },
     {
         "dex": "0134",
+        "name": "",
         "data": ["kanto", "eevee"]
     },
     {
         "dex": "0135",
+        "name": "",
         "data": ["kanto", "eevee"]
     },
     {
         "dex": "0136",
+        "name": "",
         "data": ["kanto", "eevee"]
     },
     {
         "dex": "0137",
+        "name": "",
         "data": ["kanto"]
     },
     {
         "dex": "0138",
+        "name": "",
         "data": ["kanto"]
     },
     {
         "dex": "0139",
+        "name": "",
         "data": ["kanto"]
     },
     {
         "dex": "0140",
+        "name": "",
         "data": ["kanto"]
     },
     {
         "dex": "0141",
+        "name": "",
         "data": ["kanto"]
     },
     {
         "dex": "0142",
+        "name": "",
         "data": ["kanto"]
     },
     {
         "dex": "0142M",
+        "name": "",
         "data": ["kanto", "mega"]
     },
     {
         "dex": "0143",
+        "name": "",
         "data": ["kanto"]
     },
     {
         "dex": "0144",
+        "name": "",
         "data": ["kanto", "trio"]
     },
     {
         "dex": "0145",
+        "name": "",
         "data": ["kanto", "trio"]
     },
     {
         "dex": "0146",
+        "name": "",
         "data": ["kanto", "trio"]
     },
     {
         "dex": "0147",
+        "name": "",
         "data": ["kanto", "bs600"]
     },
     {
         "dex": "0148",
+        "name": "",
         "data": ["kanto", "bs600"]
     },
     {
         "dex": "0149",
+        "name": "",
         "data": ["kanto", "bs600"]
     },
     {
         "dex": "0150",
+        "name": "",
         "data": ["kanto", "legendary"]
     },
     {
         "dex": "0150MX",
+        "name": "",
         "data": ["kanto", "mega"]
     },
     {
         "dex": "0150MY",
+        "name": "",
         "data": ["kanto", "mega"]
     },
     {
         "dex": "0151",
+        "name": "",
         "data": ["kanto", "mirage"]
     },
     {
         "dex": "0152",
+        "name": "",
         "data": ["johto", "starter"]
     },
     {
         "dex": "0153",
+        "name": "",
         "data": ["johto", "starter"]
     },
     {
         "dex": "0154",
+        "name": "",
         "data": ["johto", "starter"]
     },
     {
         "dex": "0155",
+        "name": "",
         "data": ["johto", "starter"]
     },
     {
         "dex": "0156",
+        "name": "",
         "data": ["johto", "starter"]
     },
     {
         "dex": "0157",
+        "name": "",
         "data": ["johto", "starter"]
     },
     {
         "dex": "0158",
+        "name": "",
         "data": ["johto", "starter"]
     },
     {
         "dex": "0159",
+        "name": "",
         "data": ["johto", "starter"]
     },
     {
         "dex": "0160",
+        "name": "",
         "data": ["johto", "starter"]
     },
     {
         "dex": "0161",
+        "name": "",
         "data": ["johto"]
     },
     {
         "dex": "0162",
+        "name": "",
         "data": ["johto"]
     },
     {
         "dex": "0163",
+        "name": "",
         "data": ["johto"]
     },
     {
         "dex": "0164",
+        "name": "",
         "data": ["johto"]
     },
     {
         "dex": "0165",
+        "name": "",
         "data": ["johto"]
     },
     {
         "dex": "0166",
+        "name": "",
         "data": ["johto"]
     },
     {
         "dex": "0167",
+        "name": "",
         "data": ["johto"]
     },
     {
         "dex": "0168",
+        "name": "",
         "data": ["johto"]
     },
     {
         "dex": "0169",
+        "name": "",
         "data": ["johto"]
     },
     {
         "dex": "0170",
+        "name": "",
         "data": ["johto"]
     },
     {
         "dex": "0171",
+        "name": "",
         "data": ["johto"]
     },
     {
         "dex": "0172",
+        "name": "",
         "data": ["johto"]
     },
     {
         "dex": "0173",
+        "name": "",
         "data": ["johto"]
     },
     {
         "dex": "0174",
+        "name": "",
         "data": ["johto"]
     },
     {
         "dex": "0175",
+        "name": "",
         "data": ["johto"]
     },
     {
         "dex": "0176",
+        "name": "",
         "data": ["johto"]
     },
     {
         "dex": "0177",
+        "name": "",
         "data": ["johto"]
     },
     {
         "dex": "0178",
+        "name": "",
         "data": ["johto"]
     },
     {
         "dex": "0179",
+        "name": "",
         "data": ["johto"]
     },
     {
         "dex": "0180",
+        "name": "",
         "data": ["johto"]
     },
     {
         "dex": "0181",
+        "name": "",
         "data": ["johto"]
     },
     {
         "dex": "0181M",
+        "name": "",
         "data": ["johto", "mega"]
     },
     {
         "dex": "0182",
+        "name": "",
         "data": ["johto"]
     },
     {
         "dex": "0183",
+        "name": "",
         "data": ["johto"]
     },
     {
         "dex": "0184",
+        "name": "",
         "data": ["johto"]
     },
     {
         "dex": "0185",
+        "name": "",
         "data": ["johto"]
     },
     {
         "dex": "0186",
+        "name": "",
         "data": ["johto"]
     },
     {
         "dex": "0187",
+        "name": "",
         "data": ["johto"]
     },
     {
         "dex": "0188",
+        "name": "",
         "data": ["johto"]
     },
     {
         "dex": "0189",
+        "name": "",
         "data": ["johto"]
     },
     {
         "dex": "0190",
+        "name": "",
         "data": ["johto"]
     },
     {
         "dex": "0191",
+        "name": "",
         "data": ["johto"]
     },
     {
         "dex": "0192",
+        "name": "",
         "data": ["johto"]
     },
     {
         "dex": "0193",
+        "name": "",
         "data": ["johto"]
     },
     {
         "dex": "0194",
+        "name": "",
         "data": ["johto"]
     },
     {
         "dex": "0195",
+        "name": "",
         "data": ["johto"]
     },
     {
         "dex": "0196",
+        "name": "",
         "data": ["johto", "eevee"]
     },
     {
         "dex": "0197",
+        "name": "",
         "data": ["johto", "eevee"]
     },
     {
         "dex": "0198",
+        "name": "",
         "data": ["johto"]
     },
     {
         "dex": "0199",
+        "name": "",
         "data": ["johto"]
     },
     {
         "dex": "0200",
+        "name": "",
         "data": ["johto"]
     },
     {
         "dex": "0201",
+        "name": "",
         "data": ["johto", "unown"]
     },
     {
         "dex": "0201B",
+        "name": "",
         "data": ["johto", "unown"]
     },
     {
         "dex": "0201C",
+        "name": "",
         "data": ["johto", "unown"]
     },
     {
         "dex": "0201D",
+        "name": "",
         "data": ["johto", "unown"]
     },
     {
         "dex": "0201E",
+        "name": "",
         "data": ["johto", "unown"]
     },
     {
         "dex": "0201F",
+        "name": "",
         "data": ["johto", "unown"]
     },
     {
         "dex": "0201G",
+        "name": "",
         "data": ["johto", "unown"]
     },
     {
         "dex": "0201H",
+        "name": "",
         "data": ["johto", "unown"]
     },
     {
         "dex": "0201I",
+        "name": "",
         "data": ["johto", "unown"]
     },
     {
         "dex": "0201J",
+        "name": "",
         "data": ["johto", "unown"]
     },
     {
         "dex": "0201K",
+        "name": "",
         "data": ["johto", "unown"]
     },
     {
         "dex": "0201L",
+        "name": "",
         "data": ["johto", "unown"]
     },
     {
         "dex": "0201M",
+        "name": "",
         "data": ["johto", "unown"]
     },
     {
         "dex": "0201N",
+        "name": "",
         "data": ["johto", "unown"]
     },
     {
         "dex": "0201O",
+        "name": "",
         "data": ["johto", "unown"]
     },
     {
         "dex": "0201P",
+        "name": "",
         "data": ["johto", "unown"]
     },
     {
         "dex": "0201Q",
+        "name": "",
         "data": ["johto", "unown"]
     },
     {
         "dex": "0201R",
+        "name": "",
         "data": ["johto", "unown"]
     },
     {
         "dex": "0201S",
+        "name": "",
         "data": ["johto", "unown"]
     },
     {
         "dex": "0201T",
+        "name": "",
         "data": ["johto", "unown"]
     },
     {
         "dex": "0201U",
+        "name": "",
         "data": ["johto", "unown"]
     },
     {
         "dex": "0201V",
+        "name": "",
         "data": ["johto", "unown"]
     },
     {
         "dex": "0201W",
+        "name": "",
         "data": ["johto", "unown"]
     },
     {
         "dex": "0201X",
+        "name": "",
         "data": ["johto", "unown"]
     },
     {
         "dex": "0201Y",
+        "name": "",
         "data": ["johto", "unown"]
     },
     {
         "dex": "0201Z",
+        "name": "",
         "data": ["johto", "unown"]
     },
     {
         "dex": "0201Ex",
+        "name": "",
         "data": ["johto", "unown"]
     },
     {
         "dex": "0201Qu",
+        "name": "",
         "data": ["johto", "unown"]
     },
     {
         "dex": "0202",
+        "name": "",
         "data": ["johto"]
     },
     {
         "dex": "0203",
+        "name": "",
         "data": ["johto"]
     },
     {
         "dex": "0204",
+        "name": "",
         "data": ["johto"]
     },
     {
         "dex": "0205",
+        "name": "",
         "data": ["johto"]
     },
     {
         "dex": "0206",
+        "name": "",
         "data": ["johto"]
     },
     {
         "dex": "0207",
+        "name": "",
         "data": ["johto"]
     },
     {
         "dex": "0208",
+        "name": "",
         "data": ["johto"]
     },
     {
         "dex": "0208M",
+        "name": "",
         "data": ["johto", "mega"]
     },
     {
         "dex": "0209",
+        "name": "",
         "data": ["johto"]
     },
     {
         "dex": "0210",
+        "name": "",
         "data": ["johto"]
     },
     {
         "dex": "0211",
+        "name": "",
         "data": ["johto"]
     },
     {
         "dex": "0212",
+        "name": "",
         "data": ["johto"]
     },
     {
         "dex": "0212M",
+        "name": "",
         "data": ["johto", "mega"]
     },
     {
         "dex": "0213",
+        "name": "",
         "data": ["johto"]
     },
     {
         "dex": "0214",
+        "name": "",
         "data": ["johto"]
     },
     {
         "dex": "0214M",
+        "name": "",
         "data": ["johto", "mega"]
     },
     {
         "dex": "0215",
+        "name": "",
         "data": ["johto"]
     },
     {
         "dex": "0216",
+        "name": "",
         "data": ["johto"]
     },
     {
         "dex": "0217",
+        "name": "",
         "data": ["johto"]
     },
     {
         "dex": "0218",
+        "name": "",
         "data": ["johto"]
     },
     {
         "dex": "0219",
+        "name": "",
         "data": ["johto"]
     },
     {
         "dex": "0220",
+        "name": "",
         "data": ["johto"]
     },
     {
         "dex": "0221",
+        "name": "",
         "data": ["johto"]
     },
     {
         "dex": "0222",
+        "name": "",
         "data": ["johto"]
     },
     {
         "dex": "0223",
+        "name": "",
         "data": ["johto"]
     },
     {
         "dex": "0224",
+        "name": "",
         "data": ["johto"]
     },
     {
         "dex": "0225",
+        "name": "",
         "data": ["johto"]
     },
     {
         "dex": "0226",
+        "name": "",
         "data": ["johto"]
     },
     {
         "dex": "0227",
+        "name": "",
         "data": ["johto"]
     },
     {
         "dex": "0228",
+        "name": "",
         "data": ["johto"]
     },
     {
         "dex": "0229",
+        "name": "",
         "data": ["johto"]
     },
     {
         "dex": "0229M",
+        "name": "",
         "data": ["johto", "mega"]
     },
     {
         "dex": "0230",
+        "name": "",
         "data": ["johto"]
     },
     {
         "dex": "0231",
+        "name": "",
         "data": ["johto"]
     },
     {
         "dex": "0232",
+        "name": "",
         "data": ["johto"]
     },
     {
         "dex": "0233",
+        "name": "",
         "data": ["johto"]
     },
     {
         "dex": "0234",
+        "name": "",
         "data": ["johto"]
     },
     {
         "dex": "0235",
+        "name": "",
         "data": ["johto"]
     },
     {
         "dex": "0236",
+        "name": "",
         "data": ["johto"]
     },
     {
         "dex": "0237",
+        "name": "",
         "data": ["johto"]
     },
     {
         "dex": "0238",
+        "name": "",
         "data": ["johto"]
     },
     {
         "dex": "0239",
+        "name": "",
         "data": ["johto"]
     },
     {
         "dex": "0240",
+        "name": "",
         "data": ["johto"]
     },
     {
         "dex": "0241",
+        "name": "",
         "data": ["johto"]
     },
     {
         "dex": "0242",
+        "name": "",
         "data": ["johto"]
     },
     {
         "dex": "0243",
+        "name": "",
         "data": ["johto", "trio"]
     },
     {
         "dex": "0244",
+        "name": "",
         "data": ["johto", "trio"]
     },
     {
         "dex": "0245",
+        "name": "",
         "data": ["johto", "trio"]
     },
     {
         "dex": "0246",
+        "name": "",
         "data": ["johto", "bs600"]
     },
     {
         "dex": "0247",
+        "name": "",
         "data": ["johto", "bs600"]
     },
     {
         "dex": "0248",
+        "name": "",
         "data": ["johto", "bs600"]
     },
     {
         "dex": "0248M",
+        "name": "",
         "data": ["johto", "mega"]
     },
     {
         "dex": "0249",
+        "name": "",
         "data": ["johto", "legendary"]
     },
     {
         "dex": "0250",
+        "name": "",
         "data": ["johto", "legendary"]
     },
     {
         "dex": "0251",
+        "name": "",
         "data": ["johto", "mirage"]
     },
     {
         "dex": "0252",
+        "name": "",
         "data": ["hoenn", "starter"]
     },
     {
         "dex": "0253",
+        "name": "",
         "data": ["hoenn", "starter"]
     },
     {
         "dex": "0254",
+        "name": "",
         "data": ["hoenn", "starter"]
     },
     {
         "dex": "0254M",
+        "name": "",
         "data": ["hoenn", "mega", "starter"]
     },
     {
         "dex": "0255",
+        "name": "",
         "data": ["hoenn", "starter"]
     },
     {
         "dex": "0256",
+        "name": "",
         "data": ["hoenn", "starter"]
     },
     {
         "dex": "0257",
+        "name": "",
         "data": ["hoenn", "starter"]
     },
     {
         "dex": "0257M",
+        "name": "",
         "data": ["hoenn", "mega", "starter"]
     },
     {
         "dex": "0258",
+        "name": "",
         "data": ["hoenn", "starter"]
     },
     {
         "dex": "0259",
+        "name": "",
         "data": ["hoenn", "starter"]
     },
     {
         "dex": "0260",
+        "name": "",
         "data": ["hoenn", "starter"]
     },
     {
         "dex": "0260M",
+        "name": "",
         "data": ["hoenn", "mega", "starter"]
     },
     {
         "dex": "0261",
+        "name": "",
         "data": ["hoenn"]
     },
     {
         "dex": "0262",
+        "name": "",
         "data": ["hoenn"]
     },
     {
         "dex": "0263",
+        "name": "",
         "data": ["hoenn"]
     },
     {
         "dex": "0264",
+        "name": "",
         "data": ["hoenn"]
     },
     {
         "dex": "0265",
+        "name": "",
         "data": ["hoenn"]
     },
     {
         "dex": "0266",
+        "name": "",
         "data": ["hoenn"]
     },
     {
         "dex": "0267",
+        "name": "",
         "data": ["hoenn"]
     },
     {
         "dex": "0268",
+        "name": "",
         "data": ["hoenn"]
     },
     {
         "dex": "0269",
+        "name": "",
         "data": ["hoenn"]
     },
     {
         "dex": "0270",
+        "name": "",
         "data": ["hoenn"]
     },
     {
         "dex": "0271",
+        "name": "",
         "data": ["hoenn"]
     },
     {
         "dex": "0272",
+        "name": "",
         "data": ["hoenn"]
     },
     {
         "dex": "0273",
+        "name": "",
         "data": ["hoenn"]
     },
     {
         "dex": "0274",
+        "name": "",
         "data": ["hoenn"]
     },
     {
         "dex": "0275",
+        "name": "",
         "data": ["hoenn"]
     },
     {
         "dex": "0276",
+        "name": "",
         "data": ["hoenn"]
     },
     {
         "dex": "0277",
+        "name": "",
         "data": ["hoenn"]
     },
     {
         "dex": "0278",
+        "name": "",
         "data": ["hoenn"]
     },
     {
         "dex": "0279",
+        "name": "",
         "data": ["hoenn"]
     },
     {
         "dex": "0280",
+        "name": "",
         "data": ["hoenn"]
     },
     {
         "dex": "0281",
+        "name": "",
         "data": ["hoenn"]
     },
     {
         "dex": "0282",
+        "name": "",
         "data": ["hoenn"]
     },
     {
         "dex": "0282M",
+        "name": "",
         "data": ["hoenn", "mega"]
     },
     {
         "dex": "0283",
+        "name": "",
         "data": ["hoenn"]
     },
     {
         "dex": "0284",
+        "name": "",
         "data": ["hoenn"]
     },
     {
         "dex": "0285",
+        "name": "",
         "data": ["hoenn"]
     },
     {
         "dex": "0286",
+        "name": "",
         "data": ["hoenn"]
     },
     {
         "dex": "0287",
+        "name": "",
         "data": ["hoenn"]
     },
     {
         "dex": "0288",
+        "name": "",
         "data": ["hoenn"]
     },
     {
         "dex": "0289",
+        "name": "",
         "data": ["hoenn"]
     },
     {
         "dex": "0290",
+        "name": "",
         "data": ["hoenn"]
     },
     {
         "dex": "0291",
+        "name": "",
         "data": ["hoenn"]
     },
     {
         "dex": "0292",
+        "name": "",
         "data": ["hoenn"]
     },
     {
         "dex": "0293",
+        "name": "",
         "data": ["hoenn"]
     },
     {
         "dex": "0294",
+        "name": "",
         "data": ["hoenn"]
     },
     {
         "dex": "0295",
+        "name": "",
         "data": ["hoenn"]
     },
     {
         "dex": "0296",
+        "name": "",
         "data": ["hoenn"]
     },
     {
         "dex": "0297",
+        "name": "",
         "data": ["hoenn"]
     },
     {
         "dex": "0298",
+        "name": "",
         "data": ["hoenn"]
     },
     {
         "dex": "0299",
+        "name": "",
         "data": ["hoenn"]
     },
     {
         "dex": "0300",
+        "name": "",
         "data": ["hoenn"]
     },
     {
         "dex": "0301",
+        "name": "",
         "data": ["hoenn"]
     },
     {
         "dex": "0302",
+        "name": "",
         "data": ["hoenn"]
     },
     {
         "dex": "0302M",
+        "name": "",
         "data": ["hoenn", "mega"]
     },
     {
         "dex": "0303",
+        "name": "",
         "data": ["hoenn"]
     },
     {
         "dex": "0303M",
+        "name": "",
         "data": ["hoenn", "mega"]
     },
     {
         "dex": "0304",
+        "name": "",
         "data": ["hoenn"]
     },
     {
         "dex": "0305",
+        "name": "",
         "data": ["hoenn"]
     },
     {
         "dex": "0306",
+        "name": "",
         "data": ["hoenn"]
     },
     {
         "dex": "0306M",
+        "name": "",
         "data": ["hoenn", "mega"]
     },
     {
         "dex": "0307",
+        "name": "",
         "data": ["hoenn"]
     },
     {
         "dex": "0308",
+        "name": "",
         "data": ["hoenn"]
     },
     {
         "dex": "0308M",
+        "name": "",
         "data": ["hoenn", "mega"]
     },
     {
         "dex": "0309",
+        "name": "",
         "data": ["hoenn"]
     },
     {
         "dex": "0310",
+        "name": "",
         "data": ["hoenn"]
     },
     {
         "dex": "0310M",
+        "name": "",
         "data": ["hoenn", "mega"]
     },
     {
         "dex": "0311",
+        "name": "",
         "data": ["hoenn"]
     },
     {
         "dex": "0312",
+        "name": "",
         "data": ["hoenn"]
     },
     {
         "dex": "0313",
+        "name": "",
         "data": ["hoenn"]
     },
     {
         "dex": "0314",
+        "name": "",
         "data": ["hoenn"]
     },
     {
         "dex": "0315",
+        "name": "",
         "data": ["hoenn"]
     },
     {
         "dex": "0316",
+        "name": "",
         "data": ["hoenn"]
     },
     {
         "dex": "0317",
+        "name": "",
         "data": ["hoenn"]
     },
     {
         "dex": "0318",
+        "name": "",
         "data": ["hoenn"]
     },
     {
         "dex": "0319",
+        "name": "",
         "data": ["hoenn"]
     },
     {
         "dex": "0319M",
+        "name": "",
         "data": ["hoenn", "mega"]
     },
     {
         "dex": "0320",
+        "name": "",
         "data": ["hoenn"]
     },
     {
         "dex": "0321",
+        "name": "",
         "data": ["hoenn"]
     },
     {
         "dex": "0322",
+        "name": "",
         "data": ["hoenn"]
     },
     {
         "dex": "0323",
+        "name": "",
         "data": ["hoenn"]
     },
     {
         "dex": "0323M",
+        "name": "",
         "data": ["hoenn", "mega"]
     },
     {
         "dex": "0324",
+        "name": "",
         "data": ["hoenn"]
     },
     {
         "dex": "0325",
+        "name": "",
         "data": ["hoenn"]
     },
     {
         "dex": "0326",
+        "name": "",
         "data": ["hoenn"]
     },
     {
         "dex": "0327",
+        "name": "",
         "data": ["hoenn"]
     },
     {
         "dex": "0328",
+        "name": "",
         "data": ["hoenn"]
     },
     {
         "dex": "0329",
+        "name": "",
         "data": ["hoenn"]
     },
     {
         "dex": "0330",
+        "name": "",
         "data": ["hoenn"]
     },
     {
         "dex": "0331",
+        "name": "",
         "data": ["hoenn"]
     },
     {
         "dex": "0332",
+        "name": "",
         "data": ["hoenn"]
     },
     {
         "dex": "0333",
+        "name": "",
         "data": ["hoenn"]
     },
     {
         "dex": "0334",
+        "name": "",
         "data": ["hoenn"]
     },
     {
         "dex": "0334M",
+        "name": "",
         "data": ["hoenn", "mega"]
     },
     {
         "dex": "0335",
+        "name": "",
         "data": ["hoenn"]
     },
     {
         "dex": "0336",
+        "name": "",
         "data": ["hoenn"]
     },
     {
         "dex": "0337",
+        "name": "",
         "data": ["hoenn"]
     },
     {
         "dex": "0338",
+        "name": "",
         "data": ["hoenn"]
     },
     {
         "dex": "0339",
+        "name": "",
         "data": ["hoenn"]
     },
     {
         "dex": "0340",
+        "name": "",
         "data": ["hoenn"]
     },
     {
         "dex": "0341",
+        "name": "",
         "data": ["hoenn"]
     },
     {
         "dex": "0342",
+        "name": "",
         "data": ["hoenn"]
     },
     {
         "dex": "0343",
+        "name": "",
         "data": ["hoenn"]
     },
     {
         "dex": "0344",
+        "name": "",
         "data": ["hoenn"]
     },
     {
         "dex": "0345",
+        "name": "",
         "data": ["hoenn"]
     },
     {
         "dex": "0346",
+        "name": "",
         "data": ["hoenn"]
     },
     {
         "dex": "0347",
+        "name": "",
         "data": ["hoenn"]
     },
     {
         "dex": "0348",
+        "name": "",
         "data": ["hoenn"]
     },
     {
         "dex": "0349",
+        "name": "",
         "data": ["hoenn"]
     },
     {
         "dex": "0350",
+        "name": "",
         "data": ["hoenn"]
     },
     {
         "dex": "0351",
+        "name": "",
         "data": ["hoenn"]
     },
     {
         "dex": "0351S",
+        "name": "",
         "data": ["hoenn"]
     },
     {
         "dex": "0351R",
+        "name": "",
         "data": ["hoenn"]
     },
     {
         "dex": "0351H",
+        "name": "",
         "data": ["hoenn"]
     },
     {
         "dex": "0352",
+        "name": "",
         "data": ["hoenn"]
     },
     {
         "dex": "0353",
+        "name": "",
         "data": ["hoenn"]
     },
     {
         "dex": "0354",
+        "name": "",
         "data": ["hoenn"]
     },
     {
         "dex": "0354M",
+        "name": "",
         "data": ["hoenn", "mega"]
     },
     {
         "dex": "0355",
+        "name": "",
         "data": ["hoenn"]
     },
     {
         "dex": "0356",
+        "name": "",
         "data": ["hoenn"]
     },
     {
         "dex": "0357",
+        "name": "",
         "data": ["hoenn"]
     },
     {
         "dex": "0358",
+        "name": "",
         "data": ["hoenn"]
     },
     {
         "dex": "0359",
+        "name": "",
         "data": ["hoenn"]
     },
     {
         "dex": "0360",
+        "name": "",
         "data": ["hoenn"]
     },
     {
         "dex": "0361",
+        "name": "",
         "data": ["hoenn"]
     },
     {
         "dex": "0362",
+        "name": "",
         "data": ["hoenn"]
     },
     {
         "dex": "0362M",
+        "name": "",
         "data": ["hoenn", "mega"]
     },
     {
         "dex": "0363",
+        "name": "",
         "data": ["hoenn"]
     },
     {
         "dex": "0364",
+        "name": "",
         "data": ["hoenn"]
     },
     {
         "dex": "0365",
+        "name": "",
         "data": ["hoenn"]
     },
     {
         "dex": "0366",
+        "name": "",
         "data": ["hoenn"]
     },
     {
         "dex": "0367",
+        "name": "",
         "data": ["hoenn"]
     },
     {
         "dex": "0368",
+        "name": "",
         "data": ["hoenn"]
     },
     {
         "dex": "0369",
+        "name": "",
         "data": ["hoenn"]
     },
     {
         "dex": "0370",
+        "name": "",
         "data": ["hoenn"]
     },
     {
         "dex": "0371",
+        "name": "",
         "data": ["hoenn"]
     },
     {
         "dex": "0372",
+        "name": "",
         "data": ["hoenn", "bs600"]
     },
     {
         "dex": "0373",
+        "name": "",
         "data": ["hoenn", "bs600"]
     },
     {
         "dex": "0373M",
+        "name": "",
         "data": ["hoenn", "mega", "bs600"]
     },
     {
         "dex": "0374",
+        "name": "",
         "data": ["hoenn"]
     },
     {
         "dex": "0375",
+        "name": "",
         "data": ["hoenn", "bs600"]
     },
     {
         "dex": "0376",
+        "name": "",
         "data": ["hoenn", "bs600"]
     },
     {
         "dex": "0376M",
+        "name": "",
         "data": ["hoenn", "mega", "bs600"]
     },
     {
         "dex": "0377",
+        "name": "",
         "data": ["hoenn", "trio"]
     },
     {
         "dex": "0378",
+        "name": "",
         "data": ["hoenn", "trio"]
     },
     {
         "dex": "0379",
+        "name": "",
         "data": ["hoenn", "trio"]
     },
     {
         "dex": "0380",
+        "name": "",
         "data": ["hoenn"]
     },
     {
         "dex": "0380M",
+        "name": "",
         "data": ["hoenn", "mega"]
     },
     {
         "dex": "0381",
+        "name": "",
         "data": ["hoenn"]
     },
     {
         "dex": "0381M",
+        "name": "",
         "data": ["hoenn", "mega"]
     },
     {
         "dex": "0382",
+        "name": "",
         "data": ["hoenn", "legendary"]
     },
     {
         "dex": "0382P",
+        "name": "",
         "data": ["hoenn", "mega"]
     },
     {
         "dex": "0383",
+        "name": "",
         "data": ["hoenn", "legendary"]
     },
     {
         "dex": "0383P",
+        "name": "",
         "data": ["hoenn", "mega"]
     },
     {
         "dex": "0384",
+        "name": "",
         "data": ["hoenn", "legendary"]
     },
     {
         "dex": "0384M",
+        "name": "",
         "data": ["hoenn", "mega"]
     },
     {
         "dex": "0385",
+        "name": "",
         "data": ["hoenn", "mirage"]
     },
     {
         "dex": "0386",
+        "name": "",
         "data": ["hoenn", "mirage"]
     },
     {
         "dex": "0386D",
+        "name": "",
         "data": ["hoenn", "mirage"]
     },
     {
         "dex": "0386A",
+        "name": "",
         "data": ["hoenn", "mirage"]
     },
     {
         "dex": "0386S",
+        "name": "",
         "data": ["hoenn", "mirage"]
     },
     {
         "dex": "0387",
+        "name": "",
         "data": ["sinnoh", "starter"]
     },
     {
         "dex": "0388",
+        "name": "",
         "data": ["sinnoh", "starter"]
     },
     {
         "dex": "0389",
+        "name": "",
         "data": ["sinnoh", "starter"]
     },
     {
         "dex": "0390",
+        "name": "",
         "data": ["sinnoh", "starter"]
     },
     {
         "dex": "0391",
+        "name": "",
         "data": ["sinnoh", "starter"]
     },
     {
         "dex": "0392",
+        "name": "",
         "data": ["sinnoh", "starter"]
     },
     {
         "dex": "0393",
+        "name": "",
         "data": ["sinnoh", "starter"]
     },
     {
         "dex": "0394",
+        "name": "",
         "data": ["sinnoh", "starter"]
     },
     {
         "dex": "0395",
+        "name": "",
         "data": ["sinnoh", "starter"]
     },
     {
         "dex": "0396",
+        "name": "",
         "data": ["sinnoh"]
     },
     {
         "dex": "0397",
+        "name": "",
         "data": ["sinnoh"]
     },
     {
         "dex": "0398",
+        "name": "",
         "data": ["sinnoh"]
     },
     {
         "dex": "0399",
+        "name": "",
         "data": ["sinnoh"]
     },
     {
         "dex": "0400",
+        "name": "",
         "data": ["sinnoh"]
     },
     {
         "dex": "0401",
+        "name": "",
         "data": ["sinnoh"]
     },
     {
         "dex": "0402",
+        "name": "",
         "data": ["sinnoh"]
     },
     {
         "dex": "0403",
+        "name": "",
         "data": ["sinnoh"]
     },
     {
         "dex": "0404",
+        "name": "",
         "data": ["sinnoh"]
     },
     {
         "dex": "0405",
+        "name": "",
         "data": ["sinnoh"]
     },
     {
         "dex": "0406",
+        "name": "",
         "data": ["sinnoh"]
     },
     {
         "dex": "0407",
+        "name": "",
         "data": ["sinnoh"]
     },
     {
         "dex": "0408",
+        "name": "",
         "data": ["sinnoh"]
     },
     {
         "dex": "0409",
+        "name": "",
         "data": ["sinnoh"]
     },
     {
         "dex": "0410",
+        "name": "",
         "data": ["sinnoh"]
     },
     {
         "dex": "0411",
+        "name": "",
         "data": ["sinnoh"]
     },
     {
         "dex": "0412",
+        "name": "",
         "data": ["sinnoh"]
     },
     {
         "dex": "0412G",
+        "name": "",
         "data": ["sinnoh"]
     },
     {
         "dex": "0412S",
+        "name": "",
         "data": ["sinnoh"]
     },
     {
         "dex": "0413",
+        "name": "",
         "data": ["sinnoh"]
     },
     {
         "dex": "0413G",
+        "name": "",
         "data": ["sinnoh"]
     },
     {
         "dex": "0413S",
+        "name": "",
         "data": ["sinnoh"]
     },
     {
         "dex": "0414",
+        "name": "",
         "data": ["sinnoh"]
     },
     {
         "dex": "0415",
+        "name": "",
         "data": ["sinnoh"]
     },
     {
         "dex": "0416",
+        "name": "",
         "data": ["sinnoh"]
     },
     {
         "dex": "0417",
+        "name": "",
         "data": ["sinnoh"]
     },
     {
         "dex": "0418",
+        "name": "",
         "data": ["sinnoh"]
     },
     {
         "dex": "0419",
+        "name": "",
         "data": ["sinnoh"]
     },
     {
         "dex": "0420",
+        "name": "",
         "data": ["sinnoh"]
     },
     {
         "dex": "0421",
+        "name": "",
         "data": ["sinnoh"]
     },
     {
         "dex": "0422",
+        "name": "",
         "data": ["sinnoh"]
     },
     {
         "dex": "0422E",
+        "name": "",
         "data": ["sinnoh"]
     },
     {
         "dex": "0423",
+        "name": "",
         "data": ["sinnoh"]
     },
     {
         "dex": "0423E",
+        "name": "",
         "data": ["sinnoh"]
     },
     {
         "dex": "0424",
+        "name": "",
         "data": ["sinnoh"]
     },
     {
         "dex": "0425",
+        "name": "",
         "data": ["sinnoh"]
     },
     {
         "dex": "0426",
+        "name": "",
         "data": ["sinnoh"]
     },
     {
         "dex": "0427",
+        "name": "",
         "data": ["sinnoh"]
     },
     {
         "dex": "0428",
+        "name": "",
         "data": ["sinnoh"]
     },
     {
         "dex": "0428M",
+        "name": "",
         "data": ["sinnoh", "mega"]
     },
     {
         "dex": "0429",
+        "name": "",
         "data": ["sinnoh"]
     },
     {
         "dex": "0430",
+        "name": "",
         "data": ["sinnoh"]
     },
     {
         "dex": "0431",
+        "name": "",
         "data": ["sinnoh"]
     },
     {
         "dex": "0432",
+        "name": "",
         "data": ["sinnoh"]
     },
     {
         "dex": "0433",
+        "name": "",
         "data": ["sinnoh"]
     },
     {
         "dex": "0434",
+        "name": "",
         "data": ["sinnoh"]
     },
     {
         "dex": "0435",
+        "name": "",
         "data": ["sinnoh"]
     },
     {
         "dex": "0436",
+        "name": "",
         "data": ["sinnoh"]
     },
     {
         "dex": "0437",
+        "name": "",
         "data": ["sinnoh"]
     },
     {
         "dex": "0438",
+        "name": "",
         "data": ["sinnoh"]
     },
     {
         "dex": "0439",
+        "name": "",
         "data": ["sinnoh"]
     },
     {
         "dex": "0440",
+        "name": "",
         "data": ["sinnoh"]
     },
     {
         "dex": "0441",
+        "name": "",
         "data": ["sinnoh"]
     },
     {
         "dex": "0442",
+        "name": "",
         "data": ["sinnoh"]
     },
     {
         "dex": "0443",
+        "name": "",
         "data": ["sinnoh"]
     },
     {
         "dex": "0444",
+        "name": "",
         "data": ["sinnoh", "bs600"]
     },
     {
         "dex": "0445",
+        "name": "",
         "data": ["sinnoh", "bs600"]
     },
     {
         "dex": "0445M",
+        "name": "",
         "data": ["sinnoh", "mega", "bs600"]
     },
     {
         "dex": "0446",
+        "name": "",
         "data": ["sinnoh"]
     },
     {
         "dex": "0447",
+        "name": "",
         "data": ["sinnoh"]
     },
     {
         "dex": "0448",
+        "name": "",
         "data": ["sinnoh"]
     },
     {
         "dex": "0448M",
+        "name": "",
         "data": ["sinnoh", "mega"]
     },
     {
         "dex": "0449",
+        "name": "",
         "data": ["sinnoh"]
     },
     {
         "dex": "0450",
+        "name": "",
         "data": ["sinnoh"]
     },
     {
         "dex": "0451",
+        "name": "",
         "data": ["sinnoh"]
     },
     {
         "dex": "0452",
+        "name": "",
         "data": ["sinnoh"]
     },
     {
         "dex": "0453",
+        "name": "",
         "data": ["sinnoh"]
     },
     {
         "dex": "0454",
+        "name": "",
         "data": ["sinnoh"]
     },
     {
         "dex": "0455",
+        "name": "",
         "data": ["sinnoh"]
     },
     {
         "dex": "0456",
+        "name": "",
         "data": ["sinnoh"]
     },
     {
         "dex": "0457",
+        "name": "",
         "data": ["sinnoh"]
     },
     {
         "dex": "0458",
+        "name": "",
         "data": ["sinnoh"]
     },
     {
         "dex": "0459",
+        "name": "",
         "data": ["sinnoh"]
     },
     {
         "dex": "0460",
+        "name": "",
         "data": ["sinnoh"]
     },
     {
         "dex": "0460M",
+        "name": "",
         "data": ["sinnoh", "mega"]
     },
     {
         "dex": "0461",
+        "name": "",
         "data": ["sinnoh"]
     },
     {
         "dex": "0462",
+        "name": "",
         "data": ["sinnoh"]
     },
     {
         "dex": "0463",
+        "name": "",
         "data": ["sinnoh"]
     },
     {
         "dex": "0464",
+        "name": "",
         "data": ["sinnoh"]
     },
     {
         "dex": "0465",
+        "name": "",
         "data": ["sinnoh"]
     },
     {
         "dex": "0466",
+        "name": "",
         "data": ["sinnoh"]
     },
     {
         "dex": "0467",
+        "name": "",
         "data": ["sinnoh"]
     },
     {
         "dex": "0468",
+        "name": "",
         "data": ["sinnoh"]
     },
     {
         "dex": "0469",
+        "name": "",
         "data": ["sinnoh"]
     },
     {
         "dex": "0470",
+        "name": "",
         "data": ["sinnoh", "eevee"]
     },
     {
         "dex": "0471",
+        "name": "",
         "data": ["sinnoh", "eevee"]
     },
     {
         "dex": "0472",
+        "name": "",
         "data": ["sinnoh"]
     },
     {
         "dex": "0473",
+        "name": "",
         "data": ["sinnoh"]
     },
     {
         "dex": "0474",
+        "name": "",
         "data": ["sinnoh"]
     },
     {
         "dex": "0475",
+        "name": "",
         "data": ["sinnoh"]
     },
     {
         "dex": "0475M",
+        "name": "",
         "data": ["sinnoh", "mega"]
     },
     {
         "dex": "0476",
+        "name": "",
         "data": ["sinnoh"]
     },
     {
         "dex": "0477",
+        "name": "",
         "data": ["sinnoh"]
     },
     {
         "dex": "0478",
+        "name": "",
         "data": ["sinnoh"]
     },
     {
         "dex": "0479",
+        "name": "",
         "data": ["sinnoh"]
     },
     {
         "dex": "0479O",
+        "name": "",
         "data": ["sinnoh"]
     },
     {
         "dex": "0479W",
+        "name": "",
         "data": ["sinnoh"]
     },
     {
         "dex": "0479R",
+        "name": "",
         "data": ["sinnoh"]
     },
     {
         "dex": "0479F",
+        "name": "",
         "data": ["sinnoh"]
     },
     {
         "dex": "0479L",
+        "name": "",
         "data": ["sinnoh"]
     },
     {
         "dex": "0480",
+        "name": "",
         "data": ["sinnoh", "trio"]
     },
     {
         "dex": "0481",
+        "name": "",
         "data": ["sinnoh", "trio"]
     },
     {
         "dex": "0482",
+        "name": "",
         "data": ["sinnoh", "trio"]
     },
     {
         "dex": "0483",
+        "name": "",
         "data": ["sinnoh", "legendary"]
     },
     {
         "dex": "0484",
+        "name": "",
         "data": ["sinnoh", "legendary"]
     },
     {
         "dex": "0485",
+        "name": "",
         "data": ["sinnoh"]
     },
     {
         "dex": "0486",
+        "name": "",
         "data": ["sinnoh"]
     },
     {
         "dex": "0487",
+        "name": "",
         "data": ["sinnoh", "legendary"]
     },
     {
         "dex": "0487O",
+        "name": "",
         "data": ["sinnoh"]
     },
     {
         "dex": "0488",
+        "name": "",
         "data": ["sinnoh"]
     },
     {
         "dex": "0489",
+        "name": "",
         "data": ["sinnoh", "mirage"]
     },
     {
         "dex": "0490",
+        "name": "",
         "data": ["sinnoh", "mirage"]
     },
     {
         "dex": "0491",
+        "name": "",
         "data": ["sinnoh", "mirage"]
     },
     {
         "dex": "0492",
+        "name": "",
         "data": ["sinnoh", "mirage"]
     },
     {
         "dex": "0492S",
+        "name": "",
         "data": ["sinnoh", "mirage"]
     },
     {
         "dex": "0493",
+        "name": "",
         "data": ["sinnoh", "mirage"]
     },
     {
         "dex": "0494",
+        "name": "",
         "data": ["unova mirage"]
     },
     {
         "dex": "0495",
+        "name": "",
         "data": ["unova starter"]
     },
     {
         "dex": "0496",
+        "name": "",
         "data": ["unova starter"]
     },
     {
         "dex": "0497",
+        "name": "",
         "data": ["unova starter"]
     },
     {
         "dex": "0498",
+        "name": "",
         "data": ["unova starter"]
     },
     {
         "dex": "0499",
+        "name": "",
         "data": ["unova starter"]
     },
     {
         "dex": "0500",
+        "name": "",
         "data": ["unova starter"]
     },
     {
         "dex": "0501",
+        "name": "",
         "data": ["unova starter"]
     },
     {
         "dex": "0502",
+        "name": "",
         "data": ["unova starter"]
     },
     {
         "dex": "0503",
+        "name": "",
         "data": ["unova starter"]
     },
     {
         "dex": "0504",
+        "name": "",
         "data": ["unova"]
     },
     {
         "dex": "0505",
+        "name": "",
         "data": ["unova"]
     },
     {
         "dex": "0506",
+        "name": "",
         "data": ["unova"]
     },
     {
         "dex": "0507",
+        "name": "",
         "data": ["unova"]
     },
     {
         "dex": "0508",
+        "name": "",
         "data": ["unova"]
     },
     {
         "dex": "0509",
+        "name": "",
         "data": ["unova"]
     },
     {
         "dex": "0510",
+        "name": "",
         "data": ["unova"]
     },
     {
         "dex": "0511",
+        "name": "",
         "data": ["unova"]
     },
     {
         "dex": "0512",
+        "name": "",
         "data": ["unova"]
     },
     {
         "dex": "0513",
+        "name": "",
         "data": ["unova"]
     },
     {
         "dex": "0514",
+        "name": "",
         "data": ["unova"]
     },
     {
         "dex": "0515",
+        "name": "",
         "data": ["unova"]
     },
     {
         "dex": "0516",
+        "name": "",
         "data": ["unova"]
     },
     {
         "dex": "0517",
+        "name": "",
         "data": ["unova"]
     },
     {
         "dex": "0518",
+        "name": "",
         "data": ["unova"]
     },
     {
         "dex": "0519",
+        "name": "",
         "data": ["unova"]
     },
     {
         "dex": "0520",
+        "name": "",
         "data": ["unova"]
     },
     {
         "dex": "0521",
+        "name": "",
         "data": ["unova"]
     },
     {
         "dex": "0521F",
+        "name": "",
         "data": ["unova"]
     },
     {
         "dex": "0522",
+        "name": "",
         "data": ["unova"]
     },
     {
         "dex": "0523",
+        "name": "",
         "data": ["unova"]
     },
     {
         "dex": "0524",
+        "name": "",
         "data": ["unova"]
     },
     {
         "dex": "0525",
+        "name": "",
         "data": ["unova"]
     },
     {
         "dex": "0526",
+        "name": "",
         "data": ["unova"]
     },
     {
         "dex": "0527",
+        "name": "",
         "data": ["unova"]
     },
     {
         "dex": "0528",
+        "name": "",
         "data": ["unova"]
     },
     {
         "dex": "0529",
+        "name": "",
         "data": ["unova"]
     },
     {
         "dex": "0530",
+        "name": "",
         "data": ["unova"]
     },
     {
         "dex": "0531",
+        "name": "",
         "data": ["unova"]
     },
     {
         "dex": "0531M",
+        "name": "",
         "data": ["unova mega"]
     },
     {
         "dex": "0532",
+        "name": "",
         "data": ["unova"]
     },
     {
         "dex": "0533",
+        "name": "",
         "data": ["unova"]
     },
     {
         "dex": "0534",
+        "name": "",
         "data": ["unova"]
     },
     {
         "dex": "0535",
+        "name": "",
         "data": ["unova"]
     },
     {
         "dex": "0536",
+        "name": "",
         "data": ["unova"]
     },
     {
         "dex": "0537",
+        "name": "",
         "data": ["unova"]
     },
     {
         "dex": "0538",
+        "name": "",
         "data": ["unova"]
     },
     {
         "dex": "0539",
+        "name": "",
         "data": ["unova"]
     },
     {
         "dex": "0540",
+        "name": "",
         "data": ["unova"]
     },
     {
         "dex": "0541",
+        "name": "",
         "data": ["unova"]
     },
     {
         "dex": "0542",
+        "name": "",
         "data": ["unova"]
     },
     {
         "dex": "0543",
+        "name": "",
         "data": ["unova"]
     },
     {
         "dex": "0544",
+        "name": "",
         "data": ["unova"]
     },
     {
         "dex": "0545",
+        "name": "",
         "data": ["unova"]
     },
     {
         "dex": "0546",
+        "name": "",
         "data": ["unova"]
     },
     {
         "dex": "0547",
+        "name": "",
         "data": ["unova"]
     },
     {
         "dex": "0548",
+        "name": "",
         "data": ["unova"]
     },
     {
         "dex": "0549",
+        "name": "",
         "data": ["unova"]
     },
     {
         "dex": "0550",
+        "name": "",
         "data": ["unova"]
     },
     {
         "dex": "0550B",
+        "name": "",
         "data": ["unova"]
     },
     {
         "dex": "0551",
+        "name": "",
         "data": ["unova"]
     },
     {
         "dex": "0552",
+        "name": "",
         "data": ["unova"]
     },
     {
         "dex": "0553",
+        "name": "",
         "data": ["unova"]
     },
     {
         "dex": "0554",
+        "name": "",
         "data": ["unova"]
     },
     {
         "dex": "0555",
+        "name": "",
         "data": ["unova"]
     },
     {
         "dex": "0555Z",
+        "name": "",
         "data": ["unova"]
     },
     {
         "dex": "0556",
+        "name": "",
         "data": ["unova"]
     },
     {
         "dex": "0557",
+        "name": "",
         "data": ["unova"]
     },
     {
         "dex": "0558",
+        "name": "",
         "data": ["unova"]
     },
     {
         "dex": "0559",
+        "name": "",
         "data": ["unova"]
     },
     {
         "dex": "0560",
+        "name": "",
         "data": ["unova"]
     },
     {
         "dex": "0561",
+        "name": "",
         "data": ["unova"]
     },
     {
         "dex": "0562",
+        "name": "",
         "data": ["unova"]
     },
     {
         "dex": "0563",
+        "name": "",
         "data": ["unova"]
     },
     {
         "dex": "0564",
+        "name": "",
         "data": ["unova"]
     },
     {
         "dex": "0565",
+        "name": "",
         "data": ["unova"]
     },
     {
         "dex": "0566",
+        "name": "",
         "data": ["unova"]
     },
     {
         "dex": "0567",
+        "name": "",
         "data": ["unova"]
     },
     {
         "dex": "0568",
+        "name": "",
         "data": ["unova"]
     },
     {
         "dex": "0569",
+        "name": "",
         "data": ["unova"]
     },
     {
         "dex": "0570",
+        "name": "",
         "data": ["unova"]
     },
     {
         "dex": "0571",
+        "name": "",
         "data": ["unova"]
     },
     {
         "dex": "0572",
+        "name": "",
         "data": ["unova"]
     },
     {
         "dex": "0573",
+        "name": "",
         "data": ["unova"]
     },
     {
         "dex": "0574",
+        "name": "",
         "data": ["unova"]
     },
     {
         "dex": "0575",
+        "name": "",
         "data": ["unova"]
     },
     {
         "dex": "0576",
+        "name": "",
         "data": ["unova"]
     },
     {
         "dex": "0577",
+        "name": "",
         "data": ["unova"]
     },
     {
         "dex": "0578",
+        "name": "",
         "data": ["unova"]
     },
     {
         "dex": "0579",
+        "name": "",
         "data": ["unova"]
     },
     {
         "dex": "0580",
+        "name": "",
         "data": ["unova"]
     },
     {
         "dex": "0581",
+        "name": "",
         "data": ["unova"]
     },
     {
         "dex": "0582",
+        "name": "",
         "data": ["unova"]
     },
     {
         "dex": "0583",
+        "name": "",
         "data": ["unova"]
     },
     {
         "dex": "0584",
+        "name": "",
         "data": ["unova"]
     },
     {
         "dex": "0585",
+        "name": "",
         "data": ["unova"]
     },
     {
         "dex": "0585S",
+        "name": "",
         "data": ["unova"]
     },
     {
         "dex": "0585A",
+        "name": "",
         "data": ["unova"]
     },
     {
         "dex": "0585W",
+        "name": "",
         "data": ["unova"]
     },
     {
         "dex": "0586",
+        "name": "",
         "data": ["unova"]
     },
     {
         "dex": "0586S",
+        "name": "",
         "data": ["unova"]
     },
     {
         "dex": "0586A",
+        "name": "",
         "data": ["unova"]
     },
     {
         "dex": "0586W",
+        "name": "",
         "data": ["unova"]
     },
     {
         "dex": "0587",
+        "name": "",
         "data": ["unova"]
     },
     {
         "dex": "0588",
+        "name": "",
         "data": ["unova"]
     },
     {
         "dex": "0589",
+        "name": "",
         "data": ["unova"]
     },
     {
         "dex": "0590",
+        "name": "",
         "data": ["unova"]
     },
     {
         "dex": "0591",
+        "name": "",
         "data": ["unova"]
     },
     {
         "dex": "0592",
+        "name": "",
         "data": ["unova"]
     },
     {
         "dex": "0592F",
+        "name": "",
         "data": ["unova"]
     },
     {
         "dex": "0593",
+        "name": "",
         "data": ["unova"]
     },
     {
         "dex": "0593F",
+        "name": "",
         "data": ["unova"]
     },
     {
         "dex": "0594",
+        "name": "",
         "data": ["unova"]
     },
     {
         "dex": "0595",
+        "name": "",
         "data": ["unova"]
     },
     {
         "dex": "0596",
+        "name": "",
         "data": ["unova"]
     },
     {
         "dex": "0597",
+        "name": "",
         "data": ["unova"]
     },
     {
         "dex": "0598",
+        "name": "",
         "data": ["unova"]
     },
     {
         "dex": "0599",
+        "name": "",
         "data": ["unova"]
     },
     {
         "dex": "0600",
+        "name": "",
         "data": ["unova"]
     },
     {
         "dex": "0601",
+        "name": "",
         "data": ["unova"]
     },
     {
         "dex": "0602",
+        "name": "",
         "data": ["unova"]
     },
     {
         "dex": "0603",
+        "name": "",
         "data": ["unova"]
     },
     {
         "dex": "0604",
+        "name": "",
         "data": ["unova"]
     },
     {
         "dex": "0605",
+        "name": "",
         "data": ["unova"]
     },
     {
         "dex": "0606",
+        "name": "",
         "data": ["unova"]
     },
     {
         "dex": "0607",
+        "name": "",
         "data": ["unova"]
     },
     {
         "dex": "0608",
+        "name": "",
         "data": ["unova"]
     },
     {
         "dex": "0609",
+        "name": "",
         "data": ["unova"]
     },
     {
         "dex": "0610",
+        "name": "",
         "data": ["unova"]
     },
     {
         "dex": "0611",
+        "name": "",
         "data": ["unova"]
     },
     {
         "dex": "0612",
+        "name": "",
         "data": ["unova"]
     },
     {
         "dex": "0613",
+        "name": "",
         "data": ["unova"]
     },
     {
         "dex": "0614",
+        "name": "",
         "data": ["unova"]
     },
     {
         "dex": "0615",
+        "name": "",
         "data": ["unova"]
     },
     {
         "dex": "0616",
+        "name": "",
         "data": ["unova"]
     },
     {
         "dex": "0617",
+        "name": "",
         "data": ["unova"]
     },
     {
         "dex": "0618",
+        "name": "",
         "data": ["unova"]
     },
     {
         "dex": "0619",
+        "name": "",
         "data": ["unova"]
     },
     {
         "dex": "0620",
+        "name": "",
         "data": ["unova"]
     },
     {
         "dex": "0621",
+        "name": "",
         "data": ["unova"]
     },
     {
         "dex": "0622",
+        "name": "",
         "data": ["unova"]
     },
     {
         "dex": "0623",
+        "name": "",
         "data": ["unova"]
     },
     {
         "dex": "0624",
+        "name": "",
         "data": ["unova"]
     },
     {
         "dex": "0625",
+        "name": "",
         "data": ["unova"]
     },
     {
         "dex": "0626",
+        "name": "",
         "data": ["unova"]
     },
     {
         "dex": "0627",
+        "name": "",
         "data": ["unova"]
     },
     {
         "dex": "0628",
+        "name": "",
         "data": ["unova"]
     },
     {
         "dex": "0629",
+        "name": "",
         "data": ["unova"]
     },
     {
         "dex": "0630",
+        "name": "",
         "data": ["unova"]
     },
     {
         "dex": "0631",
+        "name": "",
         "data": ["unova"]
     },
     {
         "dex": "0632",
+        "name": "",
         "data": ["unova"]
     },
     {
         "dex": "0633",
+        "name": "",
         "data": ["unova bs600"]
     },
     {
         "dex": "0634",
+        "name": "",
         "data": ["unova bs600"]
     },
     {
         "dex": "0635",
+        "name": "",
         "data": ["unova bs600"]
     },
     {
         "dex": "0636",
+        "name": "",
         "data": ["unova"]
     },
     {
         "dex": "0637",
+        "name": "",
         "data": ["unova"]
     },
     {
         "dex": "0638",
+        "name": "",
         "data": ["unova trio"]
     },
     {
         "dex": "0639",
+        "name": "",
         "data": ["unova trio"]
     },
     {
         "dex": "0640",
+        "name": "",
         "data": ["unova trio"]
     },
     {
         "dex": "0641",
+        "name": "",
         "data": ["unova trio"]
     },
     {
         "dex": "0641T",
+        "name": "",
         "data": ["unova"]
     },
     {
         "dex": "0642",
+        "name": "",
         "data": ["unova trio"]
     },
     {
         "dex": "0642T",
+        "name": "",
         "data": ["unova"]
     },
     {
         "dex": "0643",
+        "name": "",
         "data": ["unova legendary"]
     },
     {
         "dex": "0644",
+        "name": "",
         "data": ["unova legendary"]
     },
     {
         "dex": "0645",
+        "name": "",
         "data": ["unova trio"]
     },
     {
         "dex": "0646",
+        "name": "",
         "data": ["unova legendary"]
     },
     {
         "dex": "0647",
+        "name": "",
         "data": ["unova mirage"]
     },
     {
         "dex": "0647R",
+        "name": "",
         "data": ["unova mirage"]
     },
     {
         "dex": "0648",
+        "name": "",
         "data": ["unova mirage"]
     },
     {
         "dex": "0648P",
+        "name": "",
         "data": ["unova mirage"]
     },
     {
         "dex": "0649",
+        "name": "",
         "data": ["unova mirage"]
     },
     {
         "dex": "0650",
+        "name": "",
         "data": ["kalos", "starter"]
     },
     {
         "dex": "0651",
+        "name": "",
         "data": ["kalos", "starter"]
     },
     {
         "dex": "0652",
+        "name": "",
         "data": ["kalos", "starter"]
     },
     {
         "dex": "0653",
+        "name": "",
         "data": ["kalos", "starter"]
     },
     {
         "dex": "0654",
+        "name": "",
         "data": ["kalos", "starter"]
     },
     {
         "dex": "0655",
+        "name": "",
         "data": ["kalos", "starter"]
     },
     {
         "dex": "0656",
+        "name": "",
         "data": ["kalos", "starter"]
     },
     {
         "dex": "0657",
+        "name": "",
         "data": ["kalos", "starter"]
     },
     {
         "dex": "0658",
+        "name": "",
         "data": ["kalos", "starter"]
     },
     {
         "dex": "0658A",
+        "name": "",
         "data": ["kalos", "starter"]
     },
     {
         "dex": "0659",
+        "name": "",
         "data": ["kalos"]
     },
     {
         "dex": "0660",
+        "name": "",
         "data": ["kalos"]
     },
     {
         "dex": "0661",
+        "name": "",
         "data": ["kalos"]
     },
     {
         "dex": "0662",
+        "name": "",
         "data": ["kalos"]
     },
     {
         "dex": "0663",
+        "name": "",
         "data": ["kalos"]
     },
     {
         "dex": "0664",
+        "name": "",
         "data": ["kalos"]
     },
     {
         "dex": "0665",
+        "name": "",
         "data": ["kalos"]
     },
     {
         "dex": "0666",
+        "name": "",
         "data": ["kalos"]
     },
     {
         "dex": "0666Arc",
+        "name": "",
         "data": ["kalos"]
     },
     {
         "dex": "0666Con",
+        "name": "",
         "data": ["kalos"]
     },
     {
         "dex": "0666Ele",
+        "name": "",
         "data": ["kalos"]
     },
     {
         "dex": "0666Fan",
+        "name": "",
         "data": ["kalos"]
     },
     {
         "dex": "0666Gar",
+        "name": "",
         "data": ["kalos"]
     },
     {
         "dex": "0666Hig",
+        "name": "",
         "data": ["kalos"]
     },
     {
         "dex": "0666Icy",
+        "name": "",
         "data": ["kalos"]
     },
     {
         "dex": "0666Jun",
+        "name": "",
         "data": ["kalos"]
     },
     {
         "dex": "0666Mar",
+        "name": "",
         "data": ["kalos"]
     },
     {
         "dex": "0666Mod",
+        "name": "",
         "data": ["kalos"]
     },
     {
         "dex": "0666Mon",
+        "name": "",
         "data": ["kalos"]
     },
     {
         "dex": "0666Oce",
+        "name": "",
         "data": ["kalos"]
     },
     {
         "dex": "0666Pok",
+        "name": "",
         "data": ["kalos"]
     },
     {
         "dex": "0666Pol",
+        "name": "",
         "data": ["kalos"]
     },
     {
         "dex": "0666Riv",
+        "name": "",
         "data": ["kalos"]
     },
     {
         "dex": "0666San",
+        "name": "",
         "data": ["kalos"]
     },
     {
         "dex": "0666Sav",
+        "name": "",
         "data": ["kalos"]
     },
     {
         "dex": "0666Sun",
+        "name": "",
         "data": ["kalos"]
     },
     {
         "dex": "0666Tun",
+        "name": "",
         "data": ["kalos"]
     },
     {
         "dex": "0667",
+        "name": "",
         "data": ["kalos"]
     },
     {
         "dex": "0668",
+        "name": "",
         "data": ["kalos"]
     },
     {
         "dex": "0668F",
+        "name": "",
         "data": ["kalos"]
     },
     {
         "dex": "0669",
+        "name": "",
         "data": ["kalos"]
     },
     {
         "dex": "0669B",
+        "name": "",
         "data": ["kalos"]
     },
     {
         "dex": "0669Y",
+        "name": "",
         "data": ["kalos"]
     },
     {
         "dex": "0669O",
+        "name": "",
         "data": ["kalos"]
     },
     {
         "dex": "0669W",
+        "name": "",
         "data": ["kalos"]
     },
     {
         "dex": "0670",
+        "name": "",
         "data": ["kalos"]
     },
     {
         "dex": "0670B",
+        "name": "",
         "data": ["kalos"]
     },
     {
         "dex": "0670Y",
+        "name": "",
         "data": ["kalos"]
     },
     {
         "dex": "0670O",
+        "name": "",
         "data": ["kalos"]
     },
     {
         "dex": "0670W",
+        "name": "",
         "data": ["kalos"]
     },
     {
         "dex": "0670E",
+        "name": "",
         "data": ["kalos"]
     },
     {
         "dex": "0671",
+        "name": "",
         "data": ["kalos"]
     },
     {
         "dex": "0671B",
+        "name": "",
         "data": ["kalos"]
     },
     {
         "dex": "0671Y",
+        "name": "",
         "data": ["kalos"]
     },
     {
         "dex": "0671O",
+        "name": "",
         "data": ["kalos"]
     },
     {
         "dex": "0671W",
+        "name": "",
         "data": ["kalos"]
     },
     {
         "dex": "0672",
+        "name": "",
         "data": ["kalos"]
     },
     {
         "dex": "0673",
+        "name": "",
         "data": ["kalos"]
     },
     {
         "dex": "0674",
+        "name": "",
         "data": ["kalos"]
     },
     {
         "dex": "0675",
+        "name": "",
         "data": ["kalos"]
     },
     {
         "dex": "0676",
+        "name": "",
         "data": ["kalos"]
     },
     {
         "dex": "0676Da",
+        "name": "",
         "data": ["kalos"]
     },
     {
         "dex": "0676De",
+        "name": "",
         "data": ["kalos"]
     },
     {
         "dex": "0676Di",
+        "name": "",
         "data": ["kalos"]
     },
     {
         "dex": "0676He",
+        "name": "",
         "data": ["kalos"]
     },
     {
         "dex": "0676Ka",
+        "name": "",
         "data": ["kalos"]
     },
     {
         "dex": "0676La",
+        "name": "",
         "data": ["kalos"]
     },
     {
         "dex": "0676Ma",
+        "name": "",
         "data": ["kalos"]
     },
     {
         "dex": "0676Ph",
+        "name": "",
         "data": ["kalos"]
     },
     {
         "dex": "0676Ph",
+        "name": "",
         "data": ["kalos"]
     },
     {
         "dex": "0677",
+        "name": "",
         "data": ["kalos"]
     },
     {
         "dex": "0678",
+        "name": "",
         "data": ["kalos"]
     },
     {
         "dex": "0678F",
+        "name": "",
         "data": ["kalos"]
     },
     {
         "dex": "0679",
+        "name": "",
         "data": ["kalos"]
     },
     {
         "dex": "0680",
+        "name": "",
         "data": ["kalos"]
     },
     {
         "dex": "0681",
+        "name": "",
         "data": ["kalos"]
     },
     {
         "dex": "0681B",
+        "name": "",
         "data": ["kalos"]
     },
     {
         "dex": "0682",
+        "name": "",
         "data": ["kalos"]
     },
     {
         "dex": "0683",
+        "name": "",
         "data": ["kalos"]
     },
     {
         "dex": "0684",
+        "name": "",
         "data": ["kalos"]
     },
     {
         "dex": "0685",
+        "name": "",
         "data": ["kalos"]
     },
     {
         "dex": "0686",
+        "name": "",
         "data": ["kalos"]
     },
     {
         "dex": "0687",
+        "name": "",
         "data": ["kalos"]
     },
     {
         "dex": "0688",
+        "name": "",
         "data": ["kalos"]
     },
     {
         "dex": "0689",
+        "name": "",
         "data": ["kalos"]
     },
     {
         "dex": "0690",
+        "name": "",
         "data": ["kalos"]
     },
     {
         "dex": "0691",
+        "name": "",
         "data": ["kalos"]
     },
     {
         "dex": "0692",
+        "name": "",
         "data": ["kalos"]
     },
     {
         "dex": "0693",
+        "name": "",
         "data": ["kalos"]
     },
     {
         "dex": "0694",
+        "name": "",
         "data": ["kalos"]
     },
     {
         "dex": "0695",
+        "name": "",
         "data": ["kalos"]
     },
     {
         "dex": "0696",
+        "name": "",
         "data": ["kalos"]
     },
     {
         "dex": "0697",
+        "name": "",
         "data": ["kalos"]
     },
     {
         "dex": "0698",
+        "name": "",
         "data": ["kalos"]
     },
     {
         "dex": "0699",
+        "name": "",
         "data": ["kalos"]
     },
     {
         "dex": "0700",
+        "name": "",
         "data": ["kalos", "eevee"]
     },
     {
         "dex": "0701",
+        "name": "",
         "data": ["kalos"]
     },
     {
         "dex": "0702",
+        "name": "",
         "data": ["kalos"]
     },
     {
         "dex": "0703",
+        "name": "",
         "data": ["kalos"]
     },
     {
         "dex": "0704",
+        "name": "",
         "data": ["kalos", "bs600"]
     },
     {
         "dex": "0705",
+        "name": "",
         "data": ["kalos", "bs600"]
     },
     {
         "dex": "0706",
+        "name": "",
         "data": ["kalos", "bs600"]
     },
     {
         "dex": "0707",
+        "name": "",
         "data": ["kalos"]
     },
     {
         "dex": "0708",
+        "name": "",
         "data": ["kalos"]
     },
     {
         "dex": "0709",
+        "name": "",
         "data": ["kalos"]
     },
     {
         "dex": "0710",
+        "name": "",
         "data": ["kalos"]
     },
     {
         "dex": "0711",
+        "name": "",
         "data": ["kalos"]
     },
     {
         "dex": "0712",
+        "name": "",
         "data": ["kalos"]
     },
     {
         "dex": "0713",
+        "name": "",
         "data": ["kalos"]
     },
     {
         "dex": "0714",
+        "name": "",
         "data": ["kalos"]
     },
     {
         "dex": "0715",
+        "name": "",
         "data": ["kalos"]
     },
     {
         "dex": "0716N",
+        "name": "",
         "data": ["kalos"]
     },
     {
         "dex": "0716",
+        "name": "",
         "data": ["kalos", "legendary"]
     },
     {
         "dex": "0717",
+        "name": "",
         "data": ["kalos", "legendary"]
     },
     {
         "dex": "0718T",
+        "name": "",
         "data": ["kalos", "legendary"]
     },
     {
         "dex": "0718",
+        "name": "",
         "data": ["kalos", "legendary"]
     },
     {
         "dex": "0718C",
+        "name": "",
         "data": ["kalos", "legendary"]
     },
     {
         "dex": "0719",
+        "name": "",
         "data": ["kalos", "mirage"]
     },
     {
         "dex": "0719M",
+        "name": "",
         "data": ["kalos", "mega", "mirage"]
     },
     {
         "dex": "0720",
+        "name": "",
         "data": ["kalos", "mirage"]
     },
     {
         "dex": "0720U",
+        "name": "",
         "data": ["kalos", "mirage"]
     },
     {
         "dex": "0721",
+        "name": "",
         "data": ["kalos", "mirage"]
     },
     {
         "dex": "0722",
+        "name": "",
         "data": ["alola", "starter"]
     },
     {
         "dex": "0723",
+        "name": "",
         "data": ["alola", "starter"]
     },
     {
         "dex": "0724",
+        "name": "",
         "data": ["alola", "starter"]
     },
     {
         "dex": "0725",
+        "name": "",
         "data": ["alola", "starter"]
     },
     {
         "dex": "0726",
+        "name": "",
         "data": ["alola", "starter"]
     },
     {
         "dex": "0727",
+        "name": "",
         "data": ["alola", "starter"]
     },
     {
         "dex": "0728",
+        "name": "",
         "data": ["alola", "starter"]
     },
     {
         "dex": "0729",
+        "name": "",
         "data": ["alola", "starter"]
     },
     {
         "dex": "0730",
+        "name": "",
         "data": ["alola", "starter"]
     },
     {
         "dex": "0731",
+        "name": "",
         "data": ["alola"]
     },
     {
         "dex": "0732",
+        "name": "",
         "data": ["alola"]
     },
     {
         "dex": "0733",
+        "name": "",
         "data": ["alola"]
     },
     {
         "dex": "0734",
+        "name": "",
         "data": ["alola"]
     },
     {
         "dex": "0735",
+        "name": "",
         "data": ["alola"]
     },
     {
         "dex": "0736",
+        "name": "",
         "data": ["alola"]
     },
     {
         "dex": "0737",
+        "name": "",
         "data": ["alola"]
     },
     {
         "dex": "0738",
+        "name": "",
         "data": ["alola"]
     },
     {
         "dex": "0739",
+        "name": "",
         "data": ["alola"]
     },
     {
         "dex": "0740",
+        "name": "",
         "data": ["alola"]
     },
     {
         "dex": "0741",
+        "name": "",
         "data": ["alola"]
     },
     {
         "dex": "0741Po",
+        "name": "",
         "data": ["alola"]
     },
     {
         "dex": "0741Pa",
+        "name": "",
         "data": ["alola"]
     },
     {
         "dex": "0741Se",
+        "name": "",
         "data": ["alola"]
     },
     {
         "dex": "0742",
+        "name": "",
         "data": ["alola"]
     },
     {
         "dex": "0743",
+        "name": "",
         "data": ["alola"]
     },
     {
         "dex": "0744",
+        "name": "",
         "data": ["alola"]
     },
     {
         "dex": "0745",
+        "name": "",
         "data": ["alola"]
     },
     {
         "dex": "0745Mn",
+        "name": "",
         "data": ["alola"]
     },
     {
         "dex": "0746",
+        "name": "",
         "data": ["alola"]
     },
     {
         "dex": "0746Sc",
+        "name": "",
         "data": ["alola"]
     },
     {
         "dex": "0747",
+        "name": "",
         "data": ["alola"]
     },
     {
         "dex": "0748",
+        "name": "",
         "data": ["alola"]
     },
     {
         "dex": "0749",
+        "name": "",
         "data": ["alola"]
     },
     {
         "dex": "0750",
+        "name": "",
         "data": ["alola"]
     },
     {
         "dex": "0751",
+        "name": "",
         "data": ["alola"]
     },
     {
         "dex": "0752",
+        "name": "",
         "data": ["alola"]
     },
     {
         "dex": "0753",
+        "name": "",
         "data": ["alola"]
     },
     {
         "dex": "0754",
+        "name": "",
         "data": ["alola"]
     },
     {
         "dex": "0755",
+        "name": "",
         "data": ["alola"]
     },
     {
         "dex": "0756",
+        "name": "",
         "data": ["alola"]
     },
     {
         "dex": "0757",
+        "name": "",
         "data": ["alola"]
     },
     {
         "dex": "0758",
+        "name": "",
         "data": ["alola"]
     },
     {
         "dex": "0759",
+        "name": "",
         "data": ["alola"]
     },
     {
         "dex": "0760",
+        "name": "",
         "data": ["alola"]
     },
     {
         "dex": "0761",
+        "name": "",
         "data": ["alola"]
     },
     {
         "dex": "0762",
+        "name": "",
         "data": ["alola"]
     },
     {
         "dex": "0763",
+        "name": "",
         "data": ["alola"]
     },
     {
         "dex": "0764",
+        "name": "",
         "data": ["alola"]
     },
     {
         "dex": "0765",
+        "name": "",
         "data": ["alola"]
     },
     {
         "dex": "0766",
+        "name": "",
         "data": ["alola"]
     },
     {
         "dex": "0767",
+        "name": "",
         "data": ["alola"]
     },
     {
         "dex": "0768",
+        "name": "",
         "data": ["alola"]
     },
     {
         "dex": "0769",
+        "name": "",
         "data": ["alola"]
     },
     {
         "dex": "0770",
+        "name": "",
         "data": ["alola"]
     },
     {
         "dex": "0771",
+        "name": "",
         "data": ["alola"]
     },
     {
         "dex": "0772",
+        "name": "",
         "data": ["alola"]
     },
     {
         "dex": "0773",
+        "name": "",
         "data": ["alola"]
     },
     {
         "dex": "0774",
+        "name": "",
         "data": ["alola"]
     },
     {
         "dex": "0774R",
+        "name": "",
         "data": ["alola"]
     },
     {
         "dex": "0774O",
+        "name": "",
         "data": ["alola"]
     },
     {
         "dex": "0774Y",
+        "name": "",
         "data": ["alola"]
     },
     {
         "dex": "0774G",
+        "name": "",
         "data": ["alola"]
     },
     {
         "dex": "0774B",
+        "name": "",
         "data": ["alola"]
     },
     {
         "dex": "0774I",
+        "name": "",
         "data": ["alola"]
     },
     {
         "dex": "0774V",
+        "name": "",
         "data": ["alola"]
     },
     {
         "dex": "0775",
+        "name": "",
         "data": ["alola"]
     },
     {
         "dex": "0776",
+        "name": "",
         "data": ["alola"]
     },
     {
         "dex": "0777",
+        "name": "",
         "data": ["alola"]
     },
     {
         "dex": "0778",
+        "name": "",
         "data": ["alola"]
     },
     {
         "dex": "0779",
+        "name": "",
         "data": ["alola"]
     },
     {
         "dex": "0780",
+        "name": "",
         "data": ["alola"]
     },
     {
         "dex": "0781",
+        "name": "",
         "data": ["alola"]
     },
     {
         "dex": "0782",
+        "name": "",
         "data": ["alola", "bs600"]
     },
     {
         "dex": "0783",
+        "name": "",
         "data": ["alola", "bs600"]
     },
     {
         "dex": "0784",
+        "name": "",
         "data": ["alola", "bs600"]
     },
     {
         "dex": "0785",
+        "name": "",
         "data": ["alola", "trio"]
     },
     {
         "dex": "0786",
+        "name": "",
         "data": ["alola", "trio"]
     },
     {
         "dex": "0787",
+        "name": "",
         "data": ["alola", "trio"]
     },
     {
         "dex": "0788",
+        "name": "",
         "data": ["alola", "trio"]
     },
     {
         "dex": "0789",
+        "name": "",
         "data": ["alola"]
     },
     {
         "dex": "0790",
+        "name": "",
         "data": ["alola"]
     },
     {
         "dex": "0791",
+        "name": "",
         "data": ["alola", "legendary"]
     },
     {
         "dex": "0792",
+        "name": "",
         "data": ["alola", "legendary"]
     },
     {
         "dex": "0793",
+        "name": "",
         "data": ["alola", "UB"]
     },
     {
         "dex": "0794",
+        "name": "",
         "data": ["alola", "UB"]
     },
     {
         "dex": "0795",
+        "name": "",
         "data": ["alola", "UB"]
     },
     {
         "dex": "0796",
+        "name": "",
         "data": ["alola", "UB"]
     },
     {
         "dex": "0797",
+        "name": "",
         "data": ["alola", "UB"]
     },
     {
         "dex": "0798",
+        "name": "",
         "data": ["alola", "UB"]
     },
     {
         "dex": "0799",
+        "name": "",
         "data": ["alola", "UB"]
     },
     {
         "dex": "0800",
+        "name": "",
         "data": ["alola", "legendary"]
     },
     {
         "dex": "0801",
+        "name": "",
         "data": ["alola", "mirage"]
     },
     {
         "dex": "0801O",
+        "name": "",
         "data": ["alola", "mirage"]
     },
     {
         "dex": "0802",
+        "name": "",
         "data": ["alola"]
     },
     {
         "dex": "Egg",
+        "name": "",
         "data": [""]
     }
 ]
