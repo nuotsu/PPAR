@@ -11,37 +11,37 @@
     },
     {
         "dex": "0003",
-        "nameENG": "",
+        "nameENG": "Venusaur",
         "data": ["kanto", "starter"]
     },
     {
         "dex": "0003M",
-        "nameENG": "",
+        "nameENG": "Mega Venusaur",
         "data": ["kanto", "mega", "starter"]
     },
     {
         "dex": "0004",
-        "nameENG": "",
+        "nameENG": "Charmander",
         "data": ["kanto", "starter"]
     },
     {
         "dex": "0005",
-        "nameENG": "",
+        "nameENG": "Charmeleon",
         "data": ["kanto", "starter"]
     },
     {
         "dex": "0006",
-        "nameENG": "",
+        "nameENG": "Charizard",
         "data": ["kanto", "starter"]
     },
     {
         "dex": "0006MX",
-        "nameENG": "",
+        "nameENG": "Mega Charizard X",
         "data": ["kanto", "mega", "starter"]
     },
     {
         "dex": "0006MY",
-        "nameENG": "",
+        "nameENG": "Mega Charizard Y",
         "data": ["kanto", "mega", "starter"]
     },
     {
@@ -61,7 +61,7 @@
     },
     {
         "dex": "0009M",
-        "nameENG": "",
+        "nameENG": "Mega ",
         "data": ["kanto", "mega", "starter"]
     },
     {
@@ -111,7 +111,7 @@
     },
     {
         "dex": "0018M",
-        "nameENG": "",
+        "nameENG": "Mega ",
         "data": ["kanto", "mega"]
     },
     {
@@ -466,7 +466,7 @@
     },
     {
         "dex": "0065M",
-        "nameENG": "",
+        "nameENG": "Mega ",
         "data": ["kanto", "mega"]
     },
     {
@@ -561,7 +561,7 @@
     },
     {
         "dex": "0080M",
-        "nameENG": "",
+        "nameENG": "Mega ",
         "data": ["kanto", "mega"]
     },
     {
@@ -646,7 +646,7 @@
     },
     {
         "dex": "0094M",
-        "nameENG": "",
+        "nameENG": "Mega ",
         "data": ["kanto", "mega"]
     },
     {
@@ -826,7 +826,7 @@
     },
     {
         "dex": "0127M",
-        "nameENG": "",
+        "nameENG": "Mega ",
         "data": ["kanto", "mega"]
     },
     {
@@ -856,7 +856,7 @@
     },
     {
         "dex": "0130M",
-        "nameENG": "",
+        "nameENG": "Mega ",
         "data": ["kanto", "mega"]
     },
     {
@@ -921,7 +921,7 @@
     },
     {
         "dex": "0142M",
-        "nameENG": "",
+        "nameENG": "Mega ",
         "data": ["kanto", "mega"]
     },
     {
@@ -966,12 +966,12 @@
     },
     {
         "dex": "0150MX",
-        "nameENG": "",
+        "nameENG": "Mega ",
         "data": ["kanto", "mega"]
     },
     {
         "dex": "0150MY",
-        "nameENG": "",
+        "nameENG": "Mega ",
         "data": ["kanto", "mega"]
     },
     {
@@ -1131,7 +1131,7 @@
     },
     {
         "dex": "0181M",
-        "nameENG": "",
+        "nameENG": "Mega ",
         "data": ["johto", "mega"]
     },
     {
@@ -1406,7 +1406,7 @@
     },
     {
         "dex": "0208M",
-        "nameENG": "",
+        "nameENG": "Mega ",
         "data": ["johto", "mega"]
     },
     {
@@ -1431,7 +1431,7 @@
     },
     {
         "dex": "0212M",
-        "nameENG": "",
+        "nameENG": "Mega ",
         "data": ["johto", "mega"]
     },
     {
@@ -1446,7 +1446,7 @@
     },
     {
         "dex": "0214M",
-        "nameENG": "",
+        "nameENG": "Mega ",
         "data": ["johto", "mega"]
     },
     {
@@ -1526,7 +1526,7 @@
     },
     {
         "dex": "0229M",
-        "nameENG": "",
+        "nameENG": "Mega ",
         "data": ["johto", "mega"]
     },
     {
@@ -1626,7 +1626,7 @@
     },
     {
         "dex": "0248M",
-        "nameENG": "",
+        "nameENG": "Mega ",
         "data": ["johto", "mega"]
     },
     {
@@ -1661,7 +1661,7 @@
     },
     {
         "dex": "0254M",
-        "nameENG": "",
+        "nameENG": "Mega ",
         "data": ["hoenn", "mega", "starter"]
     },
     {
@@ -1681,7 +1681,7 @@
     },
     {
         "dex": "0257M",
-        "nameENG": "",
+        "nameENG": "Mega ",
         "data": ["hoenn", "mega", "starter"]
     },
     {
@@ -1701,7 +1701,7 @@
     },
     {
         "dex": "0260M",
-        "nameENG": "",
+        "nameENG": "Mega ",
         "data": ["hoenn", "mega", "starter"]
     },
     {
@@ -1816,7 +1816,7 @@
     },
     {
         "dex": "0282M",
-        "nameENG": "",
+        "nameENG": "Mega ",
         "data": ["hoenn", "mega"]
     },
     {
@@ -1921,7 +1921,7 @@
     },
     {
         "dex": "0302M",
-        "nameENG": "",
+        "nameENG": "Mega ",
         "data": ["hoenn", "mega"]
     },
     {
@@ -1931,7 +1931,7 @@
     },
     {
         "dex": "0303M",
-        "nameENG": "",
+        "nameENG": "Mega ",
         "data": ["hoenn", "mega"]
     },
     {
@@ -1951,7 +1951,7 @@
     },
     {
         "dex": "0306M",
-        "nameENG": "",
+        "nameENG": "Mega ",
         "data": ["hoenn", "mega"]
     },
     {
@@ -1966,7 +1966,7 @@
     },
     {
         "dex": "0308M",
-        "nameENG": "",
+        "nameENG": "Mega ",
         "data": ["hoenn", "mega"]
     },
     {
@@ -1981,7 +1981,7 @@
     },
     {
         "dex": "0310M",
-        "nameENG": "",
+        "nameENG": "Mega ",
         "data": ["hoenn", "mega"]
     },
     {
@@ -2031,7 +2031,7 @@
     },
     {
         "dex": "0319M",
-        "nameENG": "",
+        "nameENG": "Mega ",
         "data": ["hoenn", "mega"]
     },
     {
@@ -2056,7 +2056,7 @@
     },
     {
         "dex": "0323M",
-        "nameENG": "",
+        "nameENG": "Mega ",
         "data": ["hoenn", "mega"]
     },
     {
@@ -2116,7 +2116,7 @@
     },
     {
         "dex": "0334M",
-        "nameENG": "",
+        "nameENG": "Mega ",
         "data": ["hoenn", "mega"]
     },
     {
@@ -2236,7 +2236,7 @@
     },
     {
         "dex": "0354M",
-        "nameENG": "",
+        "nameENG": "Mega ",
         "data": ["hoenn", "mega"]
     },
     {
@@ -2281,7 +2281,7 @@
     },
     {
         "dex": "0362M",
-        "nameENG": "",
+        "nameENG": "Mega ",
         "data": ["hoenn", "mega"]
     },
     {
@@ -2341,7 +2341,7 @@
     },
     {
         "dex": "0373M",
-        "nameENG": "",
+        "nameENG": "Mega ",
         "data": ["hoenn", "mega", "bs600"]
     },
     {
@@ -2361,7 +2361,7 @@
     },
     {
         "dex": "0376M",
-        "nameENG": "",
+        "nameENG": "Mega ",
         "data": ["hoenn", "mega", "bs600"]
     },
     {
@@ -2386,7 +2386,7 @@
     },
     {
         "dex": "0380M",
-        "nameENG": "",
+        "nameENG": "Mega ",
         "data": ["hoenn", "mega"]
     },
     {
@@ -2396,7 +2396,7 @@
     },
     {
         "dex": "0381M",
-        "nameENG": "",
+        "nameENG": "Mega ",
         "data": ["hoenn", "mega"]
     },
     {
@@ -2406,7 +2406,7 @@
     },
     {
         "dex": "0382P",
-        "nameENG": "",
+        "nameENG": "Primal ",
         "data": ["hoenn", "mega"]
     },
     {
@@ -2416,7 +2416,7 @@
     },
     {
         "dex": "0383P",
-        "nameENG": "",
+        "nameENG": "Primal ",
         "data": ["hoenn", "mega"]
     },
     {
@@ -2426,7 +2426,7 @@
     },
     {
         "dex": "0384M",
-        "nameENG": "",
+        "nameENG": "Mega ",
         "data": ["hoenn", "mega"]
     },
     {
@@ -2696,7 +2696,7 @@
     },
     {
         "dex": "0428M",
-        "nameENG": "",
+        "nameENG": "Mega ",
         "data": ["sinnoh", "mega"]
     },
     {
@@ -2786,7 +2786,7 @@
     },
     {
         "dex": "0445M",
-        "nameENG": "",
+        "nameENG": "Mega ",
         "data": ["sinnoh", "mega", "bs600"]
     },
     {
@@ -2806,7 +2806,7 @@
     },
     {
         "dex": "0448M",
-        "nameENG": "",
+        "nameENG": "Mega ",
         "data": ["sinnoh", "mega"]
     },
     {
@@ -2871,7 +2871,7 @@
     },
     {
         "dex": "0460M",
-        "nameENG": "",
+        "nameENG": "Mega ",
         "data": ["sinnoh", "mega"]
     },
     {
@@ -2951,7 +2951,7 @@
     },
     {
         "dex": "0475M",
-        "nameENG": "",
+        "nameENG": "Mega ",
         "data": ["sinnoh", "mega"]
     },
     {
@@ -3276,7 +3276,7 @@
     },
     {
         "dex": "0531M",
-        "nameENG": "",
+        "nameENG": "Mega ",
         "data": ["unova mega"]
     },
     {
@@ -4531,7 +4531,7 @@
     },
     {
         "dex": "0719M",
-        "nameENG": "",
+        "nameENG": "Mega ",
         "data": ["kalos", "mega", "mirage"]
     },
     {
@@ -4551,477 +4551,476 @@
     },
     {
         "dex": "0722",
-        "nameENG": "",
+        "nameENG": "Alolan ",
         "data": ["alola", "starter"]
     },
     {
         "dex": "0723",
-        "nameENG": "",
+        "nameENG": "Alolan ",
         "data": ["alola", "starter"]
     },
     {
         "dex": "0724",
-        "nameENG": "",
+        "nameENG": "Alolan ",
         "data": ["alola", "starter"]
     },
     {
         "dex": "0725",
-        "nameENG": "",
+        "nameENG": "Alolan ",
         "data": ["alola", "starter"]
     },
     {
         "dex": "0726",
-        "nameENG": "",
+        "nameENG": "Alolan ",
         "data": ["alola", "starter"]
     },
     {
         "dex": "0727",
-        "nameENG": "",
+        "nameENG": "Alolan ",
         "data": ["alola", "starter"]
     },
     {
         "dex": "0728",
-        "nameENG": "",
+        "nameENG": "Alolan ",
         "data": ["alola", "starter"]
     },
     {
         "dex": "0729",
-        "nameENG": "",
+        "nameENG": "Alolan ",
         "data": ["alola", "starter"]
     },
     {
         "dex": "0730",
-        "nameENG": "",
+        "nameENG": "Alolan ",
         "data": ["alola", "starter"]
     },
     {
         "dex": "0731",
-        "nameENG": "",
+        "nameENG": "Alolan ",
         "data": ["alola"]
     },
     {
         "dex": "0732",
-        "nameENG": "",
+        "nameENG": "Alolan ",
         "data": ["alola"]
     },
     {
         "dex": "0733",
-        "nameENG": "",
+        "nameENG": "Alolan ",
         "data": ["alola"]
     },
     {
         "dex": "0734",
-        "nameENG": "",
+        "nameENG": "Alolan ",
         "data": ["alola"]
     },
     {
         "dex": "0735",
-        "nameENG": "",
+        "nameENG": "Alolan ",
         "data": ["alola"]
     },
     {
         "dex": "0736",
-        "nameENG": "",
+        "nameENG": "Alolan ",
         "data": ["alola"]
     },
     {
         "dex": "0737",
-        "nameENG": "",
+        "nameENG": "Alolan ",
         "data": ["alola"]
     },
     {
         "dex": "0738",
-        "nameENG": "",
+        "nameENG": "Alolan ",
         "data": ["alola"]
     },
     {
         "dex": "0739",
-        "nameENG": "",
+        "nameENG": "Alolan ",
         "data": ["alola"]
     },
     {
         "dex": "0740",
-        "nameENG": "",
+        "nameENG": "Alolan ",
         "data": ["alola"]
     },
     {
         "dex": "0741",
-        "nameENG": "",
+        "nameENG": "Alolan ",
         "data": ["alola"]
     },
     {
         "dex": "0741Po",
-        "nameENG": "",
+        "nameENG": "Alolan ",
         "data": ["alola"]
     },
     {
         "dex": "0741Pa",
-        "nameENG": "",
+        "nameENG": "Alolan ",
         "data": ["alola"]
     },
     {
         "dex": "0741Se",
-        "nameENG": "",
+        "nameENG": "Alolan ",
         "data": ["alola"]
     },
     {
         "dex": "0742",
-        "nameENG": "",
+        "nameENG": "Alolan ",
         "data": ["alola"]
     },
     {
         "dex": "0743",
-        "nameENG": "",
+        "nameENG": "Alolan ",
         "data": ["alola"]
     },
     {
         "dex": "0744",
-        "nameENG": "",
+        "nameENG": "Alolan ",
         "data": ["alola"]
     },
     {
         "dex": "0745",
-        "nameENG": "",
+        "nameENG": "Alolan ",
         "data": ["alola"]
     },
     {
         "dex": "0745Mn",
-        "nameENG": "",
+        "nameENG": "Alolan ",
         "data": ["alola"]
     },
     {
         "dex": "0746",
-        "nameENG": "",
+        "nameENG": "Alolan ",
         "data": ["alola"]
     },
     {
         "dex": "0746Sc",
-        "nameENG": "",
+        "nameENG": "Alolan ",
         "data": ["alola"]
     },
     {
         "dex": "0747",
-        "nameENG": "",
+        "nameENG": "Alolan ",
         "data": ["alola"]
     },
     {
         "dex": "0748",
-        "nameENG": "",
+        "nameENG": "Alolan ",
         "data": ["alola"]
     },
     {
         "dex": "0749",
-        "nameENG": "",
+        "nameENG": "Alolan ",
         "data": ["alola"]
     },
     {
         "dex": "0750",
-        "nameENG": "",
+        "nameENG": "Alolan ",
         "data": ["alola"]
     },
     {
         "dex": "0751",
-        "nameENG": "",
+        "nameENG": "Alolan ",
         "data": ["alola"]
     },
     {
         "dex": "0752",
-        "nameENG": "",
+        "nameENG": "Alolan ",
         "data": ["alola"]
     },
     {
         "dex": "0753",
-        "nameENG": "",
+        "nameENG": "Alolan ",
         "data": ["alola"]
     },
     {
         "dex": "0754",
-        "nameENG": "",
+        "nameENG": "Alolan ",
         "data": ["alola"]
     },
     {
         "dex": "0755",
-        "nameENG": "",
+        "nameENG": "Alolan ",
         "data": ["alola"]
     },
     {
         "dex": "0756",
-        "nameENG": "",
+        "nameENG": "Alolan ",
         "data": ["alola"]
     },
     {
         "dex": "0757",
-        "nameENG": "",
+        "nameENG": "Alolan ",
         "data": ["alola"]
     },
     {
         "dex": "0758",
-        "nameENG": "",
+        "nameENG": "Alolan ",
         "data": ["alola"]
     },
     {
         "dex": "0759",
-        "nameENG": "",
+        "nameENG": "Alolan ",
         "data": ["alola"]
     },
     {
         "dex": "0760",
-        "nameENG": "",
+        "nameENG": "Alolan ",
         "data": ["alola"]
     },
     {
         "dex": "0761",
-        "nameENG": "",
+        "nameENG": "Alolan ",
         "data": ["alola"]
     },
     {
         "dex": "0762",
-        "nameENG": "",
+        "nameENG": "Alolan ",
         "data": ["alola"]
     },
     {
         "dex": "0763",
-        "nameENG": "",
+        "nameENG": "Alolan ",
         "data": ["alola"]
     },
     {
         "dex": "0764",
-        "nameENG": "",
+        "nameENG": "Alolan ",
         "data": ["alola"]
     },
     {
         "dex": "0765",
-        "nameENG": "",
+        "nameENG": "Alolan ",
         "data": ["alola"]
     },
     {
         "dex": "0766",
-        "nameENG": "",
+        "nameENG": "Alolan ",
         "data": ["alola"]
     },
     {
         "dex": "0767",
-        "nameENG": "",
+        "nameENG": "Alolan ",
         "data": ["alola"]
     },
     {
         "dex": "0768",
-        "nameENG": "",
+        "nameENG": "Alolan ",
         "data": ["alola"]
     },
     {
         "dex": "0769",
-        "nameENG": "",
+        "nameENG": "Alolan ",
         "data": ["alola"]
     },
     {
         "dex": "0770",
-        "nameENG": "",
+        "nameENG": "Alolan ",
         "data": ["alola"]
     },
     {
         "dex": "0771",
-        "nameENG": "",
+        "nameENG": "Alolan ",
         "data": ["alola"]
     },
     {
         "dex": "0772",
-        "nameENG": "",
+        "nameENG": "Alolan ",
         "data": ["alola"]
     },
     {
         "dex": "0773",
-        "nameENG": "",
+        "nameENG": "Alolan ",
         "data": ["alola"]
     },
     {
         "dex": "0774",
-        "nameENG": "",
+        "nameENG": "Alolan ",
         "data": ["alola"]
     },
     {
         "dex": "0774R",
-        "nameENG": "",
+        "nameENG": "Alolan ",
         "data": ["alola"]
     },
     {
         "dex": "0774O",
-        "nameENG": "",
+        "nameENG": "Alolan ",
         "data": ["alola"]
     },
     {
         "dex": "0774Y",
-        "nameENG": "",
+        "nameENG": "Alolan ",
         "data": ["alola"]
     },
     {
         "dex": "0774G",
-        "nameENG": "",
+        "nameENG": "Alolan ",
         "data": ["alola"]
     },
     {
         "dex": "0774B",
-        "nameENG": "",
+        "nameENG": "Alolan ",
         "data": ["alola"]
     },
     {
         "dex": "0774I",
-        "nameENG": "",
+        "nameENG": "Alolan ",
         "data": ["alola"]
     },
     {
         "dex": "0774V",
-        "nameENG": "",
+        "nameENG": "Alolan ",
         "data": ["alola"]
     },
     {
         "dex": "0775",
-        "nameENG": "",
+        "nameENG": "Alolan ",
         "data": ["alola"]
     },
     {
         "dex": "0776",
-        "nameENG": "",
+        "nameENG": "Alolan ",
         "data": ["alola"]
     },
     {
         "dex": "0777",
-        "nameENG": "",
+        "nameENG": "Alolan ",
         "data": ["alola"]
     },
     {
         "dex": "0778",
-        "nameENG": "",
+        "nameENG": "Alolan ",
         "data": ["alola"]
     },
     {
         "dex": "0779",
-        "nameENG": "",
+        "nameENG": "Alolan ",
         "data": ["alola"]
     },
     {
         "dex": "0780",
-        "nameENG": "",
+        "nameENG": "Alolan ",
         "data": ["alola"]
     },
     {
         "dex": "0781",
-        "nameENG": "",
+        "nameENG": "Alolan ",
         "data": ["alola"]
     },
     {
         "dex": "0782",
-        "nameENG": "",
+        "nameENG": "Alolan ",
         "data": ["alola", "bs600"]
     },
     {
         "dex": "0783",
-        "nameENG": "",
+        "nameENG": "Alolan ",
         "data": ["alola", "bs600"]
     },
     {
         "dex": "0784",
-        "nameENG": "",
+        "nameENG": "Alolan ",
         "data": ["alola", "bs600"]
     },
     {
         "dex": "0785",
-        "nameENG": "",
+        "nameENG": "Alolan ",
         "data": ["alola", "trio"]
     },
     {
         "dex": "0786",
-        "nameENG": "",
+        "nameENG": "Alolan ",
         "data": ["alola", "trio"]
     },
     {
         "dex": "0787",
-        "nameENG": "",
+        "nameENG": "Alolan ",
         "data": ["alola", "trio"]
     },
     {
         "dex": "0788",
-        "nameENG": "",
+        "nameENG": "Alolan ",
         "data": ["alola", "trio"]
     },
     {
         "dex": "0789",
-        "nameENG": "",
+        "nameENG": "Alolan ",
         "data": ["alola"]
     },
     {
         "dex": "0790",
-        "nameENG": "",
+        "nameENG": "Alolan ",
         "data": ["alola"]
     },
     {
         "dex": "0791",
-        "nameENG": "",
+        "nameENG": "Alolan ",
         "data": ["alola", "legendary"]
     },
     {
         "dex": "0792",
-        "nameENG": "",
+        "nameENG": "Alolan ",
         "data": ["alola", "legendary"]
     },
     {
         "dex": "0793",
-        "nameENG": "",
+        "nameENG": "Alolan ",
         "data": ["alola", "UB"]
     },
     {
         "dex": "0794",
-        "nameENG": "",
+        "nameENG": "Alolan ",
         "data": ["alola", "UB"]
     },
     {
         "dex": "0795",
-        "nameENG": "",
+        "nameENG": "Alolan ",
         "data": ["alola", "UB"]
     },
     {
         "dex": "0796",
-        "nameENG": "",
+        "nameENG": "Alolan ",
         "data": ["alola", "UB"]
     },
     {
         "dex": "0797",
-        "nameENG": "",
+        "nameENG": "Alolan ",
         "data": ["alola", "UB"]
     },
     {
         "dex": "0798",
-        "nameENG": "",
+        "nameENG": "Alolan ",
         "data": ["alola", "UB"]
     },
     {
         "dex": "0799",
-        "nameENG": "",
+        "nameENG": "Alolan ",
         "data": ["alola", "UB"]
     },
     {
         "dex": "0800",
-        "nameENG": "",
+        "nameENG": "Alolan ",
         "data": ["alola", "legendary"]
     },
     {
         "dex": "0801",
-        "nameENG": "",
+        "nameENG": "Alolan ",
         "data": ["alola", "mirage"]
     },
     {
         "dex": "0801O",
-        "nameENG": "",
+        "nameENG": "Alolan ",
         "data": ["alola", "mirage"]
     },
     {
         "dex": "0802",
-        "nameENG": "",
+        "nameENG": "Alolan ",
         "data": ["alola"]
     },
     {
         "dex": "Egg",
-        "nameENG": "",
         "data": [""]
     }
 ]
