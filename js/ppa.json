@@ -1,5027 +1,5027 @@
 [
     {
         "dex": "0001",
-        "name": "Bulbasaur",
+        "nameENG": "Bulbasaur",
         "data": ["kanto", "starter"]
     },
     {
         "dex": "0002",
-        "name": "",
+        "nameENG": "Ivysaur",
         "data": ["kanto", "starter"]
     },
     {
         "dex": "0003",
-        "name": "",
+        "nameENG": "",
         "data": ["kanto", "starter"]
     },
     {
         "dex": "0003M",
-        "name": "",
+        "nameENG": "",
         "data": ["kanto", "mega", "starter"]
     },
     {
         "dex": "0004",
-        "name": "",
+        "nameENG": "",
         "data": ["kanto", "starter"]
     },
     {
         "dex": "0005",
-        "name": "",
+        "nameENG": "",
         "data": ["kanto", "starter"]
     },
     {
         "dex": "0006",
-        "name": "",
+        "nameENG": "",
         "data": ["kanto", "starter"]
     },
     {
         "dex": "0006MX",
-        "name": "",
+        "nameENG": "",
         "data": ["kanto", "mega", "starter"]
     },
     {
         "dex": "0006MY",
-        "name": "",
+        "nameENG": "",
         "data": ["kanto", "mega", "starter"]
     },
     {
         "dex": "0007",
-        "name": "",
+        "nameENG": "",
         "data": ["kanto", "starter"]
     },
     {
         "dex": "0008",
-        "name": "",
+        "nameENG": "",
         "data": ["kanto", "starter"]
     },
     {
         "dex": "0009",
-        "name": "",
+        "nameENG": "",
         "data": ["kanto", "starter"]
     },
     {
         "dex": "0009M",
-        "name": "",
+        "nameENG": "",
         "data": ["kanto", "mega", "starter"]
     },
     {
         "dex": "0010",
-        "name": "",
+        "nameENG": "",
         "data": ["kanto"]
     },
     {
         "dex": "0011",
-        "name": "",
+        "nameENG": "",
         "data": ["kanto"]
     },
     {
         "dex": "0012",
-        "name": "",
+        "nameENG": "",
         "data": ["kanto"]
     },
     {
         "dex": "0013",
-        "name": "",
+        "nameENG": "",
         "data": ["kanto"]
     },
     {
         "dex": "0014",
-        "name": "",
+        "nameENG": "",
         "data": ["kanto"]
     },
     {
         "dex": "0015",
-        "name": "",
+        "nameENG": "",
         "data": ["kanto"]
     },
     {
         "dex": "0016",
-        "name": "",
+        "nameENG": "",
         "data": ["kanto"]
     },
     {
         "dex": "0017",
-        "name": "",
+        "nameENG": "",
         "data": ["kanto"]
     },
     {
         "dex": "0018",
-        "name": "",
+        "nameENG": "",
         "data": ["kanto"]
     },
     {
         "dex": "0018M",
-        "name": "",
+        "nameENG": "",
         "data": ["kanto", "mega"]
     },
     {
         "dex": "0019",
-        "name": "",
+        "nameENG": "",
         "data": ["kanto"]
     },
     {
         "dex": "0019A",
-        "name": "",
+        "nameENG": "",
         "data": ["kanto", "rf"]
     },
     {
         "dex": "0020",
-        "name": "",
+        "nameENG": "",
         "data": ["kanto"]
     },
     {
         "dex": "0020A",
-        "name": "",
+        "nameENG": "",
         "data": ["kanto", "rf"]
     },
     {
         "dex": "0021",
-        "name": "",
+        "nameENG": "",
         "data": ["kanto"]
     },
     {
         "dex": "0022",
-        "name": "",
+        "nameENG": "",
         "data": ["kanto"]
     },
     {
         "dex": "0023",
-        "name": "",
+        "nameENG": "",
         "data": ["kanto"]
     },
     {
         "dex": "0024",
-        "name": "",
+        "nameENG": "",
         "data": ["kanto"]
     },
     {
         "dex": "0025",
-        "name": "",
+        "nameENG": "",
         "data": ["kanto"]
     },
     {
         "dex": "0025Co",
-        "name": "",
+        "nameENG": "",
         "data": ["kanto"]
     },
     {
         "dex": "0025Ro",
-        "name": "",
+        "nameENG": "",
         "data": ["kanto"]
     },
     {
         "dex": "0025Po",
-        "name": "",
+        "nameENG": "",
         "data": ["kanto"]
     },
     {
         "dex": "0025Be",
-        "name": "",
+        "nameENG": "",
         "data": ["kanto"]
     },
     {
         "dex": "0025Ph",
-        "name": "",
+        "nameENG": "",
         "data": ["kanto"]
     },
     {
         "dex": "0025Li",
-        "name": "",
+        "nameENG": "",
         "data": ["kanto"]
     },
     {
         "dex": "0025O",
-        "name": "",
+        "nameENG": "",
         "data": ["kanto"]
     },
     {
         "dex": "0025H",
-        "name": "",
+        "nameENG": "",
         "data": ["kanto"]
     },
     {
         "dex": "0025S",
-        "name": "",
+        "nameENG": "",
         "data": ["kanto"]
     },
     {
         "dex": "0025U",
-        "name": "",
+        "nameENG": "",
         "data": ["kanto"]
     },
     {
         "dex": "0025K",
-        "name": "",
+        "nameENG": "",
         "data": ["kanto"]
     },
     {
         "dex": "0025A",
-        "name": "",
+        "nameENG": "",
         "data": ["kanto"]
     },
     {
         "dex": "0026",
-        "name": "",
+        "nameENG": "",
         "data": ["kanto"]
     },
     {
         "dex": "0026A",
-        "name": "",
+        "nameENG": "",
         "data": ["kanto", "rf"]
     },
     {
         "dex": "0027",
-        "name": "",
+        "nameENG": "",
         "data": ["kanto"]
     },
     {
         "dex": "0027A",
-        "name": "",
+        "nameENG": "",
         "data": ["kanto", "rf"]
     },
     {
         "dex": "0028",
-        "name": "",
+        "nameENG": "",
         "data": ["kanto"]
     },
     {
         "dex": "0028A",
-        "name": "",
+        "nameENG": "",
         "data": ["kanto", "rf"]
     },
     {
         "dex": "0029",
-        "name": "",
+        "nameENG": "",
         "data": ["kanto"]
     },
     {
         "dex": "0030",
-        "name": "",
+        "nameENG": "",
         "data": ["kanto"]
     },
     {
         "dex": "0031",
-        "name": "",
+        "nameENG": "",
         "data": ["kanto"]
     },
     {
         "dex": "0032",
-        "name": "",
+        "nameENG": "",
         "data": ["kanto"]
     },
     {
         "dex": "0033",
-        "name": "",
+        "nameENG": "",
         "data": ["kanto"]
     },
     {
         "dex": "0034",
-        "name": "",
+        "nameENG": "",
         "data": ["kanto"]
     },
     {
         "dex": "0035",
-        "name": "",
+        "nameENG": "",
         "data": ["kanto"]
     },
     {
         "dex": "0036",
-        "name": "",
+        "nameENG": "",
         "data": ["kanto"]
     },
     {
         "dex": "0037",
-        "name": "",
+        "nameENG": "",
         "data": ["kanto"]
     },
     {
         "dex": "0037A",
-        "name": "",
+        "nameENG": "",
         "data": ["kanto", "rf"]
     },
     {
         "dex": "0038",
-        "name": "",
+        "nameENG": "",
         "data": ["kanto"]
     },
     {
         "dex": "0038A",
-        "name": "",
+        "nameENG": "",
         "data": ["kanto", "rf"]
     },
     {
         "dex": "0039",
-        "name": "",
+        "nameENG": "",
         "data": ["kanto"]
     },
     {
         "dex": "0040",
-        "name": "",
+        "nameENG": "",
         "data": ["kanto"]
     },
     {
         "dex": "0041",
-        "name": "",
+        "nameENG": "",
         "data": ["kanto"]
     },
     {
         "dex": "0042",
-        "name": "",
+        "nameENG": "",
         "data": ["kanto"]
     },
     {
         "dex": "0043",
-        "name": "",
+        "nameENG": "",
         "data": ["kanto"]
     },
     {
         "dex": "0044",
-        "name": "",
+        "nameENG": "",
         "data": ["kanto"]
     },
     {
         "dex": "0045",
-        "name": "",
+        "nameENG": "",
         "data": ["kanto"]
     },
     {
         "dex": "0046",
-        "name": "",
+        "nameENG": "",
         "data": ["kanto"]
     },
     {
         "dex": "0047",
-        "name": "",
+        "nameENG": "",
         "data": ["kanto"]
     },
     {
         "dex": "0048",
-        "name": "",
+        "nameENG": "",
         "data": ["kanto"]
     },
     {
         "dex": "0049",
-        "name": "",
+        "nameENG": "",
         "data": ["kanto"]
     },
     {
         "dex": "0050",
-        "name": "",
+        "nameENG": "",
         "data": ["kanto"]
     },
     {
         "dex": "0050A",
-        "name": "",
+        "nameENG": "",
         "data": ["kanto", "rf"]
     },
     {
         "dex": "0051",
-        "name": "",
+        "nameENG": "",
         "data": ["kanto"]
     },
     {
         "dex": "0051A",
-        "name": "",
+        "nameENG": "",
         "data": ["kanto", "rf"]
     },
     {
         "dex": "0052",
-        "name": "",
+        "nameENG": "",
         "data": ["kanto"]
     },
     {
         "dex": "0052A",
-        "name": "",
+        "nameENG": "",
         "data": ["kanto", "rf"]
     },
     {
         "dex": "0053",
-        "name": "",
+        "nameENG": "",
         "data": ["kanto"]
     },
     {
         "dex": "0053A",
-        "name": "",
+        "nameENG": "",
         "data": ["kanto", "rf"]
     },
     {
         "dex": "0054",
-        "name": "",
+        "nameENG": "",
         "data": ["kanto"]
     },
     {
         "dex": "0055",
-        "name": "",
+        "nameENG": "",
         "data": ["kanto"]
     },
     {
         "dex": "0056",
-        "name": "",
+        "nameENG": "",
         "data": ["kanto"]
     },
     {
         "dex": "0057",
-        "name": "",
+        "nameENG": "",
         "data": ["kanto"]
     },
     {
         "dex": "0058",
-        "name": "",
+        "nameENG": "",
         "data": ["kanto"]
     },
     {
         "dex": "0059",
-        "name": "",
+        "nameENG": "",
         "data": ["kanto"]
     },
     {
         "dex": "0060",
-        "name": "",
+        "nameENG": "",
         "data": ["kanto"]
     },
     {
         "dex": "0061",
-        "name": "",
+        "nameENG": "",
         "data": ["kanto"]
     },
     {
         "dex": "0062",
-        "name": "",
+        "nameENG": "",
         "data": ["kanto"]
     },
     {
         "dex": "0063",
-        "name": "",
+        "nameENG": "",
         "data": ["kanto"]
     },
     {
         "dex": "0064",
-        "name": "",
+        "nameENG": "",
         "data": ["kanto"]
     },
     {
         "dex": "0065",
-        "name": "",
+        "nameENG": "",
         "data": ["kanto"]
     },
     {
         "dex": "0065M",
-        "name": "",
+        "nameENG": "",
         "data": ["kanto", "mega"]
     },
     {
         "dex": "0066",
-        "name": "",
+        "nameENG": "",
         "data": ["kanto"]
     },
     {
         "dex": "0067",
-        "name": "",
+        "nameENG": "",
         "data": ["kanto"]
     },
     {
         "dex": "0068",
-        "name": "",
+        "nameENG": "",
         "data": ["kanto"]
     },
     {
         "dex": "0069",
-        "name": "",
+        "nameENG": "",
         "data": ["kanto"]
     },
     {
         "dex": "0070",
-        "name": "",
+        "nameENG": "",
         "data": ["kanto"]
     },
     {
         "dex": "0071",
-        "name": "",
+        "nameENG": "",
         "data": ["kanto"]
     },
     {
         "dex": "0072",
-        "name": "",
+        "nameENG": "",
         "data": ["kanto"]
     },
     {
         "dex": "0073",
-        "name": "",
+        "nameENG": "",
         "data": ["kanto"]
     },
     {
         "dex": "0074",
-        "name": "",
+        "nameENG": "",
         "data": ["kanto"]
     },
     {
         "dex": "0074A",
-        "name": "",
+        "nameENG": "",
         "data": ["kanto", "rf"]
     },
     {
         "dex": "0075",
-        "name": "",
+        "nameENG": "",
         "data": ["kanto"]
     },
     {
         "dex": "0075A",
-        "name": "",
+        "nameENG": "",
         "data": ["kanto", "rf"]
     },
     {
         "dex": "0076",
-        "name": "",
+        "nameENG": "",
         "data": ["kanto"]
     },
     {
         "dex": "0076A",
-        "name": "",
+        "nameENG": "",
         "data": ["kanto", "rf"]
     },
     {
         "dex": "0077",
-        "name": "",
+        "nameENG": "",
         "data": ["kanto"]
     },
     {
         "dex": "0078",
-        "name": "",
+        "nameENG": "",
         "data": ["kanto"]
     },
     {
         "dex": "0079",
-        "name": "",
+        "nameENG": "",
         "data": ["kanto"]
     },
     {
         "dex": "0080",
-        "name": "",
+        "nameENG": "",
         "data": ["kanto"]
     },
     {
         "dex": "0080M",
-        "name": "",
+        "nameENG": "",
         "data": ["kanto", "mega"]
     },
     {
         "dex": "0081",
-        "name": "",
+        "nameENG": "",
         "data": ["kanto"]
     },
     {
         "dex": "0082",
-        "name": "",
+        "nameENG": "",
         "data": ["kanto"]
     },
     {
         "dex": "0083",
-        "name": "",
+        "nameENG": "",
         "data": ["kanto"]
     },
     {
         "dex": "0084",
-        "name": "",
+        "nameENG": "",
         "data": ["kanto"]
     },
     {
         "dex": "0085",
-        "name": "",
+        "nameENG": "",
         "data": ["kanto"]
     },
     {
         "dex": "0086",
-        "name": "",
+        "nameENG": "",
         "data": ["kanto"]
     },
     {
         "dex": "0087",
-        "name": "",
+        "nameENG": "",
         "data": ["kanto"]
     },
     {
         "dex": "0088",
-        "name": "",
+        "nameENG": "",
         "data": ["kanto"]
     },
     {
         "dex": "0088A",
-        "name": "",
+        "nameENG": "",
         "data": ["kanto", "rf"]
     },
     {
         "dex": "0089",
-        "name": "",
+        "nameENG": "",
         "data": ["kanto"]
     },
     {
         "dex": "0089A",
-        "name": "",
+        "nameENG": "",
         "data": ["kanto", "rf"]
     },
     {
         "dex": "0090",
-        "name": "",
+        "nameENG": "",
         "data": ["kanto"]
     },
     {
         "dex": "0091",
-        "name": "",
+        "nameENG": "",
         "data": ["kanto"]
     },
     {
         "dex": "0092",
-        "name": "",
+        "nameENG": "",
         "data": ["kanto"]
     },
     {
         "dex": "0093",
-        "name": "",
+        "nameENG": "",
         "data": ["kanto"]
     },
     {
         "dex": "0094",
-        "name": "",
+        "nameENG": "",
         "data": ["kanto"]
     },
     {
         "dex": "0094M",
-        "name": "",
+        "nameENG": "",
         "data": ["kanto", "mega"]
     },
     {
         "dex": "0095",
-        "name": "",
+        "nameENG": "",
         "data": ["kanto"]
     },
     {
         "dex": "0096",
-        "name": "",
+        "nameENG": "",
         "data": ["kanto"]
     },
     {
         "dex": "0097",
-        "name": "",
+        "nameENG": "",
         "data": ["kanto"]
     },
     {
         "dex": "0098",
-        "name": "",
+        "nameENG": "",
         "data": ["kanto"]
     },
     {
         "dex": "0099",
-        "name": "",
+        "nameENG": "",
         "data": ["kanto"]
     },
     {
         "dex": "0100",
-        "name": "",
+        "nameENG": "",
         "data": ["kanto"]
     },
     {
         "dex": "0101",
-        "name": "",
+        "nameENG": "",
         "data": ["kanto"]
     },
     {
         "dex": "0102",
-        "name": "",
+        "nameENG": "",
         "data": ["kanto"]
     },
     {
         "dex": "0103",
-        "name": "",
+        "nameENG": "",
         "data": ["kanto"]
     },
     {
         "dex": "0103A",
-        "name": "",
+        "nameENG": "",
         "data": ["kanto", "rf"]
     },
     {
         "dex": "0104",
-        "name": "",
+        "nameENG": "",
         "data": ["kanto"]
     },
     {
         "dex": "0105",
-        "name": "",
+        "nameENG": "",
         "data": ["kanto"]
     },
     {
         "dex": "0105A",
-        "name": "",
+        "nameENG": "",
         "data": ["kanto", "rf"]
     },
     {
         "dex": "0106",
-        "name": "",
+        "nameENG": "",
         "data": ["kanto"]
     },
     {
         "dex": "0107",
-        "name": "",
+        "nameENG": "",
         "data": ["kanto"]
     },
     {
         "dex": "0108",
-        "name": "",
+        "nameENG": "",
         "data": ["kanto"]
     },
     {
         "dex": "0109",
-        "name": "",
+        "nameENG": "",
         "data": ["kanto"]
     },
     {
         "dex": "0110",
-        "name": "",
+        "nameENG": "",
         "data": ["kanto"]
     },
     {
         "dex": "0111",
-        "name": "",
+        "nameENG": "",
         "data": ["kanto"]
     },
     {
         "dex": "0112",
-        "name": "",
+        "nameENG": "",
         "data": ["kanto"]
     },
     {
         "dex": "0113",
-        "name": "",
+        "nameENG": "",
         "data": ["kanto"]
     },
     {
         "dex": "0114",
-        "name": "",
+        "nameENG": "",
         "data": ["kanto"]
     },
     {
         "dex": "0115",
-        "name": "",
+        "nameENG": "",
         "data": ["kanto"]
     },
     {
         "dex": "0116",
-        "name": "",
+        "nameENG": "",
         "data": ["kanto"]
     },
     {
         "dex": "0117",
-        "name": "",
+        "nameENG": "",
         "data": ["kanto"]
     },
     {
         "dex": "0118",
-        "name": "",
+        "nameENG": "",
         "data": ["kanto"]
     },
     {
         "dex": "0119",
-        "name": "",
+        "nameENG": "",
         "data": ["kanto"]
     },
     {
         "dex": "0120",
-        "name": "",
+        "nameENG": "",
         "data": ["kanto"]
     },
     {
         "dex": "0121",
-        "name": "",
+        "nameENG": "",
         "data": ["kanto"]
     },
     {
         "dex": "0122",
-        "name": "",
+        "nameENG": "",
         "data": ["kanto"]
     },
     {
         "dex": "0123",
-        "name": "",
+        "nameENG": "",
         "data": ["kanto"]
     },
     {
         "dex": "0124",
-        "name": "",
+        "nameENG": "",
         "data": ["kanto"]
     },
     {
         "dex": "0125",
-        "name": "",
+        "nameENG": "",
         "data": ["kanto"]
     },
     {
         "dex": "0126",
-        "name": "",
+        "nameENG": "",
         "data": ["kanto"]
     },
     {
         "dex": "0127",
-        "name": "",
+        "nameENG": "",
         "data": ["kanto"]
     },
     {
         "dex": "0127M",
-        "name": "",
+        "nameENG": "",
         "data": ["kanto", "mega"]
     },
     {
         "dex": "0128",
-        "name": "",
+        "nameENG": "",
         "data": ["kanto"]
     },
     {
         "dex": "0129",
-        "name": "",
+        "nameENG": "",
         "data": ["kanto"]
     },
     {
         "dex": "0129s",
-        "name": "",
+        "nameENG": "",
         "data": ["kanto"]
     },
     {
         "dex": "0130",
-        "name": "",
+        "nameENG": "",
         "data": ["kanto"]
     },
     {
         "dex": "0130s",
-        "name": "",
+        "nameENG": "",
         "data": ["kanto"]
     },
     {
         "dex": "0130M",
-        "name": "",
+        "nameENG": "",
         "data": ["kanto", "mega"]
     },
     {
         "dex": "0131",
-        "name": "",
+        "nameENG": "",
         "data": ["kanto"]
     },
     {
         "dex": "0132",
-        "name": "",
+        "nameENG": "",
         "data": ["kanto"]
     },
     {
         "dex": "0133",
-        "name": "",
+        "nameENG": "",
         "data": ["kanto", "eevee"]
     },
     {
         "dex": "0134",
-        "name": "",
+        "nameENG": "",
         "data": ["kanto", "eevee"]
     },
     {
         "dex": "0135",
-        "name": "",
+        "nameENG": "",
         "data": ["kanto", "eevee"]
     },
     {
         "dex": "0136",
-        "name": "",
+        "nameENG": "",
         "data": ["kanto", "eevee"]
     },
     {
         "dex": "0137",
-        "name": "",
+        "nameENG": "",
         "data": ["kanto"]
     },
     {
         "dex": "0138",
-        "name": "",
+        "nameENG": "",
         "data": ["kanto"]
     },
     {
         "dex": "0139",
-        "name": "",
+        "nameENG": "",
         "data": ["kanto"]
     },
     {
         "dex": "0140",
-        "name": "",
+        "nameENG": "",
         "data": ["kanto"]
     },
     {
         "dex": "0141",
-        "name": "",
+        "nameENG": "",
         "data": ["kanto"]
     },
     {
         "dex": "0142",
-        "name": "",
+        "nameENG": "",
         "data": ["kanto"]
     },
     {
         "dex": "0142M",
-        "name": "",
+        "nameENG": "",
         "data": ["kanto", "mega"]
     },
     {
         "dex": "0143",
-        "name": "",
+        "nameENG": "",
         "data": ["kanto"]
     },
     {
         "dex": "0144",
-        "name": "",
+        "nameENG": "",
         "data": ["kanto", "trio"]
     },
     {
         "dex": "0145",
-        "name": "",
+        "nameENG": "",
         "data": ["kanto", "trio"]
     },
     {
         "dex": "0146",
-        "name": "",
+        "nameENG": "",
         "data": ["kanto", "trio"]
     },
     {
         "dex": "0147",
-        "name": "",
+        "nameENG": "",
         "data": ["kanto", "bs600"]
     },
     {
         "dex": "0148",
-        "name": "",
+        "nameENG": "",
         "data": ["kanto", "bs600"]
     },
     {
         "dex": "0149",
-        "name": "",
+        "nameENG": "",
         "data": ["kanto", "bs600"]
     },
     {
         "dex": "0150",
-        "name": "",
+        "nameENG": "",
         "data": ["kanto", "legendary"]
     },
     {
         "dex": "0150MX",
-        "name": "",
+        "nameENG": "",
         "data": ["kanto", "mega"]
     },
     {
         "dex": "0150MY",
-        "name": "",
+        "nameENG": "",
         "data": ["kanto", "mega"]
     },
     {
         "dex": "0151",
-        "name": "",
+        "nameENG": "",
         "data": ["kanto", "mirage"]
     },
     {
         "dex": "0152",
-        "name": "",
+        "nameENG": "",
         "data": ["johto", "starter"]
     },
     {
         "dex": "0153",
-        "name": "",
+        "nameENG": "",
         "data": ["johto", "starter"]
     },
     {
         "dex": "0154",
-        "name": "",
+        "nameENG": "",
         "data": ["johto", "starter"]
     },
     {
         "dex": "0155",
-        "name": "",
+        "nameENG": "",
         "data": ["johto", "starter"]
     },
     {
         "dex": "0156",
-        "name": "",
+        "nameENG": "",
         "data": ["johto", "starter"]
     },
     {
         "dex": "0157",
-        "name": "",
+        "nameENG": "",
         "data": ["johto", "starter"]
     },
     {
         "dex": "0158",
-        "name": "",
+        "nameENG": "",
         "data": ["johto", "starter"]
     },
     {
         "dex": "0159",
-        "name": "",
+        "nameENG": "",
         "data": ["johto", "starter"]
     },
     {
         "dex": "0160",
-        "name": "",
+        "nameENG": "",
         "data": ["johto", "starter"]
     },
     {
         "dex": "0161",
-        "name": "",
+        "nameENG": "",
         "data": ["johto"]
     },
     {
         "dex": "0162",
-        "name": "",
+        "nameENG": "",
         "data": ["johto"]
     },
     {
         "dex": "0163",
-        "name": "",
+        "nameENG": "",
         "data": ["johto"]
     },
     {
         "dex": "0164",
-        "name": "",
+        "nameENG": "",
         "data": ["johto"]
     },
     {
         "dex": "0165",
-        "name": "",
+        "nameENG": "",
         "data": ["johto"]
     },
     {
         "dex": "0166",
-        "name": "",
+        "nameENG": "",
         "data": ["johto"]
     },
     {
         "dex": "0167",
-        "name": "",
+        "nameENG": "",
         "data": ["johto"]
     },
     {
         "dex": "0168",
-        "name": "",
+        "nameENG": "",
         "data": ["johto"]
     },
     {
         "dex": "0169",
-        "name": "",
+        "nameENG": "",
         "data": ["johto"]
     },
     {
         "dex": "0170",
-        "name": "",
+        "nameENG": "",
         "data": ["johto"]
     },
     {
         "dex": "0171",
-        "name": "",
+        "nameENG": "",
         "data": ["johto"]
     },
     {
         "dex": "0172",
-        "name": "",
+        "nameENG": "",
         "data": ["johto"]
     },
     {
         "dex": "0173",
-        "name": "",
+        "nameENG": "",
         "data": ["johto"]
     },
     {
         "dex": "0174",
-        "name": "",
+        "nameENG": "",
         "data": ["johto"]
     },
     {
         "dex": "0175",
-        "name": "",
+        "nameENG": "",
         "data": ["johto"]
     },
     {
         "dex": "0176",
-        "name": "",
+        "nameENG": "",
         "data": ["johto"]
     },
     {
         "dex": "0177",
-        "name": "",
+        "nameENG": "",
         "data": ["johto"]
     },
     {
         "dex": "0178",
-        "name": "",
+        "nameENG": "",
         "data": ["johto"]
     },
     {
         "dex": "0179",
-        "name": "",
+        "nameENG": "",
         "data": ["johto"]
     },
     {
         "dex": "0180",
-        "name": "",
+        "nameENG": "",
         "data": ["johto"]
     },
     {
         "dex": "0181",
-        "name": "",
+        "nameENG": "",
         "data": ["johto"]
     },
     {
         "dex": "0181M",
-        "name": "",
+        "nameENG": "",
         "data": ["johto", "mega"]
     },
     {
         "dex": "0182",
-        "name": "",
+        "nameENG": "",
         "data": ["johto"]
     },
     {
         "dex": "0183",
-        "name": "",
+        "nameENG": "",
         "data": ["johto"]
     },
     {
         "dex": "0184",
-        "name": "",
+        "nameENG": "",
         "data": ["johto"]
     },
     {
         "dex": "0185",
-        "name": "",
+        "nameENG": "",
         "data": ["johto"]
     },
     {
         "dex": "0186",
-        "name": "",
+        "nameENG": "",
         "data": ["johto"]
     },
     {
         "dex": "0187",
-        "name": "",
+        "nameENG": "",
         "data": ["johto"]
     },
     {
         "dex": "0188",
-        "name": "",
+        "nameENG": "",
         "data": ["johto"]
     },
     {
         "dex": "0189",
-        "name": "",
+        "nameENG": "",
         "data": ["johto"]
     },
     {
         "dex": "0190",
-        "name": "",
+        "nameENG": "",
         "data": ["johto"]
     },
     {
         "dex": "0191",
-        "name": "",
+        "nameENG": "",
         "data": ["johto"]
     },
     {
         "dex": "0192",
-        "name": "",
+        "nameENG": "",
         "data": ["johto"]
     },
     {
         "dex": "0193",
-        "name": "",
+        "nameENG": "",
         "data": ["johto"]
     },
     {
         "dex": "0194",
-        "name": "",
+        "nameENG": "",
         "data": ["johto"]
     },
     {
         "dex": "0195",
-        "name": "",
+        "nameENG": "",
         "data": ["johto"]
     },
     {
         "dex": "0196",
-        "name": "",
+        "nameENG": "",
         "data": ["johto", "eevee"]
     },
     {
         "dex": "0197",
-        "name": "",
+        "nameENG": "",
         "data": ["johto", "eevee"]
     },
     {
         "dex": "0198",
-        "name": "",
+        "nameENG": "",
         "data": ["johto"]
     },
     {
         "dex": "0199",
-        "name": "",
+        "nameENG": "",
         "data": ["johto"]
     },
     {
         "dex": "0200",
-        "name": "",
+        "nameENG": "",
         "data": ["johto"]
     },
     {
         "dex": "0201",
-        "name": "",
+        "nameENG": "",
         "data": ["johto", "unown"]
     },
     {
         "dex": "0201B",
-        "name": "",
+        "nameENG": "",
         "data": ["johto", "unown"]
     },
     {
         "dex": "0201C",
-        "name": "",
+        "nameENG": "",
         "data": ["johto", "unown"]
     },
     {
         "dex": "0201D",
-        "name": "",
+        "nameENG": "",
         "data": ["johto", "unown"]
     },
     {
         "dex": "0201E",
-        "name": "",
+        "nameENG": "",
         "data": ["johto", "unown"]
     },
     {
         "dex": "0201F",
-        "name": "",
+        "nameENG": "",
         "data": ["johto", "unown"]
     },
     {
         "dex": "0201G",
-        "name": "",
+        "nameENG": "",
         "data": ["johto", "unown"]
     },
     {
         "dex": "0201H",
-        "name": "",
+        "nameENG": "",
         "data": ["johto", "unown"]
     },
     {
         "dex": "0201I",
-        "name": "",
+        "nameENG": "",
         "data": ["johto", "unown"]
     },
     {
         "dex": "0201J",
-        "name": "",
+        "nameENG": "",
         "data": ["johto", "unown"]
     },
     {
         "dex": "0201K",
-        "name": "",
+        "nameENG": "",
         "data": ["johto", "unown"]
     },
     {
         "dex": "0201L",
-        "name": "",
+        "nameENG": "",
         "data": ["johto", "unown"]
     },
     {
         "dex": "0201M",
-        "name": "",
+        "nameENG": "",
         "data": ["johto", "unown"]
     },
     {
         "dex": "0201N",
-        "name": "",
+        "nameENG": "",
         "data": ["johto", "unown"]
     },
     {
         "dex": "0201O",
-        "name": "",
+        "nameENG": "",
         "data": ["johto", "unown"]
     },
     {
         "dex": "0201P",
-        "name": "",
+        "nameENG": "",
         "data": ["johto", "unown"]
     },
     {
         "dex": "0201Q",
-        "name": "",
+        "nameENG": "",
         "data": ["johto", "unown"]
     },
     {
         "dex": "0201R",
-        "name": "",
+        "nameENG": "",
         "data": ["johto", "unown"]
     },
     {
         "dex": "0201S",
-        "name": "",
+        "nameENG": "",
         "data": ["johto", "unown"]
     },
     {
         "dex": "0201T",
-        "name": "",
+        "nameENG": "",
         "data": ["johto", "unown"]
     },
     {
         "dex": "0201U",
-        "name": "",
+        "nameENG": "",
         "data": ["johto", "unown"]
     },
     {
         "dex": "0201V",
-        "name": "",
+        "nameENG": "",
         "data": ["johto", "unown"]
     },
     {
         "dex": "0201W",
-        "name": "",
+        "nameENG": "",
         "data": ["johto", "unown"]
     },
     {
         "dex": "0201X",
-        "name": "",
+        "nameENG": "",
         "data": ["johto", "unown"]
     },
     {
         "dex": "0201Y",
-        "name": "",
+        "nameENG": "",
         "data": ["johto", "unown"]
     },
     {
         "dex": "0201Z",
-        "name": "",
+        "nameENG": "",
         "data": ["johto", "unown"]
     },
     {
         "dex": "0201Ex",
-        "name": "",
+        "nameENG": "",
         "data": ["johto", "unown"]
     },
     {
         "dex": "0201Qu",
-        "name": "",
+        "nameENG": "",
         "data": ["johto", "unown"]
     },
     {
         "dex": "0202",
-        "name": "",
+        "nameENG": "",
         "data": ["johto"]
     },
     {
         "dex": "0203",
-        "name": "",
+        "nameENG": "",
         "data": ["johto"]
     },
     {
         "dex": "0204",
-        "name": "",
+        "nameENG": "",
         "data": ["johto"]
     },
     {
         "dex": "0205",
-        "name": "",
+        "nameENG": "",
         "data": ["johto"]
     },
     {
         "dex": "0206",
-        "name": "",
+        "nameENG": "",
         "data": ["johto"]
     },
     {
         "dex": "0207",
-        "name": "",
+        "nameENG": "",
         "data": ["johto"]
     },
     {
         "dex": "0208",
-        "name": "",
+        "nameENG": "",
         "data": ["johto"]
     },
     {
         "dex": "0208M",
-        "name": "",
+        "nameENG": "",
         "data": ["johto", "mega"]
     },
     {
         "dex": "0209",
-        "name": "",
+        "nameENG": "",
         "data": ["johto"]
     },
     {
         "dex": "0210",
-        "name": "",
+        "nameENG": "",
         "data": ["johto"]
     },
     {
         "dex": "0211",
-        "name": "",
+        "nameENG": "",
         "data": ["johto"]
     },
     {
         "dex": "0212",
-        "name": "",
+        "nameENG": "",
         "data": ["johto"]
     },
     {
         "dex": "0212M",
-        "name": "",
+        "nameENG": "",
         "data": ["johto", "mega"]
     },
     {
         "dex": "0213",
-        "name": "",
+        "nameENG": "",
         "data": ["johto"]
     },
     {
         "dex": "0214",
-        "name": "",
+        "nameENG": "",
         "data": ["johto"]
     },
     {
         "dex": "0214M",
-        "name": "",
+        "nameENG": "",
         "data": ["johto", "mega"]
     },
     {
         "dex": "0215",
-        "name": "",
+        "nameENG": "",
         "data": ["johto"]
     },
     {
         "dex": "0216",
-        "name": "",
+        "nameENG": "",
         "data": ["johto"]
     },
     {
         "dex": "0217",
-        "name": "",
+        "nameENG": "",
         "data": ["johto"]
     },
     {
         "dex": "0218",
-        "name": "",
+        "nameENG": "",
         "data": ["johto"]
     },
     {
         "dex": "0219",
-        "name": "",
+        "nameENG": "",
         "data": ["johto"]
     },
     {
         "dex": "0220",
-        "name": "",
+        "nameENG": "",
         "data": ["johto"]
     },
     {
         "dex": "0221",
-        "name": "",
+        "nameENG": "",
         "data": ["johto"]
     },
     {
         "dex": "0222",
-        "name": "",
+        "nameENG": "",
         "data": ["johto"]
     },
     {
         "dex": "0223",
-        "name": "",
+        "nameENG": "",
         "data": ["johto"]
     },
     {
         "dex": "0224",
-        "name": "",
+        "nameENG": "",
         "data": ["johto"]
     },
     {
         "dex": "0225",
-        "name": "",
+        "nameENG": "",
         "data": ["johto"]
     },
     {
         "dex": "0226",
-        "name": "",
+        "nameENG": "",
         "data": ["johto"]
     },
     {
         "dex": "0227",
-        "name": "",
+        "nameENG": "",
         "data": ["johto"]
     },
     {
         "dex": "0228",
-        "name": "",
+        "nameENG": "",
         "data": ["johto"]
     },
     {
         "dex": "0229",
-        "name": "",
+        "nameENG": "",
         "data": ["johto"]
     },
     {
         "dex": "0229M",
-        "name": "",
+        "nameENG": "",
         "data": ["johto", "mega"]
     },
     {
         "dex": "0230",
-        "name": "",
+        "nameENG": "",
         "data": ["johto"]
     },
     {
         "dex": "0231",
-        "name": "",
+        "nameENG": "",
         "data": ["johto"]
     },
     {
         "dex": "0232",
-        "name": "",
+        "nameENG": "",
         "data": ["johto"]
     },
     {
         "dex": "0233",
-        "name": "",
+        "nameENG": "",
         "data": ["johto"]
     },
     {
         "dex": "0234",
-        "name": "",
+        "nameENG": "",
         "data": ["johto"]
     },
     {
         "dex": "0235",
-        "name": "",
+        "nameENG": "",
         "data": ["johto"]
     },
     {
         "dex": "0236",
-        "name": "",
+        "nameENG": "",
         "data": ["johto"]
     },
     {
         "dex": "0237",
-        "name": "",
+        "nameENG": "",
         "data": ["johto"]
     },
     {
         "dex": "0238",
-        "name": "",
+        "nameENG": "",
         "data": ["johto"]
     },
     {
         "dex": "0239",
-        "name": "",
+        "nameENG": "",
         "data": ["johto"]
     },
     {
         "dex": "0240",
-        "name": "",
+        "nameENG": "",
         "data": ["johto"]
     },
     {
         "dex": "0241",
-        "name": "",
+        "nameENG": "",
         "data": ["johto"]
     },
     {
         "dex": "0242",
-        "name": "",
+        "nameENG": "",
         "data": ["johto"]
     },
     {
         "dex": "0243",
-        "name": "",
+        "nameENG": "",
         "data": ["johto", "trio"]
     },
     {
         "dex": "0244",
-        "name": "",
+        "nameENG": "",
         "data": ["johto", "trio"]
     },
     {
         "dex": "0245",
-        "name": "",
+        "nameENG": "",
         "data": ["johto", "trio"]
     },
     {
         "dex": "0246",
-        "name": "",
+        "nameENG": "",
         "data": ["johto", "bs600"]
     },
     {
         "dex": "0247",
-        "name": "",
+        "nameENG": "",
         "data": ["johto", "bs600"]
     },
     {
         "dex": "0248",
-        "name": "",
+        "nameENG": "",
         "data": ["johto", "bs600"]
     },
     {
         "dex": "0248M",
-        "name": "",
+        "nameENG": "",
         "data": ["johto", "mega"]
     },
     {
         "dex": "0249",
-        "name": "",
+        "nameENG": "",
         "data": ["johto", "legendary"]
     },
     {
         "dex": "0250",
-        "name": "",
+        "nameENG": "",
         "data": ["johto", "legendary"]
     },
     {
         "dex": "0251",
-        "name": "",
+        "nameENG": "",
         "data": ["johto", "mirage"]
     },
     {
         "dex": "0252",
-        "name": "",
+        "nameENG": "",
         "data": ["hoenn", "starter"]
     },
     {
         "dex": "0253",
-        "name": "",
+        "nameENG": "",
         "data": ["hoenn", "starter"]
     },
     {
         "dex": "0254",
-        "name": "",
+        "nameENG": "",
         "data": ["hoenn", "starter"]
     },
     {
         "dex": "0254M",
-        "name": "",
+        "nameENG": "",
         "data": ["hoenn", "mega", "starter"]
     },
     {
         "dex": "0255",
-        "name": "",
+        "nameENG": "",
         "data": ["hoenn", "starter"]
     },
     {
         "dex": "0256",
-        "name": "",
+        "nameENG": "",
         "data": ["hoenn", "starter"]
     },
     {
         "dex": "0257",
-        "name": "",
+        "nameENG": "",
         "data": ["hoenn", "starter"]
     },
     {
         "dex": "0257M",
-        "name": "",
+        "nameENG": "",
         "data": ["hoenn", "mega", "starter"]
     },
     {
         "dex": "0258",
-        "name": "",
+        "nameENG": "",
         "data": ["hoenn", "starter"]
     },
     {
         "dex": "0259",
-        "name": "",
+        "nameENG": "",
         "data": ["hoenn", "starter"]
     },
     {
         "dex": "0260",
-        "name": "",
+        "nameENG": "",
         "data": ["hoenn", "starter"]
     },
     {
         "dex": "0260M",
-        "name": "",
+        "nameENG": "",
         "data": ["hoenn", "mega", "starter"]
     },
     {
         "dex": "0261",
-        "name": "",
+        "nameENG": "",
         "data": ["hoenn"]
     },
     {
         "dex": "0262",
-        "name": "",
+        "nameENG": "",
         "data": ["hoenn"]
     },
     {
         "dex": "0263",
-        "name": "",
+        "nameENG": "",
         "data": ["hoenn"]
     },
     {
         "dex": "0264",
-        "name": "",
+        "nameENG": "",
         "data": ["hoenn"]
     },
     {
         "dex": "0265",
-        "name": "",
+        "nameENG": "",
         "data": ["hoenn"]
     },
     {
         "dex": "0266",
-        "name": "",
+        "nameENG": "",
         "data": ["hoenn"]
     },
     {
         "dex": "0267",
-        "name": "",
+        "nameENG": "",
         "data": ["hoenn"]
     },
     {
         "dex": "0268",
-        "name": "",
+        "nameENG": "",
         "data": ["hoenn"]
     },
     {
         "dex": "0269",
-        "name": "",
+        "nameENG": "",
         "data": ["hoenn"]
     },
     {
         "dex": "0270",
-        "name": "",
+        "nameENG": "",
         "data": ["hoenn"]
     },
     {
         "dex": "0271",
-        "name": "",
+        "nameENG": "",
         "data": ["hoenn"]
     },
     {
         "dex": "0272",
-        "name": "",
+        "nameENG": "",
         "data": ["hoenn"]
     },
     {
         "dex": "0273",
-        "name": "",
+        "nameENG": "",
         "data": ["hoenn"]
     },
     {
         "dex": "0274",
-        "name": "",
+        "nameENG": "",
         "data": ["hoenn"]
     },
     {
         "dex": "0275",
-        "name": "",
+        "nameENG": "",
         "data": ["hoenn"]
     },
     {
         "dex": "0276",
-        "name": "",
+        "nameENG": "",
         "data": ["hoenn"]
     },
     {
         "dex": "0277",
-        "name": "",
+        "nameENG": "",
         "data": ["hoenn"]
     },
     {
         "dex": "0278",
-        "name": "",
+        "nameENG": "",
         "data": ["hoenn"]
     },
     {
         "dex": "0279",
-        "name": "",
+        "nameENG": "",
         "data": ["hoenn"]
     },
     {
         "dex": "0280",
-        "name": "",
+        "nameENG": "",
         "data": ["hoenn"]
     },
     {
         "dex": "0281",
-        "name": "",
+        "nameENG": "",
         "data": ["hoenn"]
     },
     {
         "dex": "0282",
-        "name": "",
+        "nameENG": "",
         "data": ["hoenn"]
     },
     {
         "dex": "0282M",
-        "name": "",
+        "nameENG": "",
         "data": ["hoenn", "mega"]
     },
     {
         "dex": "0283",
-        "name": "",
+        "nameENG": "",
         "data": ["hoenn"]
     },
     {
         "dex": "0284",
-        "name": "",
+        "nameENG": "",
         "data": ["hoenn"]
     },
     {
         "dex": "0285",
-        "name": "",
+        "nameENG": "",
         "data": ["hoenn"]
     },
     {
         "dex": "0286",
-        "name": "",
+        "nameENG": "",
         "data": ["hoenn"]
     },
     {
         "dex": "0287",
-        "name": "",
+        "nameENG": "",
         "data": ["hoenn"]
     },
     {
         "dex": "0288",
-        "name": "",
+        "nameENG": "",
         "data": ["hoenn"]
     },
     {
         "dex": "0289",
-        "name": "",
+        "nameENG": "",
         "data": ["hoenn"]
     },
     {
         "dex": "0290",
-        "name": "",
+        "nameENG": "",
         "data": ["hoenn"]
     },
     {
         "dex": "0291",
-        "name": "",
+        "nameENG": "",
         "data": ["hoenn"]
     },
     {
         "dex": "0292",
-        "name": "",
+        "nameENG": "",
         "data": ["hoenn"]
     },
     {
         "dex": "0293",
-        "name": "",
+        "nameENG": "",
         "data": ["hoenn"]
     },
     {
         "dex": "0294",
-        "name": "",
+        "nameENG": "",
         "data": ["hoenn"]
     },
     {
         "dex": "0295",
-        "name": "",
+        "nameENG": "",
         "data": ["hoenn"]
     },
     {
         "dex": "0296",
-        "name": "",
+        "nameENG": "",
         "data": ["hoenn"]
     },
     {
         "dex": "0297",
-        "name": "",
+        "nameENG": "",
         "data": ["hoenn"]
     },
     {
         "dex": "0298",
-        "name": "",
+        "nameENG": "",
         "data": ["hoenn"]
     },
     {
         "dex": "0299",
-        "name": "",
+        "nameENG": "",
         "data": ["hoenn"]
     },
     {
         "dex": "0300",
-        "name": "",
+        "nameENG": "",
         "data": ["hoenn"]
     },
     {
         "dex": "0301",
-        "name": "",
+        "nameENG": "",
         "data": ["hoenn"]
     },
     {
         "dex": "0302",
-        "name": "",
+        "nameENG": "",
         "data": ["hoenn"]
     },
     {
         "dex": "0302M",
-        "name": "",
+        "nameENG": "",
         "data": ["hoenn", "mega"]
     },
     {
         "dex": "0303",
-        "name": "",
+        "nameENG": "",
         "data": ["hoenn"]
     },
     {
         "dex": "0303M",
-        "name": "",
+        "nameENG": "",
         "data": ["hoenn", "mega"]
     },
     {
         "dex": "0304",
-        "name": "",
+        "nameENG": "",
         "data": ["hoenn"]
     },
     {
         "dex": "0305",
-        "name": "",
+        "nameENG": "",
         "data": ["hoenn"]
     },
     {
         "dex": "0306",
-        "name": "",
+        "nameENG": "",
         "data": ["hoenn"]
     },
     {
         "dex": "0306M",
-        "name": "",
+        "nameENG": "",
         "data": ["hoenn", "mega"]
     },
     {
         "dex": "0307",
-        "name": "",
+        "nameENG": "",
         "data": ["hoenn"]
     },
     {
         "dex": "0308",
-        "name": "",
+        "nameENG": "",
         "data": ["hoenn"]
     },
     {
         "dex": "0308M",
-        "name": "",
+        "nameENG": "",
         "data": ["hoenn", "mega"]
     },
     {
         "dex": "0309",
-        "name": "",
+        "nameENG": "",
         "data": ["hoenn"]
     },
     {
         "dex": "0310",
-        "name": "",
+        "nameENG": "",
         "data": ["hoenn"]
     },
     {
         "dex": "0310M",
-        "name": "",
+        "nameENG": "",
         "data": ["hoenn", "mega"]
     },
     {
         "dex": "0311",
-        "name": "",
+        "nameENG": "",
         "data": ["hoenn"]
     },
     {
         "dex": "0312",
-        "name": "",
+        "nameENG": "",
         "data": ["hoenn"]
     },
     {
         "dex": "0313",
-        "name": "",
+        "nameENG": "",
         "data": ["hoenn"]
     },
     {
         "dex": "0314",
-        "name": "",
+        "nameENG": "",
         "data": ["hoenn"]
     },
     {
         "dex": "0315",
-        "name": "",
+        "nameENG": "",
         "data": ["hoenn"]
     },
     {
         "dex": "0316",
-        "name": "",
+        "nameENG": "",
         "data": ["hoenn"]
     },
     {
         "dex": "0317",
-        "name": "",
+        "nameENG": "",
         "data": ["hoenn"]
     },
     {
         "dex": "0318",
-        "name": "",
+        "nameENG": "",
         "data": ["hoenn"]
     },
     {
         "dex": "0319",
-        "name": "",
+        "nameENG": "",
         "data": ["hoenn"]
     },
     {
         "dex": "0319M",
-        "name": "",
+        "nameENG": "",
         "data": ["hoenn", "mega"]
     },
     {
         "dex": "0320",
-        "name": "",
+        "nameENG": "",
         "data": ["hoenn"]
     },
     {
         "dex": "0321",
-        "name": "",
+        "nameENG": "",
         "data": ["hoenn"]
     },
     {
         "dex": "0322",
-        "name": "",
+        "nameENG": "",
         "data": ["hoenn"]
     },
     {
         "dex": "0323",
-        "name": "",
+        "nameENG": "",
         "data": ["hoenn"]
     },
     {
         "dex": "0323M",
-        "name": "",
+        "nameENG": "",
         "data": ["hoenn", "mega"]
     },
     {
         "dex": "0324",
-        "name": "",
+        "nameENG": "",
         "data": ["hoenn"]
     },
     {
         "dex": "0325",
-        "name": "",
+        "nameENG": "",
         "data": ["hoenn"]
     },
     {
         "dex": "0326",
-        "name": "",
+        "nameENG": "",
         "data": ["hoenn"]
     },
     {
         "dex": "0327",
-        "name": "",
+        "nameENG": "",
         "data": ["hoenn"]
     },
     {
         "dex": "0328",
-        "name": "",
+        "nameENG": "",
         "data": ["hoenn"]
     },
     {
         "dex": "0329",
-        "name": "",
+        "nameENG": "",
         "data": ["hoenn"]
     },
     {
         "dex": "0330",
-        "name": "",
+        "nameENG": "",
         "data": ["hoenn"]
     },
     {
         "dex": "0331",
-        "name": "",
+        "nameENG": "",
         "data": ["hoenn"]
     },
     {
         "dex": "0332",
-        "name": "",
+        "nameENG": "",
         "data": ["hoenn"]
     },
     {
         "dex": "0333",
-        "name": "",
+        "nameENG": "",
         "data": ["hoenn"]
     },
     {
         "dex": "0334",
-        "name": "",
+        "nameENG": "",
         "data": ["hoenn"]
     },
     {
         "dex": "0334M",
-        "name": "",
+        "nameENG": "",
         "data": ["hoenn", "mega"]
     },
     {
         "dex": "0335",
-        "name": "",
+        "nameENG": "",
         "data": ["hoenn"]
     },
     {
         "dex": "0336",
-        "name": "",
+        "nameENG": "",
         "data": ["hoenn"]
     },
     {
         "dex": "0337",
-        "name": "",
+        "nameENG": "",
         "data": ["hoenn"]
     },
     {
         "dex": "0338",
-        "name": "",
+        "nameENG": "",
         "data": ["hoenn"]
     },
     {
         "dex": "0339",
-        "name": "",
+        "nameENG": "",
         "data": ["hoenn"]
     },
     {
         "dex": "0340",
-        "name": "",
+        "nameENG": "",
         "data": ["hoenn"]
     },
     {
         "dex": "0341",
-        "name": "",
+        "nameENG": "",
         "data": ["hoenn"]
     },
     {
         "dex": "0342",
-        "name": "",
+        "nameENG": "",
         "data": ["hoenn"]
     },
     {
         "dex": "0343",
-        "name": "",
+        "nameENG": "",
         "data": ["hoenn"]
     },
     {
         "dex": "0344",
-        "name": "",
+        "nameENG": "",
         "data": ["hoenn"]
     },
     {
         "dex": "0345",
-        "name": "",
+        "nameENG": "",
         "data": ["hoenn"]
     },
     {
         "dex": "0346",
-        "name": "",
+        "nameENG": "",
         "data": ["hoenn"]
     },
     {
         "dex": "0347",
-        "name": "",
+        "nameENG": "",
         "data": ["hoenn"]
     },
     {
         "dex": "0348",
-        "name": "",
+        "nameENG": "",
         "data": ["hoenn"]
     },
     {
         "dex": "0349",
-        "name": "",
+        "nameENG": "",
         "data": ["hoenn"]
     },
     {
         "dex": "0350",
-        "name": "",
+        "nameENG": "",
         "data": ["hoenn"]
     },
     {
         "dex": "0351",
-        "name": "",
+        "nameENG": "",
         "data": ["hoenn"]
     },
     {
         "dex": "0351S",
-        "name": "",
+        "nameENG": "",
         "data": ["hoenn"]
     },
     {
         "dex": "0351R",
-        "name": "",
+        "nameENG": "",
         "data": ["hoenn"]
     },
     {
         "dex": "0351H",
-        "name": "",
+        "nameENG": "",
         "data": ["hoenn"]
     },
     {
         "dex": "0352",
-        "name": "",
+        "nameENG": "",
         "data": ["hoenn"]
     },
     {
         "dex": "0353",
-        "name": "",
+        "nameENG": "",
         "data": ["hoenn"]
     },
     {
         "dex": "0354",
-        "name": "",
+        "nameENG": "",
         "data": ["hoenn"]
     },
     {
         "dex": "0354M",
-        "name": "",
+        "nameENG": "",
         "data": ["hoenn", "mega"]
     },
     {
         "dex": "0355",
-        "name": "",
+        "nameENG": "",
         "data": ["hoenn"]
     },
     {
         "dex": "0356",
-        "name": "",
+        "nameENG": "",
         "data": ["hoenn"]
     },
     {
         "dex": "0357",
-        "name": "",
+        "nameENG": "",
         "data": ["hoenn"]
     },
     {
         "dex": "0358",
-        "name": "",
+        "nameENG": "",
         "data": ["hoenn"]
     },
     {
         "dex": "0359",
-        "name": "",
+        "nameENG": "",
         "data": ["hoenn"]
     },
     {
         "dex": "0360",
-        "name": "",
+        "nameENG": "",
         "data": ["hoenn"]
     },
     {
         "dex": "0361",
-        "name": "",
+        "nameENG": "",
         "data": ["hoenn"]
     },
     {
         "dex": "0362",
-        "name": "",
+        "nameENG": "",
         "data": ["hoenn"]
     },
     {
         "dex": "0362M",
-        "name": "",
+        "nameENG": "",
         "data": ["hoenn", "mega"]
     },
     {
         "dex": "0363",
-        "name": "",
+        "nameENG": "",
         "data": ["hoenn"]
     },
     {
         "dex": "0364",
-        "name": "",
+        "nameENG": "",
         "data": ["hoenn"]
     },
     {
         "dex": "0365",
-        "name": "",
+        "nameENG": "",
         "data": ["hoenn"]
     },
     {
         "dex": "0366",
-        "name": "",
+        "nameENG": "",
         "data": ["hoenn"]
     },
     {
         "dex": "0367",
-        "name": "",
+        "nameENG": "",
         "data": ["hoenn"]
     },
     {
         "dex": "0368",
-        "name": "",
+        "nameENG": "",
         "data": ["hoenn"]
     },
     {
         "dex": "0369",
-        "name": "",
+        "nameENG": "",
         "data": ["hoenn"]
     },
     {
         "dex": "0370",
-        "name": "",
+        "nameENG": "",
         "data": ["hoenn"]
     },
     {
         "dex": "0371",
-        "name": "",
+        "nameENG": "",
         "data": ["hoenn"]
     },
     {
         "dex": "0372",
-        "name": "",
+        "nameENG": "",
         "data": ["hoenn", "bs600"]
     },
     {
         "dex": "0373",
-        "name": "",
+        "nameENG": "",
         "data": ["hoenn", "bs600"]
     },
     {
         "dex": "0373M",
-        "name": "",
+        "nameENG": "",
         "data": ["hoenn", "mega", "bs600"]
     },
     {
         "dex": "0374",
-        "name": "",
+        "nameENG": "",
         "data": ["hoenn"]
     },
     {
         "dex": "0375",
-        "name": "",
+        "nameENG": "",
         "data": ["hoenn", "bs600"]
     },
     {
         "dex": "0376",
-        "name": "",
+        "nameENG": "",
         "data": ["hoenn", "bs600"]
     },
     {
         "dex": "0376M",
-        "name": "",
+        "nameENG": "",
         "data": ["hoenn", "mega", "bs600"]
     },
     {
         "dex": "0377",
-        "name": "",
+        "nameENG": "",
         "data": ["hoenn", "trio"]
     },
     {
         "dex": "0378",
-        "name": "",
+        "nameENG": "",
         "data": ["hoenn", "trio"]
     },
     {
         "dex": "0379",
-        "name": "",
+        "nameENG": "",
         "data": ["hoenn", "trio"]
     },
     {
         "dex": "0380",
-        "name": "",
+        "nameENG": "",
         "data": ["hoenn"]
     },
     {
         "dex": "0380M",
-        "name": "",
+        "nameENG": "",
         "data": ["hoenn", "mega"]
     },
     {
         "dex": "0381",
-        "name": "",
+        "nameENG": "",
         "data": ["hoenn"]
     },
     {
         "dex": "0381M",
-        "name": "",
+        "nameENG": "",
         "data": ["hoenn", "mega"]
     },
     {
         "dex": "0382",
-        "name": "",
+        "nameENG": "",
         "data": ["hoenn", "legendary"]
     },
     {
         "dex": "0382P",
-        "name": "",
+        "nameENG": "",
         "data": ["hoenn", "mega"]
     },
     {
         "dex": "0383",
-        "name": "",
+        "nameENG": "",
         "data": ["hoenn", "legendary"]
     },
     {
         "dex": "0383P",
-        "name": "",
+        "nameENG": "",
         "data": ["hoenn", "mega"]
     },
     {
         "dex": "0384",
-        "name": "",
+        "nameENG": "",
         "data": ["hoenn", "legendary"]
     },
     {
         "dex": "0384M",
-        "name": "",
+        "nameENG": "",
         "data": ["hoenn", "mega"]
     },
     {
         "dex": "0385",
-        "name": "",
+        "nameENG": "",
         "data": ["hoenn", "mirage"]
     },
     {
         "dex": "0386",
-        "name": "",
+        "nameENG": "",
         "data": ["hoenn", "mirage"]
     },
     {
         "dex": "0386D",
-        "name": "",
+        "nameENG": "",
         "data": ["hoenn", "mirage"]
     },
     {
         "dex": "0386A",
-        "name": "",
+        "nameENG": "",
         "data": ["hoenn", "mirage"]
     },
     {
         "dex": "0386S",
-        "name": "",
+        "nameENG": "",
         "data": ["hoenn", "mirage"]
     },
     {
         "dex": "0387",
-        "name": "",
+        "nameENG": "",
         "data": ["sinnoh", "starter"]
     },
     {
         "dex": "0388",
-        "name": "",
+        "nameENG": "",
         "data": ["sinnoh", "starter"]
     },
     {
         "dex": "0389",
-        "name": "",
+        "nameENG": "",
         "data": ["sinnoh", "starter"]
     },
     {
         "dex": "0390",
-        "name": "",
+        "nameENG": "",
         "data": ["sinnoh", "starter"]
     },
     {
         "dex": "0391",
-        "name": "",
+        "nameENG": "",
         "data": ["sinnoh", "starter"]
     },
     {
         "dex": "0392",
-        "name": "",
+        "nameENG": "",
         "data": ["sinnoh", "starter"]
     },
     {
         "dex": "0393",
-        "name": "",
+        "nameENG": "",
         "data": ["sinnoh", "starter"]
     },
     {
         "dex": "0394",
-        "name": "",
+        "nameENG": "",
         "data": ["sinnoh", "starter"]
     },
     {
         "dex": "0395",
-        "name": "",
+        "nameENG": "",
         "data": ["sinnoh", "starter"]
     },
     {
         "dex": "0396",
-        "name": "",
+        "nameENG": "",
         "data": ["sinnoh"]
     },
     {
         "dex": "0397",
-        "name": "",
+        "nameENG": "",
         "data": ["sinnoh"]
     },
     {
         "dex": "0398",
-        "name": "",
+        "nameENG": "",
         "data": ["sinnoh"]
     },
     {
         "dex": "0399",
-        "name": "",
+        "nameENG": "",
         "data": ["sinnoh"]
     },
     {
         "dex": "0400",
-        "name": "",
+        "nameENG": "",
         "data": ["sinnoh"]
     },
     {
         "dex": "0401",
-        "name": "",
+        "nameENG": "",
         "data": ["sinnoh"]
     },
     {
         "dex": "0402",
-        "name": "",
+        "nameENG": "",
         "data": ["sinnoh"]
     },
     {
         "dex": "0403",
-        "name": "",
+        "nameENG": "",
         "data": ["sinnoh"]
     },
     {
         "dex": "0404",
-        "name": "",
+        "nameENG": "",
         "data": ["sinnoh"]
     },
     {
         "dex": "0405",
-        "name": "",
+        "nameENG": "",
         "data": ["sinnoh"]
     },
     {
         "dex": "0406",
-        "name": "",
+        "nameENG": "",
         "data": ["sinnoh"]
     },
     {
         "dex": "0407",
-        "name": "",
+        "nameENG": "",
         "data": ["sinnoh"]
     },
     {
         "dex": "0408",
-        "name": "",
+        "nameENG": "",
         "data": ["sinnoh"]
     },
     {
         "dex": "0409",
-        "name": "",
+        "nameENG": "",
         "data": ["sinnoh"]
     },
     {
         "dex": "0410",
-        "name": "",
+        "nameENG": "",
         "data": ["sinnoh"]
     },
     {
         "dex": "0411",
-        "name": "",
+        "nameENG": "",
         "data": ["sinnoh"]
     },
     {
         "dex": "0412",
-        "name": "",
+        "nameENG": "",
         "data": ["sinnoh"]
     },
     {
         "dex": "0412G",
-        "name": "",
+        "nameENG": "",
         "data": ["sinnoh"]
     },
     {
         "dex": "0412S",
-        "name": "",
+        "nameENG": "",
         "data": ["sinnoh"]
     },
     {
         "dex": "0413",
-        "name": "",
+        "nameENG": "",
         "data": ["sinnoh"]
     },
     {
         "dex": "0413G",
-        "name": "",
+        "nameENG": "",
         "data": ["sinnoh"]
     },
     {
         "dex": "0413S",
-        "name": "",
+        "nameENG": "",
         "data": ["sinnoh"]
     },
     {
         "dex": "0414",
-        "name": "",
+        "nameENG": "",
         "data": ["sinnoh"]
     },
     {
         "dex": "0415",
-        "name": "",
+        "nameENG": "",
         "data": ["sinnoh"]
     },
     {
         "dex": "0416",
-        "name": "",
+        "nameENG": "",
         "data": ["sinnoh"]
     },
     {
         "dex": "0417",
-        "name": "",
+        "nameENG": "",
         "data": ["sinnoh"]
     },
     {
         "dex": "0418",
-        "name": "",
+        "nameENG": "",
         "data": ["sinnoh"]
     },
     {
         "dex": "0419",
-        "name": "",
+        "nameENG": "",
         "data": ["sinnoh"]
     },
     {
         "dex": "0420",
-        "name": "",
+        "nameENG": "",
         "data": ["sinnoh"]
     },
     {
         "dex": "0421",
-        "name": "",
+        "nameENG": "",
         "data": ["sinnoh"]
     },
     {
         "dex": "0422",
-        "name": "",
+        "nameENG": "",
         "data": ["sinnoh"]
     },
     {
         "dex": "0422E",
-        "name": "",
+        "nameENG": "",
         "data": ["sinnoh"]
     },
     {
         "dex": "0423",
-        "name": "",
+        "nameENG": "",
         "data": ["sinnoh"]
     },
     {
         "dex": "0423E",
-        "name": "",
+        "nameENG": "",
         "data": ["sinnoh"]
     },
     {
         "dex": "0424",
-        "name": "",
+        "nameENG": "",
         "data": ["sinnoh"]
     },
     {
         "dex": "0425",
-        "name": "",
+        "nameENG": "",
         "data": ["sinnoh"]
     },
     {
         "dex": "0426",
-        "name": "",
+        "nameENG": "",
         "data": ["sinnoh"]
     },
     {
         "dex": "0427",
-        "name": "",
+        "nameENG": "",
         "data": ["sinnoh"]
     },
     {
         "dex": "0428",
-        "name": "",
+        "nameENG": "",
         "data": ["sinnoh"]
     },
     {
         "dex": "0428M",
-        "name": "",
+        "nameENG": "",
         "data": ["sinnoh", "mega"]
     },
     {
         "dex": "0429",
-        "name": "",
+        "nameENG": "",
         "data": ["sinnoh"]
     },
     {
         "dex": "0430",
-        "name": "",
+        "nameENG": "",
         "data": ["sinnoh"]
     },
     {
         "dex": "0431",
-        "name": "",
+        "nameENG": "",
         "data": ["sinnoh"]
     },
     {
         "dex": "0432",
-        "name": "",
+        "nameENG": "",
         "data": ["sinnoh"]
     },
     {
         "dex": "0433",
-        "name": "",
+        "nameENG": "",
         "data": ["sinnoh"]
     },
     {
         "dex": "0434",
-        "name": "",
+        "nameENG": "",
         "data": ["sinnoh"]
     },
     {
         "dex": "0435",
-        "name": "",
+        "nameENG": "",
         "data": ["sinnoh"]
     },
     {
         "dex": "0436",
-        "name": "",
+        "nameENG": "",
         "data": ["sinnoh"]
     },
     {
         "dex": "0437",
-        "name": "",
+        "nameENG": "",
         "data": ["sinnoh"]
     },
     {
         "dex": "0438",
-        "name": "",
+        "nameENG": "",
         "data": ["sinnoh"]
     },
     {
         "dex": "0439",
-        "name": "",
+        "nameENG": "",
         "data": ["sinnoh"]
     },
     {
         "dex": "0440",
-        "name": "",
+        "nameENG": "",
         "data": ["sinnoh"]
     },
     {
         "dex": "0441",
-        "name": "",
+        "nameENG": "",
         "data": ["sinnoh"]
     },
     {
         "dex": "0442",
-        "name": "",
+        "nameENG": "",
         "data": ["sinnoh"]
     },
     {
         "dex": "0443",
-        "name": "",
+        "nameENG": "",
         "data": ["sinnoh"]
     },
     {
         "dex": "0444",
-        "name": "",
+        "nameENG": "",
         "data": ["sinnoh", "bs600"]
     },
     {
         "dex": "0445",
-        "name": "",
+        "nameENG": "",
         "data": ["sinnoh", "bs600"]
     },
     {
         "dex": "0445M",
-        "name": "",
+        "nameENG": "",
         "data": ["sinnoh", "mega", "bs600"]
     },
     {
         "dex": "0446",
-        "name": "",
+        "nameENG": "",
         "data": ["sinnoh"]
     },
     {
         "dex": "0447",
-        "name": "",
+        "nameENG": "",
         "data": ["sinnoh"]
     },
     {
         "dex": "0448",
-        "name": "",
+        "nameENG": "",
         "data": ["sinnoh"]
     },
     {
         "dex": "0448M",
-        "name": "",
+        "nameENG": "",
         "data": ["sinnoh", "mega"]
     },
     {
         "dex": "0449",
-        "name": "",
+        "nameENG": "",
         "data": ["sinnoh"]
     },
     {
         "dex": "0450",
-        "name": "",
+        "nameENG": "",
         "data": ["sinnoh"]
     },
     {
         "dex": "0451",
-        "name": "",
+        "nameENG": "",
         "data": ["sinnoh"]
     },
     {
         "dex": "0452",
-        "name": "",
+        "nameENG": "",
         "data": ["sinnoh"]
     },
     {
         "dex": "0453",
-        "name": "",
+        "nameENG": "",
         "data": ["sinnoh"]
     },
     {
         "dex": "0454",
-        "name": "",
+        "nameENG": "",
         "data": ["sinnoh"]
     },
     {
         "dex": "0455",
-        "name": "",
+        "nameENG": "",
         "data": ["sinnoh"]
     },
     {
         "dex": "0456",
-        "name": "",
+        "nameENG": "",
         "data": ["sinnoh"]
     },
     {
         "dex": "0457",
-        "name": "",
+        "nameENG": "",
         "data": ["sinnoh"]
     },
     {
         "dex": "0458",
-        "name": "",
+        "nameENG": "",
         "data": ["sinnoh"]
     },
     {
         "dex": "0459",
-        "name": "",
+        "nameENG": "",
         "data": ["sinnoh"]
     },
     {
         "dex": "0460",
-        "name": "",
+        "nameENG": "",
         "data": ["sinnoh"]
     },
     {
         "dex": "0460M",
-        "name": "",
+        "nameENG": "",
         "data": ["sinnoh", "mega"]
     },
     {
         "dex": "0461",
-        "name": "",
+        "nameENG": "",
         "data": ["sinnoh"]
     },
     {
         "dex": "0462",
-        "name": "",
+        "nameENG": "",
         "data": ["sinnoh"]
     },
     {
         "dex": "0463",
-        "name": "",
+        "nameENG": "",
         "data": ["sinnoh"]
     },
     {
         "dex": "0464",
-        "name": "",
+        "nameENG": "",
         "data": ["sinnoh"]
     },
     {
         "dex": "0465",
-        "name": "",
+        "nameENG": "",
         "data": ["sinnoh"]
     },
     {
         "dex": "0466",
-        "name": "",
+        "nameENG": "",
         "data": ["sinnoh"]
     },
     {
         "dex": "0467",
-        "name": "",
+        "nameENG": "",
         "data": ["sinnoh"]
     },
     {
         "dex": "0468",
-        "name": "",
+        "nameENG": "",
         "data": ["sinnoh"]
     },
     {
         "dex": "0469",
-        "name": "",
+        "nameENG": "",
         "data": ["sinnoh"]
     },
     {
         "dex": "0470",
-        "name": "",
+        "nameENG": "",
         "data": ["sinnoh", "eevee"]
     },
     {
         "dex": "0471",
-        "name": "",
+        "nameENG": "",
         "data": ["sinnoh", "eevee"]
     },
     {
         "dex": "0472",
-        "name": "",
+        "nameENG": "",
         "data": ["sinnoh"]
     },
     {
         "dex": "0473",
-        "name": "",
+        "nameENG": "",
         "data": ["sinnoh"]
     },
     {
         "dex": "0474",
-        "name": "",
+        "nameENG": "",
         "data": ["sinnoh"]
     },
     {
         "dex": "0475",
-        "name": "",
+        "nameENG": "",
         "data": ["sinnoh"]
     },
     {
         "dex": "0475M",
-        "name": "",
+        "nameENG": "",
         "data": ["sinnoh", "mega"]
     },
     {
         "dex": "0476",
-        "name": "",
+        "nameENG": "",
         "data": ["sinnoh"]
     },
     {
         "dex": "0477",
-        "name": "",
+        "nameENG": "",
         "data": ["sinnoh"]
     },
     {
         "dex": "0478",
-        "name": "",
+        "nameENG": "",
         "data": ["sinnoh"]
     },
     {
         "dex": "0479",
-        "name": "",
+        "nameENG": "",
         "data": ["sinnoh"]
     },
     {
         "dex": "0479O",
-        "name": "",
+        "nameENG": "",
         "data": ["sinnoh"]
     },
     {
         "dex": "0479W",
-        "name": "",
+        "nameENG": "",
         "data": ["sinnoh"]
     },
     {
         "dex": "0479R",
-        "name": "",
+        "nameENG": "",
         "data": ["sinnoh"]
     },
     {
         "dex": "0479F",
-        "name": "",
+        "nameENG": "",
         "data": ["sinnoh"]
     },
     {
         "dex": "0479L",
-        "name": "",
+        "nameENG": "",
         "data": ["sinnoh"]
     },
     {
         "dex": "0480",
-        "name": "",
+        "nameENG": "",
         "data": ["sinnoh", "trio"]
     },
     {
         "dex": "0481",
-        "name": "",
+        "nameENG": "",
         "data": ["sinnoh", "trio"]
     },
     {
         "dex": "0482",
-        "name": "",
+        "nameENG": "",
         "data": ["sinnoh", "trio"]
     },
     {
         "dex": "0483",
-        "name": "",
+        "nameENG": "",
         "data": ["sinnoh", "legendary"]
     },
     {
         "dex": "0484",
-        "name": "",
+        "nameENG": "",
         "data": ["sinnoh", "legendary"]
     },
     {
         "dex": "0485",
-        "name": "",
+        "nameENG": "",
         "data": ["sinnoh"]
     },
     {
         "dex": "0486",
-        "name": "",
+        "nameENG": "",
         "data": ["sinnoh"]
     },
     {
         "dex": "0487",
-        "name": "",
+        "nameENG": "",
         "data": ["sinnoh", "legendary"]
     },
     {
         "dex": "0487O",
-        "name": "",
+        "nameENG": "",
         "data": ["sinnoh"]
     },
     {
         "dex": "0488",
-        "name": "",
+        "nameENG": "",
         "data": ["sinnoh"]
     },
     {
         "dex": "0489",
-        "name": "",
+        "nameENG": "",
         "data": ["sinnoh", "mirage"]
     },
     {
         "dex": "0490",
-        "name": "",
+        "nameENG": "",
         "data": ["sinnoh", "mirage"]
     },
     {
         "dex": "0491",
-        "name": "",
+        "nameENG": "",
         "data": ["sinnoh", "mirage"]
     },
     {
         "dex": "0492",
-        "name": "",
+        "nameENG": "",
         "data": ["sinnoh", "mirage"]
     },
     {
         "dex": "0492S",
-        "name": "",
+        "nameENG": "",
         "data": ["sinnoh", "mirage"]
     },
     {
         "dex": "0493",
-        "name": "",
+        "nameENG": "",
         "data": ["sinnoh", "mirage"]
     },
     {
         "dex": "0494",
-        "name": "",
+        "nameENG": "",
         "data": ["unova mirage"]
     },
     {
         "dex": "0495",
-        "name": "",
+        "nameENG": "",
         "data": ["unova starter"]
     },
     {
         "dex": "0496",
-        "name": "",
+        "nameENG": "",
         "data": ["unova starter"]
     },
     {
         "dex": "0497",
-        "name": "",
+        "nameENG": "",
         "data": ["unova starter"]
     },
     {
         "dex": "0498",
-        "name": "",
+        "nameENG": "",
         "data": ["unova starter"]
     },
     {
         "dex": "0499",
-        "name": "",
+        "nameENG": "",
         "data": ["unova starter"]
     },
     {
         "dex": "0500",
-        "name": "",
+        "nameENG": "",
         "data": ["unova starter"]
     },
     {
         "dex": "0501",
-        "name": "",
+        "nameENG": "",
         "data": ["unova starter"]
     },
     {
         "dex": "0502",
-        "name": "",
+        "nameENG": "",
         "data": ["unova starter"]
     },
     {
         "dex": "0503",
-        "name": "",
+        "nameENG": "",
         "data": ["unova starter"]
     },
     {
         "dex": "0504",
-        "name": "",
+        "nameENG": "",
         "data": ["unova"]
     },
     {
         "dex": "0505",
-        "name": "",
+        "nameENG": "",
         "data": ["unova"]
     },
     {
         "dex": "0506",
-        "name": "",
+        "nameENG": "",
         "data": ["unova"]
     },
     {
         "dex": "0507",
-        "name": "",
+        "nameENG": "",
         "data": ["unova"]
     },
     {
         "dex": "0508",
-        "name": "",
+        "nameENG": "",
         "data": ["unova"]
     },
     {
         "dex": "0509",
-        "name": "",
+        "nameENG": "",
         "data": ["unova"]
     },
     {
         "dex": "0510",
-        "name": "",
+        "nameENG": "",
         "data": ["unova"]
     },
     {
         "dex": "0511",
-        "name": "",
+        "nameENG": "",
         "data": ["unova"]
     },
     {
         "dex": "0512",
-        "name": "",
+        "nameENG": "",
         "data": ["unova"]
     },
     {
         "dex": "0513",
-        "name": "",
+        "nameENG": "",
         "data": ["unova"]
     },
     {
         "dex": "0514",
-        "name": "",
+        "nameENG": "",
         "data": ["unova"]
     },
     {
         "dex": "0515",
-        "name": "",
+        "nameENG": "",
         "data": ["unova"]
     },
     {
         "dex": "0516",
-        "name": "",
+        "nameENG": "",
         "data": ["unova"]
     },
     {
         "dex": "0517",
-        "name": "",
+        "nameENG": "",
         "data": ["unova"]
     },
     {
         "dex": "0518",
-        "name": "",
+        "nameENG": "",
         "data": ["unova"]
     },
     {
         "dex": "0519",
-        "name": "",
+        "nameENG": "",
         "data": ["unova"]
     },
     {
         "dex": "0520",
-        "name": "",
+        "nameENG": "",
         "data": ["unova"]
     },
     {
         "dex": "0521",
-        "name": "",
+        "nameENG": "",
         "data": ["unova"]
     },
     {
         "dex": "0521F",
-        "name": "",
+        "nameENG": "",
         "data": ["unova"]
     },
     {
         "dex": "0522",
-        "name": "",
+        "nameENG": "",
         "data": ["unova"]
     },
     {
         "dex": "0523",
-        "name": "",
+        "nameENG": "",
         "data": ["unova"]
     },
     {
         "dex": "0524",
-        "name": "",
+        "nameENG": "",
         "data": ["unova"]
     },
     {
         "dex": "0525",
-        "name": "",
+        "nameENG": "",
         "data": ["unova"]
     },
     {
         "dex": "0526",
-        "name": "",
+        "nameENG": "",
         "data": ["unova"]
     },
     {
         "dex": "0527",
-        "name": "",
+        "nameENG": "",
         "data": ["unova"]
     },
     {
         "dex": "0528",
-        "name": "",
+        "nameENG": "",
         "data": ["unova"]
     },
     {
         "dex": "0529",
-        "name": "",
+        "nameENG": "",
         "data": ["unova"]
     },
     {
         "dex": "0530",
-        "name": "",
+        "nameENG": "",
         "data": ["unova"]
     },
     {
         "dex": "0531",
-        "name": "",
+        "nameENG": "",
         "data": ["unova"]
     },
     {
         "dex": "0531M",
-        "name": "",
+        "nameENG": "",
         "data": ["unova mega"]
     },
     {
         "dex": "0532",
-        "name": "",
+        "nameENG": "",
         "data": ["unova"]
     },
     {
         "dex": "0533",
-        "name": "",
+        "nameENG": "",
         "data": ["unova"]
     },
     {
         "dex": "0534",
-        "name": "",
+        "nameENG": "",
         "data": ["unova"]
     },
     {
         "dex": "0535",
-        "name": "",
+        "nameENG": "",
         "data": ["unova"]
     },
     {
         "dex": "0536",
-        "name": "",
+        "nameENG": "",
         "data": ["unova"]
     },
     {
         "dex": "0537",
-        "name": "",
+        "nameENG": "",
         "data": ["unova"]
     },
     {
         "dex": "0538",
-        "name": "",
+        "nameENG": "",
         "data": ["unova"]
     },
     {
         "dex": "0539",
-        "name": "",
+        "nameENG": "",
         "data": ["unova"]
     },
     {
         "dex": "0540",
-        "name": "",
+        "nameENG": "",
         "data": ["unova"]
     },
     {
         "dex": "0541",
-        "name": "",
+        "nameENG": "",
         "data": ["unova"]
     },
     {
         "dex": "0542",
-        "name": "",
+        "nameENG": "",
         "data": ["unova"]
     },
     {
         "dex": "0543",
-        "name": "",
+        "nameENG": "",
         "data": ["unova"]
     },
     {
         "dex": "0544",
-        "name": "",
+        "nameENG": "",
         "data": ["unova"]
     },
     {
         "dex": "0545",
-        "name": "",
+        "nameENG": "",
         "data": ["unova"]
     },
     {
         "dex": "0546",
-        "name": "",
+        "nameENG": "",
         "data": ["unova"]
     },
     {
         "dex": "0547",
-        "name": "",
+        "nameENG": "",
         "data": ["unova"]
     },
     {
         "dex": "0548",
-        "name": "",
+        "nameENG": "",
         "data": ["unova"]
     },
     {
         "dex": "0549",
-        "name": "",
+        "nameENG": "",
         "data": ["unova"]
     },
     {
         "dex": "0550",
-        "name": "",
+        "nameENG": "",
         "data": ["unova"]
     },
     {
         "dex": "0550B",
-        "name": "",
+        "nameENG": "",
         "data": ["unova"]
     },
     {
         "dex": "0551",
-        "name": "",
+        "nameENG": "",
         "data": ["unova"]
     },
     {
         "dex": "0552",
-        "name": "",
+        "nameENG": "",
         "data": ["unova"]
     },
     {
         "dex": "0553",
-        "name": "",
+        "nameENG": "",
         "data": ["unova"]
     },
     {
         "dex": "0554",
-        "name": "",
+        "nameENG": "",
         "data": ["unova"]
     },
     {
         "dex": "0555",
-        "name": "",
+        "nameENG": "",
         "data": ["unova"]
     },
     {
         "dex": "0555Z",
-        "name": "",
+        "nameENG": "",
         "data": ["unova"]
     },
     {
         "dex": "0556",
-        "name": "",
+        "nameENG": "",
         "data": ["unova"]
     },
     {
         "dex": "0557",
-        "name": "",
+        "nameENG": "",
         "data": ["unova"]
     },
     {
         "dex": "0558",
-        "name": "",
+        "nameENG": "",
         "data": ["unova"]
     },
     {
         "dex": "0559",
-        "name": "",
+        "nameENG": "",
         "data": ["unova"]
     },
     {
         "dex": "0560",
-        "name": "",
+        "nameENG": "",
         "data": ["unova"]
     },
     {
         "dex": "0561",
-        "name": "",
+        "nameENG": "",
         "data": ["unova"]
     },
     {
         "dex": "0562",
-        "name": "",
+        "nameENG": "",
         "data": ["unova"]
     },
     {
         "dex": "0563",
-        "name": "",
+        "nameENG": "",
         "data": ["unova"]
     },
     {
         "dex": "0564",
-        "name": "",
+        "nameENG": "",
         "data": ["unova"]
     },
     {
         "dex": "0565",
-        "name": "",
+        "nameENG": "",
         "data": ["unova"]
     },
     {
         "dex": "0566",
-        "name": "",
+        "nameENG": "",
         "data": ["unova"]
     },
     {
         "dex": "0567",
-        "name": "",
+        "nameENG": "",
         "data": ["unova"]
     },
     {
         "dex": "0568",
-        "name": "",
+        "nameENG": "",
         "data": ["unova"]
     },
     {
         "dex": "0569",
-        "name": "",
+        "nameENG": "",
         "data": ["unova"]
     },
     {
         "dex": "0570",
-        "name": "",
+        "nameENG": "",
         "data": ["unova"]
     },
     {
         "dex": "0571",
-        "name": "",
+        "nameENG": "",
         "data": ["unova"]
     },
     {
         "dex": "0572",
-        "name": "",
+        "nameENG": "",
         "data": ["unova"]
     },
     {
         "dex": "0573",
-        "name": "",
+        "nameENG": "",
         "data": ["unova"]
     },
     {
         "dex": "0574",
-        "name": "",
+        "nameENG": "",
         "data": ["unova"]
     },
     {
         "dex": "0575",
-        "name": "",
+        "nameENG": "",
         "data": ["unova"]
     },
     {
         "dex": "0576",
-        "name": "",
+        "nameENG": "",
         "data": ["unova"]
     },
     {
         "dex": "0577",
-        "name": "",
+        "nameENG": "",
         "data": ["unova"]
     },
     {
         "dex": "0578",
-        "name": "",
+        "nameENG": "",
         "data": ["unova"]
     },
     {
         "dex": "0579",
-        "name": "",
+        "nameENG": "",
         "data": ["unova"]
     },
     {
         "dex": "0580",
-        "name": "",
+        "nameENG": "",
         "data": ["unova"]
     },
     {
         "dex": "0581",
-        "name": "",
+        "nameENG": "",
         "data": ["unova"]
     },
     {
         "dex": "0582",
-        "name": "",
+        "nameENG": "",
         "data": ["unova"]
     },
     {
         "dex": "0583",
-        "name": "",
+        "nameENG": "",
         "data": ["unova"]
     },
     {
         "dex": "0584",
-        "name": "",
+        "nameENG": "",
         "data": ["unova"]
     },
     {
         "dex": "0585",
-        "name": "",
+        "nameENG": "",
         "data": ["unova"]
     },
     {
         "dex": "0585S",
-        "name": "",
+        "nameENG": "",
         "data": ["unova"]
     },
     {
         "dex": "0585A",
-        "name": "",
+        "nameENG": "",
         "data": ["unova"]
     },
     {
         "dex": "0585W",
-        "name": "",
+        "nameENG": "",
         "data": ["unova"]
     },
     {
         "dex": "0586",
-        "name": "",
+        "nameENG": "",
         "data": ["unova"]
     },
     {
         "dex": "0586S",
-        "name": "",
+        "nameENG": "",
         "data": ["unova"]
     },
     {
         "dex": "0586A",
-        "name": "",
+        "nameENG": "",
         "data": ["unova"]
     },
     {
         "dex": "0586W",
-        "name": "",
+        "nameENG": "",
         "data": ["unova"]
     },
     {
         "dex": "0587",
-        "name": "",
+        "nameENG": "",
         "data": ["unova"]
     },
     {
         "dex": "0588",
-        "name": "",
+        "nameENG": "",
         "data": ["unova"]
     },
     {
         "dex": "0589",
-        "name": "",
+        "nameENG": "",
         "data": ["unova"]
     },
     {
         "dex": "0590",
-        "name": "",
+        "nameENG": "",
         "data": ["unova"]
     },
     {
         "dex": "0591",
-        "name": "",
+        "nameENG": "",
         "data": ["unova"]
     },
     {
         "dex": "0592",
-        "name": "",
+        "nameENG": "",
         "data": ["unova"]
     },
     {
         "dex": "0592F",
-        "name": "",
+        "nameENG": "",
         "data": ["unova"]
     },
     {
         "dex": "0593",
-        "name": "",
+        "nameENG": "",
         "data": ["unova"]
     },
     {
         "dex": "0593F",
-        "name": "",
+        "nameENG": "",
         "data": ["unova"]
     },
     {
         "dex": "0594",
-        "name": "",
+        "nameENG": "",
         "data": ["unova"]
     },
     {
         "dex": "0595",
-        "name": "",
+        "nameENG": "",
         "data": ["unova"]
     },
     {
         "dex": "0596",
-        "name": "",
+        "nameENG": "",
         "data": ["unova"]
     },
     {
         "dex": "0597",
-        "name": "",
+        "nameENG": "",
         "data": ["unova"]
     },
     {
         "dex": "0598",
-        "name": "",
+        "nameENG": "",
         "data": ["unova"]
     },
     {
         "dex": "0599",
-        "name": "",
+        "nameENG": "",
         "data": ["unova"]
     },
     {
         "dex": "0600",
-        "name": "",
+        "nameENG": "",
         "data": ["unova"]
     },
     {
         "dex": "0601",
-        "name": "",
+        "nameENG": "",
         "data": ["unova"]
     },
     {
         "dex": "0602",
-        "name": "",
+        "nameENG": "",
         "data": ["unova"]
     },
     {
         "dex": "0603",
-        "name": "",
+        "nameENG": "",
         "data": ["unova"]
     },
     {
         "dex": "0604",
-        "name": "",
+        "nameENG": "",
         "data": ["unova"]
     },
     {
         "dex": "0605",
-        "name": "",
+        "nameENG": "",
         "data": ["unova"]
     },
     {
         "dex": "0606",
-        "name": "",
+        "nameENG": "",
         "data": ["unova"]
     },
     {
         "dex": "0607",
-        "name": "",
+        "nameENG": "",
         "data": ["unova"]
     },
     {
         "dex": "0608",
-        "name": "",
+        "nameENG": "",
         "data": ["unova"]
     },
     {
         "dex": "0609",
-        "name": "",
+        "nameENG": "",
         "data": ["unova"]
     },
     {
         "dex": "0610",
-        "name": "",
+        "nameENG": "",
         "data": ["unova"]
     },
     {
         "dex": "0611",
-        "name": "",
+        "nameENG": "",
         "data": ["unova"]
     },
     {
         "dex": "0612",
-        "name": "",
+        "nameENG": "",
         "data": ["unova"]
     },
     {
         "dex": "0613",
-        "name": "",
+        "nameENG": "",
         "data": ["unova"]
     },
     {
         "dex": "0614",
-        "name": "",
+        "nameENG": "",
         "data": ["unova"]
     },
     {
         "dex": "0615",
-        "name": "",
+        "nameENG": "",
         "data": ["unova"]
     },
     {
         "dex": "0616",
-        "name": "",
+        "nameENG": "",
         "data": ["unova"]
     },
     {
         "dex": "0617",
-        "name": "",
+        "nameENG": "",
         "data": ["unova"]
     },
     {
         "dex": "0618",
-        "name": "",
+        "nameENG": "",
         "data": ["unova"]
     },
     {
         "dex": "0619",
-        "name": "",
+        "nameENG": "",
         "data": ["unova"]
     },
     {
         "dex": "0620",
-        "name": "",
+        "nameENG": "",
         "data": ["unova"]
     },
     {
         "dex": "0621",
-        "name": "",
+        "nameENG": "",
         "data": ["unova"]
     },
     {
         "dex": "0622",
-        "name": "",
+        "nameENG": "",
         "data": ["unova"]
     },
     {
         "dex": "0623",
-        "name": "",
+        "nameENG": "",
         "data": ["unova"]
     },
     {
         "dex": "0624",
-        "name": "",
+        "nameENG": "",
         "data": ["unova"]
     },
     {
         "dex": "0625",
-        "name": "",
+        "nameENG": "",
         "data": ["unova"]
     },
     {
         "dex": "0626",
-        "name": "",
+        "nameENG": "",
         "data": ["unova"]
     },
     {
         "dex": "0627",
-        "name": "",
+        "nameENG": "",
         "data": ["unova"]
     },
     {
         "dex": "0628",
-        "name": "",
+        "nameENG": "",
         "data": ["unova"]
     },
     {
         "dex": "0629",
-        "name": "",
+        "nameENG": "",
         "data": ["unova"]
     },
     {
         "dex": "0630",
-        "name": "",
+        "nameENG": "",
         "data": ["unova"]
     },
     {
         "dex": "0631",
-        "name": "",
+        "nameENG": "",
         "data": ["unova"]
     },
     {
         "dex": "0632",
-        "name": "",
+        "nameENG": "",
         "data": ["unova"]
     },
     {
         "dex": "0633",
-        "name": "",
+        "nameENG": "",
         "data": ["unova bs600"]
     },
     {
         "dex": "0634",
-        "name": "",
+        "nameENG": "",
         "data": ["unova bs600"]
     },
     {
         "dex": "0635",
-        "name": "",
+        "nameENG": "",
         "data": ["unova bs600"]
     },
     {
         "dex": "0636",
-        "name": "",
+        "nameENG": "",
         "data": ["unova"]
     },
     {
         "dex": "0637",
-        "name": "",
+        "nameENG": "",
         "data": ["unova"]
     },
     {
         "dex": "0638",
-        "name": "",
+        "nameENG": "",
         "data": ["unova trio"]
     },
     {
         "dex": "0639",
-        "name": "",
+        "nameENG": "",
         "data": ["unova trio"]
     },
     {
         "dex": "0640",
-        "name": "",
+        "nameENG": "",
         "data": ["unova trio"]
     },
     {
         "dex": "0641",
-        "name": "",
+        "nameENG": "",
         "data": ["unova trio"]
     },
     {
         "dex": "0641T",
-        "name": "",
+        "nameENG": "",
         "data": ["unova"]
     },
     {
         "dex": "0642",
-        "name": "",
+        "nameENG": "",
         "data": ["unova trio"]
     },
     {
         "dex": "0642T",
-        "name": "",
+        "nameENG": "",
         "data": ["unova"]
     },
     {
         "dex": "0643",
-        "name": "",
+        "nameENG": "",
         "data": ["unova legendary"]
     },
     {
         "dex": "0644",
-        "name": "",
+        "nameENG": "",
         "data": ["unova legendary"]
     },
     {
         "dex": "0645",
-        "name": "",
+        "nameENG": "",
         "data": ["unova trio"]
     },
     {
         "dex": "0646",
-        "name": "",
+        "nameENG": "",
         "data": ["unova legendary"]
     },
     {
         "dex": "0647",
-        "name": "",
+        "nameENG": "",
         "data": ["unova mirage"]
     },
     {
         "dex": "0647R",
-        "name": "",
+        "nameENG": "",
         "data": ["unova mirage"]
     },
     {
         "dex": "0648",
-        "name": "",
+        "nameENG": "",
         "data": ["unova mirage"]
     },
     {
         "dex": "0648P",
-        "name": "",
+        "nameENG": "",
         "data": ["unova mirage"]
     },
     {
         "dex": "0649",
-        "name": "",
+        "nameENG": "",
         "data": ["unova mirage"]
     },
     {
         "dex": "0650",
-        "name": "",
+        "nameENG": "",
         "data": ["kalos", "starter"]
     },
     {
         "dex": "0651",
-        "name": "",
+        "nameENG": "",
         "data": ["kalos", "starter"]
     },
     {
         "dex": "0652",
-        "name": "",
+        "nameENG": "",
         "data": ["kalos", "starter"]
     },
     {
         "dex": "0653",
-        "name": "",
+        "nameENG": "",
         "data": ["kalos", "starter"]
     },
     {
         "dex": "0654",
-        "name": "",
+        "nameENG": "",
         "data": ["kalos", "starter"]
     },
     {
         "dex": "0655",
-        "name": "",
+        "nameENG": "",
         "data": ["kalos", "starter"]
     },
     {
         "dex": "0656",
-        "name": "",
+        "nameENG": "",
         "data": ["kalos", "starter"]
     },
     {
         "dex": "0657",
-        "name": "",
+        "nameENG": "",
         "data": ["kalos", "starter"]
     },
     {
         "dex": "0658",
-        "name": "",
+        "nameENG": "",
         "data": ["kalos", "starter"]
     },
     {
         "dex": "0658A",
-        "name": "",
+        "nameENG": "",
         "data": ["kalos", "starter"]
     },
     {
         "dex": "0659",
-        "name": "",
+        "nameENG": "",
         "data": ["kalos"]
     },
     {
         "dex": "0660",
-        "name": "",
+        "nameENG": "",
         "data": ["kalos"]
     },
     {
         "dex": "0661",
-        "name": "",
+        "nameENG": "",
         "data": ["kalos"]
     },
     {
         "dex": "0662",
-        "name": "",
+        "nameENG": "",
         "data": ["kalos"]
     },
     {
         "dex": "0663",
-        "name": "",
+        "nameENG": "",
         "data": ["kalos"]
     },
     {
         "dex": "0664",
-        "name": "",
+        "nameENG": "",
         "data": ["kalos"]
     },
     {
         "dex": "0665",
-        "name": "",
+        "nameENG": "",
         "data": ["kalos"]
     },
     {
         "dex": "0666",
-        "name": "",
+        "nameENG": "",
         "data": ["kalos"]
     },
     {
         "dex": "0666Arc",
-        "name": "",
+        "nameENG": "",
         "data": ["kalos"]
     },
     {
         "dex": "0666Con",
-        "name": "",
+        "nameENG": "",
         "data": ["kalos"]
     },
     {
         "dex": "0666Ele",
-        "name": "",
+        "nameENG": "",
         "data": ["kalos"]
     },
     {
         "dex": "0666Fan",
-        "name": "",
+        "nameENG": "",
         "data": ["kalos"]
     },
     {
         "dex": "0666Gar",
-        "name": "",
+        "nameENG": "",
         "data": ["kalos"]
     },
     {
         "dex": "0666Hig",
-        "name": "",
+        "nameENG": "",
         "data": ["kalos"]
     },
     {
         "dex": "0666Icy",
-        "name": "",
+        "nameENG": "",
         "data": ["kalos"]
     },
     {
         "dex": "0666Jun",
-        "name": "",
+        "nameENG": "",
         "data": ["kalos"]
     },
     {
         "dex": "0666Mar",
-        "name": "",
+        "nameENG": "",
         "data": ["kalos"]
     },
     {
         "dex": "0666Mod",
-        "name": "",
+        "nameENG": "",
         "data": ["kalos"]
     },
     {
         "dex": "0666Mon",
-        "name": "",
+        "nameENG": "",
         "data": ["kalos"]
     },
     {
         "dex": "0666Oce",
-        "name": "",
+        "nameENG": "",
         "data": ["kalos"]
     },
     {
         "dex": "0666Pok",
-        "name": "",
+        "nameENG": "",
         "data": ["kalos"]
     },
     {
         "dex": "0666Pol",
-        "name": "",
+        "nameENG": "",
         "data": ["kalos"]
     },
     {
         "dex": "0666Riv",
-        "name": "",
+        "nameENG": "",
         "data": ["kalos"]
     },
     {
         "dex": "0666San",
-        "name": "",
+        "nameENG": "",
         "data": ["kalos"]
     },
     {
         "dex": "0666Sav",
-        "name": "",
+        "nameENG": "",
         "data": ["kalos"]
     },
     {
         "dex": "0666Sun",
-        "name": "",
+        "nameENG": "",
         "data": ["kalos"]
     },
     {
         "dex": "0666Tun",
-        "name": "",
+        "nameENG": "",
         "data": ["kalos"]
     },
     {
         "dex": "0667",
-        "name": "",
+        "nameENG": "",
         "data": ["kalos"]
     },
     {
         "dex": "0668",
-        "name": "",
+        "nameENG": "",
         "data": ["kalos"]
     },
     {
         "dex": "0668F",
-        "name": "",
+        "nameENG": "",
         "data": ["kalos"]
     },
     {
         "dex": "0669",
-        "name": "",
+        "nameENG": "",
         "data": ["kalos"]
     },
     {
         "dex": "0669B",
-        "name": "",
+        "nameENG": "",
         "data": ["kalos"]
     },
     {
         "dex": "0669Y",
-        "name": "",
+        "nameENG": "",
         "data": ["kalos"]
     },
     {
         "dex": "0669O",
-        "name": "",
+        "nameENG": "",
         "data": ["kalos"]
     },
     {
         "dex": "0669W",
-        "name": "",
+        "nameENG": "",
         "data": ["kalos"]
     },
     {
         "dex": "0670",
-        "name": "",
+        "nameENG": "",
         "data": ["kalos"]
     },
     {
         "dex": "0670B",
-        "name": "",
+        "nameENG": "",
         "data": ["kalos"]
     },
     {
         "dex": "0670Y",
-        "name": "",
+        "nameENG": "",
         "data": ["kalos"]
     },
     {
         "dex": "0670O",
-        "name": "",
+        "nameENG": "",
         "data": ["kalos"]
     },
     {
         "dex": "0670W",
-        "name": "",
+        "nameENG": "",
         "data": ["kalos"]
     },
     {
         "dex": "0670E",
-        "name": "",
+        "nameENG": "",
         "data": ["kalos"]
     },
     {
         "dex": "0671",
-        "name": "",
+        "nameENG": "",
         "data": ["kalos"]
     },
     {
         "dex": "0671B",
-        "name": "",
+        "nameENG": "",
         "data": ["kalos"]
     },
     {
         "dex": "0671Y",
-        "name": "",
+        "nameENG": "",
         "data": ["kalos"]
     },
     {
         "dex": "0671O",
-        "name": "",
+        "nameENG": "",
         "data": ["kalos"]
     },
     {
         "dex": "0671W",
-        "name": "",
+        "nameENG": "",
         "data": ["kalos"]
     },
     {
         "dex": "0672",
-        "name": "",
+        "nameENG": "",
         "data": ["kalos"]
     },
     {
         "dex": "0673",
-        "name": "",
+        "nameENG": "",
         "data": ["kalos"]
     },
     {
         "dex": "0674",
-        "name": "",
+        "nameENG": "",
         "data": ["kalos"]
     },
     {
         "dex": "0675",
-        "name": "",
+        "nameENG": "",
         "data": ["kalos"]
     },
     {
         "dex": "0676",
-        "name": "",
+        "nameENG": "",
         "data": ["kalos"]
     },
     {
         "dex": "0676Da",
-        "name": "",
+        "nameENG": "",
         "data": ["kalos"]
     },
     {
         "dex": "0676De",
-        "name": "",
+        "nameENG": "",
         "data": ["kalos"]
     },
     {
         "dex": "0676Di",
-        "name": "",
+        "nameENG": "",
         "data": ["kalos"]
     },
     {
         "dex": "0676He",
-        "name": "",
+        "nameENG": "",
         "data": ["kalos"]
     },
     {
         "dex": "0676Ka",
-        "name": "",
+        "nameENG": "",
         "data": ["kalos"]
     },
     {
         "dex": "0676La",
-        "name": "",
+        "nameENG": "",
         "data": ["kalos"]
     },
     {
         "dex": "0676Ma",
-        "name": "",
+        "nameENG": "",
         "data": ["kalos"]
     },
     {
         "dex": "0676Ph",
-        "name": "",
+        "nameENG": "",
         "data": ["kalos"]
     },
     {
         "dex": "0676Ph",
-        "name": "",
+        "nameENG": "",
         "data": ["kalos"]
     },
     {
         "dex": "0677",
-        "name": "",
+        "nameENG": "",
         "data": ["kalos"]
     },
     {
         "dex": "0678",
-        "name": "",
+        "nameENG": "",
         "data": ["kalos"]
     },
     {
         "dex": "0678F",
-        "name": "",
+        "nameENG": "",
         "data": ["kalos"]
     },
     {
         "dex": "0679",
-        "name": "",
+        "nameENG": "",
         "data": ["kalos"]
     },
     {
         "dex": "0680",
-        "name": "",
+        "nameENG": "",
         "data": ["kalos"]
     },
     {
         "dex": "0681",
-        "name": "",
+        "nameENG": "",
         "data": ["kalos"]
     },
     {
         "dex": "0681B",
-        "name": "",
+        "nameENG": "",
         "data": ["kalos"]
     },
     {
         "dex": "0682",
-        "name": "",
+        "nameENG": "",
         "data": ["kalos"]
     },
     {
         "dex": "0683",
-        "name": "",
+        "nameENG": "",
         "data": ["kalos"]
     },
     {
         "dex": "0684",
-        "name": "",
+        "nameENG": "",
         "data": ["kalos"]
     },
     {
         "dex": "0685",
-        "name": "",
+        "nameENG": "",
         "data": ["kalos"]
     },
     {
         "dex": "0686",
-        "name": "",
+        "nameENG": "",
         "data": ["kalos"]
     },
     {
         "dex": "0687",
-        "name": "",
+        "nameENG": "",
         "data": ["kalos"]
     },
     {
         "dex": "0688",
-        "name": "",
+        "nameENG": "",
         "data": ["kalos"]
     },
     {
         "dex": "0689",
-        "name": "",
+        "nameENG": "",
         "data": ["kalos"]
     },
     {
         "dex": "0690",
-        "name": "",
+        "nameENG": "",
         "data": ["kalos"]
     },
     {
         "dex": "0691",
-        "name": "",
+        "nameENG": "",
         "data": ["kalos"]
     },
     {
         "dex": "0692",
-        "name": "",
+        "nameENG": "",
         "data": ["kalos"]
     },
     {
         "dex": "0693",
-        "name": "",
+        "nameENG": "",
         "data": ["kalos"]
     },
     {
         "dex": "0694",
-        "name": "",
+        "nameENG": "",
         "data": ["kalos"]
     },
     {
         "dex": "0695",
-        "name": "",
+        "nameENG": "",
         "data": ["kalos"]
     },
     {
         "dex": "0696",
-        "name": "",
+        "nameENG": "",
         "data": ["kalos"]
     },
     {
         "dex": "0697",
-        "name": "",
+        "nameENG": "",
         "data": ["kalos"]
     },
     {
         "dex": "0698",
-        "name": "",
+        "nameENG": "",
         "data": ["kalos"]
     },
     {
         "dex": "0699",
-        "name": "",
+        "nameENG": "",
         "data": ["kalos"]
     },
     {
         "dex": "0700",
-        "name": "",
+        "nameENG": "",
         "data": ["kalos", "eevee"]
     },
     {
         "dex": "0701",
-        "name": "",
+        "nameENG": "",
         "data": ["kalos"]
     },
     {
         "dex": "0702",
-        "name": "",
+        "nameENG": "",
         "data": ["kalos"]
     },
     {
         "dex": "0703",
-        "name": "",
+        "nameENG": "",
         "data": ["kalos"]
     },
     {
         "dex": "0704",
-        "name": "",
+        "nameENG": "",
         "data": ["kalos", "bs600"]
     },
     {
         "dex": "0705",
-        "name": "",
+        "nameENG": "",
         "data": ["kalos", "bs600"]
     },
     {
         "dex": "0706",
-        "name": "",
+        "nameENG": "",
         "data": ["kalos", "bs600"]
     },
     {
         "dex": "0707",
-        "name": "",
+        "nameENG": "",
         "data": ["kalos"]
     },
     {
         "dex": "0708",
-        "name": "",
+        "nameENG": "",
         "data": ["kalos"]
     },
     {
         "dex": "0709",
-        "name": "",
+        "nameENG": "",
         "data": ["kalos"]
     },
     {
         "dex": "0710",
-        "name": "",
+        "nameENG": "",
         "data": ["kalos"]
     },
     {
         "dex": "0711",
-        "name": "",
+        "nameENG": "",
         "data": ["kalos"]
     },
     {
         "dex": "0712",
-        "name": "",
+        "nameENG": "",
         "data": ["kalos"]
     },
     {
         "dex": "0713",
-        "name": "",
+        "nameENG": "",
         "data": ["kalos"]
     },
     {
         "dex": "0714",
-        "name": "",
+        "nameENG": "",
         "data": ["kalos"]
     },
     {
         "dex": "0715",
-        "name": "",
+        "nameENG": "",
         "data": ["kalos"]
     },
     {
         "dex": "0716N",
-        "name": "",
+        "nameENG": "",
         "data": ["kalos"]
     },
     {
         "dex": "0716",
-        "name": "",
+        "nameENG": "",
         "data": ["kalos", "legendary"]
     },
     {
         "dex": "0717",
-        "name": "",
+        "nameENG": "",
         "data": ["kalos", "legendary"]
     },
     {
         "dex": "0718T",
-        "name": "",
+        "nameENG": "",
         "data": ["kalos", "legendary"]
     },
     {
         "dex": "0718",
-        "name": "",
+        "nameENG": "",
         "data": ["kalos", "legendary"]
     },
     {
         "dex": "0718C",
-        "name": "",
+        "nameENG": "",
         "data": ["kalos", "legendary"]
     },
     {
         "dex": "0719",
-        "name": "",
+        "nameENG": "",
         "data": ["kalos", "mirage"]
     },
     {
         "dex": "0719M",
-        "name": "",
+        "nameENG": "",
         "data": ["kalos", "mega", "mirage"]
     },
     {
         "dex": "0720",
-        "name": "",
+        "nameENG": "",
         "data": ["kalos", "mirage"]
     },
     {
         "dex": "0720U",
-        "name": "",
+        "nameENG": "",
         "data": ["kalos", "mirage"]
     },
     {
         "dex": "0721",
-        "name": "",
+        "nameENG": "",
         "data": ["kalos", "mirage"]
     },
     {
         "dex": "0722",
-        "name": "",
+        "nameENG": "",
         "data": ["alola", "starter"]
     },
     {
         "dex": "0723",
-        "name": "",
+        "nameENG": "",
         "data": ["alola", "starter"]
     },
     {
         "dex": "0724",
-        "name": "",
+        "nameENG": "",
         "data": ["alola", "starter"]
     },
     {
         "dex": "0725",
-        "name": "",
+        "nameENG": "",
         "data": ["alola", "starter"]
     },
     {
         "dex": "0726",
-        "name": "",
+        "nameENG": "",
         "data": ["alola", "starter"]
     },
     {
         "dex": "0727",
-        "name": "",
+        "nameENG": "",
         "data": ["alola", "starter"]
     },
     {
         "dex": "0728",
-        "name": "",
+        "nameENG": "",
         "data": ["alola", "starter"]
     },
     {
         "dex": "0729",
-        "name": "",
+        "nameENG": "",
         "data": ["alola", "starter"]
     },
     {
         "dex": "0730",
-        "name": "",
+        "nameENG": "",
         "data": ["alola", "starter"]
     },
     {
         "dex": "0731",
-        "name": "",
+        "nameENG": "",
         "data": ["alola"]
     },
     {
         "dex": "0732",
-        "name": "",
+        "nameENG": "",
         "data": ["alola"]
     },
     {
         "dex": "0733",
-        "name": "",
+        "nameENG": "",
         "data": ["alola"]
     },
     {
         "dex": "0734",
-        "name": "",
+        "nameENG": "",
         "data": ["alola"]
     },
     {
         "dex": "0735",
-        "name": "",
+        "nameENG": "",
         "data": ["alola"]
     },
     {
         "dex": "0736",
-        "name": "",
+        "nameENG": "",
         "data": ["alola"]
     },
     {
         "dex": "0737",
-        "name": "",
+        "nameENG": "",
         "data": ["alola"]
     },
     {
         "dex": "0738",
-        "name": "",
+        "nameENG": "",
         "data": ["alola"]
     },
     {
         "dex": "0739",
-        "name": "",
+        "nameENG": "",
         "data": ["alola"]
     },
     {
         "dex": "0740",
-        "name": "",
+        "nameENG": "",
         "data": ["alola"]
     },
     {
         "dex": "0741",
-        "name": "",
+        "nameENG": "",
         "data": ["alola"]
     },
     {
         "dex": "0741Po",
-        "name": "",
+        "nameENG": "",
         "data": ["alola"]
     },
     {
         "dex": "0741Pa",
-        "name": "",
+        "nameENG": "",
         "data": ["alola"]
     },
     {
         "dex": "0741Se",
-        "name": "",
+        "nameENG": "",
         "data": ["alola"]
     },
     {
         "dex": "0742",
-        "name": "",
+        "nameENG": "",
         "data": ["alola"]
     },
     {
         "dex": "0743",
-        "name": "",
+        "nameENG": "",
         "data": ["alola"]
     },
     {
         "dex": "0744",
-        "name": "",
+        "nameENG": "",
         "data": ["alola"]
     },
     {
         "dex": "0745",
-        "name": "",
+        "nameENG": "",
         "data": ["alola"]
     },
     {
         "dex": "0745Mn",
-        "name": "",
+        "nameENG": "",
         "data": ["alola"]
     },
     {
         "dex": "0746",
-        "name": "",
+        "nameENG": "",
         "data": ["alola"]
     },
     {
         "dex": "0746Sc",
-        "name": "",
+        "nameENG": "",
         "data": ["alola"]
     },
     {
         "dex": "0747",
-        "name": "",
+        "nameENG": "",
         "data": ["alola"]
     },
     {
         "dex": "0748",
-        "name": "",
+        "nameENG": "",
         "data": ["alola"]
     },
     {
         "dex": "0749",
-        "name": "",
+        "nameENG": "",
         "data": ["alola"]
     },
     {
         "dex": "0750",
-        "name": "",
+        "nameENG": "",
         "data": ["alola"]
     },
     {
         "dex": "0751",
-        "name": "",
+        "nameENG": "",
         "data": ["alola"]
     },
     {
         "dex": "0752",
-        "name": "",
+        "nameENG": "",
         "data": ["alola"]
     },
     {
         "dex": "0753",
-        "name": "",
+        "nameENG": "",
         "data": ["alola"]
     },
     {
         "dex": "0754",
-        "name": "",
+        "nameENG": "",
         "data": ["alola"]
     },
     {
         "dex": "0755",
-        "name": "",
+        "nameENG": "",
         "data": ["alola"]
     },
     {
         "dex": "0756",
-        "name": "",
+        "nameENG": "",
         "data": ["alola"]
     },
     {
         "dex": "0757",
-        "name": "",
+        "nameENG": "",
         "data": ["alola"]
     },
     {
         "dex": "0758",
-        "name": "",
+        "nameENG": "",
         "data": ["alola"]
     },
     {
         "dex": "0759",
-        "name": "",
+        "nameENG": "",
         "data": ["alola"]
     },
     {
         "dex": "0760",
-        "name": "",
+        "nameENG": "",
         "data": ["alola"]
     },
     {
         "dex": "0761",
-        "name": "",
+        "nameENG": "",
         "data": ["alola"]
     },
     {
         "dex": "0762",
-        "name": "",
+        "nameENG": "",
         "data": ["alola"]
     },
     {
         "dex": "0763",
-        "name": "",
+        "nameENG": "",
         "data": ["alola"]
     },
     {
         "dex": "0764",
-        "name": "",
+        "nameENG": "",
         "data": ["alola"]
     },
     {
         "dex": "0765",
-        "name": "",
+        "nameENG": "",
         "data": ["alola"]
     },
     {
         "dex": "0766",
-        "name": "",
+        "nameENG": "",
         "data": ["alola"]
     },
     {
         "dex": "0767",
-        "name": "",
+        "nameENG": "",
         "data": ["alola"]
     },
     {
         "dex": "0768",
-        "name": "",
+        "nameENG": "",
         "data": ["alola"]
     },
     {
         "dex": "0769",
-        "name": "",
+        "nameENG": "",
         "data": ["alola"]
     },
     {
         "dex": "0770",
-        "name": "",
+        "nameENG": "",
         "data": ["alola"]
     },
     {
         "dex": "0771",
-        "name": "",
+        "nameENG": "",
         "data": ["alola"]
     },
     {
         "dex": "0772",
-        "name": "",
+        "nameENG": "",
         "data": ["alola"]
     },
     {
         "dex": "0773",
-        "name": "",
+        "nameENG": "",
         "data": ["alola"]
     },
     {
         "dex": "0774",
-        "name": "",
+        "nameENG": "",
         "data": ["alola"]
     },
     {
         "dex": "0774R",
-        "name": "",
+        "nameENG": "",
         "data": ["alola"]
     },
     {
         "dex": "0774O",
-        "name": "",
+        "nameENG": "",
         "data": ["alola"]
     },
     {
         "dex": "0774Y",
-        "name": "",
+        "nameENG": "",
         "data": ["alola"]
     },
     {
         "dex": "0774G",
-        "name": "",
+        "nameENG": "",
         "data": ["alola"]
     },
     {
         "dex": "0774B",
-        "name": "",
+        "nameENG": "",
         "data": ["alola"]
     },
     {
         "dex": "0774I",
-        "name": "",
+        "nameENG": "",
         "data": ["alola"]
     },
     {
         "dex": "0774V",
-        "name": "",
+        "nameENG": "",
         "data": ["alola"]
     },
     {
         "dex": "0775",
-        "name": "",
+        "nameENG": "",
         "data": ["alola"]
     },
     {
         "dex": "0776",
-        "name": "",
+        "nameENG": "",
         "data": ["alola"]
     },
     {
         "dex": "0777",
-        "name": "",
+        "nameENG": "",
         "data": ["alola"]
     },
     {
         "dex": "0778",
-        "name": "",
+        "nameENG": "",
         "data": ["alola"]
     },
     {
         "dex": "0779",
-        "name": "",
+        "nameENG": "",
         "data": ["alola"]
     },
     {
         "dex": "0780",
-        "name": "",
+        "nameENG": "",
         "data": ["alola"]
     },
     {
         "dex": "0781",
-        "name": "",
+        "nameENG": "",
         "data": ["alola"]
     },
     {
         "dex": "0782",
-        "name": "",
+        "nameENG": "",
         "data": ["alola", "bs600"]
     },
     {
         "dex": "0783",
-        "name": "",
+        "nameENG": "",
         "data": ["alola", "bs600"]
     },
     {
         "dex": "0784",
-        "name": "",
+        "nameENG": "",
         "data": ["alola", "bs600"]
     },
     {
         "dex": "0785",
-        "name": "",
+        "nameENG": "",
         "data": ["alola", "trio"]
     },
     {
         "dex": "0786",
-        "name": "",
+        "nameENG": "",
         "data": ["alola", "trio"]
     },
     {
         "dex": "0787",
-        "name": "",
+        "nameENG": "",
         "data": ["alola", "trio"]
     },
     {
         "dex": "0788",
-        "name": "",
+        "nameENG": "",
         "data": ["alola", "trio"]
     },
     {
         "dex": "0789",
-        "name": "",
+        "nameENG": "",
         "data": ["alola"]
     },
     {
         "dex": "0790",
-        "name": "",
+        "nameENG": "",
         "data": ["alola"]
     },
     {
         "dex": "0791",
-        "name": "",
+        "nameENG": "",
         "data": ["alola", "legendary"]
     },
     {
         "dex": "0792",
-        "name": "",
+        "nameENG": "",
         "data": ["alola", "legendary"]
     },
     {
         "dex": "0793",
-        "name": "",
+        "nameENG": "",
         "data": ["alola", "UB"]
     },
     {
         "dex": "0794",
-        "name": "",
+        "nameENG": "",
         "data": ["alola", "UB"]
     },
     {
         "dex": "0795",
-        "name": "",
+        "nameENG": "",
         "data": ["alola", "UB"]
     },
     {
         "dex": "0796",
-        "name": "",
+        "nameENG": "",
         "data": ["alola", "UB"]
     },
     {
         "dex": "0797",
-        "name": "",
+        "nameENG": "",
         "data": ["alola", "UB"]
     },
     {
         "dex": "0798",
-        "name": "",
+        "nameENG": "",
         "data": ["alola", "UB"]
     },
     {
         "dex": "0799",
-        "name": "",
+        "nameENG": "",
         "data": ["alola", "UB"]
     },
     {
         "dex": "0800",
-        "name": "",
+        "nameENG": "",
         "data": ["alola", "legendary"]
     },
     {
         "dex": "0801",
-        "name": "",
+        "nameENG": "",
         "data": ["alola", "mirage"]
     },
     {
         "dex": "0801O",
-        "name": "",
+        "nameENG": "",
         "data": ["alola", "mirage"]
     },
     {
         "dex": "0802",
-        "name": "",
+        "nameENG": "",
         "data": ["alola"]
     },
     {
         "dex": "Egg",
-        "name": "",
+        "nameENG": "",
         "data": [""]
     }
 ]
