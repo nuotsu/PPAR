@@ -161,6 +161,7 @@
     },
     {
         "dex": "0025",
+        "dex": "0025",
         "name": "Pikachu",
         "data": ["kanto"]
     },
@@ -196,32 +197,32 @@
     },
     {
         "dex": "0025O",
-        "name": "",
+        "name": "Pikachu Original",
         "data": ["kanto"]
     },
     {
         "dex": "0025H",
-        "name": "",
+        "name": "Pikachu Hoenn",
         "data": ["kanto"]
     },
     {
         "dex": "0025S",
-        "name": "",
+        "name": "Pikachu Sinnoh",
         "data": ["kanto"]
     },
     {
         "dex": "0025U",
-        "name": "",
+        "name": "Pikachu Unova",
         "data": ["kanto"]
     },
     {
         "dex": "0025K",
-        "name": "",
+        "name": "Pikachu Kalos",
         "data": ["kanto"]
     },
     {
         "dex": "0025A",
-        "name": "",
+        "name": "Pikachu Alola",
         "data": ["kanto"]
     },
     {
@@ -801,7 +802,7 @@
     },
     {
         "dex": "0122",
-        "name": "Mr",
+        "name": "Mr.Mime",
         "data": ["kanto"]
     },
     {
@@ -1236,142 +1237,142 @@
     },
     {
         "dex": "0201",
-        "name": "Unown",
+        "name": "Unown A",
         "data": ["johto", "unown"]
     },
     {
         "dex": "0201B",
-        "name": "",
+        "name": "Unown B",
         "data": ["johto", "unown"]
     },
     {
         "dex": "0201C",
-        "name": "",
+        "name": "Unown C",
         "data": ["johto", "unown"]
     },
     {
         "dex": "0201D",
-        "name": "",
+        "name": "Unown D",
         "data": ["johto", "unown"]
     },
     {
         "dex": "0201E",
-        "name": "",
+        "name": "Unown E",
         "data": ["johto", "unown"]
     },
     {
         "dex": "0201F",
-        "name": "",
+        "name": "Unown F",
         "data": ["johto", "unown"]
     },
     {
         "dex": "0201G",
-        "name": "",
+        "name": "Unown G",
         "data": ["johto", "unown"]
     },
     {
         "dex": "0201H",
-        "name": "",
+        "name": "Unown H",
         "data": ["johto", "unown"]
     },
     {
         "dex": "0201I",
-        "name": "",
+        "name": "Unown I",
         "data": ["johto", "unown"]
     },
     {
         "dex": "0201J",
-        "name": "",
+        "name": "Unown J",
         "data": ["johto", "unown"]
     },
     {
         "dex": "0201K",
-        "name": "",
+        "name": "Unown K",
         "data": ["johto", "unown"]
     },
     {
         "dex": "0201L",
-        "name": "",
+        "name": "Unown L",
         "data": ["johto", "unown"]
     },
     {
         "dex": "0201M",
-        "name": "",
+        "name": "Unown M",
         "data": ["johto", "unown"]
     },
     {
         "dex": "0201N",
-        "name": "",
+        "name": "Unown N",
         "data": ["johto", "unown"]
     },
     {
         "dex": "0201O",
-        "name": "",
+        "name": "Unown O",
         "data": ["johto", "unown"]
     },
     {
         "dex": "0201P",
-        "name": "",
+        "name": "Unown P",
         "data": ["johto", "unown"]
     },
     {
         "dex": "0201Q",
-        "name": "",
+        "name": "Unown Q",
         "data": ["johto", "unown"]
     },
     {
         "dex": "0201R",
-        "name": "",
+        "name": "Unown R",
         "data": ["johto", "unown"]
     },
     {
         "dex": "0201S",
-        "name": "",
+        "name": "Unown S",
         "data": ["johto", "unown"]
     },
     {
         "dex": "0201T",
-        "name": "",
+        "name": "Unown T",
         "data": ["johto", "unown"]
     },
     {
         "dex": "0201U",
-        "name": "",
+        "name": "Unown U",
         "data": ["johto", "unown"]
     },
     {
         "dex": "0201V",
-        "name": "",
+        "name": "Unown V",
         "data": ["johto", "unown"]
     },
     {
         "dex": "0201W",
-        "name": "",
+        "name": "Unown W",
         "data": ["johto", "unown"]
     },
     {
         "dex": "0201X",
-        "name": "",
+        "name": "Unown X",
         "data": ["johto", "unown"]
     },
     {
         "dex": "0201Y",
-        "name": "",
+        "name": "Unown Y",
         "data": ["johto", "unown"]
     },
     {
         "dex": "0201Z",
-        "name": "",
+        "name": "Unown Z",
         "data": ["johto", "unown"]
     },
     {
         "dex": "0201Ex",
-        "name": "",
+        "name": "Unown !",
         "data": ["johto", "unown"]
     },
     {
         "dex": "0201Qu",
-        "name": "",
+        "name": "Unown ?",
         "data": ["johto", "unown"]
     },
     {
@@ -2441,22 +2442,22 @@
     },
     {
         "dex": "0386",
-        "name": "Deoxys",
+        "name": "Deoxys Normal",
         "data": ["hoenn", "mirage"]
     },
     {
         "dex": "0386D",
-        "name": "",
+        "name": "Deoxys Defense",
         "data": ["hoenn", "mirage"]
     },
     {
         "dex": "0386A",
-        "name": "",
+        "name": "Deoxys Attack",
         "data": ["hoenn", "mirage"]
     },
     {
         "dex": "0386S",
-        "name": "",
+        "name": "Deoxys Speed",
         "data": ["hoenn", "mirage"]
     },
     {
@@ -2951,7 +2952,7 @@
     },
     {
         "dex": "0474",
-        "name": "Porygon",
+        "name": "Porygon-Z",
         "data": ["sinnoh"]
     },
     {
@@ -3226,12 +3227,12 @@
     },
     {
         "dex": "0521",
-        "name": "Unfezant",
+        "name": "Unfezant M",
         "data": ["unova"]
     },
     {
         "dex": "0521F",
-        "name": "",
+        "name": "Unfezant F",
         "data": ["unova"]
     },
     {
@@ -3566,42 +3567,42 @@
     },
     {
         "dex": "0585",
-        "name": "Deerling",
+        "name": "Deerling Spring",
         "data": ["unova"]
     },
     {
         "dex": "0585S",
-        "name": "",
+        "name": "Deerling Summer",
         "data": ["unova"]
     },
     {
         "dex": "0585A",
-        "name": "",
+        "name": "Deerling Autumn",
         "data": ["unova"]
     },
     {
         "dex": "0585W",
-        "name": "",
+        "name": "Deerling Winter",
         "data": ["unova"]
     },
     {
         "dex": "0586",
-        "name": "Sawsbuck",
+        "name": "Sawsbuck Spring",
         "data": ["unova"]
     },
     {
         "dex": "0586S",
-        "name": "",
+        "name": "Sawsbuck Summer",
         "data": ["unova"]
     },
     {
         "dex": "0586A",
-        "name": "",
+        "name": "Sawsbuck Autumn",
         "data": ["unova"]
     },
     {
         "dex": "0586W",
-        "name": "",
+        "name": "Sawsbuck Winter",
         "data": ["unova"]
     },
     {
@@ -3886,22 +3887,22 @@
     },
     {
         "dex": "0641",
-        "name": "Tornadus",
+        "name": "Tornadus Incarnate",
         "data": ["unova", "trio"]
     },
     {
         "dex": "0641T",
-        "name": "",
+        "name": "Tornadus Therian",
         "data": ["unova"]
     },
     {
         "dex": "0642",
-        "name": "Thundurus",
+        "name": "Thundurus Incarnate",
         "data": ["unova", "trio"]
     },
     {
         "dex": "0642T",
-        "name": "",
+        "name": "Thundurus Therian",
         "data": ["unova"]
     },
     {
@@ -3916,12 +3917,12 @@
     },
     {
         "dex": "0645",
-        "name": "Landorus",
+        "name": "Landorus Incarnate",
         "data": ["unova", "trio"]
     },
     {
         "dex": "0645T",
-        "name": "",
+        "name": "Landorus Therian",
         "data": ["unova", "trio"]
     },
     {
@@ -3931,12 +3932,12 @@
     },
     {
         "dex": "0646B",
-        "name": "",
+        "name": "Kyurem Black",
         "data": ["unova", "legendary"]
     },
     {
         "dex": "0646W",
-        "name": "",
+        "name": "Kyurem White",
         "data": ["unova", "legendary"]
     },
     {
@@ -4056,97 +4057,97 @@
     },
     {
         "dex": "0666Arc",
-        "name": "",
+        "name": "Vivillon Arc",
         "data": ["kalos"]
     },
     {
         "dex": "0666Con",
-        "name": "",
+        "name": "Vivillon Con",
         "data": ["kalos"]
     },
     {
         "dex": "0666Ele",
-        "name": "",
+        "name": "Vivillon Ele",
         "data": ["kalos"]
     },
     {
         "dex": "0666Fan",
-        "name": "",
+        "name": "Vivillon Fan",
         "data": ["kalos"]
     },
     {
         "dex": "0666Gar",
-        "name": "",
+        "name": "Vivillon Gar",
         "data": ["kalos"]
     },
     {
         "dex": "0666Hig",
-        "name": "",
+        "name": "Vivillon Hig",
         "data": ["kalos"]
     },
     {
         "dex": "0666Icy",
-        "name": "",
+        "name": "Vivillon Icy",
         "data": ["kalos"]
     },
     {
         "dex": "0666Jun",
-        "name": "",
+        "name": "Vivillon Jun",
         "data": ["kalos"]
     },
     {
         "dex": "0666Mar",
-        "name": "",
+        "name": "Vivillon Mar",
         "data": ["kalos"]
     },
     {
         "dex": "0666Mod",
-        "name": "",
+        "name": "Vivillon Mod",
         "data": ["kalos"]
     },
     {
         "dex": "0666Mon",
-        "name": "",
+        "name": "Vivillon Mon",
         "data": ["kalos"]
     },
     {
         "dex": "0666Oce",
-        "name": "",
+        "name": "Vivillon Oce",
         "data": ["kalos"]
     },
     {
         "dex": "0666Pok",
-        "name": "",
+        "name": "Vivillon Pok",
         "data": ["kalos"]
     },
     {
         "dex": "0666Pol",
-        "name": "",
+        "name": "Vivillon Pol",
         "data": ["kalos"]
     },
     {
         "dex": "0666Riv",
-        "name": "",
+        "name": "Vivillon Riv",
         "data": ["kalos"]
     },
     {
         "dex": "0666San",
-        "name": "",
+        "name": "Vivillon San",
         "data": ["kalos"]
     },
     {
         "dex": "0666Sav",
-        "name": "",
+        "name": "Vivillon Sav",
         "data": ["kalos"]
     },
     {
         "dex": "0666Sun",
-        "name": "",
+        "name": "Vivillon Sun",
         "data": ["kalos"]
     },
     {
         "dex": "0666Tun",
-        "name": "",
+        "name": "Vivillon Tun",
         "data": ["kalos"]
     },
     {
@@ -4166,82 +4167,82 @@
     },
     {
         "dex": "0669",
-        "name": "Flabebe",
+        "name": "Flabebe Red",
         "data": ["kalos"]
     },
     {
         "dex": "0669B",
-        "name": "",
+        "name": "Flabebe Blue",
         "data": ["kalos"]
     },
     {
         "dex": "0669Y",
-        "name": "",
+        "name": "Flabebe Yellow",
         "data": ["kalos"]
     },
     {
         "dex": "0669O",
-        "name": "",
+        "name": "Flabebe Orange",
         "data": ["kalos"]
     },
     {
         "dex": "0669W",
-        "name": "",
+        "name": "Flabebe White",
         "data": ["kalos"]
     },
     {
         "dex": "0670",
-        "name": "Floette",
+        "name": "Floette Red",
         "data": ["kalos"]
     },
     {
         "dex": "0670B",
-        "name": "",
+        "name": "Floette Blue",
         "data": ["kalos"]
     },
     {
         "dex": "0670Y",
-        "name": "",
+        "name": "Floette Yellow",
         "data": ["kalos"]
     },
     {
         "dex": "0670O",
-        "name": "",
+        "name": "Floette Orange",
         "data": ["kalos"]
     },
     {
         "dex": "0670W",
-        "name": "",
+        "name": "Floette White",
         "data": ["kalos"]
     },
     {
         "dex": "0670E",
-        "name": "",
+        "name": "Floette Eternal",
         "data": ["kalos"]
     },
     {
         "dex": "0671",
-        "name": "Florges",
+        "name": "Florges Red",
         "data": ["kalos"]
     },
     {
         "dex": "0671B",
-        "name": "",
+        "name": "Florges Blue",
         "data": ["kalos"]
     },
     {
         "dex": "0671Y",
-        "name": "",
+        "name": "Florges Yellow",
         "data": ["kalos"]
     },
     {
         "dex": "0671O",
-        "name": "",
+        "name": "Florges Orange",
         "data": ["kalos"]
     },
     {
         "dex": "0671W",
-        "name": "",
+        "name": "Florges White",
         "data": ["kalos"]
     },
     {
@@ -4271,42 +4272,42 @@
     },
     {
         "dex": "0676Da",
-        "name": "",
+        "name": "Furfrou Da",
         "data": ["kalos"]
     },
     {
         "dex": "0676De",
-        "name": "",
+        "name": "Furfrou De",
         "data": ["kalos"]
     },
     {
         "dex": "0676Di",
-        "name": "",
+        "name": "Furfrou Di",
         "data": ["kalos"]
     },
     {
         "dex": "0676He",
-        "name": "",
+        "name": "Furfrou He",
         "data": ["kalos"]
     },
     {
         "dex": "0676Ka",
-        "name": "",
+        "name": "Furfrou Ka",
         "data": ["kalos"]
     },
     {
         "dex": "0676La",
-        "name": "",
+        "name": "Furfrou La",
         "data": ["kalos"]
     },
     {
         "dex": "0676Ma",
-        "name": "",
+        "name": "Furfrou Ma",
         "data": ["kalos"]
     },
     {
         "dex": "0676Ph",
-        "name": "",
+        "name": "Furfrou Ph",
         "data": ["kalos"]
     },
     {
@@ -4531,17 +4532,17 @@
     },
     {
         "dex": "0718T",
-        "name": "",
+        "name": "Zygarde 10%",
         "data": ["kalos", "legendary"]
     },
     {
         "dex": "0718",
-        "name": "Zygarde",
+        "name": "Zygarde 50%",
         "data": ["kalos", "legendary"]
     },
     {
         "dex": "0718C",
-        "name": "",
+        "name": "Zygarde Complete",
         "data": ["kalos", "legendary"]
     },
     {
@@ -4556,12 +4557,12 @@
     },
     {
         "dex": "0720",
-        "name": "Hoopa",
+        "name": "Hoopa Confined",
         "data": ["kalos", "mirage"]
     },
     {
         "dex": "0720U",
-        "name": "",
+        "name": "Hoopa Unbound",
         "data": ["kalos", "mirage"]
     },
     {
@@ -4571,477 +4572,477 @@
     },
     {
         "dex": "0722",
-        "name": "",
+        "name": "Rowlet",
         "data": ["alola", "starter"]
     },
     {
         "dex": "0723",
-        "name": "",
+        "name": "Dartrix",
         "data": ["alola", "starter"]
     },
     {
         "dex": "0724",
-        "name": "",
+        "name": "Decidueye",
         "data": ["alola", "starter"]
     },
     {
         "dex": "0725",
-        "name": "",
+        "name": "Litten",
         "data": ["alola", "starter"]
     },
     {
         "dex": "0726",
-        "name": "",
+        "name": "Torracat",
         "data": ["alola", "starter"]
     },
     {
         "dex": "0727",
-        "name": "",
+        "name": "Incineroar",
         "data": ["alola", "starter"]
     },
     {
         "dex": "0728",
-        "name": "",
+        "name": "Popplio",
         "data": ["alola", "starter"]
     },
     {
         "dex": "0729",
-        "name": "",
+        "name": "Brionne",
         "data": ["alola", "starter"]
     },
     {
         "dex": "0730",
-        "name": "",
+        "name": "Primarina",
         "data": ["alola", "starter"]
     },
     {
         "dex": "0731",
-        "name": "",
+        "name": "Pikipek",
         "data": ["alola"]
     },
     {
         "dex": "0732",
-        "name": "",
+        "name": "Trumbeak",
         "data": ["alola"]
     },
     {
         "dex": "0733",
-        "name": "",
+        "name": "Toucannon",
         "data": ["alola"]
     },
     {
         "dex": "0734",
-        "name": "",
+        "name": "Yungoos",
         "data": ["alola"]
     },
     {
         "dex": "0735",
-        "name": "",
+        "name": "Gumshoos",
         "data": ["alola"]
     },
     {
         "dex": "0736",
-        "name": "",
+        "name": "Grubbin",
         "data": ["alola"]
     },
     {
         "dex": "0737",
-        "name": "",
+        "name": "Charjabug",
         "data": ["alola"]
     },
     {
         "dex": "0738",
-        "name": "",
+        "name": "Vikavolt",
         "data": ["alola"]
     },
     {
         "dex": "0739",
-        "name": "",
+        "name": "Crabrawler",
         "data": ["alola"]
     },
     {
         "dex": "0740",
-        "name": "",
+        "name": "Crabominable",
         "data": ["alola"]
     },
     {
         "dex": "0741",
-        "name": "",
+        "name": "Oricorio Baille",
         "data": ["alola"]
     },
     {
         "dex": "0741Po",
-        "name": "",
+        "name": "Oricorio PomPom",
         "data": ["alola"]
     },
     {
         "dex": "0741Pa",
-        "name": "",
+        "name": "Oricorio Pau",
         "data": ["alola"]
     },
     {
         "dex": "0741Se",
-        "name": "",
+        "name": "Oricorio Sensu",
         "data": ["alola"]
     },
     {
         "dex": "0742",
-        "name": "",
+        "name": "Cutiefly",
         "data": ["alola"]
     },
     {
         "dex": "0743",
-        "name": "",
+        "name": "Ribombee",
         "data": ["alola"]
     },
     {
         "dex": "0744",
-        "name": "",
+        "name": "Rockruff",
         "data": ["alola"]
     },
     {
         "dex": "0745",
-        "name": "",
+        "name": "Lycanroc Midday",
         "data": ["alola"]
     },
     {
         "dex": "0745Mn",
-        "name": "",
+        "name": "Lycanroc Midnight",
         "data": ["alola"]
     },
     {
         "dex": "0746",
-        "name": "",
+        "name": "Wishiwashi",
         "data": ["alola"]
     },
     {
         "dex": "0746Sc",
-        "name": "",
+        "name": "Wishiwashi School",
         "data": ["alola"]
     },
     {
         "dex": "0747",
-        "name": "",
+        "name": "Mareanie",
         "data": ["alola"]
     },
     {
         "dex": "0748",
-        "name": "",
+        "name": "Toxapex",
         "data": ["alola"]
     },
     {
         "dex": "0749",
-        "name": "",
+        "name": "Mudbray",
         "data": ["alola"]
     },
     {
         "dex": "0750",
-        "name": "",
+        "name": "Mudsdale",
         "data": ["alola"]
     },
     {
         "dex": "0751",
-        "name": "",
+        "name": "Dewpider",
         "data": ["alola"]
     },
     {
         "dex": "0752",
-        "name": "",
+        "name": "Araquanid",
         "data": ["alola"]
     },
     {
         "dex": "0753",
-        "name": "",
+        "name": "Fomantis",
         "data": ["alola"]
     },
     {
         "dex": "0754",
-        "name": "",
+        "name": "Lurantis",
         "data": ["alola"]
     },
     {
         "dex": "0755",
-        "name": "",
+        "name": "Morelull",
         "data": ["alola"]
     },
     {
         "dex": "0756",
-        "name": "",
+        "name": "Shiinotic",
         "data": ["alola"]
     },
     {
         "dex": "0757",
-        "name": "",
+        "name": "Salandit",
         "data": ["alola"]
     },
     {
         "dex": "0758",
-        "name": "",
+        "name": "Salazzle",
         "data": ["alola"]
     },
     {
         "dex": "0759",
-        "name": "",
+        "name": "Stufful",
         "data": ["alola"]
     },
     {
         "dex": "0760",
-        "name": "",
+        "name": "Bewear",
         "data": ["alola"]
     },
     {
         "dex": "0761",
-        "name": "",
+        "name": "Bounsweet",
         "data": ["alola"]
     },
     {
         "dex": "0762",
-        "name": "",
+        "name": "Steenee",
         "data": ["alola"]
     },
     {
         "dex": "0763",
-        "name": "",
+        "name": "Tsareena",
         "data": ["alola"]
     },
     {
         "dex": "0764",
-        "name": "",
+        "name": "Comfey",
         "data": ["alola"]
     },
     {
         "dex": "0765",
-        "name": "",
+        "name": "Oranguru",
         "data": ["alola"]
     },
     {
         "dex": "0766",
-        "name": "",
+        "name": "Passimian",
         "data": ["alola"]
     },
     {
         "dex": "0767",
-        "name": "",
+        "name": "Wimpod",
         "data": ["alola"]
     },
     {
         "dex": "0768",
-        "name": "",
+        "name": "Golisopod",
         "data": ["alola"]
     },
     {
         "dex": "0769",
-        "name": "",
+        "name": "Sandygast",
         "data": ["alola"]
     },
     {
         "dex": "0770",
-        "name": "",
+        "name": "Palossand",
         "data": ["alola"]
     },
     {
         "dex": "0771",
-        "name": "",
+        "name": "Pyukumuku",
         "data": ["alola"]
     },
     {
         "dex": "0772",
-        "name": "",
+        "name": "Type: Null",
         "data": ["alola"]
     },
     {
         "dex": "0773",
-        "name": "",
+        "name": "Silvally",
         "data": ["alola"]
     },
     {
         "dex": "0774",
-        "name": "",
+        "name": "Minior Shield",
         "data": ["alola"]
     },
     {
         "dex": "0774R",
-        "name": "",
+        "name": "Minior Red",
         "data": ["alola"]
     },
     {
         "dex": "0774O",
-        "name": "",
+        "name": "Minior Orange",
         "data": ["alola"]
     },
     {
         "dex": "0774Y",
-        "name": "",
+        "name": "Minior Yellow",
         "data": ["alola"]
     },
     {
         "dex": "0774G",
-        "name": "",
+        "name": "Minior Green",
         "data": ["alola"]
     },
     {
         "dex": "0774B",
-        "name": "",
+        "name": "Minior Blue",
         "data": ["alola"]
     },
     {
         "dex": "0774I",
-        "name": "",
+        "name": "Minior Indigo",
         "data": ["alola"]
     },
     {
         "dex": "0774V",
-        "name": "",
+        "name": "Minior Violet",
         "data": ["alola"]
     },
     {
         "dex": "0775",
-        "name": "",
+        "name": "Komala",
         "data": ["alola"]
     },
     {
         "dex": "0776",
-        "name": "",
+        "name": "Turtonator",
         "data": ["alola"]
     },
     {
         "dex": "0777",
-        "name": "",
+        "name": "Togedemaru",
         "data": ["alola"]
     },
     {
         "dex": "0778",
-        "name": "",
+        "name": "Mimikyu",
         "data": ["alola"]
     },
     {
         "dex": "0779",
-        "name": "",
+        "name": "Bruxish",
         "data": ["alola"]
     },
     {
         "dex": "0780",
-        "name": "",
+        "name": "Drampa",
         "data": ["alola"]
     },
     {
         "dex": "0781",
-        "name": "",
+        "name": "Dhelmise",
         "data": ["alola"]
     },
     {
         "dex": "0782",
-        "name": "",
+        "name": "Jangmo-o",
         "data": ["alola", "bs600"]
     },
     {
         "dex": "0783",
-        "name": "",
+        "name": "Hakamo-o",
         "data": ["alola", "bs600"]
     },
     {
         "dex": "0784",
-        "name": "",
+        "name": "Kommo-o",
         "data": ["alola", "bs600"]
     },
     {
         "dex": "0785",
-        "name": "",
+        "name": "Tapu Koko",
         "data": ["alola", "trio"]
     },
     {
         "dex": "0786",
-        "name": "",
+        "name": "Tapu Bulu",
         "data": ["alola", "trio"]
     },
     {
         "dex": "0787",
-        "name": "",
+        "name": "Tapu Lele",
         "data": ["alola", "trio"]
     },
     {
         "dex": "0788",
-        "name": "",
+        "name": "Tapu Fini",
         "data": ["alola", "trio"]
     },
     {
         "dex": "0789",
-        "name": "",
+        "name": "Cosmog",
         "data": ["alola"]
     },
     {
         "dex": "0790",
-        "name": "",
+        "name": "Cosmoem",
         "data": ["alola"]
     },
     {
         "dex": "0791",
-        "name": "",
+        "name": "Solgaleo",
         "data": ["alola", "legendary"]
     },
     {
         "dex": "0792",
-        "name": "",
+        "name": "Lunala",
         "data": ["alola", "legendary"]
     },
     {
         "dex": "0793",
-        "name": "",
+        "name": "Nihilego",
         "data": ["alola", "UB"]
     },
     {
         "dex": "0794",
-        "name": "",
+        "name": "Buzzwole",
         "data": ["alola", "UB"]
     },
     {
         "dex": "0795",
-        "name": "",
+        "name": "Pheromosa",
         "data": ["alola", "UB"]
     },
     {
         "dex": "0796",
-        "name": "",
+        "name": "Xurkitree",
         "data": ["alola", "UB"]
     },
     {
         "dex": "0797",
-        "name": "",
+        "name": "Celesteela",
         "data": ["alola", "UB"]
     },
     {
         "dex": "0798",
-        "name": "",
+        "name": "Kartana",
         "data": ["alola", "UB"]
     },
     {
         "dex": "0799",
-        "name": "",
+        "name": "Guzzlord",
         "data": ["alola", "UB"]
     },
     {
         "dex": "0800",
-        "name": "",
+        "name": "Necrozma",
         "data": ["alola", "legendary"]
     },
     {
         "dex": "0801",
-        "name": "",
+        "name": "Magearna",
         "data": ["alola", "mirage"]
     },
     {
         "dex": "0801O",
-        "name": "",
+        "name": "Magearna Original",
         "data": ["alola", "mirage"]
     },
     {
         "dex": "0802",
-        "name": "",
+        "name": "Marshadow",
         "data": ["alola"]
     },
     {
         "dex": "Egg",
-        "name": "",
+        "name": "Egg",
         "data": [""]
     }
 ]

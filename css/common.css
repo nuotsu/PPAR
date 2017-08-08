@@ -1,6 +1,6 @@
 /* Fonts */
-	@import url(https://fonts.googleapis.com/css?family=Quicksand);
-	@import url(https://fonts.googleapis.com/earlyaccess/roundedmplus1c.css);
+	@import url('https://fonts.googleapis.com/css?family=Quicksand');
+	@import url('https://fonts.googleapis.com/earlyaccess/roundedmplus1c.css');
 
 /* Common */
 	* {
@@ -18,41 +18,6 @@
 		font-size: 16px;
 	}
 	a { color: #fff; }
-
-/* Menu */
-	.menu {
-		position: fixed;
-		left: 10px;
-		top: 0;
-		z-index: 9999;
-	}
-	.menu .dragger {
-		cursor: pointer;
-		display: block;
-		width: 40px;
-		height: 40px;
-		font-size: 25px;
-		background: rgba(0,0,0,0.8);
-		color: #fff;
-		border-radius: 0 0 5px 5px;
-	}
-	.menu .open:before { content: '≡'; }
-	.menu .close:before { content: '×'; }
-	.menu .contents {
-		display: none;
-		position: relative;
-		background: rgba(0,0,0,0.8);
-		color: #fff;
-		text-align: left;
-		border-radius: 0 0 5px 0;
-	}
-	.menu .contents p { padding: 5px 10px; }
-	.menu .contents p a {
-		display: block;
-		text-decoration: none;
-		color: #fff;
-	}
-	.menu .contents p a:hover { opacity: 0.5; }
 
 /* Language */
 	.language {

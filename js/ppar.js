@@ -5,14 +5,15 @@ $(function() {
 				$('.wallpaper').append(
 					'<img src="../images/ppa/' + ppaJSON[i].dex + '_PPA.png" ' +
 					'data-collection="' + ppaJSON[i].data.join(' ') + '" ' +
-					'title="Dex: ' + ppaJSON[i].dex +'"' + '">\n'
+					'title="' + ppaJSON[i].name +'|' + ppaJSON[i].dex + '">\n'
 				);
             }
+			$('#PPAlen span').html( $('.wallpaper img').length );
 		});
 
 	// Dimensions
 		$('.dimensions input').change(function() {
-			$('.wallpaper').css({
+			$('.wallpaper, .wallpaper-container').css({
 				'width': $('.dimensions #width').val(),
 				'height': $('.dimensions #height').val()
 			});
@@ -63,6 +64,9 @@ $(function() {
 					'z-index': Math.floor(Math.random() * $('.wallpaper img').length),
 					'transform': 'scaleX(' + direction[Math.floor(Math.random() * 2)] + ')'
 				});
+			});
+			$('#PPAlen').css({
+				'z-index': $('.wallpaper img').length
 			});
 		});
 	// Organize
@@ -131,6 +135,7 @@ $(function() {
 					'display': 'inline'
 				});
 			}
+			$('#PPAlen span').html( $('.wallpaper img[style*="display: inline;"]').length );
 		});
 	// Locate
 		// Hide Rest Initial
