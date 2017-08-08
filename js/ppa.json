@@ -16,7 +16,7 @@
     },
     {
         "dex": "0003M",
-        "nameENG": "Mega Venusaur",
+        "nameENG": "Venusaur",
         "data": ["kanto", "mega", "starter"]
     },
     {
@@ -36,17 +36,17 @@
     },
     {
         "dex": "0006MX",
-        "nameENG": "Mega Charizard X",
+        "nameENG": "Charizard",
         "data": ["kanto", "mega", "starter"]
     },
     {
         "dex": "0006MY",
-        "nameENG": "Mega Charizard Y",
+        "nameENG": "Charizard",
         "data": ["kanto", "mega", "starter"]
     },
     {
         "dex": "0007",
-        "nameENG": "",
+        "nameENG": "Squirtle",
         "data": ["kanto", "starter"]
     },
     {
@@ -61,7 +61,7 @@
     },
     {
         "dex": "0009M",
-        "nameENG": "Mega ",
+        "nameENG": "",
         "data": ["kanto", "mega", "starter"]
     },
     {
@@ -111,7 +111,7 @@
     },
     {
         "dex": "0018M",
-        "nameENG": "Mega ",
+        "nameENG": "",
         "data": ["kanto", "mega"]
     },
     {
@@ -466,7 +466,7 @@
     },
     {
         "dex": "0065M",
-        "nameENG": "Mega ",
+        "nameENG": "",
         "data": ["kanto", "mega"]
     },
     {
@@ -561,7 +561,7 @@
     },
     {
         "dex": "0080M",
-        "nameENG": "Mega ",
+        "nameENG": "",
         "data": ["kanto", "mega"]
     },
     {
@@ -646,7 +646,7 @@
     },
     {
         "dex": "0094M",
-        "nameENG": "Mega ",
+        "nameENG": "",
         "data": ["kanto", "mega"]
     },
     {
@@ -826,7 +826,7 @@
     },
     {
         "dex": "0127M",
-        "nameENG": "Mega ",
+        "nameENG": "",
         "data": ["kanto", "mega"]
     },
     {
@@ -856,7 +856,7 @@
     },
     {
         "dex": "0130M",
-        "nameENG": "Mega ",
+        "nameENG": "",
         "data": ["kanto", "mega"]
     },
     {
@@ -921,7 +921,7 @@
     },
     {
         "dex": "0142M",
-        "nameENG": "Mega ",
+        "nameENG": "",
         "data": ["kanto", "mega"]
     },
     {
@@ -966,12 +966,12 @@
     },
     {
         "dex": "0150MX",
-        "nameENG": "Mega ",
+        "nameENG": "",
         "data": ["kanto", "mega"]
     },
     {
         "dex": "0150MY",
-        "nameENG": "Mega ",
+        "nameENG": "",
         "data": ["kanto", "mega"]
     },
     {
@@ -1131,7 +1131,7 @@
     },
     {
         "dex": "0181M",
-        "nameENG": "Mega ",
+        "nameENG": "",
         "data": ["johto", "mega"]
     },
     {
@@ -1406,7 +1406,7 @@
     },
     {
         "dex": "0208M",
-        "nameENG": "Mega ",
+        "nameENG": "",
         "data": ["johto", "mega"]
     },
     {
@@ -1431,7 +1431,7 @@
     },
     {
         "dex": "0212M",
-        "nameENG": "Mega ",
+        "nameENG": "",
         "data": ["johto", "mega"]
     },
     {
@@ -1446,7 +1446,7 @@
     },
     {
         "dex": "0214M",
-        "nameENG": "Mega ",
+        "nameENG": "",
         "data": ["johto", "mega"]
     },
     {
@@ -1526,7 +1526,7 @@
     },
     {
         "dex": "0229M",
-        "nameENG": "Mega ",
+        "nameENG": "",
         "data": ["johto", "mega"]
     },
     {
@@ -1626,7 +1626,7 @@
     },
     {
         "dex": "0248M",
-        "nameENG": "Mega ",
+        "nameENG": "",
         "data": ["johto", "mega"]
     },
     {
@@ -1661,7 +1661,7 @@
     },
     {
         "dex": "0254M",
-        "nameENG": "Mega ",
+        "nameENG": "",
         "data": ["hoenn", "mega", "starter"]
     },
     {
@@ -1681,7 +1681,7 @@
     },
     {
         "dex": "0257M",
-        "nameENG": "Mega ",
+        "nameENG": "",
         "data": ["hoenn", "mega", "starter"]
     },
     {
@@ -1701,7 +1701,7 @@
     },
     {
         "dex": "0260M",
-        "nameENG": "Mega ",
+        "nameENG": "",
         "data": ["hoenn", "mega", "starter"]
     },
     {
@@ -1816,7 +1816,7 @@
     },
     {
         "dex": "0282M",
-        "nameENG": "Mega ",
+        "nameENG": "",
         "data": ["hoenn", "mega"]
     },
     {
@@ -1921,7 +1921,7 @@
     },
     {
         "dex": "0302M",
-        "nameENG": "Mega ",
+        "nameENG": "",
         "data": ["hoenn", "mega"]
     },
     {
@@ -1931,7 +1931,7 @@
     },
     {
         "dex": "0303M",
-        "nameENG": "Mega ",
+        "nameENG": "",
         "data": ["hoenn", "mega"]
     },
     {
@@ -1951,7 +1951,7 @@
     },
     {
         "dex": "0306M",
-        "nameENG": "Mega ",
+        "nameENG": "",
         "data": ["hoenn", "mega"]
     },
     {
@@ -1966,7 +1966,7 @@
     },
     {
         "dex": "0308M",
-        "nameENG": "Mega ",
+        "nameENG": "",
         "data": ["hoenn", "mega"]
     },
     {
@@ -1981,7 +1981,7 @@
     },
     {
         "dex": "0310M",
-        "nameENG": "Mega ",
+        "nameENG": "",
         "data": ["hoenn", "mega"]
     },
     {
@@ -2031,7 +2031,7 @@
     },
     {
         "dex": "0319M",
-        "nameENG": "Mega ",
+        "nameENG": "",
         "data": ["hoenn", "mega"]
     },
     {
@@ -2056,7 +2056,7 @@
     },
     {
         "dex": "0323M",
-        "nameENG": "Mega ",
+        "nameENG": "",
         "data": ["hoenn", "mega"]
     },
     {
@@ -2116,7 +2116,7 @@
     },
     {
         "dex": "0334M",
-        "nameENG": "Mega ",
+        "nameENG": "",
         "data": ["hoenn", "mega"]
     },
     {
@@ -2236,7 +2236,7 @@
     },
     {
         "dex": "0354M",
-        "nameENG": "Mega ",
+        "nameENG": "",
         "data": ["hoenn", "mega"]
     },
     {
@@ -2281,7 +2281,7 @@
     },
     {
         "dex": "0362M",
-        "nameENG": "Mega ",
+        "nameENG": "",
         "data": ["hoenn", "mega"]
     },
     {
@@ -2341,7 +2341,7 @@
     },
     {
         "dex": "0373M",
-        "nameENG": "Mega ",
+        "nameENG": "",
         "data": ["hoenn", "mega", "bs600"]
     },
     {
@@ -2361,7 +2361,7 @@
     },
     {
         "dex": "0376M",
-        "nameENG": "Mega ",
+        "nameENG": "",
         "data": ["hoenn", "mega", "bs600"]
     },
     {
@@ -2386,7 +2386,7 @@
     },
     {
         "dex": "0380M",
-        "nameENG": "Mega ",
+        "nameENG": "",
         "data": ["hoenn", "mega"]
     },
     {
@@ -2396,7 +2396,7 @@
     },
     {
         "dex": "0381M",
-        "nameENG": "Mega ",
+        "nameENG": "",
         "data": ["hoenn", "mega"]
     },
     {
@@ -2426,7 +2426,7 @@
     },
     {
         "dex": "0384M",
-        "nameENG": "Mega ",
+        "nameENG": "",
         "data": ["hoenn", "mega"]
     },
     {
@@ -2696,7 +2696,7 @@
     },
     {
         "dex": "0428M",
-        "nameENG": "Mega ",
+        "nameENG": "",
         "data": ["sinnoh", "mega"]
     },
     {
@@ -2786,7 +2786,7 @@
     },
     {
         "dex": "0445M",
-        "nameENG": "Mega ",
+        "nameENG": "",
         "data": ["sinnoh", "mega", "bs600"]
     },
     {
@@ -2806,7 +2806,7 @@
     },
     {
         "dex": "0448M",
-        "nameENG": "Mega ",
+        "nameENG": "",
         "data": ["sinnoh", "mega"]
     },
     {
@@ -2871,7 +2871,7 @@
     },
     {
         "dex": "0460M",
-        "nameENG": "Mega ",
+        "nameENG": "",
         "data": ["sinnoh", "mega"]
     },
     {
@@ -2951,7 +2951,7 @@
     },
     {
         "dex": "0475M",
-        "nameENG": "Mega ",
+        "nameENG": "",
         "data": ["sinnoh", "mega"]
     },
     {
@@ -3276,7 +3276,7 @@
     },
     {
         "dex": "0531M",
-        "nameENG": "Mega ",
+        "nameENG": "",
         "data": ["unova mega"]
     },
     {
@@ -4531,7 +4531,7 @@
     },
     {
         "dex": "0719M",
-        "nameENG": "Mega ",
+        "nameENG": "",
         "data": ["kalos", "mega", "mirage"]
     },
     {
