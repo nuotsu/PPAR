@@ -1,10 +1,11 @@
 $(function() {
 	// load ppaJSON
-		$.getJSON('../js/ppa.json', function(ppaJSON) {
+		$.getJSON('https://nuotsu.github.io/PPAR/js/ppa.json', function(ppaJSON) {
             for (var i in ppaJSON) {
 				$('.wallpaper').append(
 					'<img src="../images/ppa/' + ppaJSON[i].dex + '_PPA.png" ' +
-					'data-collection="' + ppaJSON[i].data.join(' ') + '">\n'
+					'data-collection="' + ppaJSON[i].data.join(' ') + '" ' +
+					'title="Dex: ' + ppaJSON[i].dex +'"' + '">\n'
 				);
             }
 		});
