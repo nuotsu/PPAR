@@ -11,6 +11,6 @@ $(function() {
 		);
 
 	// Copyright
-		today = new Date()
-		$('#cprt_year').html(today.getFullYear())
+		today = new Date();
+		$('#cprt_year').html(today.getFullYear());
 })
