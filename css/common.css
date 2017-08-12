@@ -62,6 +62,7 @@
 		font-size: 12px;
 		color: #546E7A;
 	}
+	.howto-info span { font-family: monospace; }
 	.howto .key_legend {
 		display: inline-block;
 		text-align: left;

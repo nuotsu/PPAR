@@ -95,7 +95,8 @@
 	#organize,
 	#locate,
 	#showAll,
-	#save{
+	#save,
+	#collection {
 		cursor: pointer;
 		display: inline-block;
 		margin: 5px;
@@ -112,10 +113,8 @@
 	#organize:hover,
 	#locate:hover,
 	#showAll:hover,
-	#save:hover { box-shadow: 0 2px 15px 0 rgba(0,0,0,0.3); }
-	#collection {
-		background: none;
-	}
+	#save:hover,
+	#collection:hover { box-shadow: 0 2px 10px 0 rgba(0,0,0,0.2); }
 
 	.hideRest {
 		cursor: pointer;
@@ -128,11 +127,19 @@
 		#organize { background: #D50000; }
 		#locate {
 			background: #FFD600;
-			color: #000;}
+			color: #000;
+			}
 		#showAll { background: #00C853; }
 		#save {
 			background: #CFD8DC;
-			color: #000;}
+			color: #000;
+			}
+		#collection {
+			background: #FFD600;
+			color: #000;
+			text-align: center;
+			-webkit-appearance:none;
+			}
 
 @supports
     (-webkit-backdrop-filter: var(--ppar-blur)) or
