@@ -1,5048 +1,6056 @@
 [
     {
         "dex": "0001",
-        "name": "Bulbasaur",
+        "nameJPN": "フシギダネ",
+        "nameENG": "Bulbasaur",
         "data": ["kanto", "starter"]
     },
     {
         "dex": "0002",
-        "name": "Ivysaur",
+        "nameJPN": "フシギソウ",
+        "nameENG": "Ivysaur",
         "data": ["kanto", "starter"]
     },
     {
         "dex": "0003",
-        "name": "Venusaur",
+        "nameJPN": "フシギバナ",
+        "nameENG": "Venusaur",
         "data": ["kanto", "starter"]
     },
     {
         "dex": "0003M",
-        "name": "Mega Venusaur",
+        "nameJPN": "メガフシギバナ",
+        "nameENG": "Mega Venusaur",
         "data": ["kanto", "mega", "starter"]
     },
     {
         "dex": "0004",
-        "name": "Charmander",
+        "nameJPN": "ヒトカゲ",
+        "nameENG": "Charmander",
         "data": ["kanto", "starter"]
     },
     {
         "dex": "0005",
-        "name": "Charmeleon",
+        "nameJPN": "リザード",
+        "nameENG": "Charmeleon",
         "data": ["kanto", "starter"]
     },
     {
         "dex": "0006",
-        "name": "Charizard",
+        "nameJPN": "リザードン",
+        "nameENG": "Charizard",
         "data": ["kanto", "starter"]
     },
     {
         "dex": "0006MX",
-        "name": "Mega Charizard X",
+        "nameJPN": "メガリザードンX",
+        "nameENG": "Mega Charizard X",
         "data": ["kanto", "mega", "starter"]
     },
     {
         "dex": "0006MY",
-        "name": "Mega Charizard Y",
+        "nameJPN": "メガリザードンY",
+        "nameENG": "Mega Charizard Y",
         "data": ["kanto", "mega", "starter"]
     },
     {
         "dex": "0007",
-        "name": "Squirtle",
+        "nameJPN": "ゼニガメ",
+        "nameENG": "Squirtle",
         "data": ["kanto", "starter"]
     },
     {
         "dex": "0008",
-        "name": "Wartortle",
+        "nameJPN": "カメール",
+        "nameENG": "Wartortle",
         "data": ["kanto", "starter"]
     },
     {
         "dex": "0009",
-        "name": "Blastoise",
+        "nameJPN": "カメックス",
+        "nameENG": "Blastoise",
         "data": ["kanto", "starter"]
     },
     {
         "dex": "0009M",
-        "name": "Mega Blastoise",
+        "nameJPN": "メガカメックス",
+        "nameENG": "Mega Blastoise",
         "data": ["kanto", "mega", "starter"]
     },
     {
         "dex": "0010",
-        "name": "Caterpie",
+        "nameJPN": "キャタピー",
+        "nameENG": "Caterpie",
         "data": ["kanto"]
     },
     {
         "dex": "0011",
-        "name": "Metapod",
+        "nameJPN": "トランセル",
+        "nameENG": "Metapod",
         "data": ["kanto"]
     },
     {
         "dex": "0012",
-        "name": "Butterfree",
+        "nameJPN": "バタフリー",
+        "nameENG": "Butterfree",
         "data": ["kanto"]
     },
     {
         "dex": "0013",
-        "name": "Weedle",
+        "nameJPN": "ビードル",
+        "nameENG": "Weedle",
         "data": ["kanto"]
     },
     {
         "dex": "0014",
-        "name": "Kakuna",
+        "nameJPN": "コクーン",
+        "nameENG": "Kakuna",
         "data": ["kanto"]
     },
     {
         "dex": "0015",
-        "name": "Beedrill",
+        "nameJPN": "スピアー",
+        "nameENG": "Beedrill",
         "data": ["kanto"]
     },
     {
         "dex": "0015M",
-        "name": "Mega Beedrill",
+        "nameJPN": "メガスピアー",
+        "nameENG": "Mega Beedrill",
         "data": ["kanto", "mega"]
     },
     {
         "dex": "0016",
-        "name": "Pidgey",
+        "nameJPN": "ポッポ",
+        "nameENG": "Pidgey",
         "data": ["kanto"]
     },
     {
         "dex": "0017",
-        "name": "Pidgeotto",
+        "nameJPN": "ピジョン",
+        "nameENG": "Pidgeotto",
         "data": ["kanto"]
     },
     {
         "dex": "0018",
-        "name": "Pidgeot",
+        "nameJPN": "ピジョット",
+        "nameENG": "Pidgeot",
         "data": ["kanto"]
     },
     {
         "dex": "0018M",
-        "name": "Mega Pidgeot",
+        "nameJPN": "メガピジョット",
+        "nameENG": "Mega Pidgeot",
         "data": ["kanto", "mega"]
     },
     {
         "dex": "0019",
-        "name": "Rattata",
+        "nameJPN": "コラッタ",
+        "nameENG": "Rattata",
         "data": ["kanto"]
     },
     {
         "dex": "0019A",
-        "name": "Alolan Rattata",
+        "nameJPN": "アローラ コラッタ",
+        "nameENG": "Alolan Rattata",
         "data": ["kanto", "rf"]
     },
     {
         "dex": "0020",
-        "name": "Raticate",
+        "nameJPN": "ラッタ",
+        "nameENG": "Raticate",
         "data": ["kanto"]
     },
     {
         "dex": "0020A",
-        "name": "Alolan Raticate",
+        "nameJPN": "アローラ ラッタ",
+        "nameENG": "Alolan Raticate",
         "data": ["kanto", "rf"]
     },
     {
         "dex": "0021",
-        "name": "Spearow",
+        "nameJPN": "オニスズメ",
+        "nameENG": "Spearow",
         "data": ["kanto"]
     },
     {
         "dex": "0022",
-        "name": "Fearow",
+        "nameJPN": "オニドリル",
+        "nameENG": "Fearow",
         "data": ["kanto"]
     },
     {
         "dex": "0023",
-        "name": "Ekans",
+        "nameJPN": "アーボ",
+        "nameENG": "Ekans",
         "data": ["kanto"]
     },
     {
         "dex": "0024",
-        "name": "Arbok",
+        "nameJPN": "アーボック",
+        "nameENG": "Arbok",
         "data": ["kanto"]
     },
     {
         "dex": "0025",
-        "dex": "0025",
-        "name": "Pikachu",
+        "nameJPN": "ピカチュウ",
+        "nameENG": "Pikachu",
         "data": ["kanto"]
     },
     {
         "dex": "0025Co",
-        "name": "",
+        "nameJPN": "",
+        "nameENG": "",
         "data": ["kanto"]
     },
     {
         "dex": "0025Ro",
-        "name": "",
+        "nameJPN": "",
+        "nameENG": "",
         "data": ["kanto"]
     },
     {
         "dex": "0025Po",
-        "name": "",
+        "nameJPN": "",
+        "nameENG": "",
         "data": ["kanto"]
     },
     {
         "dex": "0025Be",
-        "name": "",
+        "nameJPN": "",
+        "nameENG": "",
         "data": ["kanto"]
     },
     {
         "dex": "0025Ph",
-        "name": "",
+        "nameJPN": "",
+        "nameENG": "",
         "data": ["kanto"]
     },
     {
         "dex": "0025Li",
-        "name": "",
+        "nameJPN": "",
+        "nameENG": "",
         "data": ["kanto"]
     },
     {
         "dex": "0025O",
-        "name": "Pikachu Original",
+        "nameJPN": "",
+        "nameENG": "Pikachu Original",
         "data": ["kanto"]
     },
     {
         "dex": "0025H",
-        "name": "Pikachu Hoenn",
+        "nameJPN": "",
+        "nameENG": "Pikachu Hoenn",
         "data": ["kanto"]
     },
     {
         "dex": "0025S",
-        "name": "Pikachu Sinnoh",
+        "nameJPN": "",
+        "nameENG": "Pikachu Sinnoh",
         "data": ["kanto"]
     },
     {
         "dex": "0025U",
-        "name": "Pikachu Unova",
+        "nameJPN": "",
+        "nameENG": "Pikachu Unova",
         "data": ["kanto"]
     },
     {
         "dex": "0025K",
-        "name": "Pikachu Kalos",
+        "nameJPN": "",
+        "nameENG": "Pikachu Kalos",
         "data": ["kanto"]
     },
     {
         "dex": "0025A",
-        "name": "Pikachu Alola",
+        "nameJPN": "",
+        "nameENG": "Pikachu Alola",
         "data": ["kanto"]
     },
     {
         "dex": "0026",
-        "name": "Raichu",
+        "nameJPN": "ライチュウ",
+        "nameENG": "Raichu",
         "data": ["kanto"]
     },
     {
         "dex": "0026A",
-        "name": "Alolan Raichu",
+        "nameJPN": "アローラ ライチュウ",
+        "nameENG": "Alolan Raichu",
         "data": ["kanto", "rf"]
     },
     {
         "dex": "0027",
-        "name": "Sandshrew",
+        "nameJPN": "サンド",
+        "nameENG": "Sandshrew",
         "data": ["kanto"]
     },
     {
         "dex": "0027A",
-        "name": "Alolan Sandshrew",
+        "nameJPN": "アローラ サンド",
+        "nameENG": "Alolan Sandshrew",
         "data": ["kanto", "rf"]
     },
     {
         "dex": "0028",
-        "name": "Sandslash",
+        "nameJPN": "サンドパン",
+        "nameENG": "Sandslash",
         "data": ["kanto"]
     },
     {
         "dex": "0028A",
-        "name": "Alolan Sandslash",
+        "nameJPN": "アローラ サンドパン",
+        "nameENG": "Alolan Sandslash",
         "data": ["kanto", "rf"]
     },
     {
         "dex": "0029",
-        "name": "Nidoran F",
+        "nameJPN": "ニドラン♀",
+        "nameENG": "Nidoran F",
         "data": ["kanto"]
     },
     {
         "dex": "0030",
-        "name": "Nidorina",
+        "nameJPN": "ニドリーナ",
+        "nameENG": "Nidorina",
         "data": ["kanto"]
     },
     {
         "dex": "0031",
-        "name": "Nidoqueen",
+        "nameJPN": "ニドクイン",
+        "nameENG": "Nidoqueen",
         "data": ["kanto"]
     },
     {
         "dex": "0032",
-        "name": "Nidoran M",
+        "nameJPN": "ニドラン♂",
+        "nameENG": "Nidoran M",
         "data": ["kanto"]
     },
     {
         "dex": "0033",
-        "name": "Nidorino",
+        "nameJPN": "ニドリーノ",
+        "nameENG": "Nidorino",
         "data": ["kanto"]
     },
     {
         "dex": "0034",
-        "name": "Nidoking",
+        "nameJPN": "ニドキング",
+        "nameENG": "Nidoking",
         "data": ["kanto"]
     },
     {
         "dex": "0035",
-        "name": "Clefairy",
+        "nameJPN": "ピッピ",
+        "nameENG": "Clefairy",
         "data": ["kanto"]
     },
     {
         "dex": "0036",
-        "name": "Clefable",
+        "nameJPN": "ピクシー",
+        "nameENG": "Clefable",
         "data": ["kanto"]
     },
     {
         "dex": "0037",
-        "name": "Vulpix",
+        "nameJPN": "ロコン",
+        "nameENG": "Vulpix",
         "data": ["kanto"]
     },
     {
         "dex": "0037A",
-        "name": "Alolan Vulpix",
+        "nameJPN": "アローラ ロコン",
+        "nameENG": "Alolan Vulpix",
         "data": ["kanto", "rf"]
     },
     {
         "dex": "0038",
-        "name": "Ninetales",
+        "nameJPN": "キュウコン",
+        "nameENG": "Ninetales",
         "data": ["kanto"]
     },
     {
         "dex": "0038A",
-        "name": "Alolan Ninetales",
+        "nameJPN": "アローラ キュウコン",
+        "nameENG": "Alolan Ninetales",
         "data": ["kanto", "rf"]
     },
     {
         "dex": "0039",
-        "name": "Jigglypuff",
+        "nameJPN": "プリン",
+        "nameENG": "Jigglypuff",
         "data": ["kanto"]
     },
     {
         "dex": "0040",
-        "name": "Wigglytuff",
+        "nameJPN": "プクリン",
+        "nameENG": "Wigglytuff",
         "data": ["kanto"]
     },
     {
         "dex": "0041",
-        "name": "Zubat",
+        "nameJPN": "ズバット",
+        "nameENG": "Zubat",
         "data": ["kanto"]
     },
     {
         "dex": "0042",
-        "name": "Golbat",
+        "nameJPN": "ゴルバット",
+        "nameENG": "Golbat",
         "data": ["kanto"]
     },
     {
         "dex": "0043",
-        "name": "Oddish",
+        "nameJPN": "ナゾノクサ",
+        "nameENG": "Oddish",
         "data": ["kanto"]
     },
     {
         "dex": "0044",
-        "name": "Gloom",
+        "nameJPN": "クサイハナ",
+        "nameENG": "Gloom",
         "data": ["kanto"]
     },
     {
         "dex": "0045",
-        "name": "Vileplume",
+        "nameJPN": "ラフレシア",
+        "nameENG": "Vileplume",
         "data": ["kanto"]
     },
     {
         "dex": "0046",
-        "name": "Paras",
+        "nameJPN": "パラス",
+        "nameENG": "Paras",
         "data": ["kanto"]
     },
     {
         "dex": "0047",
-        "name": "Parasect",
+        "nameJPN": "パラセクト",
+        "nameENG": "Parasect",
         "data": ["kanto"]
     },
     {
         "dex": "0048",
-        "name": "Venonat",
+        "nameJPN": "コンパン",
+        "nameENG": "Venonat",
         "data": ["kanto"]
     },
     {
         "dex": "0049",
-        "name": "Venomoth",
+        "nameJPN": "モルフォン",
+        "nameENG": "Venomoth",
         "data": ["kanto"]
     },
     {
         "dex": "0050",
-        "name": "Diglett",
+        "nameJPN": "ディグダ",
+        "nameENG": "Diglett",
         "data": ["kanto"]
     },
     {
         "dex": "0050A",
-        "name": "Alolan Diglett",
+        "nameJPN": "アローラ ディグダ",
+        "nameENG": "Alolan Diglett",
         "data": ["kanto", "rf"]
     },
     {
         "dex": "0051",
-        "name": "Dugtrio",
+        "nameJPN": "ダグトリオ",
+        "nameENG": "Dugtrio",
         "data": ["kanto"]
     },
     {
         "dex": "0051A",
-        "name": "Alolan Dugtrio",
+        "nameJPN": "アローラ ダグトリオ",
+        "nameENG": "Alolan Dugtrio",
         "data": ["kanto", "rf"]
     },
     {
         "dex": "0052",
-        "name": "Meowth",
+        "nameJPN": "ニャース",
+        "nameENG": "Meowth",
         "data": ["kanto"]
     },
     {
         "dex": "0052A",
-        "name": "Alolan Meowth",
+        "nameJPN": "アローラ ニャース",
+        "nameENG": "Alolan Meowth",
         "data": ["kanto", "rf"]
     },
     {
         "dex": "0053",
-        "name": "Persian",
+        "nameJPN": "ペルシアン",
+        "nameENG": "Persian",
         "data": ["kanto"]
     },
     {
         "dex": "0053A",
-        "name": "Alolan Persian",
+        "nameJPN": "アローラ ペルシアン",
+        "nameENG": "Alolan Persian",
         "data": ["kanto", "rf"]
     },
     {
         "dex": "0054",
-        "name": "Psyduck",
+        "nameJPN": "コダック",
+        "nameENG": "Psyduck",
         "data": ["kanto"]
     },
     {
         "dex": "0055",
-        "name": "Golduck",
+        "nameJPN": "ゴルダック",
+        "nameENG": "Golduck",
         "data": ["kanto"]
     },
     {
         "dex": "0056",
-        "name": "Mankey",
+        "nameJPN": "マンキー",
+        "nameENG": "Mankey",
         "data": ["kanto"]
     },
     {
         "dex": "0057",
-        "name": "Primeape",
+        "nameJPN": "オコリザル",
+        "nameENG": "Primeape",
         "data": ["kanto"]
     },
     {
         "dex": "0058",
-        "name": "Growlithe",
+        "nameJPN": "ガーディ",
+        "nameENG": "Growlithe",
         "data": ["kanto"]
     },
     {
         "dex": "0059",
-        "name": "Arcanine",
+        "nameJPN": "ウインディ",
+        "nameENG": "Arcanine",
         "data": ["kanto"]
     },
     {
         "dex": "0060",
-        "name": "Poliwag",
+        "nameJPN": "ニョロモ",
+        "nameENG": "Poliwag",
         "data": ["kanto"]
     },
     {
         "dex": "0061",
-        "name": "Poliwhirl",
+        "nameJPN": "ニョロゾ",
+        "nameENG": "Poliwhirl",
         "data": ["kanto"]
     },
     {
         "dex": "0062",
-        "name": "Poliwrath",
+        "nameJPN": "ニョロボン",
+        "nameENG": "Poliwrath",
         "data": ["kanto"]
     },
     {
         "dex": "0063",
-        "name": "Abra",
+        "nameJPN": "ケーシィ",
+        "nameENG": "Abra",
         "data": ["kanto"]
     },
     {
         "dex": "0064",
-        "name": "Kadabra",
+        "nameJPN": "ユンゲラー",
+        "nameENG": "Kadabra",
         "data": ["kanto"]
     },
     {
         "dex": "0065",
-        "name": "Alakazam",
+        "nameJPN": "フーディン",
+        "nameENG": "Alakazam",
         "data": ["kanto"]
     },
     {
         "dex": "0065M",
-        "name": "Mega Alakazam",
+        "nameJPN": "メガフーディン",
+        "nameENG": "Mega Alakazam",
         "data": ["kanto", "mega"]
     },
     {
         "dex": "0066",
-        "name": "Machop",
+        "nameJPN": "ワンリキー",
+        "nameENG": "Machop",
         "data": ["kanto"]
     },
     {
         "dex": "0067",
-        "name": "Machoke",
+        "nameJPN": "ゴーリキー",
+        "nameENG": "Machoke",
         "data": ["kanto"]
     },
     {
         "dex": "0068",
-        "name": "Machamp",
+        "nameJPN": "カイリキー",
+        "nameENG": "Machamp",
         "data": ["kanto"]
     },
     {
         "dex": "0069",
-        "name": "Bellsprout",
+        "nameJPN": "マダツボミ",
+        "nameENG": "Bellsprout",
         "data": ["kanto"]
     },
     {
         "dex": "0070",
-        "name": "Weepinbell",
+        "nameJPN": "ウツドン",
+        "nameENG": "Weepinbell",
         "data": ["kanto"]
     },
     {
         "dex": "0071",
-        "name": "Victreebel",
+        "nameJPN": "ウツボット",
+        "nameENG": "Victreebel",
         "data": ["kanto"]
     },
     {
         "dex": "0072",
-        "name": "Tentacool",
+        "nameJPN": "メノクラゲ",
+        "nameENG": "Tentacool",
         "data": ["kanto"]
     },
     {
         "dex": "0073",
-        "name": "Tentacruel",
+        "nameJPN": "ドククラゲ",
+        "nameENG": "Tentacruel",
         "data": ["kanto"]
     },
     {
         "dex": "0074",
-        "name": "Geodude",
+        "nameJPN": "イシツブテ",
+        "nameENG": "Geodude",
         "data": ["kanto"]
     },
     {
         "dex": "0074A",
-        "name": "Alolan Geodude",
+        "nameJPN": "アローラ イシツブテ",
+        "nameENG": "Alolan Geodude",
         "data": ["kanto", "rf"]
     },
     {
         "dex": "0075",
-        "name": "Graveler",
+        "nameJPN": "ゴローン",
+        "nameENG": "Graveler",
         "data": ["kanto"]
     },
     {
         "dex": "0075A",
-        "name": "Alolan Graveler",
+        "nameJPN": "アローラ ゴローン",
+        "nameENG": "Alolan Graveler",
         "data": ["kanto", "rf"]
     },
     {
         "dex": "0076",
-        "name": "Golem",
+        "nameJPN": "ゴローニャ",
+        "nameENG": "Golem",
         "data": ["kanto"]
     },
     {
         "dex": "0076A",
-        "name": "Alolan Golem",
+        "nameJPN": "アローラ ゴローニャ",
+        "nameENG": "Alolan Golem",
         "data": ["kanto", "rf"]
     },
     {
         "dex": "0077",
-        "name": "Ponyta",
+        "nameJPN": "ポニータ",
+        "nameENG": "Ponyta",
         "data": ["kanto"]
     },
     {
         "dex": "0078",
-        "name": "Rapidash",
+        "nameJPN": "ギャロップ",
+        "nameENG": "Rapidash",
         "data": ["kanto"]
     },
     {
         "dex": "0079",
-        "name": "Slowpoke",
+        "nameJPN": "ヤドン",
+        "nameENG": "Slowpoke",
         "data": ["kanto"]
     },
     {
         "dex": "0080",
-        "name": "Slowbro",
+        "nameJPN": "ヤドラン",
+        "nameENG": "Slowbro",
         "data": ["kanto"]
     },
     {
         "dex": "0080M",
-        "name": "Mega Slowbro",
+        "nameJPN": "メガヤドラン",
+        "nameENG": "Mega Slowbro",
         "data": ["kanto", "mega"]
     },
     {
         "dex": "0081",
-        "name": "Magnemite",
+        "nameJPN": "コイル",
+        "nameENG": "Magnemite",
         "data": ["kanto"]
     },
     {
         "dex": "0082",
-        "name": "Magneton",
+        "nameJPN": "レアコイル",
+        "nameENG": "Magneton",
         "data": ["kanto"]
     },
     {
         "dex": "0083",
-        "name": "Farfetchd",
+        "nameJPN": "カモネギ",
+        "nameENG": "Farfetchd",
         "data": ["kanto"]
     },
     {
         "dex": "0084",
-        "name": "Doduo",
+        "nameJPN": "ドードー",
+        "nameENG": "Doduo",
         "data": ["kanto"]
     },
     {
         "dex": "0085",
-        "name": "Dodrio",
+        "nameJPN": "ドードリオ",
+        "nameENG": "Dodrio",
         "data": ["kanto"]
     },
     {
         "dex": "0086",
-        "name": "Seel",
+        "nameJPN": "パウワウ",
+        "nameENG": "Seel",
         "data": ["kanto"]
     },
     {
         "dex": "0087",
-        "name": "Dewgong",
+        "nameJPN": "ジュゴン",
+        "nameENG": "Dewgong",
         "data": ["kanto"]
     },
     {
         "dex": "0088",
-        "name": "Grimer",
+        "nameJPN": "ベトベター",
+        "nameENG": "Grimer",
         "data": ["kanto"]
     },
     {
         "dex": "0088A",
-        "name": "Alolan Grimer",
+        "nameJPN": "アローラ ベトベター",
+        "nameENG": "Alolan Grimer",
         "data": ["kanto", "rf"]
     },
     {
         "dex": "0089",
-        "name": "Muk",
+        "nameJPN": "ベトベトン",
+        "nameENG": "Muk",
         "data": ["kanto"]
     },
     {
         "dex": "0089A",
-        "name": "Alolan Muk",
+        "nameJPN": "アローラ ベトベトン",
+        "nameENG": "Alolan Muk",
         "data": ["kanto", "rf"]
     },
     {
         "dex": "0090",
-        "name": "Shellder",
+        "nameJPN": "シェルダー",
+        "nameENG": "Shellder",
         "data": ["kanto"]
     },
     {
         "dex": "0091",
-        "name": "Cloyster",
+        "nameJPN": "パルシェン",
+        "nameENG": "Cloyster",
         "data": ["kanto"]
     },
     {
         "dex": "0092",
-        "name": "Gastly",
+        "nameJPN": "ゴース",
+        "nameENG": "Gastly",
         "data": ["kanto"]
     },
     {
         "dex": "0093",
-        "name": "Haunter",
+        "nameJPN": "ゴースト",
+        "nameENG": "Haunter",
         "data": ["kanto"]
     },
     {
         "dex": "0094",
-        "name": "Gengar",
+        "nameJPN": "ゲンガー",
+        "nameENG": "Gengar",
         "data": ["kanto"]
     },
     {
         "dex": "0094M",
-        "name": "Mega Gengar",
+        "nameJPN": "メガゲンガー",
+        "nameENG": "Mega Gengar",
         "data": ["kanto", "mega"]
     },
     {
         "dex": "0095",
-        "name": "Onix",
+        "nameJPN": "イワーク",
+        "nameENG": "Onix",
         "data": ["kanto"]
     },
     {
         "dex": "0096",
-        "name": "Drowzee",
+        "nameJPN": "スリープ",
+        "nameENG": "Drowzee",
         "data": ["kanto"]
     },
     {
         "dex": "0097",
-        "name": "Hypno",
+        "nameJPN": "スリーパー",
+        "nameENG": "Hypno",
         "data": ["kanto"]
     },
     {
         "dex": "0098",
-        "name": "Krabby",
+        "nameJPN": "クラブ",
+        "nameENG": "Krabby",
         "data": ["kanto"]
     },
     {
         "dex": "0099",
-        "name": "Kingler",
+        "nameJPN": "キングラー",
+        "nameENG": "Kingler",
         "data": ["kanto"]
     },
     {
         "dex": "0100",
-        "name": "Voltorb",
+        "nameJPN": "ビリリダマ",
+        "nameENG": "Voltorb",
         "data": ["kanto"]
     },
     {
         "dex": "0101",
-        "name": "Electrode",
+        "nameJPN": "マルマイン",
+        "nameENG": "Electrode",
         "data": ["kanto"]
     },
     {
         "dex": "0102",
-        "name": "Exeggcute",
+        "nameJPN": "タマタマ",
+        "nameENG": "Exeggcute",
         "data": ["kanto"]
     },
     {
         "dex": "0103",
-        "name": "Exeggutor",
+        "nameJPN": "ナッシー",
+        "nameENG": "Exeggutor",
         "data": ["kanto"]
     },
     {
         "dex": "0103A",
-        "name": "Alolan Exeggutor",
+        "nameJPN": "アローラ ナッシー",
+        "nameENG": "Alolan Exeggutor",
         "data": ["kanto", "rf"]
     },
     {
         "dex": "0104",
-        "name": "Cubone",
+        "nameJPN": "カラカラ",
+        "nameENG": "Cubone",
         "data": ["kanto"]
     },
     {
         "dex": "0105",
-        "name": "Marowak",
+        "nameJPN": "ガラガラ",
+        "nameENG": "Marowak",
         "data": ["kanto"]
     },
     {
         "dex": "0105A",
-        "name": "Alolan Marowak",
+        "nameJPN": "アローラ ガラガラ",
+        "nameENG": "Alolan Marowak",
         "data": ["kanto", "rf"]
     },
     {
         "dex": "0106",
-        "name": "Hitmonlee",
+        "nameJPN": "サワムラー",
+        "nameENG": "Hitmonlee",
         "data": ["kanto"]
     },
     {
         "dex": "0107",
-        "name": "Hitmonchan",
+        "nameJPN": "エビワラー",
+        "nameENG": "Hitmonchan",
         "data": ["kanto"]
     },
     {
         "dex": "0108",
-        "name": "Lickitung",
+        "nameJPN": "ベロリンガ",
+        "nameENG": "Lickitung",
         "data": ["kanto"]
     },
     {
         "dex": "0109",
-        "name": "Koffing",
+        "nameJPN": "ドガース",
+        "nameENG": "Koffing",
         "data": ["kanto"]
     },
     {
         "dex": "0110",
-        "name": "Weezing",
+        "nameJPN": "マタドガス",
+        "nameENG": "Weezing",
         "data": ["kanto"]
     },
     {
         "dex": "0111",
-        "name": "Rhyhorn",
+        "nameJPN": "サイホーン",
+        "nameENG": "Rhyhorn",
         "data": ["kanto"]
     },
     {
         "dex": "0112",
-        "name": "Rhydon",
+        "nameJPN": "サイドン",
+        "nameENG": "Rhydon",
         "data": ["kanto"]
     },
     {
         "dex": "0113",
-        "name": "Chansey",
+        "nameJPN": "ラッキー",
+        "nameENG": "Chansey",
         "data": ["kanto"]
     },
     {
         "dex": "0114",
-        "name": "Tangela",
+        "nameJPN": "モンジャラ",
+        "nameENG": "Tangela",
         "data": ["kanto"]
     },
     {
         "dex": "0115",
-        "name": "Kangaskhan",
+        "nameJPN": "ガルーラ",
+        "nameENG": "Kangaskhan",
         "data": ["kanto"]
     },
     {
         "dex": "0116",
-        "name": "Horsea",
+        "nameJPN": "タッツー",
+        "nameENG": "Horsea",
         "data": ["kanto"]
     },
     {
         "dex": "0117",
-        "name": "Seadra",
+        "nameJPN": "シードラ",
+        "nameENG": "Seadra",
         "data": ["kanto"]
     },
     {
         "dex": "0118",
-        "name": "Goldeen",
+        "nameJPN": "トサキント",
+        "nameENG": "Goldeen",
         "data": ["kanto"]
     },
     {
         "dex": "0119",
-        "name": "Seaking",
+        "nameJPN": "アズマオウ",
+        "nameENG": "Seaking",
         "data": ["kanto"]
     },
     {
         "dex": "0120",
-        "name": "Staryu",
+        "nameJPN": "ヒトデマン",
+        "nameENG": "Staryu",
         "data": ["kanto"]
     },
     {
         "dex": "0121",
-        "name": "Starmie",
+        "nameJPN": "スターミー",
+        "nameENG": "Starmie",
         "data": ["kanto"]
     },
     {
         "dex": "0122",
-        "name": "Mr.Mime",
+        "nameJPN": "バリヤード",
+        "nameENG": "Mr.Mime",
         "data": ["kanto"]
     },
     {
         "dex": "0123",
-        "name": "Scyther",
+        "nameJPN": "ストライク",
+        "nameENG": "Scyther",
         "data": ["kanto"]
     },
     {
         "dex": "0124",
-        "name": "Jynx",
+        "nameJPN": "ルージュラ",
+        "nameENG": "Jynx",
         "data": ["kanto"]
     },
     {
         "dex": "0125",
-        "name": "Electabuzz",
+        "nameJPN": "エレブー",
+        "nameENG": "Electabuzz",
         "data": ["kanto"]
     },
     {
         "dex": "0126",
-        "name": "Magmar",
+        "nameJPN": "ブーバー",
+        "nameENG": "Magmar",
         "data": ["kanto"]
     },
     {
         "dex": "0127",
-        "name": "Pinsir",
+        "nameJPN": "カイロス",
+        "nameENG": "Pinsir",
         "data": ["kanto"]
     },
     {
         "dex": "0127M",
-        "name": "Mega Pinsir",
+        "nameJPN": "メガカイロス",
+        "nameENG": "Mega Pinsir",
         "data": ["kanto", "mega"]
     },
     {
         "dex": "0128",
-        "name": "Tauros",
+        "nameJPN": "ケンタロス",
+        "nameENG": "Tauros",
         "data": ["kanto"]
     },
     {
         "dex": "0129",
-        "name": "Magikarp",
+        "nameJPN": "コイキング",
+        "nameENG": "Magikarp",
         "data": ["kanto"]
     },
     {
         "dex": "0129s",
-        "name": "",
+        "nameJPN": "",
+        "nameENG": "",
         "data": ["kanto"]
     },
     {
         "dex": "0130",
-        "name": "Gyarados",
+        "nameJPN": "ギャラドス",
+        "nameENG": "Gyarados",
         "data": ["kanto"]
     },
     {
         "dex": "0130s",
-        "name": "",
+        "nameJPN": "",
+        "nameENG": "",
         "data": ["kanto"]
     },
     {
         "dex": "0130M",
-        "name": "Mega Gyarados",
+        "nameJPN": "メガギャラドス",
+        "nameENG": "Mega Gyarados",
         "data": ["kanto", "mega"]
     },
     {
         "dex": "0131",
-        "name": "Lapras",
+        "nameJPN": "ラプラス",
+        "nameENG": "Lapras",
         "data": ["kanto"]
     },
     {
         "dex": "0132",
-        "name": "Ditto",
+        "nameJPN": "メタモン",
+        "nameENG": "Ditto",
         "data": ["kanto"]
     },
     {
         "dex": "0133",
-        "name": "Eevee",
+        "nameJPN": "イーブイ",
+        "nameENG": "Eevee",
         "data": ["kanto", "eevee"]
     },
     {
         "dex": "0134",
-        "name": "Vaporeon",
+        "nameJPN": "シャワーズ",
+        "nameENG": "Vaporeon",
         "data": ["kanto", "eevee"]
     },
     {
         "dex": "0135",
-        "name": "Jolteon",
+        "nameJPN": "サンダース",
+        "nameENG": "Jolteon",
         "data": ["kanto", "eevee"]
     },
     {
         "dex": "0136",
-        "name": "Flareon",
+        "nameJPN": "ブースター",
+        "nameENG": "Flareon",
         "data": ["kanto", "eevee"]
     },
     {
         "dex": "0137",
-        "name": "Porygon",
+        "nameJPN": "ポリゴン",
+        "nameENG": "Porygon",
         "data": ["kanto"]
     },
     {
         "dex": "0138",
-        "name": "Omanyte",
+        "nameJPN": "オムナイト",
+        "nameENG": "Omanyte",
         "data": ["kanto"]
     },
     {
         "dex": "0139",
-        "name": "Omastar",
+        "nameJPN": "オムスター",
+        "nameENG": "Omastar",
         "data": ["kanto"]
     },
     {
         "dex": "0140",
-        "name": "Kabuto",
+        "nameJPN": "カブト",
+        "nameENG": "Kabuto",
         "data": ["kanto"]
     },
     {
         "dex": "0141",
-        "name": "Kabutops",
+        "nameJPN": "カブトプス",
+        "nameENG": "Kabutops",
         "data": ["kanto"]
     },
     {
         "dex": "0142",
-        "name": "Aerodactyl",
+        "nameJPN": "プテラ",
+        "nameENG": "Aerodactyl",
         "data": ["kanto"]
     },
     {
         "dex": "0142M",
-        "name": "Mega Aerodactyl",
+        "nameJPN": "メガプテラ",
+        "nameENG": "Mega Aerodactyl",
         "data": ["kanto", "mega"]
     },
     {
         "dex": "0143",
-        "name": "Snorlax",
+        "nameJPN": "カビゴン",
+        "nameENG": "Snorlax",
         "data": ["kanto"]
     },
     {
         "dex": "0144",
-        "name": "Articuno",
+        "nameJPN": "フリーザー",
+        "nameENG": "Articuno",
         "data": ["kanto", "trio"]
     },
     {
         "dex": "0145",
-        "name": "Zapdos",
+        "nameJPN": "サンダー",
+        "nameENG": "Zapdos",
         "data": ["kanto", "trio"]
     },
     {
         "dex": "0146",
-        "name": "Moltres",
+        "nameJPN": "ファイヤー",
+        "nameENG": "Moltres",
         "data": ["kanto", "trio"]
     },
     {
         "dex": "0147",
-        "name": "Dratini",
+        "nameJPN": "ミニリュウ",
+        "nameENG": "Dratini",
         "data": ["kanto", "bs600"]
     },
     {
         "dex": "0148",
-        "name": "Dragonair",
+        "nameJPN": "ハクリュー",
+        "nameENG": "Dragonair",
         "data": ["kanto", "bs600"]
     },
     {
         "dex": "0149",
-        "name": "Dragonite",
+        "nameJPN": "カイリュー",
+        "nameENG": "Dragonite",
         "data": ["kanto", "bs600"]
     },
     {
         "dex": "0150",
-        "name": "Mewtwo",
+        "nameJPN": "ミュウツー",
+        "nameENG": "Mewtwo",
         "data": ["kanto", "legendary"]
     },
     {
         "dex": "0150MX",
-        "name": "Mega Mewtwo X",
+        "nameJPN": "メガミュウツーX",
+        "nameENG": "Mega Mewtwo X",
         "data": ["kanto", "mega"]
     },
     {
         "dex": "0150MY",
-        "name": "Mega Mewtwo Y",
+        "nameJPN": "メガミュウツーY",
+        "nameENG": "Mega Mewtwo Y",
         "data": ["kanto", "mega"]
     },
     {
         "dex": "0151",
-        "name": "Mew",
+        "nameJPN": "ミュウ",
+        "nameENG": "Mew",
         "data": ["kanto", "mirage"]
     },
     {
         "dex": "0152",
-        "name": "Chikorita",
+        "nameJPN": "チコリータ",
+        "nameENG": "Chikorita",
         "data": ["johto", "starter"]
     },
     {
         "dex": "0153",
-        "name": "Bayleef",
+        "nameJPN": "ベイリーフ",
+        "nameENG": "Bayleef",
         "data": ["johto", "starter"]
     },
     {
         "dex": "0154",
-        "name": "Meganium",
+        "nameJPN": "メガニウムベイリーフ",
+        "nameENG": "Meganium",
         "data": ["johto", "starter"]
     },
     {
         "dex": "0155",
-        "name": "Cyndaquil",
+        "nameJPN": "ヒノアラシ",
+        "nameENG": "Cyndaquil",
         "data": ["johto", "starter"]
     },
     {
         "dex": "0156",
-        "name": "Quilava",
+        "nameJPN": "マグマラシ",
+        "nameENG": "Quilava",
         "data": ["johto", "starter"]
     },
     {
         "dex": "0157",
-        "name": "Typhlosion",
+        "nameJPN": "バクフーン",
+        "nameENG": "Typhlosion",
         "data": ["johto", "starter"]
     },
     {
         "dex": "0158",
-        "name": "Totodile",
+        "nameJPN": "ワニノコ",
+        "nameENG": "Totodile",
         "data": ["johto", "starter"]
     },
     {
         "dex": "0159",
-        "name": "Croconaw",
+        "nameJPN": "アリゲイツ",
+        "nameENG": "Croconaw",
         "data": ["johto", "starter"]
     },
     {
         "dex": "0160",
-        "name": "Feraligatr",
+        "nameJPN": "オーダイル",
+        "nameENG": "Feraligatr",
         "data": ["johto", "starter"]
     },
     {
         "dex": "0161",
-        "name": "Sentret",
+        "nameJPN": "オタチ",
+        "nameENG": "Sentret",
         "data": ["johto"]
     },
     {
         "dex": "0162",
-        "name": "Furret",
+        "nameJPN": "オオタチ",
+        "nameENG": "Furret",
         "data": ["johto"]
     },
     {
         "dex": "0163",
-        "name": "Hoothoot",
+        "nameJPN": "ホーホー",
+        "nameENG": "Hoothoot",
         "data": ["johto"]
     },
     {
         "dex": "0164",
-        "name": "Noctowl",
+        "nameJPN": "ヨルノズク",
+        "nameENG": "Noctowl",
         "data": ["johto"]
     },
     {
         "dex": "0165",
-        "name": "Ledyba",
+        "nameJPN": "レディバ",
+        "nameENG": "Ledyba",
         "data": ["johto"]
     },
     {
         "dex": "0166",
-        "name": "Ledian",
+        "nameJPN": "レディアン",
+        "nameENG": "Ledian",
         "data": ["johto"]
     },
     {
         "dex": "0167",
-        "name": "Spinarak",
+        "nameJPN": "イトマル",
+        "nameENG": "Spinarak",
         "data": ["johto"]
     },
     {
         "dex": "0168",
-        "name": "Ariados",
+        "nameJPN": "アリアドス",
+        "nameENG": "Ariados",
         "data": ["johto"]
     },
     {
         "dex": "0169",
-        "name": "Crobat",
+        "nameJPN": "クロバット",
+        "nameENG": "Crobat",
         "data": ["johto"]
     },
     {
         "dex": "0170",
-        "name": "Chinchou",
+        "nameJPN": "チョンチー",
+        "nameENG": "Chinchou",
         "data": ["johto"]
     },
     {
         "dex": "0171",
-        "name": "Lanturn",
+        "nameJPN": "ランターン",
+        "nameENG": "Lanturn",
         "data": ["johto"]
     },
     {
         "dex": "0172",
-        "name": "Pichu",
+        "nameJPN": "ピチュー",
+        "nameENG": "Pichu",
         "data": ["johto"]
     },
     {
         "dex": "0173",
-        "name": "Cleffa",
+        "nameJPN": "ピィ",
+        "nameENG": "Cleffa",
         "data": ["johto"]
     },
     {
         "dex": "0174",
-        "name": "Igglybuff",
+        "nameJPN": "ププリン",
+        "nameENG": "Igglybuff",
         "data": ["johto"]
     },
     {
         "dex": "0175",
-        "name": "Togepi",
+        "nameJPN": "トゲピー",
+        "nameENG": "Togepi",
         "data": ["johto"]
     },
     {
         "dex": "0176",
-        "name": "Togetic",
+        "nameJPN": "トゲチック",
+        "nameENG": "Togetic",
         "data": ["johto"]
     },
     {
         "dex": "0177",
-        "name": "Natu",
+        "nameJPN": "ネイティ",
+        "nameENG": "Natu",
         "data": ["johto"]
     },
     {
         "dex": "0178",
-        "name": "Xatu",
+        "nameJPN": "ネイティオ",
+        "nameENG": "Xatu",
         "data": ["johto"]
     },
     {
         "dex": "0179",
-        "name": "Mareep",
+        "nameJPN": "メリープ",
+        "nameENG": "Mareep",
         "data": ["johto"]
     },
     {
         "dex": "0180",
-        "name": "Flaaffy",
+        "nameJPN": "モココ",
+        "nameENG": "Flaaffy",
         "data": ["johto"]
     },
     {
         "dex": "0181",
-        "name": "Ampharos",
+        "nameJPN": "デンリュウ",
+        "nameENG": "Ampharos",
         "data": ["johto"]
     },
     {
         "dex": "0181M",
-        "name": "Mega Ampharos",
+        "nameJPN": "メガデンリュウ",
+        "nameENG": "Mega Ampharos",
         "data": ["johto", "mega"]
     },
     {
         "dex": "0182",
-        "name": "Bellossom",
+        "nameJPN": "キレイハナ",
+        "nameENG": "Bellossom",
         "data": ["johto"]
     },
     {
         "dex": "0183",
-        "name": "Marill",
+        "nameJPN": "マリル",
+        "nameENG": "Marill",
         "data": ["johto"]
     },
     {
         "dex": "0184",
-        "name": "Azumarill",
+        "nameJPN": "マリルリ",
+        "nameENG": "Azumarill",
         "data": ["johto"]
     },
     {
         "dex": "0185",
-        "name": "Sudowoodo",
+        "nameJPN": "ウソッキー",
+        "nameENG": "Sudowoodo",
         "data": ["johto"]
     },
     {
         "dex": "0186",
-        "name": "Politoed",
+        "nameJPN": "ニョロトノ",
+        "nameENG": "Politoed",
         "data": ["johto"]
     },
     {
         "dex": "0187",
-        "name": "Hoppip",
+        "nameJPN": "ハネッコ",
+        "nameENG": "Hoppip",
         "data": ["johto"]
     },
     {
         "dex": "0188",
-        "name": "Skiploom",
+        "nameJPN": "ポポッコ",
+        "nameENG": "Skiploom",
         "data": ["johto"]
     },
     {
         "dex": "0189",
-        "name": "Jumpluff",
+        "nameJPN": "ワタッコ",
+        "nameENG": "Jumpluff",
         "data": ["johto"]
     },
     {
         "dex": "0190",
-        "name": "Aipom",
+        "nameJPN": "エイパム",
+        "nameENG": "Aipom",
         "data": ["johto"]
     },
     {
         "dex": "0191",
-        "name": "Sunkern",
+        "nameJPN": "ヒマナッツ",
+        "nameENG": "Sunkern",
         "data": ["johto"]
     },
     {
         "dex": "0192",
-        "name": "Sunflora",
+        "nameJPN": "キマワリ",
+        "nameENG": "Sunflora",
         "data": ["johto"]
     },
     {
         "dex": "0193",
-        "name": "Yanma",
+        "nameJPN": "ヤンヤンマ",
+        "nameENG": "Yanma",
         "data": ["johto"]
     },
     {
         "dex": "0194",
-        "name": "Wooper",
+        "nameJPN": "ウパー",
+        "nameENG": "Wooper",
         "data": ["johto"]
     },
     {
         "dex": "0195",
-        "name": "Quagsire",
+        "nameJPN": "ヌオー",
+        "nameENG": "Quagsire",
         "data": ["johto"]
     },
     {
         "dex": "0196",
-        "name": "Espeon",
+        "nameJPN": "エーフィ",
+        "nameENG": "Espeon",
         "data": ["johto", "eevee"]
     },
     {
         "dex": "0197",
-        "name": "Umbreon",
+        "nameJPN": "ブラッキー",
+        "nameENG": "Umbreon",
         "data": ["johto", "eevee"]
     },
     {
         "dex": "0198",
-        "name": "Murkrow",
+        "nameJPN": "ヤミカラス",
+        "nameENG": "Murkrow",
         "data": ["johto"]
     },
     {
         "dex": "0199",
-        "name": "Slowking",
+        "nameJPN": "ヤドキング",
+        "nameENG": "Slowking",
         "data": ["johto"]
     },
     {
         "dex": "0200",
-        "name": "Misdreavus",
+        "nameJPN": "ムウマ",
+        "nameENG": "Misdreavus",
         "data": ["johto"]
     },
     {
         "dex": "0201",
-        "name": "Unown A",
+        "nameJPN": "アンノーン",
+        "nameENG": "Unown A",
         "data": ["johto", "unown"]
     },
     {
         "dex": "0201B",
-        "name": "Unown B",
+        "nameJPN": "",
+        "nameENG": "Unown B",
         "data": ["johto", "unown"]
     },
     {
         "dex": "0201C",
-        "name": "Unown C",
+        "nameJPN": "",
+        "nameENG": "Unown C",
         "data": ["johto", "unown"]
     },
     {
         "dex": "0201D",
-        "name": "Unown D",
+        "nameJPN": "",
+        "nameENG": "Unown D",
         "data": ["johto", "unown"]
     },
     {
         "dex": "0201E",
-        "name": "Unown E",
+        "nameJPN": "",
+        "nameENG": "Unown E",
         "data": ["johto", "unown"]
     },
     {
         "dex": "0201F",
-        "name": "Unown F",
+        "nameJPN": "",
+        "nameENG": "Unown F",
         "data": ["johto", "unown"]
     },
     {
         "dex": "0201G",
-        "name": "Unown G",
+        "nameJPN": "",
+        "nameENG": "Unown G",
         "data": ["johto", "unown"]
     },
     {
         "dex": "0201H",
-        "name": "Unown H",
+        "nameJPN": "",
+        "nameENG": "Unown H",
         "data": ["johto", "unown"]
     },
     {
         "dex": "0201I",
-        "name": "Unown I",
+        "nameJPN": "",
+        "nameENG": "Unown I",
         "data": ["johto", "unown"]
     },
     {
         "dex": "0201J",
-        "name": "Unown J",
+        "nameJPN": "",
+        "nameENG": "Unown J",
         "data": ["johto", "unown"]
     },
     {
         "dex": "0201K",
-        "name": "Unown K",
+        "nameJPN": "",
+        "nameENG": "Unown K",
         "data": ["johto", "unown"]
     },
     {
         "dex": "0201L",
-        "name": "Unown L",
+        "nameJPN": "",
+        "nameENG": "Unown L",
         "data": ["johto", "unown"]
     },
     {
         "dex": "0201M",
-        "name": "Unown M",
+        "nameJPN": "",
+        "nameENG": "Unown M",
         "data": ["johto", "unown"]
     },
     {
         "dex": "0201N",
-        "name": "Unown N",
+        "nameJPN": "",
+        "nameENG": "Unown N",
         "data": ["johto", "unown"]
     },
     {
         "dex": "0201O",
-        "name": "Unown O",
+        "nameJPN": "",
+        "nameENG": "Unown O",
         "data": ["johto", "unown"]
     },
     {
         "dex": "0201P",
-        "name": "Unown P",
+        "nameJPN": "",
+        "nameENG": "Unown P",
         "data": ["johto", "unown"]
     },
     {
         "dex": "0201Q",
-        "name": "Unown Q",
+        "nameJPN": "",
+        "nameENG": "Unown Q",
         "data": ["johto", "unown"]
     },
     {
         "dex": "0201R",
-        "name": "Unown R",
+        "nameJPN": "",
+        "nameENG": "Unown R",
         "data": ["johto", "unown"]
     },
     {
         "dex": "0201S",
-        "name": "Unown S",
+        "nameJPN": "",
+        "nameENG": "Unown S",
         "data": ["johto", "unown"]
     },
     {
         "dex": "0201T",
-        "name": "Unown T",
+        "nameJPN": "",
+        "nameENG": "Unown T",
         "data": ["johto", "unown"]
     },
     {
         "dex": "0201U",
-        "name": "Unown U",
+        "nameJPN": "",
+        "nameENG": "Unown U",
         "data": ["johto", "unown"]
     },
     {
         "dex": "0201V",
-        "name": "Unown V",
+        "nameJPN": "",
+        "nameENG": "Unown V",
         "data": ["johto", "unown"]
     },
     {
         "dex": "0201W",
-        "name": "Unown W",
+        "nameJPN": "",
+        "nameENG": "Unown W",
         "data": ["johto", "unown"]
     },
     {
         "dex": "0201X",
-        "name": "Unown X",
+        "nameJPN": "",
+        "nameENG": "Unown X",
         "data": ["johto", "unown"]
     },
     {
         "dex": "0201Y",
-        "name": "Unown Y",
+        "nameJPN": "",
+        "nameENG": "Unown Y",
         "data": ["johto", "unown"]
     },
     {
         "dex": "0201Z",
-        "name": "Unown Z",
+        "nameJPN": "",
+        "nameENG": "Unown Z",
         "data": ["johto", "unown"]
     },
     {
         "dex": "0201Ex",
-        "name": "Unown !",
+        "nameJPN": "",
+        "nameENG": "Unown !",
         "data": ["johto", "unown"]
     },
     {
         "dex": "0201Qu",
-        "name": "Unown ?",
+        "nameJPN": "",
+        "nameENG": "Unown ?",
         "data": ["johto", "unown"]
     },
     {
         "dex": "0202",
-        "name": "Wobbuffet",
+        "nameJPN": "ソーナンス",
+        "nameENG": "Wobbuffet",
         "data": ["johto"]
     },
     {
         "dex": "0203",
-        "name": "Girafarig",
+        "nameJPN": "キリンリキ",
+        "nameENG": "Girafarig",
         "data": ["johto"]
     },
     {
         "dex": "0204",
-        "name": "Pineco",
+        "nameJPN": "クヌギダマ",
+        "nameENG": "Pineco",
         "data": ["johto"]
     },
     {
         "dex": "0205",
-        "name": "Forretress",
+        "nameJPN": "フォレトス",
+        "nameENG": "Forretress",
         "data": ["johto"]
     },
     {
         "dex": "0206",
-        "name": "Dunsparce",
+        "nameJPN": "ノコッチ",
+        "nameENG": "Dunsparce",
         "data": ["johto"]
     },
     {
         "dex": "0207",
-        "name": "Gligar",
+        "nameJPN": "グライガー",
+        "nameENG": "Gligar",
         "data": ["johto"]
     },
     {
         "dex": "0208",
-        "name": "Steelix",
+        "nameJPN": "ハガネール",
+        "nameENG": "Steelix",
         "data": ["johto"]
     },
     {
         "dex": "0208M",
-        "name": "Mega Steelix",
+        "nameJPN": "メガハガネール",
+        "nameENG": "Mega Steelix",
         "data": ["johto", "mega"]
     },
     {
         "dex": "0209",
-        "name": "Snubbull",
+        "nameJPN": "ブルー",
+        "nameENG": "Snubbull",
         "data": ["johto"]
     },
     {
         "dex": "0210",
-        "name": "Granbull",
+        "nameJPN": "グランブル",
+        "nameENG": "Granbull",
         "data": ["johto"]
     },
     {
         "dex": "0211",
-        "name": "Qwilfish",
+        "nameJPN": "ハリーセン",
+        "nameENG": "Qwilfish",
         "data": ["johto"]
     },
     {
         "dex": "0212",
-        "name": "Scizor",
+        "nameJPN": "ハッサム",
+        "nameENG": "Scizor",
         "data": ["johto"]
     },
     {
         "dex": "0212M",
-        "name": "Mega Scizor",
+        "nameJPN": "メガハッサム",
+        "nameENG": "Mega Scizor",
         "data": ["johto", "mega"]
     },
     {
         "dex": "0213",
-        "name": "Shuckle",
+        "nameJPN": "ツボツボ",
+        "nameENG": "Shuckle",
         "data": ["johto"]
     },
     {
         "dex": "0214",
-        "name": "Heracross",
+        "nameJPN": "ヘラクロス",
+        "nameENG": "Heracross",
         "data": ["johto"]
     },
     {
         "dex": "0214M",
-        "name": "Mega Heracross",
+        "nameJPN": "メガヘラクロス",
+        "nameENG": "Mega Heracross",
         "data": ["johto", "mega"]
     },
     {
         "dex": "0215",
-        "name": "Sneasel",
+        "nameJPN": "ニューラ",
+        "nameENG": "Sneasel",
         "data": ["johto"]
     },
     {
         "dex": "0216",
-        "name": "Teddiursa",
+        "nameJPN": "ヒメグマ",
+        "nameENG": "Teddiursa",
         "data": ["johto"]
     },
     {
         "dex": "0217",
-        "name": "Ursaring",
+        "nameJPN": "リングマ",
+        "nameENG": "Ursaring",
         "data": ["johto"]
     },
     {
         "dex": "0218",
-        "name": "Slugma",
+        "nameJPN": "マグマッグ",
+        "nameENG": "Slugma",
         "data": ["johto"]
     },
     {
         "dex": "0219",
-        "name": "Magcargo",
+        "nameJPN": "マグカルゴ",
+        "nameENG": "Magcargo",
         "data": ["johto"]
     },
     {
         "dex": "0220",
-        "name": "Swinub",
+        "nameJPN": "ウリムー",
+        "nameENG": "Swinub",
         "data": ["johto"]
     },
     {
         "dex": "0221",
-        "name": "Piloswine",
+        "nameJPN": "イノムー",
+        "nameENG": "Piloswine",
         "data": ["johto"]
     },
     {
         "dex": "0222",
-        "name": "Corsola",
+        "nameJPN": "サニーゴ",
+        "nameENG": "Corsola",
         "data": ["johto"]
     },
     {
         "dex": "0223",
-        "name": "Remoraid",
+        "nameJPN": "テッポウオ",
+        "nameENG": "Remoraid",
         "data": ["johto"]
     },
     {
         "dex": "0224",
-        "name": "Octillery",
+        "nameJPN": "オクタン",
+        "nameENG": "Octillery",
         "data": ["johto"]
     },
     {
         "dex": "0225",
-        "name": "Delibird",
+        "nameJPN": "デリバード",
+        "nameENG": "Delibird",
         "data": ["johto"]
     },
     {
         "dex": "0226",
-        "name": "Mantine",
+        "nameJPN": "マンタイン",
+        "nameENG": "Mantine",
         "data": ["johto"]
     },
     {
         "dex": "0227",
-        "name": "Skarmory",
+        "nameJPN": "エアームド",
+        "nameENG": "Skarmory",
         "data": ["johto"]
     },
     {
         "dex": "0228",
-        "name": "Houndour",
+        "nameJPN": "デルビル",
+        "nameENG": "Houndour",
         "data": ["johto"]
     },
     {
         "dex": "0229",
-        "name": "Houndoom",
+        "nameJPN": "ヘルガー",
+        "nameENG": "Houndoom",
         "data": ["johto"]
     },
     {
         "dex": "0229M",
-        "name": "Mega Houndoom",
+        "nameJPN": "メガヘルガー",
+        "nameENG": "Mega Houndoom",
         "data": ["johto", "mega"]
     },
     {
         "dex": "0230",
-        "name": "Kingdra",
+        "nameJPN": "キングドラ",
+        "nameENG": "Kingdra",
         "data": ["johto"]
     },
     {
         "dex": "0231",
-        "name": "Phanpy",
+        "nameJPN": "ゴマゾウ",
+        "nameENG": "Phanpy",
         "data": ["johto"]
     },
     {
         "dex": "0232",
-        "name": "Donphan",
+        "nameJPN": "ドンファン",
+        "nameENG": "Donphan",
         "data": ["johto"]
     },
     {
         "dex": "0233",
-        "name": "Porygon2",
+        "nameJPN": "ポリゴン２",
+        "nameENG": "Porygon2",
         "data": ["johto"]
     },
     {
         "dex": "0234",
-        "name": "Stantler",
+        "nameJPN": "オドシシ",
+        "nameENG": "Stantler",
         "data": ["johto"]
     },
     {
         "dex": "0235",
-        "name": "Smeargle",
+        "nameJPN": "ドーブル",
+        "nameENG": "Smeargle",
         "data": ["johto"]
     },
     {
         "dex": "0236",
-        "name": "Tyrogue",
+        "nameJPN": "バルキー",
+        "nameENG": "Tyrogue",
         "data": ["johto"]
     },
     {
         "dex": "0237",
-        "name": "Hitmontop",
+        "nameJPN": "カポエラー",
+        "nameENG": "Hitmontop",
         "data": ["johto"]
     },
     {
         "dex": "0238",
-        "name": "Smoochum",
+        "nameJPN": "ムチュール",
+        "nameENG": "Smoochum",
         "data": ["johto"]
     },
     {
         "dex": "0239",
-        "name": "Elekid",
+        "nameJPN": "エレキッド",
+        "nameENG": "Elekid",
         "data": ["johto"]
     },
     {
         "dex": "0240",
-        "name": "Magby",
+        "nameJPN": "ブビィ",
+        "nameENG": "Magby",
         "data": ["johto"]
     },
     {
         "dex": "0241",
-        "name": "Miltank",
+        "nameJPN": "ミルタンク",
+        "nameENG": "Miltank",
         "data": ["johto"]
     },
     {
         "dex": "0242",
-        "name": "Blissey",
+        "nameJPN": "ハピナス",
+        "nameENG": "Blissey",
         "data": ["johto"]
     },
     {
         "dex": "0243",
-        "name": "Raikou",
+        "nameJPN": "ライコウ",
+        "nameENG": "Raikou",
         "data": ["johto", "trio"]
     },
     {
         "dex": "0244",
-        "name": "Entei",
+        "nameJPN": "エンテイ",
+        "nameENG": "Entei",
         "data": ["johto", "trio"]
     },
     {
         "dex": "0245",
-        "name": "Suicune",
+        "nameJPN": "スイクン",
+        "nameENG": "Suicune",
         "data": ["johto", "trio"]
     },
     {
         "dex": "0246",
-        "name": "Larvitar",
+        "nameJPN": "ヨーギラス",
+        "nameENG": "Larvitar",
         "data": ["johto", "bs600"]
     },
     {
         "dex": "0247",
-        "name": "Pupitar",
+        "nameJPN": "サナギラス",
+        "nameENG": "Pupitar",
         "data": ["johto", "bs600"]
     },
     {
         "dex": "0248",
-        "name": "Tyranitar",
+        "nameJPN": "バンギラス",
+        "nameENG": "Tyranitar",
         "data": ["johto", "bs600"]
     },
     {
         "dex": "0248M",
-        "name": "Mega Tyranitar",
+        "nameJPN": "メガバンギラス",
+        "nameENG": "Mega Tyranitar",
         "data": ["johto", "mega"]
     },
     {
         "dex": "0249",
-        "name": "Lugia",
+        "nameJPN": "ルギア",
+        "nameENG": "Lugia",
         "data": ["johto", "legendary"]
     },
     {
         "dex": "0250",
-        "name": "Ho",
+        "nameJPN": "ホウオウ",
+        "nameENG": "Ho",
         "data": ["johto", "legendary"]
     },
     {
         "dex": "0251",
-        "name": "Celebi",
+        "nameJPN": "セレビィ",
+        "nameENG": "Celebi",
         "data": ["johto", "mirage"]
     },
     {
         "dex": "0252",
-        "name": "Treecko",
+        "nameJPN": "キモリ",
+        "nameENG": "Treecko",
         "data": ["hoenn", "starter"]
     },
     {
         "dex": "0253",
-        "name": "Grovyle",
+        "nameJPN": "ジュプトル",
+        "nameENG": "Grovyle",
         "data": ["hoenn", "starter"]
     },
     {
         "dex": "0254",
-        "name": "Sceptile",
+        "nameJPN": "ジュカイン",
+        "nameENG": "Sceptile",
         "data": ["hoenn", "starter"]
     },
     {
         "dex": "0254M",
-        "name": "Mega Sceptile",
+        "nameJPN": "メガジュカイン",
+        "nameENG": "Mega Sceptile",
         "data": ["hoenn", "mega", "starter"]
     },
     {
         "dex": "0255",
-        "name": "Torchic",
+        "nameJPN": "アチャモ",
+        "nameENG": "Torchic",
         "data": ["hoenn", "starter"]
     },
     {
         "dex": "0256",
-        "name": "Combusken",
+        "nameJPN": "ワカシャモ",
+        "nameENG": "Combusken",
         "data": ["hoenn", "starter"]
     },
     {
         "dex": "0257",
-        "name": "Blaziken",
+        "nameJPN": "バシャーモ",
+        "nameENG": "Blaziken",
         "data": ["hoenn", "starter"]
     },
     {
         "dex": "0257M",
-        "name": "Mega Blaziken",
+        "nameJPN": "メガバシャーモ",
+        "nameENG": "Mega Blaziken",
         "data": ["hoenn", "mega", "starter"]
     },
     {
         "dex": "0258",
-        "name": "Mudkip",
+        "nameJPN": "ミズゴロウ",
+        "nameENG": "Mudkip",
         "data": ["hoenn", "starter"]
     },
     {
         "dex": "0259",
-        "name": "Marshtomp",
+        "nameJPN": "ヌマクロー",
+        "nameENG": "Marshtomp",
         "data": ["hoenn", "starter"]
     },
     {
         "dex": "0260",
-        "name": "Swampert",
+        "nameJPN": "ラグラージ",
+        "nameENG": "Swampert",
         "data": ["hoenn", "starter"]
     },
     {
         "dex": "0260M",
-        "name": "Mega Swampert",
+        "nameJPN": "メガラグラージ",
+        "nameENG": "Mega Swampert",
         "data": ["hoenn", "mega", "starter"]
     },
     {
         "dex": "0261",
-        "name": "Poochyena",
+        "nameJPN": "ポチエナ",
+        "nameENG": "Poochyena",
         "data": ["hoenn"]
     },
     {
         "dex": "0262",
-        "name": "Mightyena",
+        "nameJPN": "グラエナ",
+        "nameENG": "Mightyena",
         "data": ["hoenn"]
     },
     {
         "dex": "0263",
-        "name": "Zigzagoon",
+        "nameJPN": "ジグザグマ",
+        "nameENG": "Zigzagoon",
         "data": ["hoenn"]
     },
     {
         "dex": "0264",
-        "name": "Linoone",
+        "nameJPN": "マッスグマ",
+        "nameENG": "Linoone",
         "data": ["hoenn"]
     },
     {
         "dex": "0265",
-        "name": "Wurmple",
+        "nameJPN": "ケムッソ",
+        "nameENG": "Wurmple",
         "data": ["hoenn"]
     },
     {
         "dex": "0266",
-        "name": "Silcoon",
+        "nameJPN": "カラサリス",
+        "nameENG": "Silcoon",
         "data": ["hoenn"]
     },
     {
         "dex": "0267",
-        "name": "Beautifly",
+        "nameJPN": "アゲハント",
+        "nameENG": "Beautifly",
         "data": ["hoenn"]
     },
     {
         "dex": "0268",
-        "name": "Cascoon",
+        "nameJPN": "マユルド",
+        "nameENG": "Cascoon",
         "data": ["hoenn"]
     },
     {
         "dex": "0269",
-        "name": "Dustox",
+        "nameJPN": "ドクケイル",
+        "nameENG": "Dustox",
         "data": ["hoenn"]
     },
     {
         "dex": "0270",
-        "name": "Lotad",
+        "nameJPN": "ハスボー",
+        "nameENG": "Lotad",
         "data": ["hoenn"]
     },
     {
         "dex": "0271",
-        "name": "Lombre",
+        "nameJPN": "ハスブレロ",
+        "nameENG": "Lombre",
         "data": ["hoenn"]
     },
     {
         "dex": "0272",
-        "name": "Ludicolo",
+        "nameJPN": "ルンパッパ",
+        "nameENG": "Ludicolo",
         "data": ["hoenn"]
     },
     {
         "dex": "0273",
-        "name": "Seedot",
+        "nameJPN": "タネボー",
+        "nameENG": "Seedot",
         "data": ["hoenn"]
     },
     {
         "dex": "0274",
-        "name": "Nuzleaf",
+        "nameJPN": "コノハナ",
+        "nameENG": "Nuzleaf",
         "data": ["hoenn"]
     },
     {
         "dex": "0275",
-        "name": "Shiftry",
+        "nameJPN": "ダーテング",
+        "nameENG": "Shiftry",
         "data": ["hoenn"]
     },
     {
         "dex": "0276",
-        "name": "Taillow",
+        "nameJPN": "スバメ",
+        "nameENG": "Taillow",
         "data": ["hoenn"]
     },
     {
         "dex": "0277",
-        "name": "Swellow",
+        "nameJPN": "オオスバメ",
+        "nameENG": "Swellow",
         "data": ["hoenn"]
     },
     {
         "dex": "0278",
-        "name": "Wingull",
+        "nameJPN": "キャモメ",
+        "nameENG": "Wingull",
         "data": ["hoenn"]
     },
     {
         "dex": "0279",
-        "name": "Pelipper",
+        "nameJPN": "ペリッパー",
+        "nameENG": "Pelipper",
         "data": ["hoenn"]
     },
     {
         "dex": "0280",
-        "name": "Ralts",
+        "nameJPN": "ラルトス",
+        "nameENG": "Ralts",
         "data": ["hoenn"]
     },
     {
         "dex": "0281",
-        "name": "Kirlia",
+        "nameJPN": "キルリア",
+        "nameENG": "Kirlia",
         "data": ["hoenn"]
     },
     {
         "dex": "0282",
-        "name": "Gardevoir",
+        "nameJPN": "サーナイト",
+        "nameENG": "Gardevoir",
         "data": ["hoenn"]
     },
     {
         "dex": "0282M",
-        "name": "Mega Gardevoir",
+        "nameJPN": "メガサーナイト",
+        "nameENG": "Mega Gardevoir",
         "data": ["hoenn", "mega"]
     },
     {
         "dex": "0283",
-        "name": "Surskit",
+        "nameJPN": "アメタマ",
+        "nameENG": "Surskit",
         "data": ["hoenn"]
     },
     {
         "dex": "0284",
-        "name": "Masquerain",
+        "nameJPN": "アメモース",
+        "nameENG": "Masquerain",
         "data": ["hoenn"]
     },
     {
         "dex": "0285",
-        "name": "Shroomish",
+        "nameJPN": "キノココ",
+        "nameENG": "Shroomish",
         "data": ["hoenn"]
     },
     {
         "dex": "0286",
-        "name": "Breloom",
+        "nameJPN": "キノガッサ",
+        "nameENG": "Breloom",
         "data": ["hoenn"]
     },
     {
         "dex": "0287",
-        "name": "Slakoth",
+        "nameJPN": "ナマケロ",
+        "nameENG": "Slakoth",
         "data": ["hoenn"]
     },
     {
         "dex": "0288",
-        "name": "Vigoroth",
+        "nameJPN": "ヤルキモノ",
+        "nameENG": "Vigoroth",
         "data": ["hoenn"]
     },
     {
         "dex": "0289",
-        "name": "Slaking",
+        "nameJPN": "ケッキング",
+        "nameENG": "Slaking",
         "data": ["hoenn"]
     },
     {
         "dex": "0290",
-        "name": "Nincada",
+        "nameJPN": "ツチニン",
+        "nameENG": "Nincada",
         "data": ["hoenn"]
     },
     {
         "dex": "0291",
-        "name": "Ninjask",
+        "nameJPN": "テッカニン",
+        "nameENG": "Ninjask",
         "data": ["hoenn"]
     },
     {
         "dex": "0292",
-        "name": "Shedinja",
+        "nameJPN": "ヌケニン",
+        "nameENG": "Shedinja",
         "data": ["hoenn"]
     },
     {
         "dex": "0293",
-        "name": "Whismur",
+        "nameJPN": "ゴニョニョ",
+        "nameENG": "Whismur",
         "data": ["hoenn"]
     },
     {
         "dex": "0294",
-        "name": "Loudred",
+        "nameJPN": "ドゴーム",
+        "nameENG": "Loudred",
         "data": ["hoenn"]
     },
     {
         "dex": "0295",
-        "name": "Exploud",
+        "nameJPN": "バクオング",
+        "nameENG": "Exploud",
         "data": ["hoenn"]
     },
     {
         "dex": "0296",
-        "name": "Makuhita",
+        "nameJPN": "マクノシタ",
+        "nameENG": "Makuhita",
         "data": ["hoenn"]
     },
     {
         "dex": "0297",
-        "name": "Hariyama",
+        "nameJPN": "ハリテヤマ",
+        "nameENG": "Hariyama",
         "data": ["hoenn"]
     },
     {
         "dex": "0298",
-        "name": "Azurill",
+        "nameJPN": "ルリリ",
+        "nameENG": "Azurill",
         "data": ["hoenn"]
     },
     {
         "dex": "0299",
-        "name": "Nosepass",
+        "nameJPN": "ノズパス",
+        "nameENG": "Nosepass",
         "data": ["hoenn"]
     },
     {
         "dex": "0300",
-        "name": "Skitty",
+        "nameJPN": "エネコ",
+        "nameENG": "Skitty",
         "data": ["hoenn"]
     },
     {
         "dex": "0301",
-        "name": "Delcatty",
+        "nameJPN": "エネコロロ",
+        "nameENG": "Delcatty",
         "data": ["hoenn"]
     },
     {
         "dex": "0302",
-        "name": "Sableye",
+        "nameJPN": "ヤミラミ",
+        "nameENG": "Sableye",
         "data": ["hoenn"]
     },
     {
         "dex": "0302M",
-        "name": "Mega Sableye",
+        "nameJPN": "メガヤミラミ",
+        "nameENG": "Mega Sableye",
         "data": ["hoenn", "mega"]
     },
     {
         "dex": "0303",
-        "name": "Mawile",
+        "nameJPN": "クチート",
+        "nameENG": "Mawile",
         "data": ["hoenn"]
     },
     {
         "dex": "0303M",
-        "name": "Mega Mawile",
+        "nameJPN": "メガクチート",
+        "nameENG": "Mega Mawile",
         "data": ["hoenn", "mega"]
     },
     {
         "dex": "0304",
-        "name": "Aron",
+        "nameJPN": "ココドラ",
+        "nameENG": "Aron",
         "data": ["hoenn"]
     },
     {
         "dex": "0305",
-        "name": "Lairon",
+        "nameJPN": "コドラ",
+        "nameENG": "Lairon",
         "data": ["hoenn"]
     },
     {
         "dex": "0306",
-        "name": "Aggron",
+        "nameJPN": "ボスゴドラ",
+        "nameENG": "Aggron",
         "data": ["hoenn"]
     },
     {
         "dex": "0306M",
-        "name": "Mega Aggron",
+        "nameJPN": "メガボスゴドラ",
+        "nameENG": "Mega Aggron",
         "data": ["hoenn", "mega"]
     },
     {
         "dex": "0307",
-        "name": "Meditite",
+        "nameJPN": "アサナン",
+        "nameENG": "Meditite",
         "data": ["hoenn"]
     },
     {
         "dex": "0308",
-        "name": "Medicham",
+        "nameJPN": "チャーレム",
+        "nameENG": "Medicham",
         "data": ["hoenn"]
     },
     {
         "dex": "0308M",
-        "name": "Mega Medicham",
+        "nameJPN": "メガチャーレム",
+        "nameENG": "Mega Medicham",
         "data": ["hoenn", "mega"]
     },
     {
         "dex": "0309",
-        "name": "Electrike",
+        "nameJPN": "ラクライ",
+        "nameENG": "Electrike",
         "data": ["hoenn"]
     },
     {
         "dex": "0310",
-        "name": "Manectric",
+        "nameJPN": "ライボルト",
+        "nameENG": "Manectric",
         "data": ["hoenn"]
     },
     {
         "dex": "0310M",
-        "name": "Mega Manectric",
+        "nameJPN": "メガライボルト",
+        "nameENG": "Mega Manectric",
         "data": ["hoenn", "mega"]
     },
     {
         "dex": "0311",
-        "name": "Plusle",
+        "nameJPN": "プラスル",
+        "nameENG": "Plusle",
         "data": ["hoenn"]
     },
     {
         "dex": "0312",
-        "name": "Minun",
+        "nameJPN": "マイナン",
+        "nameENG": "Minun",
         "data": ["hoenn"]
     },
     {
         "dex": "0313",
-        "name": "Volbeat",
+        "nameJPN": "バルビート",
+        "nameENG": "Volbeat",
         "data": ["hoenn"]
     },
     {
         "dex": "0314",
-        "name": "Illumise",
+        "nameJPN": "イルミーゼ",
+        "nameENG": "Illumise",
         "data": ["hoenn"]
     },
     {
         "dex": "0315",
-        "name": "Roselia",
+        "nameJPN": "ロゼリア",
+        "nameENG": "Roselia",
         "data": ["hoenn"]
     },
     {
         "dex": "0316",
-        "name": "Gulpin",
+        "nameJPN": "ゴクリン",
+        "nameENG": "Gulpin",
         "data": ["hoenn"]
     },
     {
         "dex": "0317",
-        "name": "Swalot",
+        "nameJPN": "マルノーム",
+        "nameENG": "Swalot",
         "data": ["hoenn"]
     },
     {
         "dex": "0318",
-        "name": "Carvanha",
+        "nameJPN": "キバニア",
+        "nameENG": "Carvanha",
         "data": ["hoenn"]
     },
     {
         "dex": "0319",
-        "name": "Sharpedo",
+        "nameJPN": "サメハダー",
+        "nameENG": "Sharpedo",
         "data": ["hoenn"]
     },
     {
         "dex": "0319M",
-        "name": "Mega Sharpedo",
+        "nameJPN": "メガサメハダー",
+        "nameENG": "Mega Sharpedo",
         "data": ["hoenn", "mega"]
     },
     {
         "dex": "0320",
-        "name": "Wailmer",
+        "nameJPN": "ホエルコ",
+        "nameENG": "Wailmer",
         "data": ["hoenn"]
     },
     {
         "dex": "0321",
-        "name": "Wailord",
+        "nameJPN": "ホエルオー",
+        "nameENG": "Wailord",
         "data": ["hoenn"]
     },
     {
         "dex": "0322",
-        "name": "Numel",
+        "nameJPN": "ドンメル",
+        "nameENG": "Numel",
         "data": ["hoenn"]
     },
     {
         "dex": "0323",
-        "name": "Camerupt",
+        "nameJPN": "バクーダ",
+        "nameENG": "Camerupt",
         "data": ["hoenn"]
     },
     {
         "dex": "0323M",
-        "name": "Mega Camerupt",
+        "nameJPN": "メガバクーダ",
+        "nameENG": "Mega Camerupt",
         "data": ["hoenn", "mega"]
     },
     {
         "dex": "0324",
-        "name": "Torkoal",
+        "nameJPN": "コータス",
+        "nameENG": "Torkoal",
         "data": ["hoenn"]
     },
     {
         "dex": "0325",
-        "name": "Spoink",
+        "nameJPN": "バネブー",
+        "nameENG": "Spoink",
         "data": ["hoenn"]
     },
     {
         "dex": "0326",
-        "name": "Grumpig",
+        "nameJPN": "ブーピッグ",
+        "nameENG": "Grumpig",
         "data": ["hoenn"]
     },
     {
         "dex": "0327",
-        "name": "Spinda",
+        "nameJPN": "パッチール",
+        "nameENG": "Spinda",
         "data": ["hoenn"]
     },
     {
         "dex": "0328",
-        "name": "Trapinch",
+        "nameJPN": "ナックラー",
+        "nameENG": "Trapinch",
         "data": ["hoenn"]
     },
     {
         "dex": "0329",
-        "name": "Vibrava",
+        "nameJPN": "ビブラーバ",
+        "nameENG": "Vibrava",
         "data": ["hoenn"]
     },
     {
         "dex": "0330",
-        "name": "Flygon",
+        "nameJPN": "フライゴン",
+        "nameENG": "Flygon",
         "data": ["hoenn"]
     },
     {
         "dex": "0331",
-        "name": "Cacnea",
+        "nameJPN": "サボネア",
+        "nameENG": "Cacnea",
         "data": ["hoenn"]
     },
     {
         "dex": "0332",
-        "name": "Cacturne",
+        "nameJPN": "ノクタス",
+        "nameENG": "Cacturne",
         "data": ["hoenn"]
     },
     {
         "dex": "0333",
-        "name": "Swablu",
+        "nameJPN": "チルット",
+        "nameENG": "Swablu",
         "data": ["hoenn"]
     },
     {
         "dex": "0334",
-        "name": "Altaria",
+        "nameJPN": "チルタリス",
+        "nameENG": "Altaria",
         "data": ["hoenn"]
     },
     {
         "dex": "0334M",
-        "name": "Mega Altaria",
+        "nameJPN": "メガチルタリス",
+        "nameENG": "Mega Altaria",
         "data": ["hoenn", "mega"]
     },
     {
         "dex": "0335",
-        "name": "Zangoose",
+        "nameJPN": "ザングース",
+        "nameENG": "Zangoose",
         "data": ["hoenn"]
     },
     {
         "dex": "0336",
-        "name": "Seviper",
+        "nameJPN": "ハブネーク",
+        "nameENG": "Seviper",
         "data": ["hoenn"]
     },
     {
         "dex": "0337",
-        "name": "Lunatone",
+        "nameJPN": "ルナトーン",
+        "nameENG": "Lunatone",
         "data": ["hoenn"]
     },
     {
         "dex": "0338",
-        "name": "Solrock",
+        "nameJPN": "ソルロック",
+        "nameENG": "Solrock",
         "data": ["hoenn"]
     },
     {
         "dex": "0339",
-        "name": "Barboach",
+        "nameJPN": "ドジョッチ",
+        "nameENG": "Barboach",
         "data": ["hoenn"]
     },
     {
         "dex": "0340",
-        "name": "Whiscash",
+        "nameJPN": "ナマズン",
+        "nameENG": "Whiscash",
         "data": ["hoenn"]
     },
     {
         "dex": "0341",
-        "name": "Corphish",
+        "nameJPN": "ヘイガニ",
+        "nameENG": "Corphish",
         "data": ["hoenn"]
     },
     {
         "dex": "0342",
-        "name": "Crawdaunt",
+        "nameJPN": "シザリガー",
+        "nameENG": "Crawdaunt",
         "data": ["hoenn"]
     },
     {
         "dex": "0343",
-        "name": "Baltoy",
+        "nameJPN": "ヤジロン",
+        "nameENG": "Baltoy",
         "data": ["hoenn"]
     },
     {
         "dex": "0344",
-        "name": "Claydol",
+        "nameJPN": "ネンドール",
+        "nameENG": "Claydol",
         "data": ["hoenn"]
     },
     {
         "dex": "0345",
-        "name": "Lileep",
+        "nameJPN": "リリーラ",
+        "nameENG": "Lileep",
         "data": ["hoenn"]
     },
     {
         "dex": "0346",
-        "name": "Cradily",
+        "nameJPN": "ユレイドル",
+        "nameENG": "Cradily",
         "data": ["hoenn"]
     },
     {
         "dex": "0347",
-        "name": "Anorith",
+        "nameJPN": "アノプス",
+        "nameENG": "Anorith",
         "data": ["hoenn"]
     },
     {
         "dex": "0348",
-        "name": "Armaldo",
+        "nameJPN": "アーマルド",
+        "nameENG": "Armaldo",
         "data": ["hoenn"]
     },
     {
         "dex": "0349",
-        "name": "Feebas",
+        "nameJPN": "ヒンバス",
+        "nameENG": "Feebas",
         "data": ["hoenn"]
     },
     {
         "dex": "0350",
-        "name": "Milotic",
+        "nameJPN": "ミロカロス",
+        "nameENG": "Milotic",
         "data": ["hoenn"]
     },
     {
         "dex": "0351",
-        "name": "Castform",
+        "nameJPN": "ポワルン",
+        "nameENG": "Castform",
         "data": ["hoenn"]
     },
     {
         "dex": "0351S",
-        "name": "",
+        "nameJPN": "",
+        "nameENG": "",
         "data": ["hoenn"]
     },
     {
         "dex": "0351R",
-        "name": "",
+        "nameJPN": "",
+        "nameENG": "",
         "data": ["hoenn"]
     },
     {
         "dex": "0351H",
-        "name": "",
+        "nameJPN": "",
+        "nameENG": "",
         "data": ["hoenn"]
     },
     {
         "dex": "0352",
-        "name": "Kecleon",
+        "nameJPN": "カクレオン",
+        "nameENG": "Kecleon",
         "data": ["hoenn"]
     },
     {
         "dex": "0353",
-        "name": "Shuppet",
+        "nameJPN": "カゲボウズ",
+        "nameENG": "Shuppet",
         "data": ["hoenn"]
     },
     {
         "dex": "0354",
-        "name": "Banette",
+        "nameJPN": "ジュペッタ",
+        "nameENG": "Banette",
         "data": ["hoenn"]
     },
     {
         "dex": "0354M",
-        "name": "Mega Banette",
+        "nameJPN": "メガジュペッタ",
+        "nameENG": "Mega Banette",
         "data": ["hoenn", "mega"]
     },
     {
         "dex": "0355",
-        "name": "Duskull",
+        "nameJPN": "ヨマワル",
+        "nameENG": "Duskull",
         "data": ["hoenn"]
     },
     {
         "dex": "0356",
-        "name": "Dusclops",
+        "nameJPN": "サマヨール",
+        "nameENG": "Dusclops",
         "data": ["hoenn"]
     },
     {
         "dex": "0357",
-        "name": "Tropius",
+        "nameJPN": "トロピウス",
+        "nameENG": "Tropius",
         "data": ["hoenn"]
     },
     {
         "dex": "0358",
-        "name": "Chimecho",
+        "nameJPN": "チリーン",
+        "nameENG": "Chimecho",
         "data": ["hoenn"]
     },
     {
         "dex": "0359",
-        "name": "Absol",
+        "nameJPN": "アブソル",
+        "nameENG": "Absol",
         "data": ["hoenn"]
     },
     {
         "dex": "0360",
-        "name": "Wynaut",
+        "nameJPN": "ソーナノ",
+        "nameENG": "Wynaut",
         "data": ["hoenn"]
     },
     {
         "dex": "0361",
-        "name": "Snorunt",
+        "nameJPN": "ユキワラシ",
+        "nameENG": "Snorunt",
         "data": ["hoenn"]
     },
     {
         "dex": "0362",
-        "name": "Glalie",
+        "nameJPN": "オニゴーリ",
+        "nameENG": "Glalie",
         "data": ["hoenn"]
     },
     {
         "dex": "0362M",
-        "name": "Mega Glalie",
+        "nameJPN": "メガオニゴーリ",
+        "nameENG": "Mega Glalie",
         "data": ["hoenn", "mega"]
     },
     {
         "dex": "0363",
-        "name": "Spheal",
+        "nameJPN": "タマザラシ",
+        "nameENG": "Spheal",
         "data": ["hoenn"]
     },
     {
         "dex": "0364",
-        "name": "Sealeo",
+        "nameJPN": "トドグラー",
+        "nameENG": "Sealeo",
         "data": ["hoenn"]
     },
     {
         "dex": "0365",
-        "name": "Walrein",
+        "nameJPN": "トドゼルガ",
+        "nameENG": "Walrein",
         "data": ["hoenn"]
     },
     {
         "dex": "0366",
-        "name": "Clamperl",
+        "nameJPN": "パールル",
+        "nameENG": "Clamperl",
         "data": ["hoenn"]
     },
     {
         "dex": "0367",
-        "name": "Huntail",
+        "nameJPN": "ハンテール",
+        "nameENG": "Huntail",
         "data": ["hoenn"]
     },
     {
         "dex": "0368",
-        "name": "Gorebyss",
+        "nameJPN": "サクラビス",
+        "nameENG": "Gorebyss",
         "data": ["hoenn"]
     },
     {
         "dex": "0369",
-        "name": "Relicanth",
+        "nameJPN": "ジーランス",
+        "nameENG": "Relicanth",
         "data": ["hoenn"]
     },
     {
         "dex": "0370",
-        "name": "Luvdisc",
+        "nameJPN": "ラブカス",
+        "nameENG": "Luvdisc",
         "data": ["hoenn"]
     },
     {
         "dex": "0371",
-        "name": "Bagon",
+        "nameJPN": "タツベイ",
+        "nameENG": "Bagon",
         "data": ["hoenn"]
     },
     {
         "dex": "0372",
-        "name": "Shelgon",
+        "nameJPN": "コモルー",
+        "nameENG": "Shelgon",
         "data": ["hoenn", "bs600"]
     },
     {
         "dex": "0373",
-        "name": "Salamence",
+        "nameJPN": "ボーマンダ",
+        "nameENG": "Salamence",
         "data": ["hoenn", "bs600"]
     },
     {
         "dex": "0373M",
-        "name": "Mega Salamence",
+        "nameJPN": "メガボーマンダ",
+        "nameENG": "Mega Salamence",
         "data": ["hoenn", "mega", "bs600"]
     },
     {
         "dex": "0374",
-        "name": "Beldum",
+        "nameJPN": "ダンバル",
+        "nameENG": "Beldum",
         "data": ["hoenn"]
     },
     {
         "dex": "0375",
-        "name": "Metang",
+        "nameJPN": "メタング",
+        "nameENG": "Metang",
         "data": ["hoenn", "bs600"]
     },
     {
         "dex": "0376",
-        "name": "Metagross",
+        "nameJPN": "メタグロス",
+        "nameENG": "Metagross",
         "data": ["hoenn", "bs600"]
     },
     {
         "dex": "0376M",
-        "name": "Mega Metagross",
+        "nameJPN": "メガメタグロス",
+        "nameENG": "Mega Metagross",
         "data": ["hoenn", "mega", "bs600"]
     },
     {
         "dex": "0377",
-        "name": "Regirock",
+        "nameJPN": "レジロック",
+        "nameENG": "Regirock",
         "data": ["hoenn", "trio"]
     },
     {
         "dex": "0378",
-        "name": "Regice",
+        "nameJPN": "レジアイス",
+        "nameENG": "Regice",
         "data": ["hoenn", "trio"]
     },
     {
         "dex": "0379",
-        "name": "Registeel",
+        "nameJPN": "レジスチル",
+        "nameENG": "Registeel",
         "data": ["hoenn", "trio"]
     },
     {
         "dex": "0380",
-        "name": "Latias",
+        "nameJPN": "ラティアス",
+        "nameENG": "Latias",
         "data": ["hoenn"]
     },
     {
         "dex": "0380M",
-        "name": "Mega Latias",
+        "nameJPN": "メガラティアス",
+        "nameENG": "Mega Latias",
         "data": ["hoenn", "mega"]
     },
     {
         "dex": "0381",
-        "name": "Latios",
+        "nameJPN": "ラティオス",
+        "nameENG": "Latios",
         "data": ["hoenn"]
     },
     {
         "dex": "0381M",
-        "name": "Mega Latios",
+        "nameJPN": "メガラティオス",
+        "nameENG": "Mega Latios",
         "data": ["hoenn", "mega"]
     },
     {
         "dex": "0382",
-        "name": "Kyogre",
+        "nameJPN": "カイオーガ",
+        "nameENG": "Kyogre",
         "data": ["hoenn", "legendary"]
     },
     {
         "dex": "0382P",
-        "name": "Primal Kyogre",
+        "nameJPN": "ゲンシカイオーガ",
+        "nameENG": "Primal Kyogre",
         "data": ["hoenn", "legendary", "mega"]
     },
     {
         "dex": "0383",
-        "name": "Groudon",
+        "nameJPN": "グラードン",
+        "nameENG": "Groudon",
         "data": ["hoenn", "legendary"]
     },
     {
         "dex": "0383P",
-        "name": "Primal Groudon",
+        "nameJPN": "ゲンシグラードン",
+        "nameENG": "Primal Groudon",
         "data": ["hoenn", "legendary", "mega"]
     },
     {
         "dex": "0384",
-        "name": "Rayquaza",
+        "nameJPN": "レックウザ",
+        "nameENG": "Rayquaza",
         "data": ["hoenn", "legendary"]
     },
     {
         "dex": "0384M",
-        "name": "Mega Rayquaza",
+        "nameJPN": "メガレックウザ",
+        "nameENG": "Mega Rayquaza",
         "data": ["hoenn", "legendary", "mega"]
     },
     {
         "dex": "0385",
-        "name": "Jirachi",
+        "nameJPN": "ジラーチ",
+        "nameENG": "Jirachi",
         "data": ["hoenn", "mirage"]
     },
     {
         "dex": "0386",
-        "name": "Deoxys Normal",
+        "nameJPN": "デオキシス",
+        "nameENG": "Deoxys Normal",
         "data": ["hoenn", "mirage"]
     },
     {
         "dex": "0386D",
-        "name": "Deoxys Defense",
+        "nameJPN": "",
+        "nameENG": "Deoxys Defense",
         "data": ["hoenn", "mirage"]
     },
     {
         "dex": "0386A",
-        "name": "Deoxys Attack",
+        "nameJPN": "",
+        "nameENG": "Deoxys Attack",
         "data": ["hoenn", "mirage"]
     },
     {
         "dex": "0386S",
-        "name": "Deoxys Speed",
+        "nameJPN": "",
+        "nameENG": "Deoxys Speed",
         "data": ["hoenn", "mirage"]
     },
     {
         "dex": "0387",
-        "name": "Turtwig",
+        "nameJPN": "ナエトル",
+        "nameENG": "Turtwig",
         "data": ["sinnoh", "starter"]
     },
     {
         "dex": "0388",
-        "name": "Grotle",
+        "nameJPN": "ハヤシガメ",
+        "nameENG": "Grotle",
         "data": ["sinnoh", "starter"]
     },
     {
         "dex": "0389",
-        "name": "Torterra",
+        "nameJPN": "ドダイトス",
+        "nameENG": "Torterra",
         "data": ["sinnoh", "starter"]
     },
     {
         "dex": "0390",
-        "name": "Chimchar",
+        "nameJPN": "ヒコザル",
+        "nameENG": "Chimchar",
         "data": ["sinnoh", "starter"]
     },
     {
         "dex": "0391",
-        "name": "Monferno",
+        "nameJPN": "モウカザル",
+        "nameENG": "Monferno",
         "data": ["sinnoh", "starter"]
     },
     {
         "dex": "0392",
-        "name": "Infernape",
+        "nameJPN": "ゴウカザル",
+        "nameENG": "Infernape",
         "data": ["sinnoh", "starter"]
     },
     {
         "dex": "0393",
-        "name": "Piplup",
+        "nameJPN": "ポッチャマ",
+        "nameENG": "Piplup",
         "data": ["sinnoh", "starter"]
     },
     {
         "dex": "0394",
-        "name": "Prinplup",
+        "nameJPN": "ポッタイシ",
+        "nameENG": "Prinplup",
         "data": ["sinnoh", "starter"]
     },
     {
         "dex": "0395",
-        "name": "Empoleon",
+        "nameJPN": "エンペルト",
+        "nameENG": "Empoleon",
         "data": ["sinnoh", "starter"]
     },
     {
         "dex": "0396",
-        "name": "Starly",
+        "nameJPN": "ムックル",
+        "nameENG": "Starly",
         "data": ["sinnoh"]
     },
     {
         "dex": "0397",
-        "name": "Staravia",
+        "nameJPN": "ムクバード",
+        "nameENG": "Staravia",
         "data": ["sinnoh"]
     },
     {
         "dex": "0398",
-        "name": "Staraptor",
+        "nameJPN": "ムクホーク",
+        "nameENG": "Staraptor",
         "data": ["sinnoh"]
     },
     {
         "dex": "0399",
-        "name": "Bidoof",
+        "nameJPN": "ビッパ",
+        "nameENG": "Bidoof",
         "data": ["sinnoh"]
     },
     {
         "dex": "0400",
-        "name": "Bibarel",
+        "nameJPN": "ビーダル",
+        "nameENG": "Bibarel",
         "data": ["sinnoh"]
     },
     {
         "dex": "0401",
-        "name": "Kricketot",
+        "nameJPN": "コロボーシ",
+        "nameENG": "Kricketot",
         "data": ["sinnoh"]
     },
     {
         "dex": "0402",
-        "name": "Kricketune",
+        "nameJPN": "コロトック",
+        "nameENG": "Kricketune",
         "data": ["sinnoh"]
     },
     {
         "dex": "0403",
-        "name": "Shinx",
+        "nameJPN": "コリンク",
+        "nameENG": "Shinx",
         "data": ["sinnoh"]
     },
     {
         "dex": "0404",
-        "name": "Luxio",
+        "nameJPN": "ルクシオ",
+        "nameENG": "Luxio",
         "data": ["sinnoh"]
     },
     {
         "dex": "0405",
-        "name": "Luxray",
+        "nameJPN": "レントラー",
+        "nameENG": "Luxray",
         "data": ["sinnoh"]
     },
     {
         "dex": "0406",
-        "name": "Budew",
+        "nameJPN": "スボミー",
+        "nameENG": "Budew",
         "data": ["sinnoh"]
     },
     {
         "dex": "0407",
-        "name": "Roserade",
+        "nameJPN": "ロズレイド",
+        "nameENG": "Roserade",
         "data": ["sinnoh"]
     },
     {
         "dex": "0408",
-        "name": "Cranidos",
+        "nameJPN": "ズガイドス",
+        "nameENG": "Cranidos",
         "data": ["sinnoh"]
     },
     {
         "dex": "0409",
-        "name": "Rampardos",
+        "nameJPN": "ラムパルド",
+        "nameENG": "Rampardos",
         "data": ["sinnoh"]
     },
     {
         "dex": "0410",
-        "name": "Shieldon",
+        "nameJPN": "タテトプス",
+        "nameENG": "Shieldon",
         "data": ["sinnoh"]
     },
     {
         "dex": "0411",
-        "name": "Bastiodon",
+        "nameJPN": "トリデプス",
+        "nameENG": "Bastiodon",
         "data": ["sinnoh"]
     },
     {
         "dex": "0412",
-        "name": "Burmy",
+        "nameJPN": "ミノムッチ",
+        "nameENG": "Burmy",
         "data": ["sinnoh"]
     },
     {
         "dex": "0412G",
-        "name": "",
+        "nameJPN": "",
+        "nameENG": "",
         "data": ["sinnoh"]
     },
     {
         "dex": "0412S",
-        "name": "",
+        "nameJPN": "",
+        "nameENG": "",
         "data": ["sinnoh"]
     },
     {
         "dex": "0413",
-        "name": "Wormadam",
+        "nameJPN": "ミノマダム",
+        "nameENG": "Wormadam",
         "data": ["sinnoh"]
     },
     {
         "dex": "0413G",
-        "name": "",
+        "nameJPN": "",
+        "nameENG": "",
         "data": ["sinnoh"]
     },
     {
         "dex": "0413S",
-        "name": "",
+        "nameJPN": "",
+        "nameENG": "",
         "data": ["sinnoh"]
     },
     {
         "dex": "0414",
-        "name": "Mothim",
+        "nameJPN": "ガーメイル",
+        "nameENG": "Mothim",
         "data": ["sinnoh"]
     },
     {
         "dex": "0415",
-        "name": "Combee",
+        "nameJPN": "ミツハニー",
+        "nameENG": "Combee",
         "data": ["sinnoh"]
     },
     {
         "dex": "0416",
-        "name": "Vespiquen",
+        "nameJPN": "ビークイン",
+        "nameENG": "Vespiquen",
         "data": ["sinnoh"]
     },
     {
         "dex": "0417",
-        "name": "Pachirisu",
+        "nameJPN": "パチリス",
+        "nameENG": "Pachirisu",
         "data": ["sinnoh"]
     },
     {
         "dex": "0418",
-        "name": "Buizel",
+        "nameJPN": "ブイゼル",
+        "nameENG": "Buizel",
         "data": ["sinnoh"]
     },
     {
         "dex": "0419",
-        "name": "Floatzel",
+        "nameJPN": "フローゼル",
+        "nameENG": "Floatzel",
         "data": ["sinnoh"]
     },
     {
         "dex": "0420",
-        "name": "Cherubi",
+        "nameJPN": "チェリンボ",
+        "nameENG": "Cherubi",
         "data": ["sinnoh"]
     },
     {
         "dex": "0421",
-        "name": "Cherrim",
+        "nameJPN": "チェリム",
+        "nameENG": "Cherrim",
         "data": ["sinnoh"]
     },
     {
         "dex": "0421S",
-        "name": "",
+        "nameJPN": "",
+        "nameENG": "",
         "data": ["sinnoh"]
     },
     {
         "dex": "0422",
-        "name": "Shellos",
+        "nameJPN": "カラナクシ",
+        "nameENG": "Shellos",
         "data": ["sinnoh"]
     },
     {
         "dex": "0422E",
-        "name": "",
+        "nameJPN": "",
+        "nameENG": "",
         "data": ["sinnoh"]
     },
     {
         "dex": "0423",
-        "name": "Gastrodon",
+        "nameJPN": "トリトドン",
+        "nameENG": "Gastrodon",
         "data": ["sinnoh"]
     },
     {
         "dex": "0423E",
-        "name": "",
+        "nameJPN": "",
+        "nameENG": "",
         "data": ["sinnoh"]
     },
     {
         "dex": "0424",
-        "name": "Ambipom",
+        "nameJPN": "エテボース",
+        "nameENG": "Ambipom",
         "data": ["sinnoh"]
     },
     {
         "dex": "0425",
-        "name": "Drifloon",
+        "nameJPN": "フワンテ",
+        "nameENG": "Drifloon",
         "data": ["sinnoh"]
     },
     {
         "dex": "0426",
-        "name": "Drifblim",
+        "nameJPN": "フワライド",
+        "nameENG": "Drifblim",
         "data": ["sinnoh"]
     },
     {
         "dex": "0427",
-        "name": "Buneary",
+        "nameJPN": "ミミロル",
+        "nameENG": "Buneary",
         "data": ["sinnoh"]
     },
     {
         "dex": "0428",
-        "name": "Lopunny",
+        "nameJPN": "ミミロップ",
+        "nameENG": "Lopunny",
         "data": ["sinnoh"]
     },
     {
         "dex": "0428M",
-        "name": "Mega Lopunny",
+        "nameJPN": "メガミミロップ",
+        "nameENG": "Mega Lopunny",
         "data": ["sinnoh", "mega"]
     },
     {
         "dex": "0429",
-        "name": "Mismagius",
+        "nameJPN": "ムウマージ",
+        "nameENG": "Mismagius",
         "data": ["sinnoh"]
     },
     {
         "dex": "0430",
-        "name": "Honchkrow",
+        "nameJPN": "ドンカラス",
+        "nameENG": "Honchkrow",
         "data": ["sinnoh"]
     },
     {
         "dex": "0431",
-        "name": "Glameow",
+        "nameJPN": "ニャルマー",
+        "nameENG": "Glameow",
         "data": ["sinnoh"]
     },
     {
         "dex": "0432",
-        "name": "Purugly",
+        "nameJPN": "ブニャット",
+        "nameENG": "Purugly",
         "data": ["sinnoh"]
     },
     {
         "dex": "0433",
-        "name": "Chingling",
+        "nameJPN": "リーシャン",
+        "nameENG": "Chingling",
         "data": ["sinnoh"]
     },
     {
         "dex": "0434",
-        "name": "Stunky",
+        "nameJPN": "スカンプー",
+        "nameENG": "Stunky",
         "data": ["sinnoh"]
     },
     {
         "dex": "0435",
-        "name": "Skuntank",
+        "nameJPN": "スカタンク",
+        "nameENG": "Skuntank",
         "data": ["sinnoh"]
     },
     {
         "dex": "0436",
-        "name": "Bronzor",
+        "nameJPN": "ドーミラー",
+        "nameENG": "Bronzor",
         "data": ["sinnoh"]
     },
     {
         "dex": "0437",
-        "name": "Bronzong",
+        "nameJPN": "ドータクン",
+        "nameENG": "Bronzong",
         "data": ["sinnoh"]
     },
     {
         "dex": "0438",
-        "name": "Bonsly",
+        "nameJPN": "ウソハチ",
+        "nameENG": "Bonsly",
         "data": ["sinnoh"]
     },
     {
         "dex": "0439",
-        "name": "Mime",
+        "nameJPN": "マネネ",
+        "nameENG": "Mime",
         "data": ["sinnoh"]
     },
     {
         "dex": "0440",
-        "name": "Happiny",
+        "nameJPN": "ピンプク",
+        "nameENG": "Happiny",
         "data": ["sinnoh"]
     },
     {
         "dex": "0441",
-        "name": "Chatot",
+        "nameJPN": "ペラップ",
+        "nameENG": "Chatot",
         "data": ["sinnoh"]
     },
     {
         "dex": "0442",
-        "name": "Spiritomb",
+        "nameJPN": "ミカルゲ",
+        "nameENG": "Spiritomb",
         "data": ["sinnoh"]
     },
     {
         "dex": "0443",
-        "name": "Gible",
+        "nameJPN": "フカマル",
+        "nameENG": "Gible",
         "data": ["sinnoh"]
     },
     {
         "dex": "0444",
-        "name": "Gabite",
+        "nameJPN": "ガバイト",
+        "nameENG": "Gabite",
         "data": ["sinnoh", "bs600"]
     },
     {
         "dex": "0445",
-        "name": "Garchomp",
+        "nameJPN": "ガブリアス",
+        "nameENG": "Garchomp",
         "data": ["sinnoh", "bs600"]
     },
     {
         "dex": "0445M",
-        "name": "Mega Garchomp",
+        "nameJPN": "メガガブリアス",
+        "nameENG": "Mega Garchomp",
         "data": ["sinnoh", "mega", "bs600"]
     },
     {
         "dex": "0446",
-        "name": "Munchlax",
+        "nameJPN": "ゴンベ",
+        "nameENG": "Munchlax",
         "data": ["sinnoh"]
     },
     {
         "dex": "0447",
-        "name": "Riolu",
+        "nameJPN": "リオル",
+        "nameENG": "Riolu",
         "data": ["sinnoh"]
     },
     {
         "dex": "0448",
-        "name": "Lucario",
+        "nameJPN": "ルカリオ",
+        "nameENG": "Lucario",
         "data": ["sinnoh"]
     },
     {
         "dex": "0448M",
-        "name": "Mega Lucario",
+        "nameJPN": "メガルカリオ",
+        "nameENG": "Mega Lucario",
         "data": ["sinnoh", "mega"]
     },
     {
         "dex": "0449",
-        "name": "Hippopotas",
+        "nameJPN": "ヒポポタス",
+        "nameENG": "Hippopotas",
         "data": ["sinnoh"]
     },
     {
         "dex": "0450",
-        "name": "Hippowdon",
+        "nameJPN": "カバルドン",
+        "nameENG": "Hippowdon",
         "data": ["sinnoh"]
     },
     {
         "dex": "0451",
-        "name": "Skorupi",
+        "nameJPN": "スコルピ",
+        "nameENG": "Skorupi",
         "data": ["sinnoh"]
     },
     {
         "dex": "0452",
-        "name": "Drapion",
+        "nameJPN": "ドラピオン",
+        "nameENG": "Drapion",
         "data": ["sinnoh"]
     },
     {
         "dex": "0453",
-        "name": "Croagunk",
+        "nameJPN": "グレッグル",
+        "nameENG": "Croagunk",
         "data": ["sinnoh"]
     },
     {
         "dex": "0454",
-        "name": "Toxicroak",
+        "nameJPN": "ドクロッグ",
+        "nameENG": "Toxicroak",
         "data": ["sinnoh"]
     },
     {
         "dex": "0455",
-        "name": "Carnivine",
+        "nameJPN": "マスキッパ",
+        "nameENG": "Carnivine",
         "data": ["sinnoh"]
     },
     {
         "dex": "0456",
-        "name": "Finneon",
+        "nameJPN": "ケイコウオ",
+        "nameENG": "Finneon",
         "data": ["sinnoh"]
     },
     {
         "dex": "0457",
-        "name": "Lumineon",
+        "nameJPN": "ネオラント",
+        "nameENG": "Lumineon",
         "data": ["sinnoh"]
     },
     {
         "dex": "0458",
-        "name": "Mantyke",
+        "nameJPN": "タマンタ",
+        "nameENG": "Mantyke",
         "data": ["sinnoh"]
     },
     {
         "dex": "0459",
-        "name": "Snover",
+        "nameJPN": "ユキカブリ",
+        "nameENG": "Snover",
         "data": ["sinnoh"]
     },
     {
         "dex": "0460",
-        "name": "Abomasnow",
+        "nameJPN": "ユキノオー",
+        "nameENG": "Abomasnow",
         "data": ["sinnoh"]
     },
     {
         "dex": "0460M",
-        "name": "Mega Abomasnow",
+        "nameJPN": "メガユキノオー",
+        "nameENG": "Mega Abomasnow",
         "data": ["sinnoh", "mega"]
     },
     {
         "dex": "0461",
-        "name": "Weavile",
+        "nameJPN": "マニューラ",
+        "nameENG": "Weavile",
         "data": ["sinnoh"]
     },
     {
         "dex": "0462",
-        "name": "Magnezone",
+        "nameJPN": "ジバコイル",
+        "nameENG": "Magnezone",
         "data": ["sinnoh"]
     },
     {
         "dex": "0463",
-        "name": "Lickilicky",
+        "nameJPN": "ベロベルト",
+        "nameENG": "Lickilicky",
         "data": ["sinnoh"]
     },
     {
         "dex": "0464",
-        "name": "Rhyperior",
+        "nameJPN": "ドサイドン",
+        "nameENG": "Rhyperior",
         "data": ["sinnoh"]
     },
     {
         "dex": "0465",
-        "name": "Tangrowth",
+        "nameJPN": "モジャンボ",
+        "nameENG": "Tangrowth",
         "data": ["sinnoh"]
     },
     {
         "dex": "0466",
-        "name": "Electivire",
+        "nameJPN": "エレキブル",
+        "nameENG": "Electivire",
         "data": ["sinnoh"]
     },
     {
         "dex": "0467",
-        "name": "Magmortar",
+        "nameJPN": "ブーバーン",
+        "nameENG": "Magmortar",
         "data": ["sinnoh"]
     },
     {
         "dex": "0468",
-        "name": "Togekiss",
+        "nameJPN": "トゲキッス",
+        "nameENG": "Togekiss",
         "data": ["sinnoh"]
     },
     {
         "dex": "0469",
-        "name": "Yanmega",
+        "nameJPN": "メガヤンマ",
+        "nameENG": "Yanmega",
         "data": ["sinnoh"]
     },
     {
         "dex": "0470",
-        "name": "Leafeon",
+        "nameJPN": "リーフィア",
+        "nameENG": "Leafeon",
         "data": ["sinnoh", "eevee"]
     },
     {
         "dex": "0471",
-        "name": "Glaceon",
+        "nameJPN": "グレイシア",
+        "nameENG": "Glaceon",
         "data": ["sinnoh", "eevee"]
     },
     {
         "dex": "0472",
-        "name": "Gliscor",
+        "nameJPN": "グライオン",
+        "nameENG": "Gliscor",
         "data": ["sinnoh"]
     },
     {
         "dex": "0473",
-        "name": "Mamoswine",
+        "nameJPN": "マンムー",
+        "nameENG": "Mamoswine",
         "data": ["sinnoh"]
     },
     {
         "dex": "0474",
-        "name": "Porygon-Z",
+        "nameJPN": "ポリゴンＺ",
+        "nameENG": "Porygon-Z",
         "data": ["sinnoh"]
     },
     {
         "dex": "0475",
-        "name": "Gallade",
+        "nameJPN": "エルレイド",
+        "nameENG": "Gallade",
         "data": ["sinnoh"]
     },
     {
         "dex": "0475M",
-        "name": "Mega Gallade",
+        "nameJPN": "メガエルレイド",
+        "nameENG": "Mega Gallade",
         "data": ["sinnoh", "mega"]
     },
     {
         "dex": "0476",
-        "name": "Probopass",
+        "nameJPN": "ダイノーズ",
+        "nameENG": "Probopass",
         "data": ["sinnoh"]
     },
     {
         "dex": "0477",
-        "name": "Dusknoir",
+        "nameJPN": "ヨノワール",
+        "nameENG": "Dusknoir",
         "data": ["sinnoh"]
     },
     {
         "dex": "0478",
-        "name": "Froslass",
+        "nameJPN": "ユキメノコ",
+        "nameENG": "Froslass",
         "data": ["sinnoh"]
     },
     {
         "dex": "0479",
-        "name": "Rotom",
+        "nameJPN": "ロトム",
+        "nameENG": "Rotom",
         "data": ["sinnoh"]
     },
     {
         "dex": "0479O",
-        "name": "",
+        "nameJPN": "",
+        "nameENG": "",
         "data": ["sinnoh"]
     },
     {
         "dex": "0479W",
-        "name": "",
+        "nameJPN": "",
+        "nameENG": "",
         "data": ["sinnoh"]
     },
     {
         "dex": "0479R",
-        "name": "",
+        "nameJPN": "",
+        "nameENG": "",
         "data": ["sinnoh"]
     },
     {
         "dex": "0479F",
-        "name": "",
+        "nameJPN": "",
+        "nameENG": "",
         "data": ["sinnoh"]
     },
     {
         "dex": "0479L",
-        "name": "",
+        "nameJPN": "",
+        "nameENG": "",
         "data": ["sinnoh"]
     },
     {
         "dex": "0480",
-        "name": "Uxie",
+        "nameJPN": "ユクシー",
+        "nameENG": "Uxie",
         "data": ["sinnoh", "trio"]
     },
     {
         "dex": "0481",
-        "name": "Mesprit",
+        "nameJPN": "エムリット",
+        "nameENG": "Mesprit",
         "data": ["sinnoh", "trio"]
     },
     {
         "dex": "0482",
-        "name": "Azelf",
+        "nameJPN": "アグノム",
+        "nameENG": "Azelf",
         "data": ["sinnoh", "trio"]
     },
     {
         "dex": "0483",
-        "name": "Dialga",
+        "nameJPN": "ディアルガ",
+        "nameENG": "Dialga",
         "data": ["sinnoh", "legendary"]
     },
     {
         "dex": "0484",
-        "name": "Palkia",
+        "nameJPN": "パルキア",
+        "nameENG": "Palkia",
         "data": ["sinnoh", "legendary"]
     },
     {
         "dex": "0485",
-        "name": "Heatran",
+        "nameJPN": "ヒードラン",
+        "nameENG": "Heatran",
         "data": ["sinnoh"]
     },
     {
         "dex": "0486",
-        "name": "Regigigas",
+        "nameJPN": "レジギガス",
+        "nameENG": "Regigigas",
         "data": ["sinnoh"]
     },
     {
         "dex": "0487",
-        "name": "Giratina",
+        "nameJPN": "ギラティナ",
+        "nameENG": "Giratina",
         "data": ["sinnoh", "legendary"]
     },
     {
         "dex": "0487O",
-        "name": "",
+        "nameJPN": "",
+        "nameENG": "",
         "data": ["sinnoh"]
     },
     {
         "dex": "0488",
-        "name": "Cresselia",
+        "nameJPN": "クレセリア",
+        "nameENG": "Cresselia",
         "data": ["sinnoh"]
     },
     {
         "dex": "0489",
-        "name": "Phione",
+        "nameJPN": "フィオネ",
+        "nameENG": "Phione",
         "data": ["sinnoh", "mirage"]
     },
     {
         "dex": "0490",
-        "name": "Manaphy",
+        "nameJPN": "マナフィ",
+        "nameENG": "Manaphy",
         "data": ["sinnoh", "mirage"]
     },
     {
         "dex": "0491",
-        "name": "Darkrai",
+        "nameJPN": "ダークライ",
+        "nameENG": "Darkrai",
         "data": ["sinnoh", "mirage"]
     },
     {
         "dex": "0492",
-        "name": "Shaymin",
+        "nameJPN": "シェイミ",
+        "nameENG": "Shaymin",
         "data": ["sinnoh", "mirage"]
     },
     {
         "dex": "0492S",
-        "name": "",
+        "nameJPN": "",
+        "nameENG": "",
         "data": ["sinnoh", "mirage"]
     },
     {
         "dex": "0493",
-        "name": "Arceus",
+        "nameJPN": "アルセウス",
+        "nameENG": "Arceus",
         "data": ["sinnoh", "mirage"]
     },
     {
         "dex": "0494",
-        "name": "Victini",
+        "nameJPN": "ビクティニ",
+        "nameENG": "Victini",
         "data": ["unova", "mirage"]
     },
     {
         "dex": "0495",
-        "name": "Snivy",
+        "nameJPN": "ツタージャ",
+        "nameENG": "Snivy",
         "data": ["unova", "starter"]
     },
     {
         "dex": "0496",
-        "name": "Servine",
+        "nameJPN": "ジャノビー",
+        "nameENG": "Servine",
         "data": ["unova", "starter"]
     },
     {
         "dex": "0497",
-        "name": "Serperior",
+        "nameJPN": "ジャローダ",
+        "nameENG": "Serperior",
         "data": ["unova", "starter"]
     },
     {
         "dex": "0498",
-        "name": "Tepig",
+        "nameJPN": "ポカブ",
+        "nameENG": "Tepig",
         "data": ["unova", "starter"]
     },
     {
         "dex": "0499",
-        "name": "Pignite",
+        "nameJPN": "チャオブー",
+        "nameENG": "Pignite",
         "data": ["unova", "starter"]
     },
     {
         "dex": "0500",
-        "name": "Emboar",
+        "nameJPN": "エンブオー",
+        "nameENG": "Emboar",
         "data": ["unova", "starter"]
     },
     {
         "dex": "0501",
-        "name": "Oshawott",
+        "nameJPN": "ミジュマル",
+        "nameENG": "Oshawott",
         "data": ["unova", "starter"]
     },
     {
         "dex": "0502",
-        "name": "Dewott",
+        "nameJPN": "フタチマル",
+        "nameENG": "Dewott",
         "data": ["unova", "starter"]
     },
     {
         "dex": "0503",
-        "name": "Samurott",
+        "nameJPN": "ダイケンキ",
+        "nameENG": "Samurott",
         "data": ["unova", "starter"]
     },
     {
         "dex": "0504",
-        "name": "Patrat",
+        "nameJPN": "ミネズミ",
+        "nameENG": "Patrat",
         "data": ["unova"]
     },
     {
         "dex": "0505",
-        "name": "Watchog",
+        "nameJPN": "ミルホッグ",
+        "nameENG": "Watchog",
         "data": ["unova"]
     },
     {
         "dex": "0506",
-        "name": "Lillipup",
+        "nameJPN": "ヨーテリー",
+        "nameENG": "Lillipup",
         "data": ["unova"]
     },
     {
         "dex": "0507",
-        "name": "Herdier",
+        "nameJPN": "ハーデリア",
+        "nameENG": "Herdier",
         "data": ["unova"]
     },
     {
         "dex": "0508",
-        "name": "Stoutland",
+        "nameJPN": "ムーランド",
+        "nameENG": "Stoutland",
         "data": ["unova"]
     },
     {
         "dex": "0509",
-        "name": "Purrloin",
+        "nameJPN": "チョロネコ",
+        "nameENG": "Purrloin",
         "data": ["unova"]
     },
     {
         "dex": "0510",
-        "name": "Liepard",
+        "nameJPN": "レパルダス",
+        "nameENG": "Liepard",
         "data": ["unova"]
     },
     {
         "dex": "0511",
-        "name": "Pansage",
+        "nameJPN": "ヤナップ",
+        "nameENG": "Pansage",
         "data": ["unova"]
     },
     {
         "dex": "0512",
-        "name": "Simisage",
+        "nameJPN": "ヤナッキー",
+        "nameENG": "Simisage",
         "data": ["unova"]
     },
     {
         "dex": "0513",
-        "name": "Pansear",
+        "nameJPN": "バオップ",
+        "nameENG": "Pansear",
         "data": ["unova"]
     },
     {
         "dex": "0514",
-        "name": "Simisear",
+        "nameJPN": "バオッキー",
+        "nameENG": "Simisear",
         "data": ["unova"]
     },
     {
         "dex": "0515",
-        "name": "Panpour",
+        "nameJPN": "ヒヤップ",
+        "nameENG": "Panpour",
         "data": ["unova"]
     },
     {
         "dex": "0516",
-        "name": "Simipour",
+        "nameJPN": "ヒヤッキー",
+        "nameENG": "Simipour",
         "data": ["unova"]
     },
     {
         "dex": "0517",
-        "name": "Munna",
+        "nameJPN": "ムンナ",
+        "nameENG": "Munna",
         "data": ["unova"]
     },
     {
         "dex": "0518",
-        "name": "Musharna",
+        "nameJPN": "ムシャーナ",
+        "nameENG": "Musharna",
         "data": ["unova"]
     },
     {
         "dex": "0519",
-        "name": "Pidove",
+        "nameJPN": "マメパト",
+        "nameENG": "Pidove",
         "data": ["unova"]
     },
     {
         "dex": "0520",
-        "name": "Tranquill",
+        "nameJPN": "ハトーボー",
+        "nameENG": "Tranquill",
         "data": ["unova"]
     },
     {
         "dex": "0521",
-        "name": "Unfezant M",
+        "nameJPN": "ケンホロウ",
+        "nameENG": "Unfezant M",
         "data": ["unova"]
     },
     {
         "dex": "0521F",
-        "name": "Unfezant F",
+        "nameJPN": "",
+        "nameENG": "Unfezant F",
         "data": ["unova"]
     },
     {
         "dex": "0522",
-        "name": "Blitzle",
+        "nameJPN": "シママ",
+        "nameENG": "Blitzle",
         "data": ["unova"]
     },
     {
         "dex": "0523",
-        "name": "Zebstrika",
+        "nameJPN": "ゼブライカ",
+        "nameENG": "Zebstrika",
         "data": ["unova"]
     },
     {
         "dex": "0524",
-        "name": "Roggenrola",
+        "nameJPN": "ダンゴロ",
+        "nameENG": "Roggenrola",
         "data": ["unova"]
     },
     {
         "dex": "0525",
-        "name": "Boldore",
+        "nameJPN": "ガントル",
+        "nameENG": "Boldore",
         "data": ["unova"]
     },
     {
         "dex": "0526",
-        "name": "Gigalith",
+        "nameJPN": "ギガイアス",
+        "nameENG": "Gigalith",
         "data": ["unova"]
     },
     {
         "dex": "0527",
-        "name": "Woobat",
+        "nameJPN": "コロモリ",
+        "nameENG": "Woobat",
         "data": ["unova"]
     },
     {
         "dex": "0528",
-        "name": "Swoobat",
+        "nameJPN": "ココロモリ",
+        "nameENG": "Swoobat",
         "data": ["unova"]
     },
     {
         "dex": "0529",
-        "name": "Drilbur",
+        "nameJPN": "モグリュー",
+        "nameENG": "Drilbur",
         "data": ["unova"]
     },
     {
         "dex": "0530",
-        "name": "Excadrill",
+        "nameJPN": "ドリュウズ",
+        "nameENG": "Excadrill",
         "data": ["unova"]
     },
     {
         "dex": "0531",
-        "name": "Audino",
+        "nameJPN": "タブンネ",
+        "nameENG": "Audino",
         "data": ["unova"]
     },
     {
         "dex": "0531M",
-        "name": "Mega Audino",
+        "nameJPN": "メガタブンネ",
+        "nameENG": "Mega Audino",
         "data": ["unova mega"]
     },
     {
         "dex": "0532",
-        "name": "Timburr",
+        "nameJPN": "ドッコラー",
+        "nameENG": "Timburr",
         "data": ["unova"]
     },
     {
         "dex": "0533",
-        "name": "Gurdurr",
+        "nameJPN": "ドテッコツ",
+        "nameENG": "Gurdurr",
         "data": ["unova"]
     },
     {
         "dex": "0534",
-        "name": "Conkeldurr",
+        "nameJPN": "ローブシン",
+        "nameENG": "Conkeldurr",
         "data": ["unova"]
     },
     {
         "dex": "0535",
-        "name": "Tympole",
+        "nameJPN": "オタマロ",
+        "nameENG": "Tympole",
         "data": ["unova"]
     },
     {
         "dex": "0536",
-        "name": "Palpitoad",
+        "nameJPN": "ガマガル",
+        "nameENG": "Palpitoad",
         "data": ["unova"]
     },
     {
         "dex": "0537",
-        "name": "Seismitoad",
+        "nameJPN": "ガマゲロゲ",
+        "nameENG": "Seismitoad",
         "data": ["unova"]
     },
     {
         "dex": "0538",
-        "name": "Throh",
+        "nameJPN": "ナゲキ",
+        "nameENG": "Throh",
         "data": ["unova"]
     },
     {
         "dex": "0539",
-        "name": "Sawk",
+        "nameJPN": "ダゲキ",
+        "nameENG": "Sawk",
         "data": ["unova"]
     },
     {
         "dex": "0540",
-        "name": "Sewaddle",
+        "nameJPN": "クルミル",
+        "nameENG": "Sewaddle",
         "data": ["unova"]
     },
     {
         "dex": "0541",
-        "name": "Swadloon",
+        "nameJPN": "クルマユ",
+        "nameENG": "Swadloon",
         "data": ["unova"]
     },
     {
         "dex": "0542",
-        "name": "Leavanny",
+        "nameJPN": "ハハコモリ",
+        "nameENG": "Leavanny",
         "data": ["unova"]
     },
     {
         "dex": "0543",
-        "name": "Venipede",
+        "nameJPN": "フシデ",
+        "nameENG": "Venipede",
         "data": ["unova"]
     },
     {
         "dex": "0544",
-        "name": "Whirlipede",
+        "nameJPN": "ホイーガ",
+        "nameENG": "Whirlipede",
         "data": ["unova"]
     },
     {
         "dex": "0545",
-        "name": "Scolipede",
+        "nameJPN": "ペンドラー",
+        "nameENG": "Scolipede",
         "data": ["unova"]
     },
     {
         "dex": "0546",
-        "name": "Cottonee",
+        "nameJPN": "モンメン",
+        "nameENG": "Cottonee",
         "data": ["unova"]
     },
     {
         "dex": "0547",
-        "name": "Whimsicott",
+        "nameJPN": "エルフーン",
+        "nameENG": "Whimsicott",
         "data": ["unova"]
     },
     {
         "dex": "0548",
-        "name": "Petilil",
+        "nameJPN": "チュリネ",
+        "nameENG": "Petilil",
         "data": ["unova"]
     },
     {
         "dex": "0549",
-        "name": "Lilligant",
+        "nameJPN": "ドレディア",
+        "nameENG": "Lilligant",
         "data": ["unova"]
     },
     {
         "dex": "0550",
-        "name": "Basculin",
+        "nameJPN": "バスラオ",
+        "nameENG": "Basculin",
         "data": ["unova"]
     },
     {
         "dex": "0550B",
-        "name": "",
+        "nameJPN": "",
+        "nameENG": "",
         "data": ["unova"]
     },
     {
         "dex": "0551",
-        "name": "Sandile",
+        "nameJPN": "メグロコ",
+        "nameENG": "Sandile",
         "data": ["unova"]
     },
     {
         "dex": "0552",
-        "name": "Krokorok",
+        "nameJPN": "ワルビル",
+        "nameENG": "Krokorok",
         "data": ["unova"]
     },
     {
         "dex": "0553",
-        "name": "Krookodile",
+        "nameJPN": "ワルビアル",
+        "nameENG": "Krookodile",
         "data": ["unova"]
     },
     {
         "dex": "0554",
-        "name": "Darumaka",
+        "nameJPN": "ダルマッカ",
+        "nameENG": "Darumaka",
         "data": ["unova"]
     },
     {
         "dex": "0555",
-        "name": "Darmanitan",
+        "nameJPN": "ヒヒダルマ",
+        "nameENG": "Darmanitan",
         "data": ["unova"]
     },
     {
         "dex": "0555Z",
-        "name": "",
+        "nameJPN": "",
+        "nameENG": "",
         "data": ["unova"]
     },
     {
         "dex": "0556",
-        "name": "Maractus",
+        "nameJPN": "マラカッチ",
+        "nameENG": "Maractus",
         "data": ["unova"]
     },
     {
         "dex": "0557",
-        "name": "Dwebble",
+        "nameJPN": "イシズマイ",
+        "nameENG": "Dwebble",
         "data": ["unova"]
     },
     {
         "dex": "0558",
-        "name": "Crustle",
+        "nameJPN": "イワパレス",
+        "nameENG": "Crustle",
         "data": ["unova"]
     },
     {
         "dex": "0559",
-        "name": "Scraggy",
+        "nameJPN": "ズルッグ",
+        "nameENG": "Scraggy",
         "data": ["unova"]
     },
     {
         "dex": "0560",
-        "name": "Scrafty",
+        "nameJPN": "ズルズキン",
+        "nameENG": "Scrafty",
         "data": ["unova"]
     },
     {
         "dex": "0561",
-        "name": "Sigilyph",
+        "nameJPN": "シンボラー",
+        "nameENG": "Sigilyph",
         "data": ["unova"]
     },
     {
         "dex": "0562",
-        "name": "Yamask",
+        "nameJPN": "デスマス",
+        "nameENG": "Yamask",
         "data": ["unova"]
     },
     {
         "dex": "0563",
-        "name": "Cofagrigus",
+        "nameJPN": "デスカーン",
+        "nameENG": "Cofagrigus",
         "data": ["unova"]
     },
     {
         "dex": "0564",
-        "name": "Tirtouga",
+        "nameJPN": "プロトーガ",
+        "nameENG": "Tirtouga",
         "data": ["unova"]
     },
     {
         "dex": "0565",
-        "name": "Carracosta",
+        "nameJPN": "アバゴーラ",
+        "nameENG": "Carracosta",
         "data": ["unova"]
     },
     {
         "dex": "0566",
-        "name": "Archen",
+        "nameJPN": "アーケン",
+        "nameENG": "Archen",
         "data": ["unova"]
     },
     {
         "dex": "0567",
-        "name": "Archeops",
+        "nameJPN": "アーケオス",
+        "nameENG": "Archeops",
         "data": ["unova"]
     },
     {
         "dex": "0568",
-        "name": "Trubbish",
+        "nameJPN": "ヤブクロン",
+        "nameENG": "Trubbish",
         "data": ["unova"]
     },
     {
         "dex": "0569",
-        "name": "Garbodor",
+        "nameJPN": "ダストダス",
+        "nameENG": "Garbodor",
         "data": ["unova"]
     },
     {
         "dex": "0570",
-        "name": "Zorua",
+        "nameJPN": "ゾロア",
+        "nameENG": "Zorua",
         "data": ["unova"]
     },
     {
         "dex": "0571",
-        "name": "Zoroark",
+        "nameJPN": "ゾロアーク",
+        "nameENG": "Zoroark",
         "data": ["unova"]
     },
     {
         "dex": "0572",
-        "name": "Minccino",
+        "nameJPN": "チラーミィ",
+        "nameENG": "Minccino",
         "data": ["unova"]
     },
     {
         "dex": "0573",
-        "name": "Cinccino",
+        "nameJPN": "チラチーノ",
+        "nameENG": "Cinccino",
         "data": ["unova"]
     },
     {
         "dex": "0574",
-        "name": "Gothita",
+        "nameJPN": "ゴチム",
+        "nameENG": "Gothita",
         "data": ["unova"]
     },
     {
         "dex": "0575",
-        "name": "Gothorita",
+        "nameJPN": "ゴチミル",
+        "nameENG": "Gothorita",
         "data": ["unova"]
     },
     {
         "dex": "0576",
-        "name": "Gothitelle",
+        "nameJPN": "ゴチルゼル",
+        "nameENG": "Gothitelle",
         "data": ["unova"]
     },
     {
         "dex": "0577",
-        "name": "Solosis",
+        "nameJPN": "ユニラン",
+        "nameENG": "Solosis",
         "data": ["unova"]
     },
     {
         "dex": "0578",
-        "name": "Duosion",
+        "nameJPN": "ダブラン",
+        "nameENG": "Duosion",
         "data": ["unova"]
     },
     {
         "dex": "0579",
-        "name": "Reuniclus",
+        "nameJPN": "ランクルス",
+        "nameENG": "Reuniclus",
         "data": ["unova"]
     },
     {
         "dex": "0580",
-        "name": "Ducklett",
+        "nameJPN": "コアルヒー",
+        "nameENG": "Ducklett",
         "data": ["unova"]
     },
     {
         "dex": "0581",
-        "name": "Swanna",
+        "nameJPN": "スワンナ",
+        "nameENG": "Swanna",
         "data": ["unova"]
     },
     {
         "dex": "0582",
-        "name": "Vanillite",
+        "nameJPN": "バニプッチ",
+        "nameENG": "Vanillite",
         "data": ["unova"]
     },
     {
         "dex": "0583",
-        "name": "Vanillish",
+        "nameJPN": "バニリッチ",
+        "nameENG": "Vanillish",
         "data": ["unova"]
     },
     {
         "dex": "0584",
-        "name": "Vanilluxe",
+        "nameJPN": "バイバニラ",
+        "nameENG": "Vanilluxe",
         "data": ["unova"]
     },
     {
         "dex": "0585",
-        "name": "Deerling Spring",
+        "nameJPN": "シキジカ",
+        "nameENG": "Deerling Spring",
         "data": ["unova"]
     },
     {
         "dex": "0585S",
-        "name": "Deerling Summer",
+        "nameJPN": "",
+        "nameENG": "Deerling Summer",
         "data": ["unova"]
     },
     {
         "dex": "0585A",
-        "name": "Deerling Autumn",
+        "nameJPN": "",
+        "nameENG": "Deerling Autumn",
         "data": ["unova"]
     },
     {
         "dex": "0585W",
-        "name": "Deerling Winter",
+        "nameJPN": "",
+        "nameENG": "Deerling Winter",
         "data": ["unova"]
     },
     {
         "dex": "0586",
-        "name": "Sawsbuck Spring",
+        "nameJPN": "メブキジカ",
+        "nameENG": "Sawsbuck Spring",
         "data": ["unova"]
     },
     {
         "dex": "0586S",
-        "name": "Sawsbuck Summer",
+        "nameJPN": "",
+        "nameENG": "Sawsbuck Summer",
         "data": ["unova"]
     },
     {
         "dex": "0586A",
-        "name": "Sawsbuck Autumn",
+        "nameJPN": "",
+        "nameENG": "Sawsbuck Autumn",
         "data": ["unova"]
     },
     {
         "dex": "0586W",
-        "name": "Sawsbuck Winter",
+        "nameJPN": "",
+        "nameENG": "Sawsbuck Winter",
         "data": ["unova"]
     },
     {
         "dex": "0587",
-        "name": "Emolga",
+        "nameJPN": "エモンガ",
+        "nameENG": "Emolga",
         "data": ["unova"]
     },
     {
         "dex": "0588",
-        "name": "Karrablast",
+        "nameJPN": "カブルモ",
+        "nameENG": "Karrablast",
         "data": ["unova"]
     },
     {
         "dex": "0589",
-        "name": "Escavalier",
+        "nameJPN": "シュバルゴ",
+        "nameENG": "Escavalier",
         "data": ["unova"]
     },
     {
         "dex": "0590",
-        "name": "Foongus",
+        "nameJPN": "タマゲタケ",
+        "nameENG": "Foongus",
         "data": ["unova"]
     },
     {
         "dex": "0591",
-        "name": "Amoonguss",
+        "nameJPN": "モロバレル",
+        "nameENG": "Amoonguss",
         "data": ["unova"]
     },
     {
         "dex": "0592",
-        "name": "Frillish",
+        "nameJPN": "プルリル",
+        "nameENG": "Frillish",
         "data": ["unova"]
     },
     {
         "dex": "0592F",
-        "name": "",
+        "nameJPN": "",
+        "nameENG": "",
         "data": ["unova"]
     },
     {
         "dex": "0593",
-        "name": "Jellicent",
+        "nameJPN": "ブルンゲル",
+        "nameENG": "Jellicent",
         "data": ["unova"]
     },
     {
         "dex": "0593F",
-        "name": "",
+        "nameJPN": "",
+        "nameENG": "",
         "data": ["unova"]
     },
     {
         "dex": "0594",
-        "name": "Alomomola",
+        "nameJPN": "ママンボウ",
+        "nameENG": "Alomomola",
         "data": ["unova"]
     },
     {
         "dex": "0595",
-        "name": "Joltik",
+        "nameJPN": "バチュル",
+        "nameENG": "Joltik",
         "data": ["unova"]
     },
     {
         "dex": "0596",
-        "name": "Galvantula",
+        "nameJPN": "デンチュラ",
+        "nameENG": "Galvantula",
         "data": ["unova"]
     },
     {
         "dex": "0597",
-        "name": "Ferroseed",
+        "nameJPN": "テッシード",
+        "nameENG": "Ferroseed",
         "data": ["unova"]
     },
     {
         "dex": "0598",
-        "name": "Ferrothorn",
+        "nameJPN": "ナットレイ",
+        "nameENG": "Ferrothorn",
         "data": ["unova"]
     },
     {
         "dex": "0599",
-        "name": "Klink",
+        "nameJPN": "ギアル",
+        "nameENG": "Klink",
         "data": ["unova"]
     },
     {
         "dex": "0600",
-        "name": "Klang",
+        "nameJPN": "ギギアル",
+        "nameENG": "Klang",
         "data": ["unova"]
     },
     {
         "dex": "0601",
-        "name": "Klinklang",
+        "nameJPN": "ギギギアル",
+        "nameENG": "Klinklang",
         "data": ["unova"]
     },
     {
         "dex": "0602",
-        "name": "Tynamo",
+        "nameJPN": "シビシラス",
+        "nameENG": "Tynamo",
         "data": ["unova"]
     },
     {
         "dex": "0603",
-        "name": "Eelektrik",
+        "nameJPN": "シビビール",
+        "nameENG": "Eelektrik",
         "data": ["unova"]
     },
     {
         "dex": "0604",
-        "name": "Eelektross",
+        "nameJPN": "シビルドン",
+        "nameENG": "Eelektross",
         "data": ["unova"]
     },
     {
         "dex": "0605",
-        "name": "Elgyem",
+        "nameJPN": "リグレー",
+        "nameENG": "Elgyem",
         "data": ["unova"]
     },
     {
         "dex": "0606",
-        "name": "Beheeyem",
+        "nameJPN": "オーベム",
+        "nameENG": "Beheeyem",
         "data": ["unova"]
     },
     {
         "dex": "0607",
-        "name": "Litwick",
+        "nameJPN": "ヒトモシ",
+        "nameENG": "Litwick",
         "data": ["unova"]
     },
     {
         "dex": "0608",
-        "name": "Lampent",
+        "nameJPN": "ランプラー",
+        "nameENG": "Lampent",
         "data": ["unova"]
     },
     {
         "dex": "0609",
-        "name": "Chandelure",
+        "nameJPN": "シャンデラ",
+        "nameENG": "Chandelure",
         "data": ["unova"]
     },
     {
         "dex": "0610",
-        "name": "Axew",
+        "nameJPN": "キバゴ",
+        "nameENG": "Axew",
         "data": ["unova"]
     },
     {
         "dex": "0611",
-        "name": "Fraxure",
+        "nameJPN": "オノンド",
+        "nameENG": "Fraxure",
         "data": ["unova"]
     },
     {
         "dex": "0612",
-        "name": "Haxorus",
+        "nameJPN": "オノノクス",
+        "nameENG": "Haxorus",
         "data": ["unova"]
     },
     {
         "dex": "0613",
-        "name": "Cubchoo",
+        "nameJPN": "クマシュン",
+        "nameENG": "Cubchoo",
         "data": ["unova"]
     },
     {
         "dex": "0614",
-        "name": "Beartic",
+        "nameJPN": "ツンベアー",
+        "nameENG": "Beartic",
         "data": ["unova"]
     },
     {
         "dex": "0615",
-        "name": "Cryogonal",
+        "nameJPN": "フリージオ",
+        "nameENG": "Cryogonal",
         "data": ["unova"]
     },
     {
         "dex": "0616",
-        "name": "Shelmet",
+        "nameJPN": "チョボマキ",
+        "nameENG": "Shelmet",
         "data": ["unova"]
     },
     {
         "dex": "0617",
-        "name": "Accelgor",
+        "nameJPN": "アギルダー",
+        "nameENG": "Accelgor",
         "data": ["unova"]
     },
     {
         "dex": "0618",
-        "name": "Stunfisk",
+        "nameJPN": "マッギョ",
+        "nameENG": "Stunfisk",
         "data": ["unova"]
     },
     {
         "dex": "0619",
-        "name": "Mienfoo",
+        "nameJPN": "コジョフー",
+        "nameENG": "Mienfoo",
         "data": ["unova"]
     },
     {
         "dex": "0620",
-        "name": "Mienshao",
+        "nameJPN": "コジョンド",
+        "nameENG": "Mienshao",
         "data": ["unova"]
     },
     {
         "dex": "0621",
-        "name": "Druddigon",
+        "nameJPN": "クリムガン",
+        "nameENG": "Druddigon",
         "data": ["unova"]
     },
     {
         "dex": "0622",
-        "name": "Golett",
+        "nameJPN": "ゴビット",
+        "nameENG": "Golett",
         "data": ["unova"]
     },
     {
         "dex": "0623",
-        "name": "Golurk",
+        "nameJPN": "ゴルーグ",
+        "nameENG": "Golurk",
         "data": ["unova"]
     },
     {
         "dex": "0624",
-        "name": "Pawniard",
+        "nameJPN": "コマタナ",
+        "nameENG": "Pawniard",
         "data": ["unova"]
     },
     {
         "dex": "0625",
-        "name": "Bisharp",
+        "nameJPN": "キリキザン",
+        "nameENG": "Bisharp",
         "data": ["unova"]
     },
     {
         "dex": "0626",
-        "name": "Bouffalant",
+        "nameJPN": "バッフロン",
+        "nameENG": "Bouffalant",
         "data": ["unova"]
     },
     {
         "dex": "0627",
-        "name": "Rufflet",
+        "nameJPN": "ワシボン",
+        "nameENG": "Rufflet",
         "data": ["unova"]
     },
     {
         "dex": "0628",
-        "name": "Braviary",
+        "nameJPN": "ウォーグル",
+        "nameENG": "Braviary",
         "data": ["unova"]
     },
     {
         "dex": "0629",
-        "name": "Vullaby",
+        "nameJPN": "バルチャイ",
+        "nameENG": "Vullaby",
         "data": ["unova"]
     },
     {
         "dex": "0630",
-        "name": "Mandibuzz",
+        "nameJPN": "バルジーナ",
+        "nameENG": "Mandibuzz",
         "data": ["unova"]
     },
     {
         "dex": "0631",
-        "name": "Heatmor",
+        "nameJPN": "クイタラン",
+        "nameENG": "Heatmor",
         "data": ["unova"]
     },
     {
         "dex": "0632",
-        "name": "Durant",
+        "nameJPN": "アイアント",
+        "nameENG": "Durant",
         "data": ["unova"]
     },
     {
         "dex": "0633",
-        "name": "Deino",
+        "nameJPN": "モノズ",
+        "nameENG": "Deino",
         "data": ["unova", "bs600"]
     },
     {
         "dex": "0634",
-        "name": "Zweilous",
+        "nameJPN": "ジヘッド",
+        "nameENG": "Zweilous",
         "data": ["unova", "bs600"]
     },
     {
         "dex": "0635",
-        "name": "Hydreigon",
+        "nameJPN": "サザンドラ",
+        "nameENG": "Hydreigon",
         "data": ["unova", "bs600"]
     },
     {
         "dex": "0636",
-        "name": "Larvesta",
+        "nameJPN": "メラルバ",
+        "nameENG": "Larvesta",
         "data": ["unova"]
     },
     {
         "dex": "0637",
-        "name": "Volcarona",
+        "nameJPN": "ウルガモス",
+        "nameENG": "Volcarona",
         "data": ["unova"]
     },
     {
         "dex": "0638",
-        "name": "Cobalion",
+        "nameJPN": "コバルオン",
+        "nameENG": "Cobalion",
         "data": ["unova", "trio"]
     },
     {
         "dex": "0639",
-        "name": "Terrakion",
+        "nameJPN": "テラキオン",
+        "nameENG": "Terrakion",
         "data": ["unova", "trio"]
     },
     {
         "dex": "0640",
-        "name": "Virizion",
+        "nameJPN": "ビリジオン",
+        "nameENG": "Virizion",
         "data": ["unova", "trio"]
     },
     {
         "dex": "0641",
-        "name": "Tornadus Incarnate",
+        "nameJPN": "トルネロス",
+        "nameENG": "Tornadus Incarnate",
         "data": ["unova", "trio"]
     },
     {
         "dex": "0641T",
-        "name": "Tornadus Therian",
+        "nameJPN": "",
+        "nameENG": "Tornadus Therian",
         "data": ["unova"]
     },
     {
         "dex": "0642",
-        "name": "Thundurus Incarnate",
+        "nameJPN": "ボルトロス",
+        "nameENG": "Thundurus Incarnate",
         "data": ["unova", "trio"]
     },
     {
         "dex": "0642T",
-        "name": "Thundurus Therian",
+        "nameJPN": "",
+        "nameENG": "Thundurus Therian",
         "data": ["unova"]
     },
     {
         "dex": "0643",
-        "name": "Reshiram",
+        "nameJPN": "レシラム",
+        "nameENG": "Reshiram",
         "data": ["unova", "legendary"]
     },
     {
         "dex": "0644",
-        "name": "Zekrom",
+        "nameJPN": "ゼクロム",
+        "nameENG": "Zekrom",
         "data": ["unova", "legendary"]
     },
     {
         "dex": "0645",
-        "name": "Landorus Incarnate",
+        "nameJPN": "ランドロス",
+        "nameENG": "Landorus Incarnate",
         "data": ["unova", "trio"]
     },
     {
         "dex": "0645T",
-        "name": "Landorus Therian",
+        "nameJPN": "",
+        "nameENG": "Landorus Therian",
         "data": ["unova", "trio"]
     },
     {
         "dex": "0646",
-        "name": "Kyurem",
+        "nameJPN": "キュレム",
+        "nameENG": "Kyurem",
         "data": ["unova", "legendary"]
     },
     {
         "dex": "0646B",
-        "name": "Kyurem Black",
+        "nameJPN": "",
+        "nameENG": "Kyurem Black",
         "data": ["unova", "legendary"]
     },
     {
         "dex": "0646W",
-        "name": "Kyurem White",
+        "nameJPN": "",
+        "nameENG": "Kyurem White",
         "data": ["unova", "legendary"]
     },
     {
         "dex": "0647",
-        "name": "Keldeo",
+        "nameJPN": "ケルディオ",
+        "nameENG": "Keldeo",
         "data": ["unova", "mirage"]
     },
     {
         "dex": "0647R",
-        "name": "",
+        "nameJPN": "",
+        "nameENG": "",
         "data": ["unova", "mirage"]
     },
     {
         "dex": "0648",
-        "name": "Meloetta",
+        "nameJPN": "メロエッタ",
+        "nameENG": "Meloetta",
         "data": ["unova", "mirage"]
     },
     {
         "dex": "0648P",
-        "name": "",
+        "nameJPN": "",
+        "nameENG": "",
         "data": ["unova", "mirage"]
     },
     {
         "dex": "0649",
-        "name": "Genesect",
+        "nameJPN": "ゲノセクト",
+        "nameENG": "Genesect",
         "data": ["unova", "mirage"]
     },
     {
         "dex": "0650",
-        "name": "Chespin",
+        "nameJPN": "ハリマロン",
+        "nameENG": "Chespin",
         "data": ["kalos", "starter"]
     },
     {
         "dex": "0651",
-        "name": "Quilladin",
+        "nameJPN": "ハリボーグ",
+        "nameENG": "Quilladin",
         "data": ["kalos", "starter"]
     },
     {
         "dex": "0652",
-        "name": "Chesnaught",
+        "nameJPN": "ブリガロン",
+        "nameENG": "Chesnaught",
         "data": ["kalos", "starter"]
     },
     {
         "dex": "0653",
-        "name": "Fennekin",
+        "nameJPN": "フォッコ",
+        "nameENG": "Fennekin",
         "data": ["kalos", "starter"]
     },
     {
         "dex": "0654",
-        "name": "Braixen",
+        "nameJPN": "テールナー",
+        "nameENG": "Braixen",
         "data": ["kalos", "starter"]
     },
     {
         "dex": "0655",
-        "name": "Delphox",
+        "nameJPN": "マフォクシー",
+        "nameENG": "Delphox",
         "data": ["kalos", "starter"]
     },
     {
         "dex": "0656",
-        "name": "Froakie",
+        "nameJPN": "ケロマツ",
+        "nameENG": "Froakie",
         "data": ["kalos", "starter"]
     },
     {
         "dex": "0657",
-        "name": "Frogadier",
+        "nameJPN": "ゲコガシラ",
+        "nameENG": "Frogadier",
         "data": ["kalos", "starter"]
     },
     {
         "dex": "0658",
-        "name": "Greninja",
+        "nameJPN": "ゲッコウガ",
+        "nameENG": "Greninja",
         "data": ["kalos", "starter"]
     },
     {
         "dex": "0658A",
-        "name": "",
+        "nameJPN": "",
+        "nameENG": "",
         "data": ["kalos", "starter"]
     },
     {
         "dex": "0659",
-        "name": "Bunnelby",
+        "nameJPN": "ホルビー",
+        "nameENG": "Bunnelby",
         "data": ["kalos"]
     },
     {
         "dex": "0660",
-        "name": "Diggersby",
+        "nameJPN": "ホルード",
+        "nameENG": "Diggersby",
         "data": ["kalos"]
     },
     {
         "dex": "0661",
-        "name": "Fletchling",
+        "nameJPN": "ヤヤコマ",
+        "nameENG": "Fletchling",
         "data": ["kalos"]
     },
     {
         "dex": "0662",
-        "name": "Fletchinder",
+        "nameJPN": "ヒノヤコマ",
+        "nameENG": "Fletchinder",
         "data": ["kalos"]
     },
     {
         "dex": "0663",
-        "name": "Talonflame",
+        "nameJPN": "ファイアロー",
+        "nameENG": "Talonflame",
         "data": ["kalos"]
     },
     {
         "dex": "0664",
-        "name": "Scatterbug",
+        "nameJPN": "コフキムシ",
+        "nameENG": "Scatterbug",
         "data": ["kalos"]
     },
     {
         "dex": "0665",
-        "name": "Spewpa",
+        "nameJPN": "コフーライ",
+        "nameENG": "Spewpa",
         "data": ["kalos"]
     },
     {
         "dex": "0666",
-        "name": "Vivillon",
+        "nameJPN": "ビビヨン",
+        "nameENG": "Vivillon",
         "data": ["kalos"]
     },
     {
         "dex": "0666Arc",
-        "name": "Vivillon Arc",
+        "nameJPN": "",
+        "nameENG": "Vivillon Arc",
         "data": ["kalos"]
     },
     {
         "dex": "0666Con",
-        "name": "Vivillon Con",
+        "nameJPN": "",
+        "nameENG": "Vivillon Con",
         "data": ["kalos"]
     },
     {
         "dex": "0666Ele",
-        "name": "Vivillon Ele",
+        "nameJPN": "",
+        "nameENG": "Vivillon Ele",
         "data": ["kalos"]
     },
     {
         "dex": "0666Fan",
-        "name": "Vivillon Fan",
+        "nameJPN": "",
+        "nameENG": "Vivillon Fan",
         "data": ["kalos"]
     },
     {
         "dex": "0666Gar",
-        "name": "Vivillon Gar",
+        "nameJPN": "",
+        "nameENG": "Vivillon Gar",
         "data": ["kalos"]
     },
     {
         "dex": "0666Hig",
-        "name": "Vivillon Hig",
+        "nameJPN": "",
+        "nameENG": "Vivillon Hig",
         "data": ["kalos"]
     },
     {
         "dex": "0666Icy",
-        "name": "Vivillon Icy",
+        "nameJPN": "",
+        "nameENG": "Vivillon Icy",
         "data": ["kalos"]
     },
     {
         "dex": "0666Jun",
-        "name": "Vivillon Jun",
+        "nameJPN": "",
+        "nameENG": "Vivillon Jun",
         "data": ["kalos"]
     },
     {
         "dex": "0666Mar",
-        "name": "Vivillon Mar",
+        "nameJPN": "",
+        "nameENG": "Vivillon Mar",
         "data": ["kalos"]
     },
     {
         "dex": "0666Mod",
-        "name": "Vivillon Mod",
+        "nameJPN": "",
+        "nameENG": "Vivillon Mod",
         "data": ["kalos"]
     },
     {
         "dex": "0666Mon",
-        "name": "Vivillon Mon",
+        "nameJPN": "",
+        "nameENG": "Vivillon Mon",
         "data": ["kalos"]
     },
     {
         "dex": "0666Oce",
-        "name": "Vivillon Oce",
+        "nameJPN": "",
+        "nameENG": "Vivillon Oce",
         "data": ["kalos"]
     },
     {
         "dex": "0666Pok",
-        "name": "Vivillon Pok",
+        "nameJPN": "",
+        "nameENG": "Vivillon Pok",
         "data": ["kalos"]
     },
     {
         "dex": "0666Pol",
-        "name": "Vivillon Pol",
+        "nameJPN": "",
+        "nameENG": "Vivillon Pol",
         "data": ["kalos"]
     },
     {
         "dex": "0666Riv",
-        "name": "Vivillon Riv",
+        "nameJPN": "",
+        "nameENG": "Vivillon Riv",
         "data": ["kalos"]
     },
     {
         "dex": "0666San",
-        "name": "Vivillon San",
+        "nameJPN": "",
+        "nameENG": "Vivillon San",
         "data": ["kalos"]
     },
     {
         "dex": "0666Sav",
-        "name": "Vivillon Sav",
+        "nameJPN": "",
+        "nameENG": "Vivillon Sav",
         "data": ["kalos"]
     },
     {
         "dex": "0666Sun",
-        "name": "Vivillon Sun",
+        "nameJPN": "",
+        "nameENG": "Vivillon Sun",
         "data": ["kalos"]
     },
     {
         "dex": "0666Tun",
-        "name": "Vivillon Tun",
+        "nameJPN": "",
+        "nameENG": "Vivillon Tun",
         "data": ["kalos"]
     },
     {
         "dex": "0667",
-        "name": "Litleo",
+        "nameJPN": "シシコ",
+        "nameENG": "Litleo",
         "data": ["kalos"]
     },
     {
         "dex": "0668",
-        "name": "Pyroar",
+        "nameJPN": "カエンジシ",
+        "nameENG": "Pyroar",
         "data": ["kalos"]
     },
     {
         "dex": "0668F",
-        "name": "",
+        "nameJPN": "",
+        "nameENG": "",
         "data": ["kalos"]
     },
     {
         "dex": "0669",
-        "name": "Flabebe Red",
+        "nameJPN": "フラベベ",
+        "nameENG": "Flabebe Red",
         "data": ["kalos"]
     },
     {
         "dex": "0669B",
-        "name": "Flabebe Blue",
+        "nameJPN": "",
+        "nameENG": "Flabebe Blue",
         "data": ["kalos"]
     },
     {
         "dex": "0669Y",
-        "name": "Flabebe Yellow",
+        "nameJPN": "",
+        "nameENG": "Flabebe Yellow",
         "data": ["kalos"]
     },
     {
         "dex": "0669O",
-        "name": "Flabebe Orange",
+        "nameJPN": "",
+        "nameENG": "Flabebe Orange",
         "data": ["kalos"]
     },
     {
         "dex": "0669W",
-        "name": "Flabebe White",
+        "nameJPN": "",
+        "nameENG": "Flabebe White",
         "data": ["kalos"]
     },
     {
         "dex": "0670",
-        "name": "Floette Red",
+        "nameJPN": "フラエッテ",
+        "nameENG": "Floette Red",
         "data": ["kalos"]
     },
     {
         "dex": "0670B",
-        "name": "Floette Blue",
+        "nameJPN": "",
+        "nameENG": "Floette Blue",
         "data": ["kalos"]
     },
     {
         "dex": "0670Y",
-        "name": "Floette Yellow",
+        "nameJPN": "",
+        "nameENG": "Floette Yellow",
         "data": ["kalos"]
     },
     {
         "dex": "0670O",
-        "name": "Floette Orange",
+        "nameJPN": "",
+        "nameENG": "Floette Orange",
         "data": ["kalos"]
     },
     {
         "dex": "0670W",
-        "name": "Floette White",
+        "nameJPN": "",
+        "nameENG": "Floette White",
         "data": ["kalos"]
     },
     {
         "dex": "0670E",
-        "name": "Floette Eternal",
+        "nameJPN": "",
+        "nameENG": "Floette Eternal",
         "data": ["kalos"]
     },
     {
         "dex": "0671",
-        "name": "Florges Red",
+        "nameJPN": "フラージェス",
+        "nameENG": "Florges Red",
         "data": ["kalos"]
     },
     {
         "dex": "0671B",
-        "name": "Florges Blue",
+        "nameJPN": "",
+        "nameENG": "Florges Blue",
         "data": ["kalos"]
     },
     {
         "dex": "0671Y",
-        "name": "Florges Yellow",
+        "nameJPN": "",
+        "nameENG": "Florges Yellow",
         "data": ["kalos"]
     },
     {
         "dex": "0671O",
-        "name": "Florges Orange",
+        "nameJPN": "",
+        "nameENG": "Florges Orange",
         "data": ["kalos"]
     },
     {
         "dex": "0671W",
-        "name": "Florges White",
+        "nameJPN": "",
+        "nameENG": "Florges White",
         "data": ["kalos"]
     },
     {
         "dex": "0672",
-        "name": "Skiddo",
+        "nameJPN": "メェークル",
+        "nameENG": "Skiddo",
         "data": ["kalos"]
     },
     {
         "dex": "0673",
-        "name": "Gogoat",
+        "nameJPN": "ゴーゴート",
+        "nameENG": "Gogoat",
         "data": ["kalos"]
     },
     {
         "dex": "0674",
-        "name": "Pancham",
+        "nameJPN": "ヤンチャム",
+        "nameENG": "Pancham",
         "data": ["kalos"]
     },
     {
         "dex": "0675",
-        "name": "Pangoro",
+        "nameJPN": "ゴロンダ",
+        "nameENG": "Pangoro",
         "data": ["kalos"]
     },
     {
         "dex": "0676",
-        "name": "Furfrou",
+        "nameJPN": "トリミアン",
+        "nameENG": "Furfrou",
         "data": ["kalos"]
     },
     {
         "dex": "0676Da",
-        "name": "Furfrou Da",
+        "nameJPN": "",
+        "nameENG": "Furfrou Da",
         "data": ["kalos"]
     },
     {
         "dex": "0676De",
-        "name": "Furfrou De",
+        "nameJPN": "",
+        "nameENG": "Furfrou De",
         "data": ["kalos"]
     },
     {
         "dex": "0676Di",
-        "name": "Furfrou Di",
+        "nameJPN": "",
+        "nameENG": "Furfrou Di",
         "data": ["kalos"]
     },
     {
         "dex": "0676He",
-        "name": "Furfrou He",
+        "nameJPN": "",
+        "nameENG": "Furfrou He",
         "data": ["kalos"]
     },
     {
         "dex": "0676Ka",
-        "name": "Furfrou Ka",
+        "nameJPN": "",
+        "nameENG": "Furfrou Ka",
         "data": ["kalos"]
     },
     {
         "dex": "0676La",
-        "name": "Furfrou La",
+        "nameJPN": "",
+        "nameENG": "Furfrou La",
         "data": ["kalos"]
     },
     {
         "dex": "0676Ma",
-        "name": "Furfrou Ma",
+        "nameJPN": "",
+        "nameENG": "Furfrou Ma",
         "data": ["kalos"]
     },
     {
         "dex": "0676Ph",
-        "name": "Furfrou Ph",
+        "nameJPN": "",
+        "nameENG": "Furfrou Ph",
         "data": ["kalos"]
     },
     {
         "dex": "0677",
-        "name": "Espurr",
+        "nameJPN": "ニャスパー",
+        "nameENG": "Espurr",
         "data": ["kalos"]
     },
     {
         "dex": "0678",
-        "name": "Meowstic",
+        "nameJPN": "ニャオニクス",
+        "nameENG": "Meowstic M",
         "data": ["kalos"]
     },
     {
         "dex": "0678F",
-        "name": "",
+        "nameJPN": "",
+        "nameENG": "Meowstic F",
         "data": ["kalos"]
     },
     {
         "dex": "0679",
-        "name": "Honedge",
+        "nameJPN": "ヒトツキ",
+        "nameENG": "Honedge",
         "data": ["kalos"]
     },
     {
         "dex": "0680",
-        "name": "Doublade",
+        "nameJPN": "ニダンギル",
+        "nameENG": "Doublade",
         "data": ["kalos"]
     },
     {
         "dex": "0681",
-        "name": "Aegislash",
+        "nameJPN": "ギルガルド",
+        "nameENG": "Aegislash",
         "data": ["kalos"]
     },
     {
         "dex": "0681B",
-        "name": "",
+        "nameJPN": "",
+        "nameENG": "",
         "data": ["kalos"]
     },
     {
         "dex": "0682",
-        "name": "Spritzee",
+        "nameJPN": "シュシュプ",
+        "nameENG": "Spritzee",
         "data": ["kalos"]
     },
     {
         "dex": "0683",
-        "name": "Aromatisse",
+        "nameJPN": "フレフワン",
+        "nameENG": "Aromatisse",
         "data": ["kalos"]
     },
     {
         "dex": "0684",
-        "name": "Swirlix",
+        "nameJPN": "ペロッパフ",
+        "nameENG": "Swirlix",
         "data": ["kalos"]
     },
     {
         "dex": "0685",
-        "name": "Slurpuff",
+        "nameJPN": "ペロリーム",
+        "nameENG": "Slurpuff",
         "data": ["kalos"]
     },
     {
         "dex": "0686",
-        "name": "Inkay",
+        "nameJPN": "マーイーカ",
+        "nameENG": "Inkay",
         "data": ["kalos"]
     },
     {
         "dex": "0687",
-        "name": "Malamar",
+        "nameJPN": "カラマネロ",
+        "nameENG": "Malamar",
         "data": ["kalos"]
     },
     {
         "dex": "0688",
-        "name": "Binacle",
+        "nameJPN": "カメテテ",
+        "nameENG": "Binacle",
         "data": ["kalos"]
     },
     {
         "dex": "0689",
-        "name": "Barbaracle",
+        "nameJPN": "ガメノデス",
+        "nameENG": "Barbaracle",
         "data": ["kalos"]
     },
     {
         "dex": "0690",
-        "name": "Skrelp",
+        "nameJPN": "クズモー",
+        "nameENG": "Skrelp",
         "data": ["kalos"]
     },
     {
         "dex": "0691",
-        "name": "Dragalge",
+        "nameJPN": "ドラミドロ",
+        "nameENG": "Dragalge",
         "data": ["kalos"]
     },
     {
         "dex": "0692",
-        "name": "Clauncher",
+        "nameJPN": "ウデッポウ",
+        "nameENG": "Clauncher",
         "data": ["kalos"]
     },
     {
         "dex": "0693",
-        "name": "Clawitzer",
+        "nameJPN": "ブロスター",
+        "nameENG": "Clawitzer",
         "data": ["kalos"]
     },
     {
         "dex": "0694",
-        "name": "Helioptile",
+        "nameJPN": "エリキテル",
+        "nameENG": "Helioptile",
         "data": ["kalos"]
     },
     {
         "dex": "0695",
-        "name": "Heliolisk",
+        "nameJPN": "エレザード",
+        "nameENG": "Heliolisk",
         "data": ["kalos"]
     },
     {
         "dex": "0696",
-        "name": "Tyrunt",
+        "nameJPN": "チゴラス",
+        "nameENG": "Tyrunt",
         "data": ["kalos"]
     },
     {
         "dex": "0697",
-        "name": "Tyrantrum",
+        "nameJPN": "ガチゴラス",
+        "nameENG": "Tyrantrum",
         "data": ["kalos"]
     },
     {
         "dex": "0698",
-        "name": "Amaura",
+        "nameJPN": "アマルス",
+        "nameENG": "Amaura",
         "data": ["kalos"]
     },
     {
         "dex": "0699",
-        "name": "Aurorus",
+        "nameJPN": "アマルルガ",
+        "nameENG": "Aurorus",
         "data": ["kalos"]
     },
     {
         "dex": "0700",
-        "name": "Sylveon",
+        "nameJPN": "ニンフィア",
+        "nameENG": "Sylveon",
         "data": ["kalos", "eevee"]
     },
     {
         "dex": "0701",
-        "name": "Hawlucha",
+        "nameJPN": "ルチャブル",
+        "nameENG": "Hawlucha",
         "data": ["kalos"]
     },
     {
         "dex": "0702",
-        "name": "Dedenne",
+        "nameJPN": "デデンネ",
+        "nameENG": "Dedenne",
         "data": ["kalos"]
     },
     {
         "dex": "0703",
-        "name": "Carbink",
+        "nameJPN": "メレシー",
+        "nameENG": "Carbink",
         "data": ["kalos"]
     },
     {
         "dex": "0704",
-        "name": "Goomy",
+        "nameJPN": "ヌメラ",
+        "nameENG": "Goomy",
         "data": ["kalos", "bs600"]
     },
     {
         "dex": "0705",
-        "name": "Sliggoo",
+        "nameJPN": "ヌメイル",
+        "nameENG": "Sliggoo",
         "data": ["kalos", "bs600"]
     },
     {
         "dex": "0706",
-        "name": "Goodra",
+        "nameJPN": "ヌメルゴン",
+        "nameENG": "Goodra",
         "data": ["kalos", "bs600"]
     },
     {
         "dex": "0707",
-        "name": "Klefki",
+        "nameJPN": "クレッフィ",
+        "nameENG": "Klefki",
         "data": ["kalos"]
     },
     {
         "dex": "0708",
-        "name": "Phantump",
+        "nameJPN": "ボクレー",
+        "nameENG": "Phantump",
         "data": ["kalos"]
     },
     {
         "dex": "0709",
-        "name": "Trevenant",
+        "nameJPN": "オーロット",
+        "nameENG": "Trevenant",
         "data": ["kalos"]
     },
     {
         "dex": "0710",
-        "name": "Pumpkaboo",
+        "nameJPN": "バケッチャ",
+        "nameENG": "Pumpkaboo",
         "data": ["kalos"]
     },
     {
         "dex": "0711",
-        "name": "Gourgeist",
+        "nameJPN": "パンプジン",
+        "nameENG": "Gourgeist",
         "data": ["kalos"]
     },
     {
         "dex": "0712",
-        "name": "Bergmite",
+        "nameJPN": "カチコール",
+        "nameENG": "Bergmite",
         "data": ["kalos"]
     },
     {
         "dex": "0713",
-        "name": "Avalugg",
+        "nameJPN": "クレベース",
+        "nameENG": "Avalugg",
         "data": ["kalos"]
     },
     {
         "dex": "0714",
-        "name": "Noibat",
+        "nameJPN": "オンバット",
+        "nameENG": "Noibat",
         "data": ["kalos"]
     },
     {
         "dex": "0715",
-        "name": "Noivern",
+        "nameJPN": "オンバーン",
+        "nameENG": "Noivern",
         "data": ["kalos"]
     },
     {
         "dex": "0716N",
-        "name": "",
+        "nameJPN": "",
+        "nameENG": "",
         "data": ["kalos"]
     },
     {
         "dex": "0716",
-        "name": "Xerneas",
+        "nameJPN": "ゼルネアス",
+        "nameENG": "Xerneas",
         "data": ["kalos", "legendary"]
     },
     {
         "dex": "0717",
-        "name": "Yveltal",
+        "nameJPN": "イベルタル",
+        "nameENG": "Yveltal",
         "data": ["kalos", "legendary"]
     },
     {
         "dex": "0718T",
-        "name": "Zygarde 10%",
+        "nameJPN": "",
+        "nameENG": "Zygarde 10%",
         "data": ["kalos", "legendary"]
     },
     {
         "dex": "0718",
-        "name": "Zygarde 50%",
+        "nameJPN": "ジガルデ",
+        "nameENG": "Zygarde 50%",
         "data": ["kalos", "legendary"]
     },
     {
         "dex": "0718C",
-        "name": "Zygarde Complete",
+        "nameJPN": "",
+        "nameENG": "Zygarde Complete",
         "data": ["kalos", "legendary"]
     },
     {
         "dex": "0719",
-        "name": "Diancie",
+        "nameJPN": "ディアンシー",
+        "nameENG": "Diancie",
         "data": ["kalos", "mirage"]
     },
     {
         "dex": "0719M",
-        "name": "Mega Diancie",
+        "nameJPN": "メガディアンシー",
+        "nameENG": "Mega Diancie",
         "data": ["kalos", "mega", "mirage"]
     },
     {
         "dex": "0720",
-        "name": "Hoopa Confined",
+        "nameJPN": "いましめられしフーパ",
+        "nameENG": "Hoopa Confined",
         "data": ["kalos", "mirage"]
     },
     {
         "dex": "0720U",
-        "name": "Hoopa Unbound",
+        "nameJPN": "ときはなたれしフーパ",
+        "nameENG": "Hoopa Unbound",
         "data": ["kalos", "mirage"]
     },
     {
         "dex": "0721",
-        "name": "Volcanion",
+        "nameJPN": "ボルケニオン",
+        "nameENG": "Volcanion",
         "data": ["kalos", "mirage"]
     },
     {
         "dex": "0722",
-        "name": "Rowlet",
+        "nameJPN": "モクロー",
+        "nameENG": "Rowlet",
         "data": ["alola", "starter"]
     },
     {
         "dex": "0723",
-        "name": "Dartrix",
+        "nameJPN": "フクスロー",
+        "nameENG": "Dartrix",
         "data": ["alola", "starter"]
     },
     {
         "dex": "0724",
-        "name": "Decidueye",
+        "nameJPN": "ジュナイパー",
+        "nameENG": "Decidueye",
         "data": ["alola", "starter"]
     },
     {
         "dex": "0725",
-        "name": "Litten",
+        "nameJPN": "ニャビー",
+        "nameENG": "Litten",
         "data": ["alola", "starter"]
     },
     {
         "dex": "0726",
-        "name": "Torracat",
+        "nameJPN": "ニャヒート",
+        "nameENG": "Torracat",
         "data": ["alola", "starter"]
     },
     {
         "dex": "0727",
-        "name": "Incineroar",
+        "nameJPN": "ガオガエン",
+        "nameENG": "Incineroar",
         "data": ["alola", "starter"]
     },
     {
         "dex": "0728",
-        "name": "Popplio",
+        "nameJPN": "アシマリ",
+        "nameENG": "Popplio",
         "data": ["alola", "starter"]
     },
     {
         "dex": "0729",
-        "name": "Brionne",
+        "nameJPN": "オシャマリ",
+        "nameENG": "Brionne",
         "data": ["alola", "starter"]
     },
     {
         "dex": "0730",
-        "name": "Primarina",
+        "nameJPN": "アシレーヌ",
+        "nameENG": "Primarina",
         "data": ["alola", "starter"]
     },
     {
         "dex": "0731",
-        "name": "Pikipek",
+        "nameJPN": "ツツケラ",
+        "nameENG": "Pikipek",
         "data": ["alola"]
     },
     {
         "dex": "0732",
-        "name": "Trumbeak",
+        "nameJPN": "ケララッパ",
+        "nameENG": "Trumbeak",
         "data": ["alola"]
     },
     {
         "dex": "0733",
-        "name": "Toucannon",
+        "nameJPN": "ドデカバシ",
+        "nameENG": "Toucannon",
         "data": ["alola"]
     },
     {
         "dex": "0734",
-        "name": "Yungoos",
+        "nameJPN": "ヤングース",
+        "nameENG": "Yungoos",
         "data": ["alola"]
     },
     {
         "dex": "0735",
-        "name": "Gumshoos",
+        "nameJPN": "デカグース",
+        "nameENG": "Gumshoos",
         "data": ["alola"]
     },
     {
         "dex": "0736",
-        "name": "Grubbin",
+        "nameJPN": "アゴジムシ",
+        "nameENG": "Grubbin",
         "data": ["alola"]
     },
     {
         "dex": "0737",
-        "name": "Charjabug",
+        "nameJPN": "デンヂムシ",
+        "nameENG": "Charjabug",
         "data": ["alola"]
     },
     {
         "dex": "0738",
-        "name": "Vikavolt",
+        "nameJPN": "クワガノン",
+        "nameENG": "Vikavolt",
         "data": ["alola"]
     },
     {
         "dex": "0739",
-        "name": "Crabrawler",
+        "nameJPN": "マケンカニ",
+        "nameENG": "Crabrawler",
         "data": ["alola"]
     },
     {
         "dex": "0740",
-        "name": "Crabominable",
+        "nameJPN": "ケケンカニ",
+        "nameENG": "Crabominable",
         "data": ["alola"]
     },
     {
         "dex": "0741",
-        "name": "Oricorio Baille",
+        "nameJPN": "オドリドリ めらめら",
+        "nameENG": "Oricorio Baille",
         "data": ["alola"]
     },
     {
         "dex": "0741Po",
-        "name": "Oricorio PomPom",
+        "nameJPN": "オドリドリ ぱちぱち",
+        "nameENG": "Oricorio PomPom",
         "data": ["alola"]
     },
     {
         "dex": "0741Pa",
-        "name": "Oricorio Pau",
+        "nameJPN": "オドリドリ ふらふら",
+        "nameENG": "Oricorio Pau",
         "data": ["alola"]
     },
     {
         "dex": "0741Se",
-        "name": "Oricorio Sensu",
+        "nameJPN": "オドリドリ まいまい",
+        "nameENG": "Oricorio Sensu",
         "data": ["alola"]
     },
     {
         "dex": "0742",
-        "name": "Cutiefly",
+        "nameJPN": "アブリー",
+        "nameENG": "Cutiefly",
         "data": ["alola"]
     },
     {
         "dex": "0743",
-        "name": "Ribombee",
+        "nameJPN": "アブリボン",
+        "nameENG": "Ribombee",
         "data": ["alola"]
     },
     {
         "dex": "0744",
-        "name": "Rockruff",
+        "nameJPN": "イワンコ",
+        "nameENG": "Rockruff",
         "data": ["alola"]
     },
     {
         "dex": "0745",
-        "name": "Lycanroc Midday",
+        "nameJPN": "ルガルガン まひるのすがた",
+        "nameENG": "Lycanroc Midday",
         "data": ["alola"]
     },
     {
         "dex": "0745Mn",
-        "name": "Lycanroc Midnight",
+        "nameJPN": "ルガルガン まよなかのすがた",
+        "nameENG": "Lycanroc Midnight",
         "data": ["alola"]
     },
     {
         "dex": "0746",
-        "name": "Wishiwashi",
+        "nameJPN": "ヨワシ",
+        "nameENG": "Wishiwashi",
         "data": ["alola"]
     },
     {
         "dex": "0746Sc",
-        "name": "Wishiwashi School",
+        "nameJPN": "ヨワシ むれたすがた",
+        "nameENG": "Wishiwashi School",
         "data": ["alola"]
     },
     {
         "dex": "0747",
-        "name": "Mareanie",
+        "nameJPN": "ヒドイデ",
+        "nameENG": "Mareanie",
         "data": ["alola"]
     },
     {
         "dex": "0748",
-        "name": "Toxapex",
+        "nameJPN": "ドヒドイデ",
+        "nameENG": "Toxapex",
         "data": ["alola"]
     },
     {
         "dex": "0749",
-        "name": "Mudbray",
+        "nameJPN": "ドロバンコ",
+        "nameENG": "Mudbray",
         "data": ["alola"]
     },
     {
         "dex": "0750",
-        "name": "Mudsdale",
+        "nameJPN": "バンバドロ",
+        "nameENG": "Mudsdale",
         "data": ["alola"]
     },
     {
         "dex": "0751",
-        "name": "Dewpider",
+        "nameJPN": "シズクモ",
+        "nameENG": "Dewpider",
         "data": ["alola"]
     },
     {
         "dex": "0752",
-        "name": "Araquanid",
+        "nameJPN": "オニシズクモ",
+        "nameENG": "Araquanid",
         "data": ["alola"]
     },
     {
         "dex": "0753",
-        "name": "Fomantis",
+        "nameJPN": "カリキリ",
+        "nameENG": "Fomantis",
         "data": ["alola"]
     },
     {
         "dex": "0754",
-        "name": "Lurantis",
+        "nameJPN": "ラランテス",
+        "nameENG": "Lurantis",
         "data": ["alola"]
     },
     {
         "dex": "0755",
-        "name": "Morelull",
+        "nameJPN": "ネマシュ",
+        "nameENG": "Morelull",
         "data": ["alola"]
     },
     {
         "dex": "0756",
-        "name": "Shiinotic",
+        "nameJPN": "マシェード",
+        "nameENG": "Shiinotic",
         "data": ["alola"]
     },
     {
         "dex": "0757",
-        "name": "Salandit",
+        "nameJPN": "ヤトウモリ",
+        "nameENG": "Salandit",
         "data": ["alola"]
     },
     {
         "dex": "0758",
-        "name": "Salazzle",
+        "nameJPN": "エンニュート",
+        "nameENG": "Salazzle",
         "data": ["alola"]
     },
     {
         "dex": "0759",
-        "name": "Stufful",
+        "nameJPN": "ヌイコグマ",
+        "nameENG": "Stufful",
         "data": ["alola"]
     },
     {
         "dex": "0760",
-        "name": "Bewear",
+        "nameJPN": "キテルグマ",
+        "nameENG": "Bewear",
         "data": ["alola"]
     },
     {
         "dex": "0761",
-        "name": "Bounsweet",
+        "nameJPN": "アマカジ",
+        "nameENG": "Bounsweet",
         "data": ["alola"]
     },
     {
         "dex": "0762",
-        "name": "Steenee",
+        "nameJPN": "アママイコ",
+        "nameENG": "Steenee",
         "data": ["alola"]
     },
     {
         "dex": "0763",
-        "name": "Tsareena",
+        "nameJPN": "アマージョ",
+        "nameENG": "Tsareena",
         "data": ["alola"]
     },
     {
         "dex": "0764",
-        "name": "Comfey",
+        "nameJPN": "キュワワー",
+        "nameENG": "Comfey",
         "data": ["alola"]
     },
     {
         "dex": "0765",
-        "name": "Oranguru",
+        "nameJPN": "ヤレユータン",
+        "nameENG": "Oranguru",
         "data": ["alola"]
     },
     {
         "dex": "0766",
-        "name": "Passimian",
+        "nameJPN": "ナゲツケサル",
+        "nameENG": "Passimian",
         "data": ["alola"]
     },
     {
         "dex": "0767",
-        "name": "Wimpod",
+        "nameJPN": "コソクムシ",
+        "nameENG": "Wimpod",
         "data": ["alola"]
     },
     {
         "dex": "0768",
-        "name": "Golisopod",
+        "nameJPN": "グソクムシャ",
+        "nameENG": "Golisopod",
         "data": ["alola"]
     },
     {
         "dex": "0769",
-        "name": "Sandygast",
+        "nameJPN": "スナバァ",
+        "nameENG": "Sandygast",
         "data": ["alola"]
     },
     {
         "dex": "0770",
-        "name": "Palossand",
+        "nameJPN": "シロデスナ",
+        "nameENG": "Palossand",
         "data": ["alola"]
     },
     {
         "dex": "0771",
-        "name": "Pyukumuku",
+        "nameJPN": "ナマコブシ",
+        "nameENG": "Pyukumuku",
         "data": ["alola"]
     },
     {
         "dex": "0772",
-        "name": "Type: Null",
+        "nameJPN": "タイプ：ヌル",
+        "nameENG": "Type: Null",
         "data": ["alola"]
     },
     {
         "dex": "0773",
-        "name": "Silvally",
+        "nameJPN": "シルヴァディ",
+        "nameENG": "Silvally",
         "data": ["alola"]
     },
     {
         "dex": "0774",
-        "name": "Minior Shield",
+        "nameJPN": "メテノ りゅうせいのすがた",
+        "nameENG": "Minior Shield",
         "data": ["alola"]
     },
     {
         "dex": "0774R",
-        "name": "Minior Red",
+        "nameJPN": "メテノ 赤",
+        "nameENG": "Minior Red",
         "data": ["alola"]
     },
     {
         "dex": "0774O",
-        "name": "Minior Orange",
+        "nameJPN": "メテノ 橙",
+        "nameENG": "Minior Orange",
         "data": ["alola"]
     },
     {
         "dex": "0774Y",
-        "name": "Minior Yellow",
+        "nameJPN": "メテノ 黄",
+        "nameENG": "Minior Yellow",
         "data": ["alola"]
     },
     {
         "dex": "0774G",
-        "name": "Minior Green",
+        "nameJPN": "メテノ 緑",
+        "nameENG": "Minior Green",
         "data": ["alola"]
     },
     {
         "dex": "0774B",
-        "name": "Minior Blue",
+        "nameJPN": "メテノ 青",
+        "nameENG": "Minior Blue",
         "data": ["alola"]
     },
     {
         "dex": "0774I",
-        "name": "Minior Indigo",
+        "nameJPN": "メテノ 紺",
+        "nameENG": "Minior Indigo",
         "data": ["alola"]
     },
     {
         "dex": "0774V",
-        "name": "Minior Violet",
+        "nameJPN": "メテノ 紫",
+        "nameENG": "Minior Violet",
         "data": ["alola"]
     },
     {
         "dex": "0775",
-        "name": "Komala",
+        "nameJPN": "ネッコアラ",
+        "nameENG": "Komala",
         "data": ["alola"]
     },
     {
         "dex": "0776",
-        "name": "Turtonator",
+        "nameJPN": "バクガメス",
+        "nameENG": "Turtonator",
         "data": ["alola"]
     },
     {
         "dex": "0777",
-        "name": "Togedemaru",
+        "nameJPN": "トゲデマル",
+        "nameENG": "Togedemaru",
         "data": ["alola"]
     },
     {
         "dex": "0778",
-        "name": "Mimikyu",
+        "nameJPN": "ミミッキュ",
+        "nameENG": "Mimikyu",
         "data": ["alola"]
     },
     {
         "dex": "0779",
-        "name": "Bruxish",
+        "nameJPN": "ハギギシリ",
+        "nameENG": "Bruxish",
         "data": ["alola"]
     },
     {
         "dex": "0780",
-        "name": "Drampa",
+        "nameJPN": "ジジーロン",
+        "nameENG": "Drampa",
         "data": ["alola"]
     },
     {
         "dex": "0781",
-        "name": "Dhelmise",
+        "nameJPN": "ダダリン",
+        "nameENG": "Dhelmise",
         "data": ["alola"]
     },
     {
         "dex": "0782",
-        "name": "Jangmo-o",
+        "nameJPN": "ジャラコ",
+        "nameENG": "Jangmo-o",
         "data": ["alola", "bs600"]
     },
     {
         "dex": "0783",
-        "name": "Hakamo-o",
+        "nameJPN": "ジャランゴ",
+        "nameENG": "Hakamo-o",
         "data": ["alola", "bs600"]
     },
     {
         "dex": "0784",
-        "name": "Kommo-o",
+        "nameJPN": "ジャラランガ",
+        "nameENG": "Kommo-o",
         "data": ["alola", "bs600"]
     },
     {
         "dex": "0785",
-        "name": "Tapu Koko",
+        "nameJPN": "カプ・コケコ",
+        "nameENG": "Tapu Koko",
         "data": ["alola", "trio"]
     },
     {
         "dex": "0786",
-        "name": "Tapu Bulu",
+        "nameJPN": "カプ・ブルル",
+        "nameENG": "Tapu Bulu",
         "data": ["alola", "trio"]
     },
     {
         "dex": "0787",
-        "name": "Tapu Lele",
+        "nameJPN": "カプ・テテフ",
+        "nameENG": "Tapu Lele",
         "data": ["alola", "trio"]
     },
     {
         "dex": "0788",
-        "name": "Tapu Fini",
+        "nameJPN": "カプ・レヒレ",
+        "nameENG": "Tapu Fini",
         "data": ["alola", "trio"]
     },
     {
         "dex": "0789",
-        "name": "Cosmog",
+        "nameJPN": "コスモッグ",
+        "nameENG": "Cosmog",
         "data": ["alola"]
     },
     {
         "dex": "0790",
-        "name": "Cosmoem",
+        "nameJPN": "コスモウム",
+        "nameENG": "Cosmoem",
         "data": ["alola"]
     },
     {
         "dex": "0791",
-        "name": "Solgaleo",
+        "nameJPN": "ソルガレオ",
+        "nameENG": "Solgaleo",
         "data": ["alola", "legendary"]
     },
     {
         "dex": "0792",
-        "name": "Lunala",
+        "nameJPN": "ルナアーラ",
+        "nameENG": "Lunala",
         "data": ["alola", "legendary"]
     },
     {
         "dex": "0793",
-        "name": "Nihilego",
+        "nameJPN": "ウツロイド",
+        "nameENG": "Nihilego",
         "data": ["alola", "UB"]
     },
     {
         "dex": "0794",
-        "name": "Buzzwole",
+        "nameJPN": "マッシブーン",
+        "nameENG": "Buzzwole",
         "data": ["alola", "UB"]
     },
     {
         "dex": "0795",
-        "name": "Pheromosa",
+        "nameJPN": "フェローチェ",
+        "nameENG": "Pheromosa",
         "data": ["alola", "UB"]
     },
     {
         "dex": "0796",
-        "name": "Xurkitree",
+        "nameJPN": "デンジュモク",
+        "nameENG": "Xurkitree",
         "data": ["alola", "UB"]
     },
     {
         "dex": "0797",
-        "name": "Celesteela",
+        "nameJPN": "テッカグヤ",
+        "nameENG": "Celesteela",
         "data": ["alola", "UB"]
     },
     {
         "dex": "0798",
-        "name": "Kartana",
+        "nameJPN": "カミツルギ",
+        "nameENG": "Kartana",
         "data": ["alola", "UB"]
     },
     {
         "dex": "0799",
-        "name": "Guzzlord",
+        "nameJPN": "アクジキング",
+        "nameENG": "Guzzlord",
         "data": ["alola", "UB"]
     },
     {
         "dex": "0800",
-        "name": "Necrozma",
+        "nameJPN": "ネクロズマ",
+        "nameENG": "Necrozma",
         "data": ["alola", "legendary"]
     },
     {
         "dex": "0801",
-        "name": "Magearna",
+        "nameJPN": "マギアナ",
+        "nameENG": "Magearna",
         "data": ["alola", "mirage"]
     },
     {
         "dex": "0801O",
-        "name": "Magearna Original",
+        "nameJPN": "マギアナ オリジナル",
+        "nameENG": "Magearna Original",
         "data": ["alola", "mirage"]
     },
     {
         "dex": "0802",
-        "name": "Marshadow",
+        "nameJPN": "マーシャドー",
+        "nameENG": "Marshadow",
         "data": ["alola"]
     },
     {
         "dex": "Egg",
-        "name": "Egg",
+        "nameJPN": "タマゴ",
+        "nameENG": "Egg",
         "data": [""]
     }
 ]

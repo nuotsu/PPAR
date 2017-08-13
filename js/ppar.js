@@ -1,12 +1,20 @@
 $(function() {
 	// load ppaJSON
-		$.getJSON('https://nuotsu.github.io/PPAR/js/ppa.json', function(ppaJSON) {
+		$.getJSON('../js/ppa.json', function(ppaJSON) {
             for (var i in ppaJSON) {
-				$('.wallpaper').append(
-					'<img src="../images/ppa/' + ppaJSON[i].dex + '_PPA.png" ' +
-					'data-collection="' + ppaJSON[i].data.join(' ') + '" ' +
-					'title="' + ppaJSON[i].name +'|' + ppaJSON[i].dex + '">\n'
-				);
+				if ($('.language a:first-child').css('text-decoration') == 'underline') {
+					$('.wallpaper').append(
+						'<img src="../images/ppa/' + ppaJSON[i].dex + '_PPA.png" ' +
+						'data-collection="' + ppaJSON[i].data.join(' ') + '" ' +
+						'title="' + ppaJSON[i].nameJPN +'|' + ppaJSON[i].dex + '">\n'
+					);
+				} else {
+					$('.wallpaper').append(
+						'<img src="../images/ppa/' + ppaJSON[i].dex + '_PPA.png" ' +
+						'data-collection="' + ppaJSON[i].data.join(' ') + '" ' +
+						'title="' + ppaJSON[i].nameENG +'|' + ppaJSON[i].dex + '">\n'
+					);
+				}
             }
 			$('#PPAlen span').html( $('.wallpaper img').length );
 		});
@@ -195,15 +203,9 @@ $(function() {
 	// Keypresses
 		$(document).keypress(function(e) {
 			keycode = (e.keycode ? e.keycode : e.which)
-			if (keycode == '114') {		// 'r' = Randomize
-				$('#randomize').click();
-			}
-			if (keycode == '111') {		// 'o' = Organize
-				$('#organize').click();
-			}
-			if (keycode == '115') {		// 's' = Save
-				$('#save').click();
-			}
+			if (keycode == '114') $('#randomize').click();	// 'r' = Randomize
+			if (keycode == '111') $('#organize').click();	// 'o' = Organize
+			if (keycode == '115') $('#save').click();	// 's' = Save
 			if (keycode == '102') {		// 'f' = Toggle Fullscreen Preview
 				if (fullscreen == false) {
 					$('.wallpaper').click();
