@@ -1015,7 +1015,7 @@
     },
     {
         "dex": "0129s",
-        "nameJPN": "",
+        "nameJPN": "光るコイキング",
         "nameENG": "",
         "data": ["kanto"]
     },
@@ -1027,7 +1027,7 @@
     },
     {
         "dex": "0130s",
-        "nameJPN": "",
+        "nameJPN": "赤いギャラドス",
         "nameENG": "",
         "data": ["kanto"]
     },
@@ -4999,97 +4999,97 @@
     },
     {
         "dex": "0669",
-        "nameJPN": "フラベベ",
+        "nameJPN": "フラベベ 赤",
         "nameENG": "Flabebe Red",
         "data": ["kalos"]
     },
     {
         "dex": "0669B",
-        "nameJPN": "",
+        "nameJPN": "フラベベ 青",
         "nameENG": "Flabebe Blue",
         "data": ["kalos"]
     },
     {
         "dex": "0669Y",
-        "nameJPN": "",
+        "nameJPN": "フラベベ 黄",
         "nameENG": "Flabebe Yellow",
         "data": ["kalos"]
     },
     {
         "dex": "0669O",
-        "nameJPN": "",
+        "nameJPN": "フラベベ 橙",
         "nameENG": "Flabebe Orange",
         "data": ["kalos"]
     },
     {
         "dex": "0669W",
-        "nameJPN": "",
+        "nameJPN": "フラベベ 白",
         "nameENG": "Flabebe White",
         "data": ["kalos"]
     },
     {
         "dex": "0670",
-        "nameJPN": "フラエッテ",
+        "nameJPN": "フラエッテ 赤",
         "nameENG": "Floette Red",
         "data": ["kalos"]
     },
     {
         "dex": "0670B",
-        "nameJPN": "",
+        "nameJPN": "フラエッテ 青",
         "nameENG": "Floette Blue",
         "data": ["kalos"]
     },
     {
         "dex": "0670Y",
-        "nameJPN": "",
+        "nameJPN": "フラエッテ 黄",
         "nameENG": "Floette Yellow",
         "data": ["kalos"]
     },
     {
         "dex": "0670O",
-        "nameJPN": "",
+        "nameJPN": "フラエッテ 橙",
         "nameENG": "Floette Orange",
         "data": ["kalos"]
     },
     {
         "dex": "0670W",
-        "nameJPN": "",
+        "nameJPN": "フラエッテ 白",
         "nameENG": "Floette White",
         "data": ["kalos"]
     },
     {
         "dex": "0670E",
-        "nameJPN": "",
+        "nameJPN": "フラエッテ AZ",
         "nameENG": "Floette Eternal",
         "data": ["kalos"]
     },
     {
         "dex": "0671",
-        "nameJPN": "フラージェス",
+        "nameJPN": "フラージェス 赤",
         "nameENG": "Florges Red",
         "data": ["kalos"]
     },
     {
         "dex": "0671B",
-        "nameJPN": "",
+        "nameJPN": "フラージェス 青",
         "nameENG": "Florges Blue",
         "data": ["kalos"]
     },
     {
         "dex": "0671Y",
-        "nameJPN": "",
+        "nameJPN": "フラージェス 黄",
         "nameENG": "Florges Yellow",
         "data": ["kalos"]
     },
     {
         "dex": "0671O",
-        "nameJPN": "",
+        "nameJPN": "フラージェス 橙",
         "nameENG": "Florges Orange",
         "data": ["kalos"]
     },
     {
         "dex": "0671W",
-        "nameJPN": "",
+        "nameJPN": "フラージェス 白",
         "nameENG": "Florges White",
         "data": ["kalos"]
     },
