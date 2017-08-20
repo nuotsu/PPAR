@@ -1,217 +1,252 @@
-$(function() {
-	// load ppaJSON
-		$.getJSON('../js/ppa.json', function(ppaJSON) {
+// Language Localization
+    function language(lang) {
+        $('[data-JPN]').each(function() {
+            $(this).html( $(this).attr('data-' + lang) )
+        })
+        if ($('.search')) {
+            $('.search').attr({
+                'placeholder': $('.search').attr('data-' + lang)
+            })
+        }
+    }
+    language('JPN') // Initial Language
+    $('#lang').change(function() {
+        language( $('#lang').val() )
+    })
+
+// ppaJSON
+    var ppaDex = []
+        pkmnJPN = []
+        pkmnENG = []
+    $.ajax({
+        url: 'js/ppa.json',
+        dataType: 'json',
+        async: false,
+        success: function(ppaJSON) {
             for (var i in ppaJSON) {
-				if ($('.language a:first-child').css('text-decoration') == 'underline') {
-					$('.wallpaper').append(
-						'<img src="../images/ppa/' + ppaJSON[i].dex + '_PPA.png" ' +
-						'data-collection="' + ppaJSON[i].data.join(' ') + '" ' +
-						'title="' + ppaJSON[i].nameJPN +'|' + ppaJSON[i].dex + '">\n'
-					);
-				} else {
-					$('.wallpaper').append(
-						'<img src="../images/ppa/' + ppaJSON[i].dex + '_PPA.png" ' +
-						'data-collection="' + ppaJSON[i].data.join(' ') + '" ' +
-						'title="' + ppaJSON[i].nameENG +'|' + ppaJSON[i].dex + '">\n'
-					);
-				}
+                $('#wallpaper').append(`
+                    <img
+                        src="images/ppa/${ppaJSON[i].dex}_PPA.png"
+                        data-region="${ppaJSON[i].region}"
+                        data-collection="${ppaJSON[i].collection.join(' ')}"
+                    >
+                `)
+
+                ppaDex[i] = ppaJSON[i].dex
+                pkmnJPN[i] = ppaJSON[i].nameJPN
+                pkmnENG[i] = ppaJSON[i].nameENG
             }
-			$('#PPAlen span').html( $('.wallpaper img').length );
-		});
+            $('#ppaTotal').html( $('#wallpaper img').length )
+            $('*:not(#wallpaper), .ui-autocomplet').css({
+                'z-index': $('#wallpaper img').length
+            })
+            return ppaDex, pkmnJPN, pkmnENG
+        }
+    })
 
-	// Dimensions
-		$('.dimensions input').change(function() {
-			$('.wallpaper, .wallpaper-container').css({
-				'width': $('.dimensions #width').val(),
-				'height': $('.dimensions #height').val()
-			});
-			$('.wallpaper img').css({
-				'width': $('.dimensions #icon-size').val()
-			});
-		});
-		$('.dimensions #width').attr({
-			'value': $('.wallpaper').width()
-		});
+// Title Icon & Favicon
+    var rPPA = ppaDex[Math.floor(Math.random() * ppaDex.length)]
+        iPPA = `images/ppa/${rPPA}_PPA.png`
+    $('#favicon').attr({
+        'href': iPPA
+    })
 
-	// BG Color
-		$('#bg_color').change(function() {
-			$('.wallpaper').css({
-				'background': $('#bg_color').val()
-			});
-		});
-	// BG Image
-		$('#bg_img').click(function() {
-			$('#bg_img_upload').click();
-		});
-		$('#bg_img_upload').change(function() {
-			img = this.files[0];
-			reader = new FileReader();
-			reader.onloadend = function() {
-				$('.wallpaper').css({
-					'background': 'none',
-					'background-image': 'url("' + reader.result + '")',
-					'background-size': 'cover',
-					'background-position': 'center'
-				});
-			}
-			if (img) {
-				reader.readAsDataURL(img);
-			}
-		});
+// Open/Close Settings
+    $('#settings').hide()
+    $('.settings').hover(function() {
+        $('#settings').show()
+        $('.settings').css({
+            'border-radius': 5
+        })
+        $('#openSettings')
+            .html('×')
+            .css({
+                'position': 'fixed',
+                'right': 16.5,
+                'top': 16.5
+            })
+        var rPPA = ppaDex[Math.floor(Math.random() * ppaDex.length)]
+            iPPA = `images/ppa/${rPPA}_PPA.png`
+        $('#ppaIcon img').attr({
+            'src': iPPA
+        })
+    }, function() {
+        closeSettings()
+    })
+    $('#openSettings').click(function() {
+        closeSettings()
+    })
+    function closeSettings() {
+        $('#settings').hide()
+        $('.settings').css({
+            'border-radius': 20
+        })
+        $('#openSettings')
+            .html('≡')
+            .css({
+                'position': 'static'
+            })
+    }
 
-	// Randomize
-		$('#randomize').click(function() {
-			rX = $('.wallpaper').width() - $('.wallpaper img').width();
-			rY = $('.wallpaper').height() - $('.wallpaper img').height();
-			direction = ['-1', '1'];
-			$('.wallpaper img').each(function() {
-				$(this).css({
-					'position': 'absolute',
-					'left': Math.floor(Math.random() * rX),
-					'top': Math.floor(Math.random() * rY),
-					'z-index': Math.floor(Math.random() * $('.wallpaper img').length),
-					'transform': 'scaleX(' + direction[Math.floor(Math.random() * 2)] + ')'
-				});
-			});
-			$('#PPAlen').css({
-				'z-index': $('.wallpaper img').length
-			});
-		});
-	// Organize
-		$('#organize').click(function() {
-			$('.wallpaper img').css({
-				'position': 'static',
-				'transform': 'scaleX(' + 1 + ')'
-			});
-		});
+// Dimensions
+    $('#width').val( $('#wallpaper').width().toFixed(0) )
+    $('#height').val( $('#wallpaper').height().toFixed(0) )
+    $('#currentScreen').val(`${$(window).width()} ${$(window).height()} 60`)
+    $('#size').change(function() {
+        var wpSize = []
+            wpSize[0] = $('#size').val().split(' ')[0]
+            wpSize[1] = $('#size').val().split(' ')[1]
+            ppaSize = $('#size').val().split(' ')[2]
+        $('#width').val(wpSize[0])
+        $('#height').val(wpSize[1])
+        $('#ppaSize').val(ppaSize)
+        changeWallpaper()
+    })
+    $(window).resize(function() {
+        $('#width').val( $('#wallpaper').width().toFixed(0) )
+        $('#height').val( $('#wallpaper').height() )
+    })
+    $('#width, #height, #ppaSize').change(function() {
+        changeWallpaper()
+    })
+    function changeWallpaper() {
+        $('#wallpaper').css({
+            'width': $('#width').val(),
+            'height': $('#height').val()
+        })
+        $('#wallpaper img').css('width', $('#ppaSize').val())
+    }
 
-	// Fullscreen Preview
-		fullscreen = false;
-		$('#FS_BG').hide();
-		init_width = $('#FS_BG').width();
-		$('.wallpaper').click(function() {
-			fullscreen = true;
-			$('#previewId').remove();
-			$('#FS_BG').css({
-				'z-index': $('.wallpaper img').length,
-				'width': init_width
-			});
-			$('#FS_BG').fadeIn(500);
-			// html2canvas for Fullscreen Preview
-				html2canvas($('.wallpaper'), {
-					onrendered: function(canvas) {
-						canvas.id = 'previewId';
-						$('#FS_BG').append(canvas);
-						$('#previewId').css({
-							'max-width': init_width
-						});
-					}, allowTaint: true
-				});
-				$('#FS_BG').css({
-					'display': 'inline-block'
-				});
-		});
-		$('#FS_BG, #FS_exit').click(function() {
-			fullscreen = false;
-			$('#FS_BG').fadeOut(500);
-		});
-	// Save
-		$('#save').click(function() {
-			html2canvas($('.wallpaper'), {
-				onrendered: function(canvas) {
-					canvas.id = 'canvasId';
-					$('#result').append(canvas);
-				}, allowTaint: true
-			});
-			$('.result #result').css({
-				'display': 'inline-block'
-			});
-		});
+// Collections
+    $('#region, #collection').change(function() {
+        var region = $('#region').val()
+            if (region == 'all') $('#wallpaper img').addClass('showRegion')
+            else {
+                $('#wallpaper img').removeClass('showRegion')
+                $(`#wallpaper img[data-region=${region}]`).addClass('showRegion')
+            }
+        var collection = $('#collection').val()
+            if (collection == 'all') $('#wallpaper img').addClass('showCollection')
+            else {
+                $('#wallpaper img').removeClass('showCollection')
+                $(`#wallpaper img[data-collection*=${collection}]`).addClass('showCollection')
+            }
+        $('#wallpaper img').css('display', 'none')
+        $('.showRegion.showCollection').css('display', 'inline')
+        $('#ppaTotal').html( $('#wallpaper img[style*=inline]').length )
+    })
 
-	// Collection
-		$('#collection').change(function() {
-			collection = $(this).val();
-			if (collection == 'all') {
-				$('.wallpaper img').css({
-					'display': 'inline'
-				});
-			} else {
-				$('.wallpaper img').css({
-					'display': 'none'
-				});
-				$('.wallpaper img[data-collection*=' + collection + ']').css({
-					'display': 'inline'
-				});
-			}
-			$('#PPAlen span').html( $('.wallpaper img[style*="display: inline;"]').length );
-		});
-	// Locate
-		// Hide Rest Initial
-			$('.hideRest').css({
-				'pointer-events': 'none',
-				'opacity': '0.3'
-			});
-		// Locate
-			$('#locate').click(function() {
-				$('.wallpaper img').css({
-					'opacity': '0.1'
-				});
-				find = $('#find').val().split(',');
-				for (i = 0; i <= find.length; i++) {
-					$('.wallpaper img[src*=' + find[i] +']').css({
-						'opacity': 1
-					});
-				}
-				$('.hideRest').css({
-					'pointer-events': 'auto',
-					'opacity': 1
-				});
-				$('#hideRest').prop('checked', false);
-			// Hide Rest
-				$('#hideRest').change(function() {
-					if ($(this).prop('checked') == true) {
-						$('.wallpaper img').css({
-							'opacity': 0
-						});
-						find = $('#find').val().split(',');
-						for (i = 0; i <= find.length; i++) {
-							$('.wallpaper img[src*=' + find[i] +']').css({
-								'opacity': 1
-							});
-						}
-					} else {
-						$('.wallpaper img').css({
-							'opacity': 0.1
-						});
-						find = $('#find').val().split(',');
-						for (i = 0; i <= find.length; i++) {
-							$('.wallpaper img[src*=' + find[i] +']').css({
-								'opacity': 1
-							});
-						}
-					}
-				});
-			});
-			// Show All
-				$('#showAll').click(function() {
-					$('.wallpaper img').css({
-						'opacity': 1
-					});
-					$('#find').val('');
-				});
+// Search
+    function searchSuggestions() {
+        $('.search').keyup(function() {
+            if ($('#lang').val() == 'JPN')
+                $('.search').autocomplete({
+                    source: pkmnJPN
+                })
+            else
+                $('.search').autocomplete({
+                    source: pkmnENG
+                })
+        })
+    }
+    searchSuggestions()
+    $('#addSearch').click(function() {
+        $('#removeSearch').remove()
+        $(this)
+            .before(`<br class="searchBR"><input class="search s${$('.search').length}" type="text" data-JPN="ピカチュウ" data-ENG="Pikachu">\n`)
+            .after('<button id="removeSearch">-</button>')
+        language( $('#lang').val() )
+        $('#removeSearch').click(function() {
+            $('.search').last().remove()
+            $('.searchBR').last().remove()
+            if ($('.search').length == 1) {
+                $(this).remove()
+            }
+        });
+        searchSuggestions()
+    })
+    $('#search').click(function() {
+        var query = []
+        var qDex = []  // query converted to ppaDex
+        for (var i = 0; i < $('.search').length; i++)
+            query.push( $(`.s${i}`).val() )
+        for (var i = 0; i < query.length; i++) {
+            if ($('#lang').val() == 'JPN') qDex[i] = ppaDex[pkmnJPN.indexOf(query[i])]
+            else qDex[i] = ppaDex[pkmnENG.indexOf(query[i])]
+        }
+        console.log(pkmnENG, query, qDex);
+        $('#wallpaper img').css('display', 'none')
+        for (var i in qDex) {
+            $(`#wallpaper img[src*=${qDex[i]}_PPA]`).css('display', 'inline')
+        }
+    })
 
-	// Keypresses
-		$(document).keypress(function(e) {
-			keycode = (e.keycode ? e.keycode : e.which)
-			if (keycode == '114') $('#randomize').click();	// 'r' = Randomize
-			if (keycode == '111') $('#organize').click();	// 'o' = Organize
-			if (keycode == '115') $('#save').click();	// 's' = Save
-			if (keycode == '102') {		// 'f' = Toggle Fullscreen Preview
-				if (fullscreen == false) {
-					$('.wallpaper').click();
-				} else {
-					$('#FS_BG').click();
-				}
-			}
-		});
-});
+// BG Image
+    $('#bgIMG').click(function() {
+        $('#bgIMG_upload').click()
+    })
+    $('#bgIMG_upload').change(function() {
+        img = this.files[0]
+        rdr = new FileReader()
+        rdr.onloadend = function() {
+            $('#wallpaper').css({
+                'background': 'none',
+                'background-image': 'url(\'' + rdr.result + '\')',
+                'background-position': 'center',
+                'background-size': 'cover',
+                'background-repeat': 'no-repeat'
+            })
+        }
+        if (img) rdr.readAsDataURL(img)
+    })
+
+// Randomize & Organize
+    $('#randomize').click(function() {
+        var w = $('#width').val()
+            h = $('#height').val()
+            ppaSize = $('#ppaSize').val()
+            z = $('#wallpaper img').length
+            dir = [-1,1]
+        $('#wallpaper img').each(function() {
+            $(this).css({
+                'position': 'absolute',
+                'left': Math.floor(Math.random() * (w - ppaSize)),
+                'top': Math.floor(Math.random() * (h - ppaSize)),
+                'z-index': Math.floor(Math.random() * z),
+                'transform': `scaleX(${dir[Math.floor(Math.random() * 2)]})`
+            })
+        })
+    })
+    $('#organize').click(function() {
+        $('#wallpaper img').css({
+            'position': 'static',
+            'transform': `scaleX(1)`
+        })
+    })
+
+// Save
+    $('#save').click(function() {
+        $('#wallpaper').addClass('html2canvasFix')
+        html2canvas($('#wallpaper'), {
+            onrendered: function(canvas) {
+                url = canvas.toDataURL('image/png')
+                // $('.preview').remove()
+                $('#preview').append(`
+                    <a class="preview" href="${url}" download="PPAR.png">
+                        <img src=${url}>
+                    </a>
+                `)
+                $('#wallpaper').removeClass('html2canvasFix')
+            }
+        })
+    })
+    $('.generated').hide()
+    $(document).on('DOMNodeInserted', '.preview', function() {
+        $('.generated').fadeIn()
+        $('.generated').click(function() {
+
+        })
+        setTimeout(function() {
+            $('.generated').fadeOut()
+        }, 1000*2)
+    })

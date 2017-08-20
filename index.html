@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1, user-scalable=0">
+
+    <link rel="icon" id="favicon">
+    <title>PPAR | Pokémon Pixel Art Randomizer</title>
+
+	<link rel="stylesheet" href="https://code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
+        <link rel="stylesheet" type="text/css" href="css/styles.css">
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.js"></script>
+	<script src="https://github.com/niklasvh/html2canvas/releases/download/0.5.0-alpha1/html2canvas.js"></script>
+</head>
+
+<body>
+    <div id="wallpaper"></div>
+
+    <div class="settings blur">
+        <div id="openSettings">≡</div>
+        <table id="settings">
+            <tr>
+                <td id="ppaIcon">
+                    <img>
+                </td>
+                <td class="header" colspan="2">
+                    <p class="title">PPAR</p>
+                    <p class="subtitle">Pok&eacute;mon Pixel Art Randomizer</p>
+                </td>
+            </tr>
+            <tr>
+                <td data-JPN="言語:" data-ENG="Language:"></td>
+                <td><select id="lang">
+                    <option val="JPN">JPN</option>
+                    <option val="ENG">ENG</option>
+                </select></td>
+            </tr>
+            <tr>
+                <td data-JPN="合計:" data-ENG="Total:"></td>
+                <td><div id="ppaTotal"></div></td>
+            </tr>
+            <tr>
+                <td data-JPN="サイズ:" data-ENG="Size:"></td>
+                <td><select id="size">
+                    <option id="currentScreen" value="" data-JPN="現在の画面" data-ENG="Current Screen"></option>
+                    <option value="300 300 40" data-JPN="アイコン (300 × 300)" data-ENG="Icon (300 × 300)"></option>
+                    <option value="2662 2662 100">iPhone 7+</option>
+                    <option value="852 1608 80">iPhone 7</option>
+                    <option value="744 1392 60">iPhone 5/SE</option>
+                    <option value="2542 2542 100">iPad Air</option>
+                    <option value="1262 1262 80">iPad Mini</option>
+                    <option value="1500 500 80" data-JPN="ツイッター ヘッダー" data-ENG="Twitter Header"></option>
+                    <option value="1440 2560 80">1440 × 2560</option>
+                    <option value="1920 1080 80">1920 × 1080</option>
+                    <option value="2560 1600 80">2560 × 1600</option>
+                </select></td>
+            </tr>
+            <tr>
+                <td></td>
+                <td>
+                    <input id="width" type="number" min="10" step="10">
+                    <span style="margin: 0 0 0 2px;">×</span>
+                    <input id="height" type="number" min="10" step="10">
+                </td>
+            </tr>
+            <tr>
+                <td data-JPN="ドット:" data-ENG="Pixel Art:"></td>
+                <td><input id="ppaSize" type="number" value="40" min="5" step="5">px</td>
+            </tr>
+            <tr>
+                <td data-JPN="地方:" data-ENG="Region:"></td>
+                <td><select id="region">
+                    <option value="all" data-JPN="全て" data-ENG="All"></option>
+                    <option value="Kanto" data-JPN="カントー" data-ENG="Kanto"></option>
+                    <option value="Johto" data-JPN="ジョウト" data-ENG="Johto"></option>
+                    <option value="Hoenn" data-JPN="ホウエン" data-ENG="Hoenn"></option>
+                    <option value="Sinnoh" data-JPN="シンオウ" data-ENG="Sinnoh"></option>
+                    <option value="Unova" data-JPN="イッシュ" data-ENG="Unova"></option>
+                    <option value="Kalos" data-JPN="カロス" data-ENG="Kalos"></option>
+                    <option value="Alola" data-JPN="アローラ" data-ENG="Alola"></option>
+                </select></td>
+            </tr>
+            <tr>
+                <td data-JPN="くくり:" data-ENG="Collection:"></td>
+                <td><select id="collection">
+                    <option value="all" data-JPN="全て" data-ENG="All"></option>
+    				<option value="mega" data-JPN="メガシンカ" data-ENG="Mega Evolution"></option>
+    				<option value="rf" data-JPN="リージョン" data-ENG="Alolan"></option>
+    				<option value="starter" data-JPN="御三家" data-ENG="Starter"></option>
+                    <option value="pikachu" data-JPN="ピカチュウポジション" data-ENG="Pikachu Family"></option>
+    				<option value="eevee" data-JPN="ブイズ" data-ENG="Eeveelution"></option>
+    				<option value="unown" data-JPN="アンノーン" data-ENG="Unown"></option>
+    				<option value="bs600" data-JPN="600族" data-ENG="Pseudo-Legendary"></option>
+    				<option value="legendary" data-JPN="伝説" data-ENG="Legendary"></option>
+    				<option value="mythical" data-JPN="幻" data-ENG="Mythical"></option>
+    				<option value="trio" data-JPN="トリオ系" data-ENG="Trio, etc."></option>
+    				<option value="UB" data-JPN="UB" data-ENG="Ultra Beast"></option>
+                </select></td>
+            </tr>
+            <tr>
+                <td data-JPN="ポケモン:" data-ENG="Pokémon:"></td>
+                <td>
+                    <input class="search s0" type="text" data-JPN="ピカチュウ" data-ENG="Pikachu">
+                    <button id="addSearch">+</button>
+                </td>
+                <td><button id="search" data-JPN="検索" data-ENG="Search"></button></td>
+            </tr>
+            <tr>
+                <td data-JPN="背景画像:" data-ENG="BG Image:"></td>
+                <td>
+                    <button id="bgIMG" data-JPN="アップロード" data-ENG="Upload"></button>
+                    <input id="bgIMG_upload" type="file" accept="images/*" style="display: none;">
+                </td>
+            </tr>
+            <tr>
+                <td class="copyright" colspan="3">
+                    <p>&copy; <a href="https://twitter.com/pkmn_maru/">Nuotsu</a> 2017</p>
+                </td>
+            </tr>
+        </table>
+    </div>
+
+    <table id="buttons" class="blur">
+        <tr>
+            <td>
+                <button id="randomize" data-JPN="ランダム" data-ENG="Randomize"></button>
+            </td>
+            <td>
+                <button id="organize" data-JPN="図鑑番号順" data-ENG="Organize"></button>
+            </td>
+            <td>
+                <button id="save" data-JPN="画像作成" data-ENG="Save"></button>
+            </td>
+        </tr>
+    </table>
+
+    <div id="preview">
+        <div class="generated blur-message">
+            <p>
+                <b data-JPN="画像が作成されました" data-ENG="PPAR Image Generated"></b>
+            </p>
+            <br>
+            <p>
+                <span>↓</span>
+                <span>↓</span>
+                <span>↓</span>
+            </p>
+        </div>
+    </div>
+
+    <script src="js/ppar.js"></script><!-- jQuery -->
+</body>
+
+</html>

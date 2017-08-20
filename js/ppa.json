@@ -3,6054 +3,7070 @@
         "dex": "0001",
         "nameJPN": "フシギダネ",
         "nameENG": "Bulbasaur",
-        "data": ["kanto", "starter"]
+        "region": "Kanto",
+        "collection": ["starter"]
     },
     {
         "dex": "0002",
         "nameJPN": "フシギソウ",
         "nameENG": "Ivysaur",
-        "data": ["kanto", "starter"]
+        "region": "Kanto",
+        "collection": ["starter"]
     },
     {
         "dex": "0003",
         "nameJPN": "フシギバナ",
         "nameENG": "Venusaur",
-        "data": ["kanto", "starter"]
+        "region": "Kanto",
+        "collection": ["starter"]
     },
     {
         "dex": "0003M",
         "nameJPN": "メガフシギバナ",
         "nameENG": "Mega Venusaur",
-        "data": ["kanto", "mega", "starter"]
+        "region": "Kanto",
+        "collection": ["mega", "starter"]
     },
     {
         "dex": "0004",
         "nameJPN": "ヒトカゲ",
         "nameENG": "Charmander",
-        "data": ["kanto", "starter"]
+        "region": "Kanto",
+        "collection": ["starter"]
     },
     {
         "dex": "0005",
         "nameJPN": "リザード",
         "nameENG": "Charmeleon",
-        "data": ["kanto", "starter"]
+        "region": "Kanto",
+        "collection": ["starter"]
     },
     {
         "dex": "0006",
         "nameJPN": "リザードン",
         "nameENG": "Charizard",
-        "data": ["kanto", "starter"]
+        "region": "Kanto",
+        "collection": ["starter"]
     },
     {
         "dex": "0006MX",
         "nameJPN": "メガリザードンX",
         "nameENG": "Mega Charizard X",
-        "data": ["kanto", "mega", "starter"]
+        "region": "Kanto",
+        "collection": ["mega", "starter"]
     },
     {
         "dex": "0006MY",
         "nameJPN": "メガリザードンY",
         "nameENG": "Mega Charizard Y",
-        "data": ["kanto", "mega", "starter"]
+        "region": "Kanto",
+        "collection": ["mega", "starter"]
     },
     {
         "dex": "0007",
         "nameJPN": "ゼニガメ",
         "nameENG": "Squirtle",
-        "data": ["kanto", "starter"]
+        "region": "Kanto",
+        "collection": ["starter"]
     },
     {
         "dex": "0008",
         "nameJPN": "カメール",
         "nameENG": "Wartortle",
-        "data": ["kanto", "starter"]
+        "region": "Kanto",
+        "collection": ["starter"]
     },
     {
         "dex": "0009",
         "nameJPN": "カメックス",
         "nameENG": "Blastoise",
-        "data": ["kanto", "starter"]
+        "region": "Kanto",
+        "collection": ["starter"]
     },
     {
         "dex": "0009M",
         "nameJPN": "メガカメックス",
         "nameENG": "Mega Blastoise",
-        "data": ["kanto", "mega", "starter"]
+        "region": "Kanto",
+        "collection": ["mega", "starter"]
     },
     {
         "dex": "0010",
         "nameJPN": "キャタピー",
         "nameENG": "Caterpie",
-        "data": ["kanto"]
+        "region": "Kanto",
+        "collection": []
     },
     {
         "dex": "0011",
         "nameJPN": "トランセル",
         "nameENG": "Metapod",
-        "data": ["kanto"]
+        "region": "Kanto",
+        "collection": []
     },
     {
         "dex": "0012",
         "nameJPN": "バタフリー",
         "nameENG": "Butterfree",
-        "data": ["kanto"]
+        "region": "Kanto",
+        "collection": []
     },
     {
         "dex": "0013",
         "nameJPN": "ビードル",
         "nameENG": "Weedle",
-        "data": ["kanto"]
+        "region": "Kanto",
+        "collection": []
     },
     {
         "dex": "0014",
         "nameJPN": "コクーン",
         "nameENG": "Kakuna",
-        "data": ["kanto"]
+        "region": "Kanto",
+        "collection": []
     },
     {
         "dex": "0015",
         "nameJPN": "スピアー",
         "nameENG": "Beedrill",
-        "data": ["kanto"]
+        "region": "Kanto",
+        "collection": []
     },
     {
         "dex": "0015M",
         "nameJPN": "メガスピアー",
         "nameENG": "Mega Beedrill",
-        "data": ["kanto", "mega"]
+        "region": "Kanto",
+        "collection": ["mega"]
     },
     {
         "dex": "0016",
         "nameJPN": "ポッポ",
         "nameENG": "Pidgey",
-        "data": ["kanto"]
+        "region": "Kanto",
+        "collection": []
     },
     {
         "dex": "0017",
         "nameJPN": "ピジョン",
         "nameENG": "Pidgeotto",
-        "data": ["kanto"]
+        "region": "Kanto",
+        "collection": []
     },
     {
         "dex": "0018",
         "nameJPN": "ピジョット",
         "nameENG": "Pidgeot",
-        "data": ["kanto"]
+        "region": "Kanto",
+        "collection": []
     },
     {
         "dex": "0018M",
         "nameJPN": "メガピジョット",
         "nameENG": "Mega Pidgeot",
-        "data": ["kanto", "mega"]
+        "region": "Kanto",
+        "collection": ["mega"]
     },
     {
         "dex": "0019",
         "nameJPN": "コラッタ",
         "nameENG": "Rattata",
-        "data": ["kanto"]
+        "region": "Kanto",
+        "collection": []
     },
     {
         "dex": "0019A",
         "nameJPN": "アローラ コラッタ",
         "nameENG": "Alolan Rattata",
-        "data": ["kanto", "rf"]
+        "region": "Kanto",
+        "collection": ["rf"]
     },
     {
         "dex": "0020",
         "nameJPN": "ラッタ",
         "nameENG": "Raticate",
-        "data": ["kanto"]
+        "region": "Kanto",
+        "collection": []
     },
     {
         "dex": "0020A",
         "nameJPN": "アローラ ラッタ",
         "nameENG": "Alolan Raticate",
-        "data": ["kanto", "rf"]
+        "region": "Kanto",
+        "collection": ["rf"]
     },
     {
         "dex": "0021",
         "nameJPN": "オニスズメ",
         "nameENG": "Spearow",
-        "data": ["kanto"]
+        "region": "Kanto",
+        "collection": []
     },
     {
         "dex": "0022",
         "nameJPN": "オニドリル",
         "nameENG": "Fearow",
-        "data": ["kanto"]
+        "region": "Kanto",
+        "collection": []
     },
     {
         "dex": "0023",
         "nameJPN": "アーボ",
         "nameENG": "Ekans",
-        "data": ["kanto"]
+        "region": "Kanto",
+        "collection": []
     },
     {
         "dex": "0024",
         "nameJPN": "アーボック",
         "nameENG": "Arbok",
-        "data": ["kanto"]
+        "region": "Kanto",
+        "collection": []
     },
     {
         "dex": "0025",
         "nameJPN": "ピカチュウ",
         "nameENG": "Pikachu",
-        "data": ["kanto"]
+        "region": "Kanto",
+        "collection": ["pikachu"]
     },
     {
         "dex": "0025Co",
-        "nameJPN": "",
-        "nameENG": "",
-        "data": ["kanto"]
+        "nameJPN": "おきがえピカチュウ",
+        "nameENG": "Cosplay Pikachu",
+        "region": "Kanto",
+        "collection": []
     },
     {
         "dex": "0025Ro",
-        "nameJPN": "",
-        "nameENG": "",
-        "data": ["kanto"]
-    },
-    {
-        "dex": "0025Po",
-        "nameJPN": "",
-        "nameENG": "",
-        "data": ["kanto"]
+        "nameJPN": "ハードロック・ピカチュウ",
+        "nameENG": "Pikachu Rock Star",
+        "region": "Kanto",
+        "collection": []
     },
     {
         "dex": "0025Be",
-        "nameJPN": "",
-        "nameENG": "",
-        "data": ["kanto"]
+        "nameJPN": "マダム・ピカチュウ",
+        "nameENG": "Pikachu Belle",
+        "region": "Kanto",
+        "collection": []
+    },
+    {
+        "dex": "0025Po",
+        "nameJPN": "アイドル・ピカチュウ",
+        "nameENG": "Pikachu Pop Star",
+        "region": "Kanto",
+        "collection": []
     },
     {
         "dex": "0025Ph",
-        "nameJPN": "",
-        "nameENG": "",
-        "data": ["kanto"]
+        "nameJPN": "ドクター・ピカチュウ",
+        "nameENG": "Pikachu, Ph. D",
+        "region": "Kanto",
+        "collection": []
     },
     {
         "dex": "0025Li",
-        "nameJPN": "",
-        "nameENG": "",
-        "data": ["kanto"]
+        "nameJPN": "マスクド・ピカチュウ",
+        "nameENG": "Pikachu Libre",
+        "region": "Kanto",
+        "collection": []
     },
     {
         "dex": "0025O",
-        "nameJPN": "",
-        "nameENG": "Pikachu Original",
-        "data": ["kanto"]
+        "nameJPN": "サトシのピカチュウ (オリジナルキャップ)",
+        "nameENG": "Original Cap Pikachu",
+        "region": "Kanto",
+        "collection": []
     },
     {
         "dex": "0025H",
-        "nameJPN": "",
-        "nameENG": "Pikachu Hoenn",
-        "data": ["kanto"]
+        "nameJPN": "サトシのピカチュウ (ホウエンキャップ)",
+        "nameENG": "Hoenn Cap Pikachu",
+        "region": "Kanto",
+        "collection": []
     },
     {
         "dex": "0025S",
-        "nameJPN": "",
-        "nameENG": "Pikachu Sinnoh",
-        "data": ["kanto"]
+        "nameJPN": "サトシのピカチュウ (シンオウキャップ)",
+        "nameENG": "Sinnoh Cap Pikachu",
+        "region": "Kanto",
+        "collection": []
     },
     {
         "dex": "0025U",
-        "nameJPN": "",
-        "nameENG": "Pikachu Unova",
-        "data": ["kanto"]
+        "nameJPN": "サトシのピカチュウ (イッシュキャップ)",
+        "nameENG": "Unova Cap Pikachu",
+        "region": "Kanto",
+        "collection": []
     },
     {
         "dex": "0025K",
-        "nameJPN": "",
-        "nameENG": "Pikachu Kalos",
-        "data": ["kanto"]
+        "nameJPN": "サトシのピカチュウ (カロスキャップ)",
+        "nameENG": "Kalos Cap Pikachu",
+        "region": "Kanto",
+        "collection": []
     },
     {
         "dex": "0025A",
-        "nameJPN": "",
-        "nameENG": "Pikachu Alola",
-        "data": ["kanto"]
+        "nameJPN": "サトシのピカチュウ (アローラキャップ)",
+        "nameENG": "Alola Cap Pikachu",
+        "region": "Kanto",
+        "collection": []
     },
     {
         "dex": "0026",
         "nameJPN": "ライチュウ",
         "nameENG": "Raichu",
-        "data": ["kanto"]
+        "region": "Kanto",
+        "collection": ["pikachu"]
     },
     {
         "dex": "0026A",
         "nameJPN": "アローラ ライチュウ",
         "nameENG": "Alolan Raichu",
-        "data": ["kanto", "rf"]
+        "region": "Kanto",
+        "collection": ["rf, pikachu"]
     },
     {
         "dex": "0027",
         "nameJPN": "サンド",
         "nameENG": "Sandshrew",
-        "data": ["kanto"]
+        "region": "Kanto",
+        "collection": []
     },
     {
         "dex": "0027A",
         "nameJPN": "アローラ サンド",
         "nameENG": "Alolan Sandshrew",
-        "data": ["kanto", "rf"]
+        "region": "Kanto",
+        "collection": ["rf"]
     },
     {
         "dex": "0028",
         "nameJPN": "サンドパン",
         "nameENG": "Sandslash",
-        "data": ["kanto"]
+        "region": "Kanto",
+        "collection": []
     },
     {
         "dex": "0028A",
         "nameJPN": "アローラ サンドパン",
         "nameENG": "Alolan Sandslash",
-        "data": ["kanto", "rf"]
+        "region": "Kanto",
+        "collection": ["rf"]
     },
     {
         "dex": "0029",
         "nameJPN": "ニドラン♀",
-        "nameENG": "Nidoran F",
-        "data": ["kanto"]
+        "nameENG": "Nidoran (F)",
+        "region": "Kanto",
+        "collection": []
     },
     {
         "dex": "0030",
         "nameJPN": "ニドリーナ",
         "nameENG": "Nidorina",
-        "data": ["kanto"]
+        "region": "Kanto",
+        "collection": []
     },
     {
         "dex": "0031",
         "nameJPN": "ニドクイン",
         "nameENG": "Nidoqueen",
-        "data": ["kanto"]
+        "region": "Kanto",
+        "collection": []
     },
     {
         "dex": "0032",
         "nameJPN": "ニドラン♂",
-        "nameENG": "Nidoran M",
-        "data": ["kanto"]
+        "nameENG": "Nidoran (M)",
+        "region": "Kanto",
+        "collection": []
     },
     {
         "dex": "0033",
         "nameJPN": "ニドリーノ",
         "nameENG": "Nidorino",
-        "data": ["kanto"]
+        "region": "Kanto",
+        "collection": []
     },
     {
         "dex": "0034",
         "nameJPN": "ニドキング",
         "nameENG": "Nidoking",
-        "data": ["kanto"]
+        "region": "Kanto",
+        "collection": []
     },
     {
         "dex": "0035",
         "nameJPN": "ピッピ",
         "nameENG": "Clefairy",
-        "data": ["kanto"]
+        "region": "Kanto",
+        "collection": []
     },
     {
         "dex": "0036",
         "nameJPN": "ピクシー",
         "nameENG": "Clefable",
-        "data": ["kanto"]
+        "region": "Kanto",
+        "collection": []
     },
     {
         "dex": "0037",
         "nameJPN": "ロコン",
         "nameENG": "Vulpix",
-        "data": ["kanto"]
+        "region": "Kanto",
+        "collection": []
     },
     {
         "dex": "0037A",
         "nameJPN": "アローラ ロコン",
         "nameENG": "Alolan Vulpix",
-        "data": ["kanto", "rf"]
+        "region": "Kanto",
+        "collection": ["rf"]
     },
     {
         "dex": "0038",
         "nameJPN": "キュウコン",
         "nameENG": "Ninetales",
-        "data": ["kanto"]
+        "region": "Kanto",
+        "collection": []
     },
     {
         "dex": "0038A",
         "nameJPN": "アローラ キュウコン",
         "nameENG": "Alolan Ninetales",
-        "data": ["kanto", "rf"]
+        "region": "Kanto",
+        "collection": ["rf"]
     },
     {
         "dex": "0039",
         "nameJPN": "プリン",
         "nameENG": "Jigglypuff",
-        "data": ["kanto"]
+        "region": "Kanto",
+        "collection": []
     },
     {
         "dex": "0040",
         "nameJPN": "プクリン",
         "nameENG": "Wigglytuff",
-        "data": ["kanto"]
+        "region": "Kanto",
+        "collection": []
     },
     {
         "dex": "0041",
         "nameJPN": "ズバット",
         "nameENG": "Zubat",
-        "data": ["kanto"]
+        "region": "Kanto",
+        "collection": []
     },
     {
         "dex": "0042",
         "nameJPN": "ゴルバット",
         "nameENG": "Golbat",
-        "data": ["kanto"]
+        "region": "Kanto",
+        "collection": []
     },
     {
         "dex": "0043",
         "nameJPN": "ナゾノクサ",
         "nameENG": "Oddish",
-        "data": ["kanto"]
+        "region": "Kanto",
+        "collection": []
     },
     {
         "dex": "0044",
         "nameJPN": "クサイハナ",
         "nameENG": "Gloom",
-        "data": ["kanto"]
+        "region": "Kanto",
+        "collection": []
     },
     {
         "dex": "0045",
         "nameJPN": "ラフレシア",
         "nameENG": "Vileplume",
-        "data": ["kanto"]
+        "region": "Kanto",
+        "collection": []
     },
     {
         "dex": "0046",
         "nameJPN": "パラス",
         "nameENG": "Paras",
-        "data": ["kanto"]
+        "region": "Kanto",
+        "collection": []
     },
     {
         "dex": "0047",
         "nameJPN": "パラセクト",
         "nameENG": "Parasect",
-        "data": ["kanto"]
+        "region": "Kanto",
+        "collection": []
     },
     {
         "dex": "0048",
         "nameJPN": "コンパン",
         "nameENG": "Venonat",
-        "data": ["kanto"]
+        "region": "Kanto",
+        "collection": []
     },
     {
         "dex": "0049",
         "nameJPN": "モルフォン",
         "nameENG": "Venomoth",
-        "data": ["kanto"]
+        "region": "Kanto",
+        "collection": []
     },
     {
         "dex": "0050",
         "nameJPN": "ディグダ",
         "nameENG": "Diglett",
-        "data": ["kanto"]
+        "region": "Kanto",
+        "collection": []
     },
     {
         "dex": "0050A",
         "nameJPN": "アローラ ディグダ",
         "nameENG": "Alolan Diglett",
-        "data": ["kanto", "rf"]
+        "region": "Kanto",
+        "collection": ["rf"]
     },
     {
         "dex": "0051",
         "nameJPN": "ダグトリオ",
         "nameENG": "Dugtrio",
-        "data": ["kanto"]
+        "region": "Kanto",
+        "collection": []
     },
     {
         "dex": "0051A",
         "nameJPN": "アローラ ダグトリオ",
         "nameENG": "Alolan Dugtrio",
-        "data": ["kanto", "rf"]
+        "region": "Kanto",
+        "collection": ["rf"]
     },
     {
         "dex": "0052",
         "nameJPN": "ニャース",
         "nameENG": "Meowth",
-        "data": ["kanto"]
+        "region": "Kanto",
+        "collection": []
     },
     {
         "dex": "0052A",
         "nameJPN": "アローラ ニャース",
         "nameENG": "Alolan Meowth",
-        "data": ["kanto", "rf"]
+        "region": "Kanto",
+        "collection": ["rf"]
     },
     {
         "dex": "0053",
         "nameJPN": "ペルシアン",
         "nameENG": "Persian",
-        "data": ["kanto"]
+        "region": "Kanto",
+        "collection": []
     },
     {
         "dex": "0053A",
         "nameJPN": "アローラ ペルシアン",
         "nameENG": "Alolan Persian",
-        "data": ["kanto", "rf"]
+        "region": "Kanto",
+        "collection": ["rf"]
     },
     {
         "dex": "0054",
         "nameJPN": "コダック",
         "nameENG": "Psyduck",
-        "data": ["kanto"]
+        "region": "Kanto",
+        "collection": []
     },
     {
         "dex": "0055",
         "nameJPN": "ゴルダック",
         "nameENG": "Golduck",
-        "data": ["kanto"]
+        "region": "Kanto",
+        "collection": []
     },
     {
         "dex": "0056",
         "nameJPN": "マンキー",
         "nameENG": "Mankey",
-        "data": ["kanto"]
+        "region": "Kanto",
+        "collection": []
     },
     {
         "dex": "0057",
         "nameJPN": "オコリザル",
         "nameENG": "Primeape",
-        "data": ["kanto"]
+        "region": "Kanto",
+        "collection": []
     },
     {
         "dex": "0058",
         "nameJPN": "ガーディ",
         "nameENG": "Growlithe",
-        "data": ["kanto"]
+        "region": "Kanto",
+        "collection": []
     },
     {
         "dex": "0059",
         "nameJPN": "ウインディ",
         "nameENG": "Arcanine",
-        "data": ["kanto"]
+        "region": "Kanto",
+        "collection": []
     },
     {
         "dex": "0060",
         "nameJPN": "ニョロモ",
         "nameENG": "Poliwag",
-        "data": ["kanto"]
+        "region": "Kanto",
+        "collection": []
     },
     {
         "dex": "0061",
         "nameJPN": "ニョロゾ",
         "nameENG": "Poliwhirl",
-        "data": ["kanto"]
+        "region": "Kanto",
+        "collection": []
     },
     {
         "dex": "0062",
         "nameJPN": "ニョロボン",
         "nameENG": "Poliwrath",
-        "data": ["kanto"]
+        "region": "Kanto",
+        "collection": []
     },
     {
         "dex": "0063",
         "nameJPN": "ケーシィ",
         "nameENG": "Abra",
-        "data": ["kanto"]
+        "region": "Kanto",
+        "collection": []
     },
     {
         "dex": "0064",
         "nameJPN": "ユンゲラー",
         "nameENG": "Kadabra",
-        "data": ["kanto"]
+        "region": "Kanto",
+        "collection": []
     },
     {
         "dex": "0065",
         "nameJPN": "フーディン",
         "nameENG": "Alakazam",
-        "data": ["kanto"]
+        "region": "Kanto",
+        "collection": []
     },
     {
         "dex": "0065M",
         "nameJPN": "メガフーディン",
         "nameENG": "Mega Alakazam",
-        "data": ["kanto", "mega"]
+        "region": "Kanto",
+        "collection": ["mega"]
     },
     {
         "dex": "0066",
         "nameJPN": "ワンリキー",
         "nameENG": "Machop",
-        "data": ["kanto"]
+        "region": "Kanto",
+        "collection": []
     },
     {
         "dex": "0067",
         "nameJPN": "ゴーリキー",
         "nameENG": "Machoke",
-        "data": ["kanto"]
+        "region": "Kanto",
+        "collection": []
     },
     {
         "dex": "0068",
         "nameJPN": "カイリキー",
         "nameENG": "Machamp",
-        "data": ["kanto"]
+        "region": "Kanto",
+        "collection": []
     },
     {
         "dex": "0069",
         "nameJPN": "マダツボミ",
         "nameENG": "Bellsprout",
-        "data": ["kanto"]
+        "region": "Kanto",
+        "collection": []
     },
     {
         "dex": "0070",
         "nameJPN": "ウツドン",
         "nameENG": "Weepinbell",
-        "data": ["kanto"]
+        "region": "Kanto",
+        "collection": []
     },
     {
         "dex": "0071",
         "nameJPN": "ウツボット",
         "nameENG": "Victreebel",
-        "data": ["kanto"]
+        "region": "Kanto",
+        "collection": []
     },
     {
         "dex": "0072",
         "nameJPN": "メノクラゲ",
         "nameENG": "Tentacool",
-        "data": ["kanto"]
+        "region": "Kanto",
+        "collection": []
     },
     {
         "dex": "0073",
         "nameJPN": "ドククラゲ",
         "nameENG": "Tentacruel",
-        "data": ["kanto"]
+        "region": "Kanto",
+        "collection": []
     },
     {
         "dex": "0074",
         "nameJPN": "イシツブテ",
         "nameENG": "Geodude",
-        "data": ["kanto"]
+        "region": "Kanto",
+        "collection": []
     },
     {
         "dex": "0074A",
         "nameJPN": "アローラ イシツブテ",
         "nameENG": "Alolan Geodude",
-        "data": ["kanto", "rf"]
+        "region": "Kanto",
+        "collection": ["rf"]
     },
     {
         "dex": "0075",
         "nameJPN": "ゴローン",
         "nameENG": "Graveler",
-        "data": ["kanto"]
+        "region": "Kanto",
+        "collection": []
     },
     {
         "dex": "0075A",
         "nameJPN": "アローラ ゴローン",
         "nameENG": "Alolan Graveler",
-        "data": ["kanto", "rf"]
+        "region": "Kanto",
+        "collection": ["rf"]
     },
     {
         "dex": "0076",
         "nameJPN": "ゴローニャ",
         "nameENG": "Golem",
-        "data": ["kanto"]
+        "region": "Kanto",
+        "collection": []
     },
     {
         "dex": "0076A",
         "nameJPN": "アローラ ゴローニャ",
         "nameENG": "Alolan Golem",
-        "data": ["kanto", "rf"]
+        "region": "Kanto",
+        "collection": ["rf"]
     },
     {
         "dex": "0077",
         "nameJPN": "ポニータ",
         "nameENG": "Ponyta",
-        "data": ["kanto"]
+        "region": "Kanto",
+        "collection": []
     },
     {
         "dex": "0078",
         "nameJPN": "ギャロップ",
         "nameENG": "Rapidash",
-        "data": ["kanto"]
+        "region": "Kanto",
+        "collection": []
     },
     {
         "dex": "0079",
         "nameJPN": "ヤドン",
         "nameENG": "Slowpoke",
-        "data": ["kanto"]
+        "region": "Kanto",
+        "collection": []
     },
     {
         "dex": "0080",
         "nameJPN": "ヤドラン",
         "nameENG": "Slowbro",
-        "data": ["kanto"]
+        "region": "Kanto",
+        "collection": []
     },
     {
         "dex": "0080M",
         "nameJPN": "メガヤドラン",
         "nameENG": "Mega Slowbro",
-        "data": ["kanto", "mega"]
+        "region": "Kanto",
+        "collection": ["mega"]
     },
     {
         "dex": "0081",
         "nameJPN": "コイル",
         "nameENG": "Magnemite",
-        "data": ["kanto"]
+        "region": "Kanto",
+        "collection": []
     },
     {
         "dex": "0082",
         "nameJPN": "レアコイル",
         "nameENG": "Magneton",
-        "data": ["kanto"]
+        "region": "Kanto",
+        "collection": []
     },
     {
         "dex": "0083",
         "nameJPN": "カモネギ",
         "nameENG": "Farfetchd",
-        "data": ["kanto"]
+        "region": "Kanto",
+        "collection": []
     },
     {
         "dex": "0084",
         "nameJPN": "ドードー",
         "nameENG": "Doduo",
-        "data": ["kanto"]
+        "region": "Kanto",
+        "collection": []
     },
     {
         "dex": "0085",
         "nameJPN": "ドードリオ",
         "nameENG": "Dodrio",
-        "data": ["kanto"]
+        "region": "Kanto",
+        "collection": []
     },
     {
         "dex": "0086",
         "nameJPN": "パウワウ",
         "nameENG": "Seel",
-        "data": ["kanto"]
+        "region": "Kanto",
+        "collection": []
     },
     {
         "dex": "0087",
         "nameJPN": "ジュゴン",
         "nameENG": "Dewgong",
-        "data": ["kanto"]
+        "region": "Kanto",
+        "collection": []
     },
     {
         "dex": "0088",
         "nameJPN": "ベトベター",
         "nameENG": "Grimer",
-        "data": ["kanto"]
+        "region": "Kanto",
+        "collection": []
     },
     {
         "dex": "0088A",
         "nameJPN": "アローラ ベトベター",
         "nameENG": "Alolan Grimer",
-        "data": ["kanto", "rf"]
+        "region": "Kanto",
+        "collection": ["rf"]
     },
     {
         "dex": "0089",
         "nameJPN": "ベトベトン",
         "nameENG": "Muk",
-        "data": ["kanto"]
+        "region": "Kanto",
+        "collection": []
     },
     {
         "dex": "0089A",
         "nameJPN": "アローラ ベトベトン",
         "nameENG": "Alolan Muk",
-        "data": ["kanto", "rf"]
+        "region": "Kanto",
+        "collection": ["rf"]
     },
     {
         "dex": "0090",
         "nameJPN": "シェルダー",
         "nameENG": "Shellder",
-        "data": ["kanto"]
+        "region": "Kanto",
+        "collection": []
     },
     {
         "dex": "0091",
         "nameJPN": "パルシェン",
         "nameENG": "Cloyster",
-        "data": ["kanto"]
+        "region": "Kanto",
+        "collection": []
     },
     {
         "dex": "0092",
         "nameJPN": "ゴース",
         "nameENG": "Gastly",
-        "data": ["kanto"]
+        "region": "Kanto",
+        "collection": []
     },
     {
         "dex": "0093",
         "nameJPN": "ゴースト",
         "nameENG": "Haunter",
-        "data": ["kanto"]
+        "region": "Kanto",
+        "collection": []
     },
     {
         "dex": "0094",
         "nameJPN": "ゲンガー",
         "nameENG": "Gengar",
-        "data": ["kanto"]
+        "region": "Kanto",
+        "collection": []
     },
     {
         "dex": "0094M",
         "nameJPN": "メガゲンガー",
         "nameENG": "Mega Gengar",
-        "data": ["kanto", "mega"]
+        "region": "Kanto",
+        "collection": ["mega"]
     },
     {
         "dex": "0095",
         "nameJPN": "イワーク",
         "nameENG": "Onix",
-        "data": ["kanto"]
+        "region": "Kanto",
+        "collection": []
     },
     {
         "dex": "0096",
         "nameJPN": "スリープ",
         "nameENG": "Drowzee",
-        "data": ["kanto"]
+        "region": "Kanto",
+        "collection": []
     },
     {
         "dex": "0097",
         "nameJPN": "スリーパー",
         "nameENG": "Hypno",
-        "data": ["kanto"]
+        "region": "Kanto",
+        "collection": []
     },
     {
         "dex": "0098",
         "nameJPN": "クラブ",
         "nameENG": "Krabby",
-        "data": ["kanto"]
+        "region": "Kanto",
+        "collection": []
     },
     {
         "dex": "0099",
         "nameJPN": "キングラー",
         "nameENG": "Kingler",
-        "data": ["kanto"]
+        "region": "Kanto",
+        "collection": []
     },
     {
         "dex": "0100",
         "nameJPN": "ビリリダマ",
         "nameENG": "Voltorb",
-        "data": ["kanto"]
+        "region": "Kanto",
+        "collection": []
     },
     {
         "dex": "0101",
         "nameJPN": "マルマイン",
         "nameENG": "Electrode",
-        "data": ["kanto"]
+        "region": "Kanto",
+        "collection": []
     },
     {
         "dex": "0102",
         "nameJPN": "タマタマ",
         "nameENG": "Exeggcute",
-        "data": ["kanto"]
+        "region": "Kanto",
+        "collection": []
     },
     {
         "dex": "0103",
         "nameJPN": "ナッシー",
         "nameENG": "Exeggutor",
-        "data": ["kanto"]
+        "region": "Kanto",
+        "collection": []
     },
     {
         "dex": "0103A",
         "nameJPN": "アローラ ナッシー",
         "nameENG": "Alolan Exeggutor",
-        "data": ["kanto", "rf"]
+        "region": "Kanto",
+        "collection": ["rf"]
     },
     {
         "dex": "0104",
         "nameJPN": "カラカラ",
         "nameENG": "Cubone",
-        "data": ["kanto"]
+        "region": "Kanto",
+        "collection": []
     },
     {
         "dex": "0105",
         "nameJPN": "ガラガラ",
         "nameENG": "Marowak",
-        "data": ["kanto"]
+        "region": "Kanto",
+        "collection": []
     },
     {
         "dex": "0105A",
         "nameJPN": "アローラ ガラガラ",
         "nameENG": "Alolan Marowak",
-        "data": ["kanto", "rf"]
+        "region": "Kanto",
+        "collection": ["rf"]
     },
     {
         "dex": "0106",
         "nameJPN": "サワムラー",
         "nameENG": "Hitmonlee",
-        "data": ["kanto"]
+        "region": "Kanto",
+        "collection": []
     },
     {
         "dex": "0107",
         "nameJPN": "エビワラー",
         "nameENG": "Hitmonchan",
-        "data": ["kanto"]
+        "region": "Kanto",
+        "collection": []
     },
     {
         "dex": "0108",
         "nameJPN": "ベロリンガ",
         "nameENG": "Lickitung",
-        "data": ["kanto"]
+        "region": "Kanto",
+        "collection": []
     },
     {
         "dex": "0109",
         "nameJPN": "ドガース",
         "nameENG": "Koffing",
-        "data": ["kanto"]
+        "region": "Kanto",
+        "collection": []
     },
     {
         "dex": "0110",
         "nameJPN": "マタドガス",
         "nameENG": "Weezing",
-        "data": ["kanto"]
+        "region": "Kanto",
+        "collection": []
     },
     {
         "dex": "0111",
         "nameJPN": "サイホーン",
         "nameENG": "Rhyhorn",
-        "data": ["kanto"]
+        "region": "Kanto",
+        "collection": []
     },
     {
         "dex": "0112",
         "nameJPN": "サイドン",
         "nameENG": "Rhydon",
-        "data": ["kanto"]
+        "region": "Kanto",
+        "collection": []
     },
     {
         "dex": "0113",
         "nameJPN": "ラッキー",
         "nameENG": "Chansey",
-        "data": ["kanto"]
+        "region": "Kanto",
+        "collection": []
     },
     {
         "dex": "0114",
         "nameJPN": "モンジャラ",
         "nameENG": "Tangela",
-        "data": ["kanto"]
+        "region": "Kanto",
+        "collection": []
     },
     {
         "dex": "0115",
         "nameJPN": "ガルーラ",
         "nameENG": "Kangaskhan",
-        "data": ["kanto"]
+        "region": "Kanto",
+        "collection": []
     },
     {
         "dex": "0116",
         "nameJPN": "タッツー",
         "nameENG": "Horsea",
-        "data": ["kanto"]
+        "region": "Kanto",
+        "collection": []
     },
     {
         "dex": "0117",
         "nameJPN": "シードラ",
         "nameENG": "Seadra",
-        "data": ["kanto"]
+        "region": "Kanto",
+        "collection": []
     },
     {
         "dex": "0118",
         "nameJPN": "トサキント",
         "nameENG": "Goldeen",
-        "data": ["kanto"]
+        "region": "Kanto",
+        "collection": []
     },
     {
         "dex": "0119",
         "nameJPN": "アズマオウ",
         "nameENG": "Seaking",
-        "data": ["kanto"]
+        "region": "Kanto",
+        "collection": []
     },
     {
         "dex": "0120",
         "nameJPN": "ヒトデマン",
         "nameENG": "Staryu",
-        "data": ["kanto"]
+        "region": "Kanto",
+        "collection": []
     },
     {
         "dex": "0121",
         "nameJPN": "スターミー",
         "nameENG": "Starmie",
-        "data": ["kanto"]
+        "region": "Kanto",
+        "collection": []
     },
     {
         "dex": "0122",
         "nameJPN": "バリヤード",
         "nameENG": "Mr.Mime",
-        "data": ["kanto"]
+        "region": "Kanto",
+        "collection": []
     },
     {
         "dex": "0123",
         "nameJPN": "ストライク",
         "nameENG": "Scyther",
-        "data": ["kanto"]
+        "region": "Kanto",
+        "collection": []
     },
     {
         "dex": "0124",
         "nameJPN": "ルージュラ",
         "nameENG": "Jynx",
-        "data": ["kanto"]
+        "region": "Kanto",
+        "collection": []
     },
     {
         "dex": "0125",
         "nameJPN": "エレブー",
         "nameENG": "Electabuzz",
-        "data": ["kanto"]
+        "region": "Kanto",
+        "collection": []
     },
     {
         "dex": "0126",
         "nameJPN": "ブーバー",
         "nameENG": "Magmar",
-        "data": ["kanto"]
+        "region": "Kanto",
+        "collection": []
     },
     {
         "dex": "0127",
         "nameJPN": "カイロス",
         "nameENG": "Pinsir",
-        "data": ["kanto"]
+        "region": "Kanto",
+        "collection": []
     },
     {
         "dex": "0127M",
         "nameJPN": "メガカイロス",
         "nameENG": "Mega Pinsir",
-        "data": ["kanto", "mega"]
+        "region": "Kanto",
+        "collection": ["mega"]
     },
     {
         "dex": "0128",
         "nameJPN": "ケンタロス",
         "nameENG": "Tauros",
-        "data": ["kanto"]
+        "region": "Kanto",
+        "collection": []
     },
     {
         "dex": "0129",
         "nameJPN": "コイキング",
         "nameENG": "Magikarp",
-        "data": ["kanto"]
+        "region": "Kanto",
+        "collection": []
     },
     {
         "dex": "0129s",
         "nameJPN": "光るコイキング",
-        "nameENG": "",
-        "data": ["kanto"]
+        "nameENG": "Shiny Magikarp",
+        "region": "Kanto",
+        "collection": []
     },
     {
         "dex": "0130",
         "nameJPN": "ギャラドス",
         "nameENG": "Gyarados",
-        "data": ["kanto"]
+        "region": "Kanto",
+        "collection": []
     },
     {
         "dex": "0130s",
         "nameJPN": "赤いギャラドス",
-        "nameENG": "",
-        "data": ["kanto"]
+        "nameENG": "Red Gyarados",
+        "region": "Kanto",
+        "collection": []
     },
     {
         "dex": "0130M",
         "nameJPN": "メガギャラドス",
         "nameENG": "Mega Gyarados",
-        "data": ["kanto", "mega"]
+        "region": "Kanto",
+        "collection": ["mega"]
     },
     {
         "dex": "0131",
         "nameJPN": "ラプラス",
         "nameENG": "Lapras",
-        "data": ["kanto"]
+        "region": "Kanto",
+        "collection": []
     },
     {
         "dex": "0132",
         "nameJPN": "メタモン",
         "nameENG": "Ditto",
-        "data": ["kanto"]
+        "region": "Kanto",
+        "collection": []
     },
     {
         "dex": "0133",
         "nameJPN": "イーブイ",
         "nameENG": "Eevee",
-        "data": ["kanto", "eevee"]
+        "region": "Kanto",
+        "collection": ["eevee"]
     },
     {
         "dex": "0134",
         "nameJPN": "シャワーズ",
         "nameENG": "Vaporeon",
-        "data": ["kanto", "eevee"]
+        "region": "Kanto",
+        "collection": ["eevee"]
     },
     {
         "dex": "0135",
         "nameJPN": "サンダース",
         "nameENG": "Jolteon",
-        "data": ["kanto", "eevee"]
+        "region": "Kanto",
+        "collection": ["eevee"]
     },
     {
         "dex": "0136",
         "nameJPN": "ブースター",
         "nameENG": "Flareon",
-        "data": ["kanto", "eevee"]
+        "region": "Kanto",
+        "collection": ["eevee"]
     },
     {
         "dex": "0137",
         "nameJPN": "ポリゴン",
         "nameENG": "Porygon",
-        "data": ["kanto"]
+        "region": "Kanto",
+        "collection": []
     },
     {
         "dex": "0138",
         "nameJPN": "オムナイト",
         "nameENG": "Omanyte",
-        "data": ["kanto"]
+        "region": "Kanto",
+        "collection": []
     },
     {
         "dex": "0139",
         "nameJPN": "オムスター",
         "nameENG": "Omastar",
-        "data": ["kanto"]
+        "region": "Kanto",
+        "collection": []
     },
     {
         "dex": "0140",
         "nameJPN": "カブト",
         "nameENG": "Kabuto",
-        "data": ["kanto"]
+        "region": "Kanto",
+        "collection": []
     },
     {
         "dex": "0141",
         "nameJPN": "カブトプス",
         "nameENG": "Kabutops",
-        "data": ["kanto"]
+        "region": "Kanto",
+        "collection": []
     },
     {
         "dex": "0142",
         "nameJPN": "プテラ",
         "nameENG": "Aerodactyl",
-        "data": ["kanto"]
+        "region": "Kanto",
+        "collection": []
     },
     {
         "dex": "0142M",
         "nameJPN": "メガプテラ",
         "nameENG": "Mega Aerodactyl",
-        "data": ["kanto", "mega"]
+        "region": "Kanto",
+        "collection": ["mega"]
     },
     {
         "dex": "0143",
         "nameJPN": "カビゴン",
         "nameENG": "Snorlax",
-        "data": ["kanto"]
+        "region": "Kanto",
+        "collection": []
     },
     {
         "dex": "0144",
         "nameJPN": "フリーザー",
         "nameENG": "Articuno",
-        "data": ["kanto", "trio"]
+        "region": "Kanto",
+        "collection": ["trio"]
     },
     {
         "dex": "0145",
         "nameJPN": "サンダー",
         "nameENG": "Zapdos",
-        "data": ["kanto", "trio"]
+        "region": "Kanto",
+        "collection": ["trio"]
     },
     {
         "dex": "0146",
         "nameJPN": "ファイヤー",
         "nameENG": "Moltres",
-        "data": ["kanto", "trio"]
+        "region": "Kanto",
+        "collection": ["trio"]
     },
     {
         "dex": "0147",
         "nameJPN": "ミニリュウ",
         "nameENG": "Dratini",
-        "data": ["kanto", "bs600"]
+        "region": "Kanto",
+        "collection": ["bs600"]
     },
     {
         "dex": "0148",
         "nameJPN": "ハクリュー",
         "nameENG": "Dragonair",
-        "data": ["kanto", "bs600"]
+        "region": "Kanto",
+        "collection": ["bs600"]
     },
     {
         "dex": "0149",
         "nameJPN": "カイリュー",
         "nameENG": "Dragonite",
-        "data": ["kanto", "bs600"]
+        "region": "Kanto",
+        "collection": ["bs600"]
     },
     {
         "dex": "0150",
         "nameJPN": "ミュウツー",
         "nameENG": "Mewtwo",
-        "data": ["kanto", "legendary"]
+        "region": "Kanto",
+        "collection": ["legendary"]
     },
     {
         "dex": "0150MX",
         "nameJPN": "メガミュウツーX",
         "nameENG": "Mega Mewtwo X",
-        "data": ["kanto", "mega"]
+        "region": "Kanto",
+        "collection": ["mega"]
     },
     {
         "dex": "0150MY",
         "nameJPN": "メガミュウツーY",
         "nameENG": "Mega Mewtwo Y",
-        "data": ["kanto", "mega"]
+        "region": "Kanto",
+        "collection": ["mega"]
     },
     {
         "dex": "0151",
         "nameJPN": "ミュウ",
         "nameENG": "Mew",
-        "data": ["kanto", "mirage"]
+        "region": "Kanto",
+        "collection": ["mythical"]
     },
     {
         "dex": "0152",
         "nameJPN": "チコリータ",
         "nameENG": "Chikorita",
-        "data": ["johto", "starter"]
+        "region": "Johto",
+        "collection": ["starter"]
     },
     {
         "dex": "0153",
         "nameJPN": "ベイリーフ",
         "nameENG": "Bayleef",
-        "data": ["johto", "starter"]
+        "region": "Johto",
+        "collection": ["starter"]
     },
     {
         "dex": "0154",
         "nameJPN": "メガニウムベイリーフ",
         "nameENG": "Meganium",
-        "data": ["johto", "starter"]
+        "region": "Johto",
+        "collection": ["starter"]
     },
     {
         "dex": "0155",
         "nameJPN": "ヒノアラシ",
         "nameENG": "Cyndaquil",
-        "data": ["johto", "starter"]
+        "region": "Johto",
+        "collection": ["starter"]
     },
     {
         "dex": "0156",
         "nameJPN": "マグマラシ",
         "nameENG": "Quilava",
-        "data": ["johto", "starter"]
+        "region": "Johto",
+        "collection": ["starter"]
     },
     {
         "dex": "0157",
         "nameJPN": "バクフーン",
         "nameENG": "Typhlosion",
-        "data": ["johto", "starter"]
+        "region": "Johto",
+        "collection": ["starter"]
     },
     {
         "dex": "0158",
         "nameJPN": "ワニノコ",
         "nameENG": "Totodile",
-        "data": ["johto", "starter"]
+        "region": "Johto",
+        "collection": ["starter"]
     },
     {
         "dex": "0159",
         "nameJPN": "アリゲイツ",
         "nameENG": "Croconaw",
-        "data": ["johto", "starter"]
+        "region": "Johto",
+        "collection": ["starter"]
     },
     {
         "dex": "0160",
         "nameJPN": "オーダイル",
         "nameENG": "Feraligatr",
-        "data": ["johto", "starter"]
+        "region": "Johto",
+        "collection": ["starter"]
     },
     {
         "dex": "0161",
         "nameJPN": "オタチ",
         "nameENG": "Sentret",
-        "data": ["johto"]
+        "region": "Johto",
+        "collection": []
     },
     {
         "dex": "0162",
         "nameJPN": "オオタチ",
         "nameENG": "Furret",
-        "data": ["johto"]
+        "region": "Johto",
+        "collection": []
     },
     {
         "dex": "0163",
         "nameJPN": "ホーホー",
         "nameENG": "Hoothoot",
-        "data": ["johto"]
+        "region": "Johto",
+        "collection": []
     },
     {
         "dex": "0164",
         "nameJPN": "ヨルノズク",
         "nameENG": "Noctowl",
-        "data": ["johto"]
+        "region": "Johto",
+        "collection": []
     },
     {
         "dex": "0165",
         "nameJPN": "レディバ",
         "nameENG": "Ledyba",
-        "data": ["johto"]
+        "region": "Johto",
+        "collection": []
     },
     {
         "dex": "0166",
         "nameJPN": "レディアン",
         "nameENG": "Ledian",
-        "data": ["johto"]
+        "region": "Johto",
+        "collection": []
     },
     {
         "dex": "0167",
         "nameJPN": "イトマル",
         "nameENG": "Spinarak",
-        "data": ["johto"]
+        "region": "Johto",
+        "collection": []
     },
     {
         "dex": "0168",
         "nameJPN": "アリアドス",
         "nameENG": "Ariados",
-        "data": ["johto"]
+        "region": "Johto",
+        "collection": []
     },
     {
         "dex": "0169",
         "nameJPN": "クロバット",
         "nameENG": "Crobat",
-        "data": ["johto"]
+        "region": "Johto",
+        "collection": []
     },
     {
         "dex": "0170",
         "nameJPN": "チョンチー",
         "nameENG": "Chinchou",
-        "data": ["johto"]
+        "region": "Johto",
+        "collection": []
     },
     {
         "dex": "0171",
         "nameJPN": "ランターン",
         "nameENG": "Lanturn",
-        "data": ["johto"]
+        "region": "Johto",
+        "collection": []
     },
     {
         "dex": "0172",
         "nameJPN": "ピチュー",
         "nameENG": "Pichu",
-        "data": ["johto"]
+        "region": "Johto",
+        "collection": ["pikachu"]
     },
     {
         "dex": "0173",
         "nameJPN": "ピィ",
         "nameENG": "Cleffa",
-        "data": ["johto"]
+        "region": "Johto",
+        "collection": []
     },
     {
         "dex": "0174",
         "nameJPN": "ププリン",
         "nameENG": "Igglybuff",
-        "data": ["johto"]
+        "region": "Johto",
+        "collection": []
     },
     {
         "dex": "0175",
         "nameJPN": "トゲピー",
         "nameENG": "Togepi",
-        "data": ["johto"]
+        "region": "Johto",
+        "collection": []
     },
     {
         "dex": "0176",
         "nameJPN": "トゲチック",
         "nameENG": "Togetic",
-        "data": ["johto"]
+        "region": "Johto",
+        "collection": []
     },
     {
         "dex": "0177",
         "nameJPN": "ネイティ",
         "nameENG": "Natu",
-        "data": ["johto"]
+        "region": "Johto",
+        "collection": []
     },
     {
         "dex": "0178",
         "nameJPN": "ネイティオ",
         "nameENG": "Xatu",
-        "data": ["johto"]
+        "region": "Johto",
+        "collection": []
     },
     {
         "dex": "0179",
         "nameJPN": "メリープ",
         "nameENG": "Mareep",
-        "data": ["johto"]
+        "region": "Johto",
+        "collection": []
     },
     {
         "dex": "0180",
         "nameJPN": "モココ",
         "nameENG": "Flaaffy",
-        "data": ["johto"]
+        "region": "Johto",
+        "collection": []
     },
     {
         "dex": "0181",
         "nameJPN": "デンリュウ",
         "nameENG": "Ampharos",
-        "data": ["johto"]
+        "region": "Johto",
+        "collection": []
     },
     {
         "dex": "0181M",
         "nameJPN": "メガデンリュウ",
         "nameENG": "Mega Ampharos",
-        "data": ["johto", "mega"]
+        "region": "Johto",
+        "collection": ["mega"]
     },
     {
         "dex": "0182",
         "nameJPN": "キレイハナ",
         "nameENG": "Bellossom",
-        "data": ["johto"]
+        "region": "Johto",
+        "collection": []
     },
     {
         "dex": "0183",
         "nameJPN": "マリル",
         "nameENG": "Marill",
-        "data": ["johto"]
+        "region": "Johto",
+        "collection": []
     },
     {
         "dex": "0184",
         "nameJPN": "マリルリ",
         "nameENG": "Azumarill",
-        "data": ["johto"]
+        "region": "Johto",
+        "collection": []
     },
     {
         "dex": "0185",
         "nameJPN": "ウソッキー",
         "nameENG": "Sudowoodo",
-        "data": ["johto"]
+        "region": "Johto",
+        "collection": []
     },
     {
         "dex": "0186",
         "nameJPN": "ニョロトノ",
         "nameENG": "Politoed",
-        "data": ["johto"]
+        "region": "Johto",
+        "collection": []
     },
     {
         "dex": "0187",
         "nameJPN": "ハネッコ",
         "nameENG": "Hoppip",
-        "data": ["johto"]
+        "region": "Johto",
+        "collection": []
     },
     {
         "dex": "0188",
         "nameJPN": "ポポッコ",
         "nameENG": "Skiploom",
-        "data": ["johto"]
+        "region": "Johto",
+        "collection": []
     },
     {
         "dex": "0189",
         "nameJPN": "ワタッコ",
         "nameENG": "Jumpluff",
-        "data": ["johto"]
+        "region": "Johto",
+        "collection": []
     },
     {
         "dex": "0190",
         "nameJPN": "エイパム",
         "nameENG": "Aipom",
-        "data": ["johto"]
+        "region": "Johto",
+        "collection": []
     },
     {
         "dex": "0191",
         "nameJPN": "ヒマナッツ",
         "nameENG": "Sunkern",
-        "data": ["johto"]
+        "region": "Johto",
+        "collection": []
     },
     {
         "dex": "0192",
         "nameJPN": "キマワリ",
         "nameENG": "Sunflora",
-        "data": ["johto"]
+        "region": "Johto",
+        "collection": []
     },
     {
         "dex": "0193",
         "nameJPN": "ヤンヤンマ",
         "nameENG": "Yanma",
-        "data": ["johto"]
+        "region": "Johto",
+        "collection": []
     },
     {
         "dex": "0194",
         "nameJPN": "ウパー",
         "nameENG": "Wooper",
-        "data": ["johto"]
+        "region": "Johto",
+        "collection": []
     },
     {
         "dex": "0195",
         "nameJPN": "ヌオー",
         "nameENG": "Quagsire",
-        "data": ["johto"]
+        "region": "Johto",
+        "collection": []
     },
     {
         "dex": "0196",
         "nameJPN": "エーフィ",
         "nameENG": "Espeon",
-        "data": ["johto", "eevee"]
+        "region": "Johto",
+        "collection": ["eevee"]
     },
     {
         "dex": "0197",
         "nameJPN": "ブラッキー",
         "nameENG": "Umbreon",
-        "data": ["johto", "eevee"]
+        "region": "Johto",
+        "collection": ["eevee"]
     },
     {
         "dex": "0198",
         "nameJPN": "ヤミカラス",
         "nameENG": "Murkrow",
-        "data": ["johto"]
+        "region": "Johto",
+        "collection": []
     },
     {
         "dex": "0199",
         "nameJPN": "ヤドキング",
         "nameENG": "Slowking",
-        "data": ["johto"]
+        "region": "Johto",
+        "collection": []
     },
     {
         "dex": "0200",
         "nameJPN": "ムウマ",
         "nameENG": "Misdreavus",
-        "data": ["johto"]
+        "region": "Johto",
+        "collection": []
     },
     {
         "dex": "0201",
-        "nameJPN": "アンノーン",
+        "nameJPN": "アンノーン A",
         "nameENG": "Unown A",
-        "data": ["johto", "unown"]
+        "region": "Johto",
+        "collection": ["unown"]
     },
     {
         "dex": "0201B",
-        "nameJPN": "",
+        "nameJPN": "アンノーン B",
         "nameENG": "Unown B",
-        "data": ["johto", "unown"]
+        "region": "Johto",
+        "collection": ["unown"]
     },
     {
         "dex": "0201C",
-        "nameJPN": "",
+        "nameJPN": "アンノーン C",
         "nameENG": "Unown C",
-        "data": ["johto", "unown"]
+        "region": "Johto",
+        "collection": ["unown"]
     },
     {
         "dex": "0201D",
-        "nameJPN": "",
+        "nameJPN": "アンノーン D",
         "nameENG": "Unown D",
-        "data": ["johto", "unown"]
+        "region": "Johto",
+        "collection": ["unown"]
     },
     {
         "dex": "0201E",
-        "nameJPN": "",
+        "nameJPN": "アンノーン E",
         "nameENG": "Unown E",
-        "data": ["johto", "unown"]
+        "region": "Johto",
+        "collection": ["unown"]
     },
     {
         "dex": "0201F",
-        "nameJPN": "",
+        "nameJPN": "アンノーン F",
         "nameENG": "Unown F",
-        "data": ["johto", "unown"]
+        "region": "Johto",
+        "collection": ["unown"]
     },
     {
         "dex": "0201G",
-        "nameJPN": "",
+        "nameJPN": "アンノーン G",
         "nameENG": "Unown G",
-        "data": ["johto", "unown"]
+        "region": "Johto",
+        "collection": ["unown"]
     },
     {
         "dex": "0201H",
-        "nameJPN": "",
+        "nameJPN": "アンノーン H",
         "nameENG": "Unown H",
-        "data": ["johto", "unown"]
+        "region": "Johto",
+        "collection": ["unown"]
     },
     {
         "dex": "0201I",
-        "nameJPN": "",
+        "nameJPN": "アンノーン I",
         "nameENG": "Unown I",
-        "data": ["johto", "unown"]
+        "region": "Johto",
+        "collection": ["unown"]
     },
     {
         "dex": "0201J",
-        "nameJPN": "",
+        "nameJPN": "アンノーン J",
         "nameENG": "Unown J",
-        "data": ["johto", "unown"]
+        "region": "Johto",
+        "collection": ["unown"]
     },
     {
         "dex": "0201K",
-        "nameJPN": "",
+        "nameJPN": "アンノーン K",
         "nameENG": "Unown K",
-        "data": ["johto", "unown"]
+        "region": "Johto",
+        "collection": ["unown"]
     },
     {
         "dex": "0201L",
-        "nameJPN": "",
+        "nameJPN": "アンノーン L",
         "nameENG": "Unown L",
-        "data": ["johto", "unown"]
+        "region": "Johto",
+        "collection": ["unown"]
     },
     {
         "dex": "0201M",
-        "nameJPN": "",
+        "nameJPN": "アンノーン M",
         "nameENG": "Unown M",
-        "data": ["johto", "unown"]
+        "region": "Johto",
+        "collection": ["unown"]
     },
     {
         "dex": "0201N",
-        "nameJPN": "",
+        "nameJPN": "アンノーン N",
         "nameENG": "Unown N",
-        "data": ["johto", "unown"]
+        "region": "Johto",
+        "collection": ["unown"]
     },
     {
         "dex": "0201O",
-        "nameJPN": "",
+        "nameJPN": "アンノーン O",
         "nameENG": "Unown O",
-        "data": ["johto", "unown"]
+        "region": "Johto",
+        "collection": ["unown"]
     },
     {
         "dex": "0201P",
-        "nameJPN": "",
+        "nameJPN": "アンノーン P",
         "nameENG": "Unown P",
-        "data": ["johto", "unown"]
+        "region": "Johto",
+        "collection": ["unown"]
     },
     {
         "dex": "0201Q",
-        "nameJPN": "",
+        "nameJPN": "アンノーン Q",
         "nameENG": "Unown Q",
-        "data": ["johto", "unown"]
+        "region": "Johto",
+        "collection": ["unown"]
     },
     {
         "dex": "0201R",
-        "nameJPN": "",
+        "nameJPN": "アンノーン R",
         "nameENG": "Unown R",
-        "data": ["johto", "unown"]
+        "region": "Johto",
+        "collection": ["unown"]
     },
     {
         "dex": "0201S",
-        "nameJPN": "",
+        "nameJPN": "アンノーン S",
         "nameENG": "Unown S",
-        "data": ["johto", "unown"]
+        "region": "Johto",
+        "collection": ["unown"]
     },
     {
         "dex": "0201T",
-        "nameJPN": "",
+        "nameJPN": "アンノーン T",
         "nameENG": "Unown T",
-        "data": ["johto", "unown"]
+        "region": "Johto",
+        "collection": ["unown"]
     },
     {
         "dex": "0201U",
-        "nameJPN": "",
+        "nameJPN": "アンノーン U",
         "nameENG": "Unown U",
-        "data": ["johto", "unown"]
+        "region": "Johto",
+        "collection": ["unown"]
     },
     {
         "dex": "0201V",
-        "nameJPN": "",
+        "nameJPN": "アンノーン V",
         "nameENG": "Unown V",
-        "data": ["johto", "unown"]
+        "region": "Johto",
+        "collection": ["unown"]
     },
     {
         "dex": "0201W",
-        "nameJPN": "",
+        "nameJPN": "アンノーン W",
         "nameENG": "Unown W",
-        "data": ["johto", "unown"]
+        "region": "Johto",
+        "collection": ["unown"]
     },
     {
         "dex": "0201X",
-        "nameJPN": "",
+        "nameJPN": "アンノーン X",
         "nameENG": "Unown X",
-        "data": ["johto", "unown"]
+        "region": "Johto",
+        "collection": ["unown"]
     },
     {
         "dex": "0201Y",
-        "nameJPN": "",
+        "nameJPN": "アンノーン Y",
         "nameENG": "Unown Y",
-        "data": ["johto", "unown"]
+        "region": "Johto",
+        "collection": ["unown"]
     },
     {
         "dex": "0201Z",
-        "nameJPN": "",
+        "nameJPN": "アンノーン Z",
         "nameENG": "Unown Z",
-        "data": ["johto", "unown"]
+        "region": "Johto",
+        "collection": ["unown"]
     },
     {
         "dex": "0201Ex",
-        "nameJPN": "",
+        "nameJPN": "アンノーン !",
         "nameENG": "Unown !",
-        "data": ["johto", "unown"]
+        "region": "Johto",
+        "collection": ["unown"]
     },
     {
         "dex": "0201Qu",
-        "nameJPN": "",
+        "nameJPN": "アンノーン ?",
         "nameENG": "Unown ?",
-        "data": ["johto", "unown"]
+        "region": "Johto",
+        "collection": ["unown"]
     },
     {
         "dex": "0202",
         "nameJPN": "ソーナンス",
         "nameENG": "Wobbuffet",
-        "data": ["johto"]
+        "region": "Johto",
+        "collection": []
     },
     {
         "dex": "0203",
         "nameJPN": "キリンリキ",
         "nameENG": "Girafarig",
-        "data": ["johto"]
+        "region": "Johto",
+        "collection": []
     },
     {
         "dex": "0204",
         "nameJPN": "クヌギダマ",
         "nameENG": "Pineco",
-        "data": ["johto"]
+        "region": "Johto",
+        "collection": []
     },
     {
         "dex": "0205",
         "nameJPN": "フォレトス",
         "nameENG": "Forretress",
-        "data": ["johto"]
+        "region": "Johto",
+        "collection": []
     },
     {
         "dex": "0206",
         "nameJPN": "ノコッチ",
         "nameENG": "Dunsparce",
-        "data": ["johto"]
+        "region": "Johto",
+        "collection": []
     },
     {
         "dex": "0207",
         "nameJPN": "グライガー",
         "nameENG": "Gligar",
-        "data": ["johto"]
+        "region": "Johto",
+        "collection": []
     },
     {
         "dex": "0208",
         "nameJPN": "ハガネール",
         "nameENG": "Steelix",
-        "data": ["johto"]
+        "region": "Johto",
+        "collection": []
     },
     {
         "dex": "0208M",
         "nameJPN": "メガハガネール",
         "nameENG": "Mega Steelix",
-        "data": ["johto", "mega"]
+        "region": "Johto",
+        "collection": ["mega"]
     },
     {
         "dex": "0209",
         "nameJPN": "ブルー",
         "nameENG": "Snubbull",
-        "data": ["johto"]
+        "region": "Johto",
+        "collection": []
     },
     {
         "dex": "0210",
         "nameJPN": "グランブル",
         "nameENG": "Granbull",
-        "data": ["johto"]
+        "region": "Johto",
+        "collection": []
     },
     {
         "dex": "0211",
         "nameJPN": "ハリーセン",
         "nameENG": "Qwilfish",
-        "data": ["johto"]
+        "region": "Johto",
+        "collection": []
     },
     {
         "dex": "0212",
         "nameJPN": "ハッサム",
         "nameENG": "Scizor",
-        "data": ["johto"]
+        "region": "Johto",
+        "collection": []
     },
     {
         "dex": "0212M",
         "nameJPN": "メガハッサム",
         "nameENG": "Mega Scizor",
-        "data": ["johto", "mega"]
+        "region": "Johto",
+        "collection": ["mega"]
     },
     {
         "dex": "0213",
         "nameJPN": "ツボツボ",
         "nameENG": "Shuckle",
-        "data": ["johto"]
+        "region": "Johto",
+        "collection": []
     },
     {
         "dex": "0214",
         "nameJPN": "ヘラクロス",
         "nameENG": "Heracross",
-        "data": ["johto"]
+        "region": "Johto",
+        "collection": []
     },
     {
         "dex": "0214M",
         "nameJPN": "メガヘラクロス",
         "nameENG": "Mega Heracross",
-        "data": ["johto", "mega"]
+        "region": "Johto",
+        "collection": ["mega"]
     },
     {
         "dex": "0215",
         "nameJPN": "ニューラ",
         "nameENG": "Sneasel",
-        "data": ["johto"]
+        "region": "Johto",
+        "collection": []
     },
     {
         "dex": "0216",
         "nameJPN": "ヒメグマ",
         "nameENG": "Teddiursa",
-        "data": ["johto"]
+        "region": "Johto",
+        "collection": []
     },
     {
         "dex": "0217",
         "nameJPN": "リングマ",
         "nameENG": "Ursaring",
-        "data": ["johto"]
+        "region": "Johto",
+        "collection": []
     },
     {
         "dex": "0218",
         "nameJPN": "マグマッグ",
         "nameENG": "Slugma",
-        "data": ["johto"]
+        "region": "Johto",
+        "collection": []
     },
     {
         "dex": "0219",
         "nameJPN": "マグカルゴ",
         "nameENG": "Magcargo",
-        "data": ["johto"]
+        "region": "Johto",
+        "collection": []
     },
     {
         "dex": "0220",
         "nameJPN": "ウリムー",
         "nameENG": "Swinub",
-        "data": ["johto"]
+        "region": "Johto",
+        "collection": []
     },
     {
         "dex": "0221",
         "nameJPN": "イノムー",
         "nameENG": "Piloswine",
-        "data": ["johto"]
+        "region": "Johto",
+        "collection": []
     },
     {
         "dex": "0222",
         "nameJPN": "サニーゴ",
         "nameENG": "Corsola",
-        "data": ["johto"]
+        "region": "Johto",
+        "collection": []
     },
     {
         "dex": "0223",
         "nameJPN": "テッポウオ",
         "nameENG": "Remoraid",
-        "data": ["johto"]
+        "region": "Johto",
+        "collection": []
     },
     {
         "dex": "0224",
         "nameJPN": "オクタン",
         "nameENG": "Octillery",
-        "data": ["johto"]
+        "region": "Johto",
+        "collection": []
     },
     {
         "dex": "0225",
         "nameJPN": "デリバード",
         "nameENG": "Delibird",
-        "data": ["johto"]
+        "region": "Johto",
+        "collection": []
     },
     {
         "dex": "0226",
         "nameJPN": "マンタイン",
         "nameENG": "Mantine",
-        "data": ["johto"]
+        "region": "Johto",
+        "collection": []
     },
     {
         "dex": "0227",
         "nameJPN": "エアームド",
         "nameENG": "Skarmory",
-        "data": ["johto"]
+        "region": "Johto",
+        "collection": []
     },
     {
         "dex": "0228",
         "nameJPN": "デルビル",
         "nameENG": "Houndour",
-        "data": ["johto"]
+        "region": "Johto",
+        "collection": []
     },
     {
         "dex": "0229",
         "nameJPN": "ヘルガー",
         "nameENG": "Houndoom",
-        "data": ["johto"]
+        "region": "Johto",
+        "collection": []
     },
     {
         "dex": "0229M",
         "nameJPN": "メガヘルガー",
         "nameENG": "Mega Houndoom",
-        "data": ["johto", "mega"]
+        "region": "Johto",
+        "collection": ["mega"]
     },
     {
         "dex": "0230",
         "nameJPN": "キングドラ",
         "nameENG": "Kingdra",
-        "data": ["johto"]
+        "region": "Johto",
+        "collection": []
     },
     {
         "dex": "0231",
         "nameJPN": "ゴマゾウ",
         "nameENG": "Phanpy",
-        "data": ["johto"]
+        "region": "Johto",
+        "collection": []
     },
     {
         "dex": "0232",
         "nameJPN": "ドンファン",
         "nameENG": "Donphan",
-        "data": ["johto"]
+        "region": "Johto",
+        "collection": []
     },
     {
         "dex": "0233",
         "nameJPN": "ポリゴン２",
         "nameENG": "Porygon2",
-        "data": ["johto"]
+        "region": "Johto",
+        "collection": []
     },
     {
         "dex": "0234",
         "nameJPN": "オドシシ",
         "nameENG": "Stantler",
-        "data": ["johto"]
+        "region": "Johto",
+        "collection": []
     },
     {
         "dex": "0235",
         "nameJPN": "ドーブル",
         "nameENG": "Smeargle",
-        "data": ["johto"]
+        "region": "Johto",
+        "collection": []
     },
     {
         "dex": "0236",
         "nameJPN": "バルキー",
         "nameENG": "Tyrogue",
-        "data": ["johto"]
+        "region": "Johto",
+        "collection": []
     },
     {
         "dex": "0237",
         "nameJPN": "カポエラー",
         "nameENG": "Hitmontop",
-        "data": ["johto"]
+        "region": "Johto",
+        "collection": []
     },
     {
         "dex": "0238",
         "nameJPN": "ムチュール",
         "nameENG": "Smoochum",
-        "data": ["johto"]
+        "region": "Johto",
+        "collection": []
     },
     {
         "dex": "0239",
         "nameJPN": "エレキッド",
         "nameENG": "Elekid",
-        "data": ["johto"]
+        "region": "Johto",
+        "collection": []
     },
     {
         "dex": "0240",
         "nameJPN": "ブビィ",
         "nameENG": "Magby",
-        "data": ["johto"]
+        "region": "Johto",
+        "collection": []
     },
     {
         "dex": "0241",
         "nameJPN": "ミルタンク",
         "nameENG": "Miltank",
-        "data": ["johto"]
+        "region": "Johto",
+        "collection": []
     },
     {
         "dex": "0242",
         "nameJPN": "ハピナス",
         "nameENG": "Blissey",
-        "data": ["johto"]
+        "region": "Johto",
+        "collection": []
     },
     {
         "dex": "0243",
         "nameJPN": "ライコウ",
         "nameENG": "Raikou",
-        "data": ["johto", "trio"]
+        "region": "Johto",
+        "collection": ["trio"]
     },
     {
         "dex": "0244",
         "nameJPN": "エンテイ",
         "nameENG": "Entei",
-        "data": ["johto", "trio"]
+        "region": "Johto",
+        "collection": ["trio"]
     },
     {
         "dex": "0245",
         "nameJPN": "スイクン",
         "nameENG": "Suicune",
-        "data": ["johto", "trio"]
+        "region": "Johto",
+        "collection": ["trio"]
     },
     {
         "dex": "0246",
         "nameJPN": "ヨーギラス",
         "nameENG": "Larvitar",
-        "data": ["johto", "bs600"]
+        "region": "Johto",
+        "collection": ["bs600"]
     },
     {
         "dex": "0247",
         "nameJPN": "サナギラス",
         "nameENG": "Pupitar",
-        "data": ["johto", "bs600"]
+        "region": "Johto",
+        "collection": ["bs600"]
     },
     {
         "dex": "0248",
         "nameJPN": "バンギラス",
         "nameENG": "Tyranitar",
-        "data": ["johto", "bs600"]
+        "region": "Johto",
+        "collection": ["bs600"]
     },
     {
         "dex": "0248M",
         "nameJPN": "メガバンギラス",
         "nameENG": "Mega Tyranitar",
-        "data": ["johto", "mega"]
+        "region": "Johto",
+        "collection": ["mega"]
     },
     {
         "dex": "0249",
         "nameJPN": "ルギア",
         "nameENG": "Lugia",
-        "data": ["johto", "legendary"]
+        "region": "Johto",
+        "collection": ["legendary"]
     },
     {
         "dex": "0250",
         "nameJPN": "ホウオウ",
         "nameENG": "Ho",
-        "data": ["johto", "legendary"]
+        "region": "Johto",
+        "collection": ["legendary"]
     },
     {
         "dex": "0251",
         "nameJPN": "セレビィ",
         "nameENG": "Celebi",
-        "data": ["johto", "mirage"]
+        "region": "Johto",
+        "collection": ["mythical"]
     },
     {
         "dex": "0252",
         "nameJPN": "キモリ",
         "nameENG": "Treecko",
-        "data": ["hoenn", "starter"]
+        "region": "Hoenn",
+        "collection": ["starter"]
     },
     {
         "dex": "0253",
         "nameJPN": "ジュプトル",
         "nameENG": "Grovyle",
-        "data": ["hoenn", "starter"]
+        "region": "Hoenn",
+        "collection": ["starter"]
     },
     {
         "dex": "0254",
         "nameJPN": "ジュカイン",
         "nameENG": "Sceptile",
-        "data": ["hoenn", "starter"]
+        "region": "Hoenn",
+        "collection": ["starter"]
     },
     {
         "dex": "0254M",
         "nameJPN": "メガジュカイン",
         "nameENG": "Mega Sceptile",
-        "data": ["hoenn", "mega", "starter"]
+        "region": "Hoenn",
+        "collection": ["mega", "starter"]
     },
     {
         "dex": "0255",
         "nameJPN": "アチャモ",
         "nameENG": "Torchic",
-        "data": ["hoenn", "starter"]
+        "region": "Hoenn",
+        "collection": ["starter"]
     },
     {
         "dex": "0256",
         "nameJPN": "ワカシャモ",
         "nameENG": "Combusken",
-        "data": ["hoenn", "starter"]
+        "region": "Hoenn",
+        "collection": ["starter"]
     },
     {
         "dex": "0257",
         "nameJPN": "バシャーモ",
         "nameENG": "Blaziken",
-        "data": ["hoenn", "starter"]
+        "region": "Hoenn",
+        "collection": ["starter"]
     },
     {
         "dex": "0257M",
         "nameJPN": "メガバシャーモ",
         "nameENG": "Mega Blaziken",
-        "data": ["hoenn", "mega", "starter"]
+        "region": "Hoenn",
+        "collection": ["mega", "starter"]
     },
     {
         "dex": "0258",
         "nameJPN": "ミズゴロウ",
         "nameENG": "Mudkip",
-        "data": ["hoenn", "starter"]
+        "region": "Hoenn",
+        "collection": ["starter"]
     },
     {
         "dex": "0259",
         "nameJPN": "ヌマクロー",
         "nameENG": "Marshtomp",
-        "data": ["hoenn", "starter"]
+        "region": "Hoenn",
+        "collection": ["starter"]
     },
     {
         "dex": "0260",
         "nameJPN": "ラグラージ",
         "nameENG": "Swampert",
-        "data": ["hoenn", "starter"]
+        "region": "Hoenn",
+        "collection": ["starter"]
     },
     {
         "dex": "0260M",
         "nameJPN": "メガラグラージ",
         "nameENG": "Mega Swampert",
-        "data": ["hoenn", "mega", "starter"]
+        "region": "Hoenn",
+        "collection": ["mega", "starter"]
     },
     {
         "dex": "0261",
         "nameJPN": "ポチエナ",
         "nameENG": "Poochyena",
-        "data": ["hoenn"]
+        "region": "Hoenn",
+        "collection": []
     },
     {
         "dex": "0262",
         "nameJPN": "グラエナ",
         "nameENG": "Mightyena",
-        "data": ["hoenn"]
+        "region": "Hoenn",
+        "collection": []
     },
     {
         "dex": "0263",
         "nameJPN": "ジグザグマ",
         "nameENG": "Zigzagoon",
-        "data": ["hoenn"]
+        "region": "Hoenn",
+        "collection": []
     },
     {
         "dex": "0264",
         "nameJPN": "マッスグマ",
         "nameENG": "Linoone",
-        "data": ["hoenn"]
+        "region": "Hoenn",
+        "collection": []
     },
     {
         "dex": "0265",
         "nameJPN": "ケムッソ",
         "nameENG": "Wurmple",
-        "data": ["hoenn"]
+        "region": "Hoenn",
+        "collection": []
     },
     {
         "dex": "0266",
         "nameJPN": "カラサリス",
         "nameENG": "Silcoon",
-        "data": ["hoenn"]
+        "region": "Hoenn",
+        "collection": []
     },
     {
         "dex": "0267",
         "nameJPN": "アゲハント",
         "nameENG": "Beautifly",
-        "data": ["hoenn"]
+        "region": "Hoenn",
+        "collection": []
     },
     {
         "dex": "0268",
         "nameJPN": "マユルド",
         "nameENG": "Cascoon",
-        "data": ["hoenn"]
+        "region": "Hoenn",
+        "collection": []
     },
     {
         "dex": "0269",
         "nameJPN": "ドクケイル",
         "nameENG": "Dustox",
-        "data": ["hoenn"]
+        "region": "Hoenn",
+        "collection": []
     },
     {
         "dex": "0270",
         "nameJPN": "ハスボー",
         "nameENG": "Lotad",
-        "data": ["hoenn"]
+        "region": "Hoenn",
+        "collection": []
     },
     {
         "dex": "0271",
         "nameJPN": "ハスブレロ",
         "nameENG": "Lombre",
-        "data": ["hoenn"]
+        "region": "Hoenn",
+        "collection": []
     },
     {
         "dex": "0272",
         "nameJPN": "ルンパッパ",
         "nameENG": "Ludicolo",
-        "data": ["hoenn"]
+        "region": "Hoenn",
+        "collection": []
     },
     {
         "dex": "0273",
         "nameJPN": "タネボー",
         "nameENG": "Seedot",
-        "data": ["hoenn"]
+        "region": "Hoenn",
+        "collection": []
     },
     {
         "dex": "0274",
         "nameJPN": "コノハナ",
         "nameENG": "Nuzleaf",
-        "data": ["hoenn"]
+        "region": "Hoenn",
+        "collection": []
     },
     {
         "dex": "0275",
         "nameJPN": "ダーテング",
         "nameENG": "Shiftry",
-        "data": ["hoenn"]
+        "region": "Hoenn",
+        "collection": []
     },
     {
         "dex": "0276",
         "nameJPN": "スバメ",
         "nameENG": "Taillow",
-        "data": ["hoenn"]
+        "region": "Hoenn",
+        "collection": []
     },
     {
         "dex": "0277",
         "nameJPN": "オオスバメ",
         "nameENG": "Swellow",
-        "data": ["hoenn"]
+        "region": "Hoenn",
+        "collection": []
     },
     {
         "dex": "0278",
         "nameJPN": "キャモメ",
         "nameENG": "Wingull",
-        "data": ["hoenn"]
+        "region": "Hoenn",
+        "collection": []
     },
     {
         "dex": "0279",
         "nameJPN": "ペリッパー",
         "nameENG": "Pelipper",
-        "data": ["hoenn"]
+        "region": "Hoenn",
+        "collection": []
     },
     {
         "dex": "0280",
         "nameJPN": "ラルトス",
         "nameENG": "Ralts",
-        "data": ["hoenn"]
+        "region": "Hoenn",
+        "collection": []
     },
     {
         "dex": "0281",
         "nameJPN": "キルリア",
         "nameENG": "Kirlia",
-        "data": ["hoenn"]
+        "region": "Hoenn",
+        "collection": []
     },
     {
         "dex": "0282",
         "nameJPN": "サーナイト",
         "nameENG": "Gardevoir",
-        "data": ["hoenn"]
+        "region": "Hoenn",
+        "collection": []
     },
     {
         "dex": "0282M",
         "nameJPN": "メガサーナイト",
         "nameENG": "Mega Gardevoir",
-        "data": ["hoenn", "mega"]
+        "region": "Hoenn",
+        "collection": ["mega"]
     },
     {
         "dex": "0283",
         "nameJPN": "アメタマ",
         "nameENG": "Surskit",
-        "data": ["hoenn"]
+        "region": "Hoenn",
+        "collection": []
     },
     {
         "dex": "0284",
         "nameJPN": "アメモース",
         "nameENG": "Masquerain",
-        "data": ["hoenn"]
+        "region": "Hoenn",
+        "collection": []
     },
     {
         "dex": "0285",
         "nameJPN": "キノココ",
         "nameENG": "Shroomish",
-        "data": ["hoenn"]
+        "region": "Hoenn",
+        "collection": []
     },
     {
         "dex": "0286",
         "nameJPN": "キノガッサ",
         "nameENG": "Breloom",
-        "data": ["hoenn"]
+        "region": "Hoenn",
+        "collection": []
     },
     {
         "dex": "0287",
         "nameJPN": "ナマケロ",
         "nameENG": "Slakoth",
-        "data": ["hoenn"]
+        "region": "Hoenn",
+        "collection": []
     },
     {
         "dex": "0288",
         "nameJPN": "ヤルキモノ",
         "nameENG": "Vigoroth",
-        "data": ["hoenn"]
+        "region": "Hoenn",
+        "collection": []
     },
     {
         "dex": "0289",
         "nameJPN": "ケッキング",
         "nameENG": "Slaking",
-        "data": ["hoenn"]
+        "region": "Hoenn",
+        "collection": []
     },
     {
         "dex": "0290",
         "nameJPN": "ツチニン",
         "nameENG": "Nincada",
-        "data": ["hoenn"]
+        "region": "Hoenn",
+        "collection": []
     },
     {
         "dex": "0291",
         "nameJPN": "テッカニン",
         "nameENG": "Ninjask",
-        "data": ["hoenn"]
+        "region": "Hoenn",
+        "collection": []
     },
     {
         "dex": "0292",
         "nameJPN": "ヌケニン",
         "nameENG": "Shedinja",
-        "data": ["hoenn"]
+        "region": "Hoenn",
+        "collection": []
     },
     {
         "dex": "0293",
         "nameJPN": "ゴニョニョ",
         "nameENG": "Whismur",
-        "data": ["hoenn"]
+        "region": "Hoenn",
+        "collection": []
     },
     {
         "dex": "0294",
         "nameJPN": "ドゴーム",
         "nameENG": "Loudred",
-        "data": ["hoenn"]
+        "region": "Hoenn",
+        "collection": []
     },
     {
         "dex": "0295",
         "nameJPN": "バクオング",
         "nameENG": "Exploud",
-        "data": ["hoenn"]
+        "region": "Hoenn",
+        "collection": []
     },
     {
         "dex": "0296",
         "nameJPN": "マクノシタ",
         "nameENG": "Makuhita",
-        "data": ["hoenn"]
+        "region": "Hoenn",
+        "collection": []
     },
     {
         "dex": "0297",
         "nameJPN": "ハリテヤマ",
         "nameENG": "Hariyama",
-        "data": ["hoenn"]
+        "region": "Hoenn",
+        "collection": []
     },
     {
         "dex": "0298",
         "nameJPN": "ルリリ",
         "nameENG": "Azurill",
-        "data": ["hoenn"]
+        "region": "Hoenn",
+        "collection": []
     },
     {
         "dex": "0299",
         "nameJPN": "ノズパス",
         "nameENG": "Nosepass",
-        "data": ["hoenn"]
+        "region": "Hoenn",
+        "collection": []
     },
     {
         "dex": "0300",
         "nameJPN": "エネコ",
         "nameENG": "Skitty",
-        "data": ["hoenn"]
+        "region": "Hoenn",
+        "collection": []
     },
     {
         "dex": "0301",
         "nameJPN": "エネコロロ",
         "nameENG": "Delcatty",
-        "data": ["hoenn"]
+        "region": "Hoenn",
+        "collection": []
     },
     {
         "dex": "0302",
         "nameJPN": "ヤミラミ",
         "nameENG": "Sableye",
-        "data": ["hoenn"]
+        "region": "Hoenn",
+        "collection": []
     },
     {
         "dex": "0302M",
         "nameJPN": "メガヤミラミ",
         "nameENG": "Mega Sableye",
-        "data": ["hoenn", "mega"]
+        "region": "Hoenn",
+        "collection": ["mega"]
     },
     {
         "dex": "0303",
         "nameJPN": "クチート",
         "nameENG": "Mawile",
-        "data": ["hoenn"]
+        "region": "Hoenn",
+        "collection": []
     },
     {
         "dex": "0303M",
         "nameJPN": "メガクチート",
         "nameENG": "Mega Mawile",
-        "data": ["hoenn", "mega"]
+        "region": "Hoenn",
+        "collection": ["mega"]
     },
     {
         "dex": "0304",
         "nameJPN": "ココドラ",
         "nameENG": "Aron",
-        "data": ["hoenn"]
+        "region": "Hoenn",
+        "collection": []
     },
     {
         "dex": "0305",
         "nameJPN": "コドラ",
         "nameENG": "Lairon",
-        "data": ["hoenn"]
+        "region": "Hoenn",
+        "collection": []
     },
     {
         "dex": "0306",
         "nameJPN": "ボスゴドラ",
         "nameENG": "Aggron",
-        "data": ["hoenn"]
+        "region": "Hoenn",
+        "collection": []
     },
     {
         "dex": "0306M",
         "nameJPN": "メガボスゴドラ",
         "nameENG": "Mega Aggron",
-        "data": ["hoenn", "mega"]
+        "region": "Hoenn",
+        "collection": ["mega"]
     },
     {
         "dex": "0307",
         "nameJPN": "アサナン",
         "nameENG": "Meditite",
-        "data": ["hoenn"]
+        "region": "Hoenn",
+        "collection": []
     },
     {
         "dex": "0308",
         "nameJPN": "チャーレム",
         "nameENG": "Medicham",
-        "data": ["hoenn"]
+        "region": "Hoenn",
+        "collection": []
     },
     {
         "dex": "0308M",
         "nameJPN": "メガチャーレム",
         "nameENG": "Mega Medicham",
-        "data": ["hoenn", "mega"]
+        "region": "Hoenn",
+        "collection": ["mega"]
     },
     {
         "dex": "0309",
         "nameJPN": "ラクライ",
         "nameENG": "Electrike",
-        "data": ["hoenn"]
+        "region": "Hoenn",
+        "collection": []
     },
     {
         "dex": "0310",
         "nameJPN": "ライボルト",
         "nameENG": "Manectric",
-        "data": ["hoenn"]
+        "region": "Hoenn",
+        "collection": []
     },
     {
         "dex": "0310M",
         "nameJPN": "メガライボルト",
         "nameENG": "Mega Manectric",
-        "data": ["hoenn", "mega"]
+        "region": "Hoenn",
+        "collection": ["mega"]
     },
     {
         "dex": "0311",
         "nameJPN": "プラスル",
         "nameENG": "Plusle",
-        "data": ["hoenn"]
+        "region": "Hoenn",
+        "collection": ["pikachu"]
     },
     {
         "dex": "0312",
         "nameJPN": "マイナン",
         "nameENG": "Minun",
-        "data": ["hoenn"]
+        "region": "Hoenn",
+        "collection": ["pikachu"]
     },
     {
         "dex": "0313",
         "nameJPN": "バルビート",
         "nameENG": "Volbeat",
-        "data": ["hoenn"]
+        "region": "Hoenn",
+        "collection": []
     },
     {
         "dex": "0314",
         "nameJPN": "イルミーゼ",
         "nameENG": "Illumise",
-        "data": ["hoenn"]
+        "region": "Hoenn",
+        "collection": []
     },
     {
         "dex": "0315",
         "nameJPN": "ロゼリア",
         "nameENG": "Roselia",
-        "data": ["hoenn"]
+        "region": "Hoenn",
+        "collection": []
     },
     {
         "dex": "0316",
         "nameJPN": "ゴクリン",
         "nameENG": "Gulpin",
-        "data": ["hoenn"]
+        "region": "Hoenn",
+        "collection": []
     },
     {
         "dex": "0317",
         "nameJPN": "マルノーム",
         "nameENG": "Swalot",
-        "data": ["hoenn"]
+        "region": "Hoenn",
+        "collection": []
     },
     {
         "dex": "0318",
         "nameJPN": "キバニア",
         "nameENG": "Carvanha",
-        "data": ["hoenn"]
+        "region": "Hoenn",
+        "collection": []
     },
     {
         "dex": "0319",
         "nameJPN": "サメハダー",
         "nameENG": "Sharpedo",
-        "data": ["hoenn"]
+        "region": "Hoenn",
+        "collection": []
     },
     {
         "dex": "0319M",
         "nameJPN": "メガサメハダー",
         "nameENG": "Mega Sharpedo",
-        "data": ["hoenn", "mega"]
+        "region": "Hoenn",
+        "collection": ["mega"]
     },
     {
         "dex": "0320",
         "nameJPN": "ホエルコ",
         "nameENG": "Wailmer",
-        "data": ["hoenn"]
+        "region": "Hoenn",
+        "collection": []
     },
     {
         "dex": "0321",
         "nameJPN": "ホエルオー",
         "nameENG": "Wailord",
-        "data": ["hoenn"]
+        "region": "Hoenn",
+        "collection": []
     },
     {
         "dex": "0322",
         "nameJPN": "ドンメル",
         "nameENG": "Numel",
-        "data": ["hoenn"]
+        "region": "Hoenn",
+        "collection": []
     },
     {
         "dex": "0323",
         "nameJPN": "バクーダ",
         "nameENG": "Camerupt",
-        "data": ["hoenn"]
+        "region": "Hoenn",
+        "collection": []
     },
     {
         "dex": "0323M",
         "nameJPN": "メガバクーダ",
         "nameENG": "Mega Camerupt",
-        "data": ["hoenn", "mega"]
+        "region": "Hoenn",
+        "collection": ["mega"]
     },
     {
         "dex": "0324",
         "nameJPN": "コータス",
         "nameENG": "Torkoal",
-        "data": ["hoenn"]
+        "region": "Hoenn",
+        "collection": []
     },
     {
         "dex": "0325",
         "nameJPN": "バネブー",
         "nameENG": "Spoink",
-        "data": ["hoenn"]
+        "region": "Hoenn",
+        "collection": []
     },
     {
         "dex": "0326",
         "nameJPN": "ブーピッグ",
         "nameENG": "Grumpig",
-        "data": ["hoenn"]
+        "region": "Hoenn",
+        "collection": []
     },
     {
         "dex": "0327",
         "nameJPN": "パッチール",
         "nameENG": "Spinda",
-        "data": ["hoenn"]
+        "region": "Hoenn",
+        "collection": []
     },
     {
         "dex": "0328",
         "nameJPN": "ナックラー",
         "nameENG": "Trapinch",
-        "data": ["hoenn"]
+        "region": "Hoenn",
+        "collection": []
     },
     {
         "dex": "0329",
         "nameJPN": "ビブラーバ",
         "nameENG": "Vibrava",
-        "data": ["hoenn"]
+        "region": "Hoenn",
+        "collection": []
     },
     {
         "dex": "0330",
         "nameJPN": "フライゴン",
         "nameENG": "Flygon",
-        "data": ["hoenn"]
+        "region": "Hoenn",
+        "collection": []
     },
     {
         "dex": "0331",
         "nameJPN": "サボネア",
         "nameENG": "Cacnea",
-        "data": ["hoenn"]
+        "region": "Hoenn",
+        "collection": []
     },
     {
         "dex": "0332",
         "nameJPN": "ノクタス",
         "nameENG": "Cacturne",
-        "data": ["hoenn"]
+        "region": "Hoenn",
+        "collection": []
     },
     {
         "dex": "0333",
         "nameJPN": "チルット",
         "nameENG": "Swablu",
-        "data": ["hoenn"]
+        "region": "Hoenn",
+        "collection": []
     },
     {
         "dex": "0334",
         "nameJPN": "チルタリス",
         "nameENG": "Altaria",
-        "data": ["hoenn"]
+        "region": "Hoenn",
+        "collection": []
     },
     {
         "dex": "0334M",
         "nameJPN": "メガチルタリス",
         "nameENG": "Mega Altaria",
-        "data": ["hoenn", "mega"]
+        "region": "Hoenn",
+        "collection": ["mega"]
     },
     {
         "dex": "0335",
         "nameJPN": "ザングース",
         "nameENG": "Zangoose",
-        "data": ["hoenn"]
+        "region": "Hoenn",
+        "collection": []
     },
     {
         "dex": "0336",
         "nameJPN": "ハブネーク",
         "nameENG": "Seviper",
-        "data": ["hoenn"]
+        "region": "Hoenn",
+        "collection": []
     },
     {
         "dex": "0337",
         "nameJPN": "ルナトーン",
         "nameENG": "Lunatone",
-        "data": ["hoenn"]
+        "region": "Hoenn",
+        "collection": []
     },
     {
         "dex": "0338",
         "nameJPN": "ソルロック",
         "nameENG": "Solrock",
-        "data": ["hoenn"]
+        "region": "Hoenn",
+        "collection": []
     },
     {
         "dex": "0339",
         "nameJPN": "ドジョッチ",
         "nameENG": "Barboach",
-        "data": ["hoenn"]
+        "region": "Hoenn",
+        "collection": []
     },
     {
         "dex": "0340",
         "nameJPN": "ナマズン",
         "nameENG": "Whiscash",
-        "data": ["hoenn"]
+        "region": "Hoenn",
+        "collection": []
     },
     {
         "dex": "0341",
         "nameJPN": "ヘイガニ",
         "nameENG": "Corphish",
-        "data": ["hoenn"]
+        "region": "Hoenn",
+        "collection": []
     },
     {
         "dex": "0342",
         "nameJPN": "シザリガー",
         "nameENG": "Crawdaunt",
-        "data": ["hoenn"]
+        "region": "Hoenn",
+        "collection": []
     },
     {
         "dex": "0343",
         "nameJPN": "ヤジロン",
         "nameENG": "Baltoy",
-        "data": ["hoenn"]
+        "region": "Hoenn",
+        "collection": []
     },
     {
         "dex": "0344",
         "nameJPN": "ネンドール",
         "nameENG": "Claydol",
-        "data": ["hoenn"]
+        "region": "Hoenn",
+        "collection": []
     },
     {
         "dex": "0345",
         "nameJPN": "リリーラ",
         "nameENG": "Lileep",
-        "data": ["hoenn"]
+        "region": "Hoenn",
+        "collection": []
     },
     {
         "dex": "0346",
         "nameJPN": "ユレイドル",
         "nameENG": "Cradily",
-        "data": ["hoenn"]
+        "region": "Hoenn",
+        "collection": []
     },
     {
         "dex": "0347",
         "nameJPN": "アノプス",
         "nameENG": "Anorith",
-        "data": ["hoenn"]
+        "region": "Hoenn",
+        "collection": []
     },
     {
         "dex": "0348",
         "nameJPN": "アーマルド",
         "nameENG": "Armaldo",
-        "data": ["hoenn"]
+        "region": "Hoenn",
+        "collection": []
     },
     {
         "dex": "0349",
         "nameJPN": "ヒンバス",
         "nameENG": "Feebas",
-        "data": ["hoenn"]
+        "region": "Hoenn",
+        "collection": []
     },
     {
         "dex": "0350",
         "nameJPN": "ミロカロス",
         "nameENG": "Milotic",
-        "data": ["hoenn"]
+        "region": "Hoenn",
+        "collection": []
     },
     {
         "dex": "0351",
         "nameJPN": "ポワルン",
         "nameENG": "Castform",
-        "data": ["hoenn"]
+        "region": "Hoenn",
+        "collection": []
     },
     {
         "dex": "0351S",
-        "nameJPN": "",
-        "nameENG": "",
-        "data": ["hoenn"]
+        "nameJPN": "ポワルン (たいよう)",
+        "nameENG": "Castform (Sunny)",
+        "region": "Hoenn",
+        "collection": []
     },
     {
         "dex": "0351R",
-        "nameJPN": "",
-        "nameENG": "",
-        "data": ["hoenn"]
+        "nameJPN": "ポワルン (あまみず)",
+        "nameENG": "Castform (Rainy)",
+        "region": "Hoenn",
+        "collection": []
     },
     {
         "dex": "0351H",
-        "nameJPN": "",
-        "nameENG": "",
-        "data": ["hoenn"]
+        "nameJPN": "ポワルン (ゆきぐも)",
+        "nameENG": "Castform (Snowy)",
+        "region": "Hoenn",
+        "collection": []
     },
     {
         "dex": "0352",
         "nameJPN": "カクレオン",
         "nameENG": "Kecleon",
-        "data": ["hoenn"]
+        "region": "Hoenn",
+        "collection": []
     },
     {
         "dex": "0353",
         "nameJPN": "カゲボウズ",
         "nameENG": "Shuppet",
-        "data": ["hoenn"]
+        "region": "Hoenn",
+        "collection": []
     },
     {
         "dex": "0354",
         "nameJPN": "ジュペッタ",
         "nameENG": "Banette",
-        "data": ["hoenn"]
+        "region": "Hoenn",
+        "collection": []
     },
     {
         "dex": "0354M",
         "nameJPN": "メガジュペッタ",
         "nameENG": "Mega Banette",
-        "data": ["hoenn", "mega"]
+        "region": "Hoenn",
+        "collection": ["mega"]
     },
     {
         "dex": "0355",
         "nameJPN": "ヨマワル",
         "nameENG": "Duskull",
-        "data": ["hoenn"]
+        "region": "Hoenn",
+        "collection": []
     },
     {
         "dex": "0356",
         "nameJPN": "サマヨール",
         "nameENG": "Dusclops",
-        "data": ["hoenn"]
+        "region": "Hoenn",
+        "collection": []
     },
     {
         "dex": "0357",
         "nameJPN": "トロピウス",
         "nameENG": "Tropius",
-        "data": ["hoenn"]
+        "region": "Hoenn",
+        "collection": []
     },
     {
         "dex": "0358",
         "nameJPN": "チリーン",
         "nameENG": "Chimecho",
-        "data": ["hoenn"]
+        "region": "Hoenn",
+        "collection": []
     },
     {
         "dex": "0359",
         "nameJPN": "アブソル",
         "nameENG": "Absol",
-        "data": ["hoenn"]
+        "region": "Hoenn",
+        "collection": []
     },
     {
         "dex": "0360",
         "nameJPN": "ソーナノ",
         "nameENG": "Wynaut",
-        "data": ["hoenn"]
+        "region": "Hoenn",
+        "collection": []
     },
     {
         "dex": "0361",
         "nameJPN": "ユキワラシ",
         "nameENG": "Snorunt",
-        "data": ["hoenn"]
+        "region": "Hoenn",
+        "collection": []
     },
     {
         "dex": "0362",
         "nameJPN": "オニゴーリ",
         "nameENG": "Glalie",
-        "data": ["hoenn"]
+        "region": "Hoenn",
+        "collection": []
     },
     {
         "dex": "0362M",
         "nameJPN": "メガオニゴーリ",
         "nameENG": "Mega Glalie",
-        "data": ["hoenn", "mega"]
+        "region": "Hoenn",
+        "collection": ["mega"]
     },
     {
         "dex": "0363",
         "nameJPN": "タマザラシ",
         "nameENG": "Spheal",
-        "data": ["hoenn"]
+        "region": "Hoenn",
+        "collection": []
     },
     {
         "dex": "0364",
         "nameJPN": "トドグラー",
         "nameENG": "Sealeo",
-        "data": ["hoenn"]
+        "region": "Hoenn",
+        "collection": []
     },
     {
         "dex": "0365",
         "nameJPN": "トドゼルガ",
         "nameENG": "Walrein",
-        "data": ["hoenn"]
+        "region": "Hoenn",
+        "collection": []
     },
     {
         "dex": "0366",
         "nameJPN": "パールル",
         "nameENG": "Clamperl",
-        "data": ["hoenn"]
+        "region": "Hoenn",
+        "collection": []
     },
     {
         "dex": "0367",
         "nameJPN": "ハンテール",
         "nameENG": "Huntail",
-        "data": ["hoenn"]
+        "region": "Hoenn",
+        "collection": []
     },
     {
         "dex": "0368",
         "nameJPN": "サクラビス",
         "nameENG": "Gorebyss",
-        "data": ["hoenn"]
+        "region": "Hoenn",
+        "collection": []
     },
     {
         "dex": "0369",
         "nameJPN": "ジーランス",
         "nameENG": "Relicanth",
-        "data": ["hoenn"]
+        "region": "Hoenn",
+        "collection": []
     },
     {
         "dex": "0370",
         "nameJPN": "ラブカス",
         "nameENG": "Luvdisc",
-        "data": ["hoenn"]
+        "region": "Hoenn",
+        "collection": []
     },
     {
         "dex": "0371",
         "nameJPN": "タツベイ",
         "nameENG": "Bagon",
-        "data": ["hoenn"]
+        "region": "Hoenn",
+        "collection": []
     },
     {
         "dex": "0372",
         "nameJPN": "コモルー",
         "nameENG": "Shelgon",
-        "data": ["hoenn", "bs600"]
+        "region": "Hoenn",
+        "collection": ["bs600"]
     },
     {
         "dex": "0373",
         "nameJPN": "ボーマンダ",
         "nameENG": "Salamence",
-        "data": ["hoenn", "bs600"]
+        "region": "Hoenn",
+        "collection": ["bs600"]
     },
     {
         "dex": "0373M",
         "nameJPN": "メガボーマンダ",
         "nameENG": "Mega Salamence",
-        "data": ["hoenn", "mega", "bs600"]
+        "region": "Hoenn",
+        "collection": ["mega", "bs600"]
     },
     {
         "dex": "0374",
         "nameJPN": "ダンバル",
         "nameENG": "Beldum",
-        "data": ["hoenn"]
+        "region": "Hoenn",
+        "collection": []
     },
     {
         "dex": "0375",
         "nameJPN": "メタング",
         "nameENG": "Metang",
-        "data": ["hoenn", "bs600"]
+        "region": "Hoenn",
+        "collection": ["bs600"]
     },
     {
         "dex": "0376",
         "nameJPN": "メタグロス",
         "nameENG": "Metagross",
-        "data": ["hoenn", "bs600"]
+        "region": "Hoenn",
+        "collection": ["bs600"]
     },
     {
         "dex": "0376M",
         "nameJPN": "メガメタグロス",
         "nameENG": "Mega Metagross",
-        "data": ["hoenn", "mega", "bs600"]
+        "region": "Hoenn",
+        "collection": ["mega", "bs600"]
     },
     {
         "dex": "0377",
         "nameJPN": "レジロック",
         "nameENG": "Regirock",
-        "data": ["hoenn", "trio"]
+        "region": "Hoenn",
+        "collection": ["trio"]
     },
     {
         "dex": "0378",
         "nameJPN": "レジアイス",
         "nameENG": "Regice",
-        "data": ["hoenn", "trio"]
+        "region": "Hoenn",
+        "collection": ["trio"]
     },
     {
         "dex": "0379",
         "nameJPN": "レジスチル",
         "nameENG": "Registeel",
-        "data": ["hoenn", "trio"]
+        "region": "Hoenn",
+        "collection": ["trio"]
     },
     {
         "dex": "0380",
         "nameJPN": "ラティアス",
         "nameENG": "Latias",
-        "data": ["hoenn"]
+        "region": "Hoenn",
+        "collection": []
     },
     {
         "dex": "0380M",
         "nameJPN": "メガラティアス",
         "nameENG": "Mega Latias",
-        "data": ["hoenn", "mega"]
+        "region": "Hoenn",
+        "collection": ["mega"]
     },
     {
         "dex": "0381",
         "nameJPN": "ラティオス",
         "nameENG": "Latios",
-        "data": ["hoenn"]
+        "region": "Hoenn",
+        "collection": []
     },
     {
         "dex": "0381M",
         "nameJPN": "メガラティオス",
         "nameENG": "Mega Latios",
-        "data": ["hoenn", "mega"]
+        "region": "Hoenn",
+        "collection": ["mega"]
     },
     {
         "dex": "0382",
         "nameJPN": "カイオーガ",
         "nameENG": "Kyogre",
-        "data": ["hoenn", "legendary"]
+        "region": "Hoenn",
+        "collection": ["legendary"]
     },
     {
         "dex": "0382P",
         "nameJPN": "ゲンシカイオーガ",
         "nameENG": "Primal Kyogre",
-        "data": ["hoenn", "legendary", "mega"]
+        "region": "Hoenn",
+        "collection": ["legendary", "mega"]
     },
     {
         "dex": "0383",
         "nameJPN": "グラードン",
         "nameENG": "Groudon",
-        "data": ["hoenn", "legendary"]
+        "region": "Hoenn",
+        "collection": ["legendary"]
     },
     {
         "dex": "0383P",
         "nameJPN": "ゲンシグラードン",
         "nameENG": "Primal Groudon",
-        "data": ["hoenn", "legendary", "mega"]
+        "region": "Hoenn",
+        "collection": ["legendary", "mega"]
     },
     {
         "dex": "0384",
         "nameJPN": "レックウザ",
         "nameENG": "Rayquaza",
-        "data": ["hoenn", "legendary"]
+        "region": "Hoenn",
+        "collection": ["legendary"]
     },
     {
         "dex": "0384M",
         "nameJPN": "メガレックウザ",
         "nameENG": "Mega Rayquaza",
-        "data": ["hoenn", "legendary", "mega"]
+        "region": "Hoenn",
+        "collection": ["legendary", "mega"]
     },
     {
         "dex": "0385",
         "nameJPN": "ジラーチ",
         "nameENG": "Jirachi",
-        "data": ["hoenn", "mirage"]
+        "region": "Hoenn",
+        "collection": ["mythical"]
     },
     {
         "dex": "0386",
-        "nameJPN": "デオキシス",
-        "nameENG": "Deoxys Normal",
-        "data": ["hoenn", "mirage"]
-    },
-    {
-        "dex": "0386D",
-        "nameJPN": "",
-        "nameENG": "Deoxys Defense",
-        "data": ["hoenn", "mirage"]
+        "nameJPN": "デオキシス (ノーマル)",
+        "nameENG": "Deoxys (Normal)",
+        "region": "Hoenn",
+        "collection": ["mythical"]
     },
     {
         "dex": "0386A",
-        "nameJPN": "",
-        "nameENG": "Deoxys Attack",
-        "data": ["hoenn", "mirage"]
+        "nameJPN": "デオキシス (アタック)",
+        "nameENG": "Deoxys (Attack)",
+        "region": "Hoenn",
+        "collection": ["mythical"]
+    },
+    {
+        "dex": "0386D",
+        "nameJPN": "デオキシス (ディフェンス)",
+        "nameENG": "Deoxys (Defense)",
+        "region": "Hoenn",
+        "collection": ["mythical"]
     },
     {
         "dex": "0386S",
-        "nameJPN": "",
-        "nameENG": "Deoxys Speed",
-        "data": ["hoenn", "mirage"]
+        "nameJPN": "デオキシス (スピード)",
+        "nameENG": "Deoxys (Speed)",
+        "region": "Hoenn",
+        "collection": ["mythical"]
     },
     {
         "dex": "0387",
         "nameJPN": "ナエトル",
         "nameENG": "Turtwig",
-        "data": ["sinnoh", "starter"]
+        "region": "Sinnoh",
+        "collection": ["starter"]
     },
     {
         "dex": "0388",
         "nameJPN": "ハヤシガメ",
         "nameENG": "Grotle",
-        "data": ["sinnoh", "starter"]
+        "region": "Sinnoh",
+        "collection": ["starter"]
     },
     {
         "dex": "0389",
         "nameJPN": "ドダイトス",
         "nameENG": "Torterra",
-        "data": ["sinnoh", "starter"]
+        "region": "Sinnoh",
+        "collection": ["starter"]
     },
     {
         "dex": "0390",
         "nameJPN": "ヒコザル",
         "nameENG": "Chimchar",
-        "data": ["sinnoh", "starter"]
+        "region": "Sinnoh",
+        "collection": ["starter"]
     },
     {
         "dex": "0391",
         "nameJPN": "モウカザル",
         "nameENG": "Monferno",
-        "data": ["sinnoh", "starter"]
+        "region": "Sinnoh",
+        "collection": ["starter"]
     },
     {
         "dex": "0392",
         "nameJPN": "ゴウカザル",
         "nameENG": "Infernape",
-        "data": ["sinnoh", "starter"]
+        "region": "Sinnoh",
+        "collection": ["starter"]
     },
     {
         "dex": "0393",
         "nameJPN": "ポッチャマ",
         "nameENG": "Piplup",
-        "data": ["sinnoh", "starter"]
+        "region": "Sinnoh",
+        "collection": ["starter"]
     },
     {
         "dex": "0394",
         "nameJPN": "ポッタイシ",
         "nameENG": "Prinplup",
-        "data": ["sinnoh", "starter"]
+        "region": "Sinnoh",
+        "collection": ["starter"]
     },
     {
         "dex": "0395",
         "nameJPN": "エンペルト",
         "nameENG": "Empoleon",
-        "data": ["sinnoh", "starter"]
+        "region": "Sinnoh",
+        "collection": ["starter"]
     },
     {
         "dex": "0396",
         "nameJPN": "ムックル",
         "nameENG": "Starly",
-        "data": ["sinnoh"]
+        "region": "Sinnoh",
+        "collection": []
     },
     {
         "dex": "0397",
         "nameJPN": "ムクバード",
         "nameENG": "Staravia",
-        "data": ["sinnoh"]
+        "region": "Sinnoh",
+        "collection": []
     },
     {
         "dex": "0398",
         "nameJPN": "ムクホーク",
         "nameENG": "Staraptor",
-        "data": ["sinnoh"]
+        "region": "Sinnoh",
+        "collection": []
     },
     {
         "dex": "0399",
         "nameJPN": "ビッパ",
         "nameENG": "Bidoof",
-        "data": ["sinnoh"]
+        "region": "Sinnoh",
+        "collection": []
     },
     {
         "dex": "0400",
         "nameJPN": "ビーダル",
         "nameENG": "Bibarel",
-        "data": ["sinnoh"]
+        "region": "Sinnoh",
+        "collection": []
     },
     {
         "dex": "0401",
         "nameJPN": "コロボーシ",
         "nameENG": "Kricketot",
-        "data": ["sinnoh"]
+        "region": "Sinnoh",
+        "collection": []
     },
     {
         "dex": "0402",
         "nameJPN": "コロトック",
         "nameENG": "Kricketune",
-        "data": ["sinnoh"]
+        "region": "Sinnoh",
+        "collection": []
     },
     {
         "dex": "0403",
         "nameJPN": "コリンク",
         "nameENG": "Shinx",
-        "data": ["sinnoh"]
+        "region": "Sinnoh",
+        "collection": []
     },
     {
         "dex": "0404",
         "nameJPN": "ルクシオ",
         "nameENG": "Luxio",
-        "data": ["sinnoh"]
+        "region": "Sinnoh",
+        "collection": []
     },
     {
         "dex": "0405",
         "nameJPN": "レントラー",
         "nameENG": "Luxray",
-        "data": ["sinnoh"]
+        "region": "Sinnoh",
+        "collection": []
     },
     {
         "dex": "0406",
         "nameJPN": "スボミー",
         "nameENG": "Budew",
-        "data": ["sinnoh"]
+        "region": "Sinnoh",
+        "collection": []
     },
     {
         "dex": "0407",
         "nameJPN": "ロズレイド",
         "nameENG": "Roserade",
-        "data": ["sinnoh"]
+        "region": "Sinnoh",
+        "collection": []
     },
     {
         "dex": "0408",
         "nameJPN": "ズガイドス",
         "nameENG": "Cranidos",
-        "data": ["sinnoh"]
+        "region": "Sinnoh",
+        "collection": []
     },
     {
         "dex": "0409",
         "nameJPN": "ラムパルド",
         "nameENG": "Rampardos",
-        "data": ["sinnoh"]
+        "region": "Sinnoh",
+        "collection": []
     },
     {
         "dex": "0410",
         "nameJPN": "タテトプス",
         "nameENG": "Shieldon",
-        "data": ["sinnoh"]
+        "region": "Sinnoh",
+        "collection": []
     },
     {
         "dex": "0411",
         "nameJPN": "トリデプス",
         "nameENG": "Bastiodon",
-        "data": ["sinnoh"]
+        "region": "Sinnoh",
+        "collection": []
     },
     {
         "dex": "0412",
-        "nameJPN": "ミノムッチ",
-        "nameENG": "Burmy",
-        "data": ["sinnoh"]
+        "nameJPN": "ミノムッチ (くさきのミノ)",
+        "nameENG": "Burmy (Plant)",
+        "region": "Sinnoh",
+        "collection": []
     },
     {
         "dex": "0412G",
-        "nameJPN": "",
-        "nameENG": "",
-        "data": ["sinnoh"]
+        "nameJPN": "ミノムッチ (すなちのミノ)",
+        "nameENG": "Burmy (Sandy)",
+        "region": "Sinnoh",
+        "collection": []
     },
     {
         "dex": "0412S",
-        "nameJPN": "",
-        "nameENG": "",
-        "data": ["sinnoh"]
+        "nameJPN": "ミノムッチ (ゴミのミノ)",
+        "nameENG": "Burmy (Trash)",
+        "region": "Sinnoh",
+        "collection": []
     },
     {
         "dex": "0413",
-        "nameJPN": "ミノマダム",
-        "nameENG": "Wormadam",
-        "data": ["sinnoh"]
+        "nameJPN": "ミノマダム (くさきのミノ)",
+        "nameENG": "Wormadam (Plant)",
+        "region": "Sinnoh",
+        "collection": []
     },
     {
         "dex": "0413G",
-        "nameJPN": "",
-        "nameENG": "",
-        "data": ["sinnoh"]
+        "nameJPN": "ミノマダム (すなちのミノ)",
+        "nameENG": "Wormadam (Sandy)",
+        "region": "Sinnoh",
+        "collection": []
     },
     {
         "dex": "0413S",
-        "nameJPN": "",
-        "nameENG": "",
-        "data": ["sinnoh"]
+        "nameJPN": "ミノマダムチ (ゴミのミノ)",
+        "nameENG": "Wormadam (Trash)",
+        "region": "Sinnoh",
+        "collection": []
     },
     {
         "dex": "0414",
         "nameJPN": "ガーメイル",
         "nameENG": "Mothim",
-        "data": ["sinnoh"]
+        "region": "Sinnoh",
+        "collection": []
     },
     {
         "dex": "0415",
         "nameJPN": "ミツハニー",
         "nameENG": "Combee",
-        "data": ["sinnoh"]
+        "region": "Sinnoh",
+        "collection": []
     },
     {
         "dex": "0416",
         "nameJPN": "ビークイン",
         "nameENG": "Vespiquen",
-        "data": ["sinnoh"]
+        "region": "Sinnoh",
+        "collection": []
     },
     {
         "dex": "0417",
         "nameJPN": "パチリス",
         "nameENG": "Pachirisu",
-        "data": ["sinnoh"]
+        "region": "Sinnoh",
+        "collection": ["pikachu"]
     },
     {
         "dex": "0418",
         "nameJPN": "ブイゼル",
         "nameENG": "Buizel",
-        "data": ["sinnoh"]
+        "region": "Sinnoh",
+        "collection": []
     },
     {
         "dex": "0419",
         "nameJPN": "フローゼル",
         "nameENG": "Floatzel",
-        "data": ["sinnoh"]
+        "region": "Sinnoh",
+        "collection": []
     },
     {
         "dex": "0420",
         "nameJPN": "チェリンボ",
         "nameENG": "Cherubi",
-        "data": ["sinnoh"]
+        "region": "Sinnoh",
+        "collection": []
     },
     {
         "dex": "0421",
-        "nameJPN": "チェリム",
-        "nameENG": "Cherrim",
-        "data": ["sinnoh"]
+        "nameJPN": "チェリム (ネガフォルム)",
+        "nameENG": "Cherrim (Overcast)",
+        "region": "Sinnoh",
+        "collection": []
     },
     {
         "dex": "0421S",
-        "nameJPN": "",
-        "nameENG": "",
-        "data": ["sinnoh"]
+        "nameJPN": "チェリム (ポジフォルム)",
+        "nameENG": "Cherrim (Sunshine)",
+        "region": "Sinnoh",
+        "collection": []
     },
     {
         "dex": "0422",
-        "nameJPN": "カラナクシ",
-        "nameENG": "Shellos",
-        "data": ["sinnoh"]
+        "nameJPN": "カラナクシ (にしのうみ)",
+        "nameENG": "Shellos (West Sea)",
+        "region": "Sinnoh",
+        "collection": []
     },
     {
         "dex": "0422E",
-        "nameJPN": "",
-        "nameENG": "",
-        "data": ["sinnoh"]
+        "nameJPN": "カラナクシ (ひがしのうみ)",
+        "nameENG": "Shellos (East Sea)",
+        "region": "Sinnoh",
+        "collection": []
     },
     {
         "dex": "0423",
-        "nameJPN": "トリトドン",
-        "nameENG": "Gastrodon",
-        "data": ["sinnoh"]
+        "nameJPN": "トリトドン (にしのうみ)",
+        "nameENG": "Gastrodon (West Sea)",
+        "region": "Sinnoh",
+        "collection": []
     },
     {
         "dex": "0423E",
-        "nameJPN": "",
-        "nameENG": "",
-        "data": ["sinnoh"]
+        "nameJPN": "トリトドン (ひがしのうみ)",
+        "nameENG": "Gastrodon (East Sea)",
+        "region": "Sinnoh",
+        "collection": []
     },
     {
         "dex": "0424",
         "nameJPN": "エテボース",
         "nameENG": "Ambipom",
-        "data": ["sinnoh"]
+        "region": "Sinnoh",
+        "collection": []
     },
     {
         "dex": "0425",
         "nameJPN": "フワンテ",
         "nameENG": "Drifloon",
-        "data": ["sinnoh"]
+        "region": "Sinnoh",
+        "collection": []
     },
     {
         "dex": "0426",
         "nameJPN": "フワライド",
         "nameENG": "Drifblim",
-        "data": ["sinnoh"]
+        "region": "Sinnoh",
+        "collection": []
     },
     {
         "dex": "0427",
         "nameJPN": "ミミロル",
         "nameENG": "Buneary",
-        "data": ["sinnoh"]
+        "region": "Sinnoh",
+        "collection": []
     },
     {
         "dex": "0428",
         "nameJPN": "ミミロップ",
         "nameENG": "Lopunny",
-        "data": ["sinnoh"]
+        "region": "Sinnoh",
+        "collection": []
     },
     {
         "dex": "0428M",
         "nameJPN": "メガミミロップ",
         "nameENG": "Mega Lopunny",
-        "data": ["sinnoh", "mega"]
+        "region": "Sinnoh",
+        "collection": ["mega"]
     },
     {
         "dex": "0429",
         "nameJPN": "ムウマージ",
         "nameENG": "Mismagius",
-        "data": ["sinnoh"]
+        "region": "Sinnoh",
+        "collection": []
     },
     {
         "dex": "0430",
         "nameJPN": "ドンカラス",
         "nameENG": "Honchkrow",
-        "data": ["sinnoh"]
+        "region": "Sinnoh",
+        "collection": []
     },
     {
         "dex": "0431",
         "nameJPN": "ニャルマー",
         "nameENG": "Glameow",
-        "data": ["sinnoh"]
+        "region": "Sinnoh",
+        "collection": []
     },
     {
         "dex": "0432",
         "nameJPN": "ブニャット",
         "nameENG": "Purugly",
-        "data": ["sinnoh"]
+        "region": "Sinnoh",
+        "collection": []
     },
     {
         "dex": "0433",
         "nameJPN": "リーシャン",
         "nameENG": "Chingling",
-        "data": ["sinnoh"]
+        "region": "Sinnoh",
+        "collection": []
     },
     {
         "dex": "0434",
         "nameJPN": "スカンプー",
         "nameENG": "Stunky",
-        "data": ["sinnoh"]
+        "region": "Sinnoh",
+        "collection": []
     },
     {
         "dex": "0435",
         "nameJPN": "スカタンク",
         "nameENG": "Skuntank",
-        "data": ["sinnoh"]
+        "region": "Sinnoh",
+        "collection": []
     },
     {
         "dex": "0436",
         "nameJPN": "ドーミラー",
         "nameENG": "Bronzor",
-        "data": ["sinnoh"]
+        "region": "Sinnoh",
+        "collection": []
     },
     {
         "dex": "0437",
         "nameJPN": "ドータクン",
         "nameENG": "Bronzong",
-        "data": ["sinnoh"]
+        "region": "Sinnoh",
+        "collection": []
     },
     {
         "dex": "0438",
         "nameJPN": "ウソハチ",
         "nameENG": "Bonsly",
-        "data": ["sinnoh"]
+        "region": "Sinnoh",
+        "collection": []
     },
     {
         "dex": "0439",
         "nameJPN": "マネネ",
         "nameENG": "Mime",
-        "data": ["sinnoh"]
+        "region": "Sinnoh",
+        "collection": []
     },
     {
         "dex": "0440",
         "nameJPN": "ピンプク",
         "nameENG": "Happiny",
-        "data": ["sinnoh"]
+        "region": "Sinnoh",
+        "collection": []
     },
     {
         "dex": "0441",
         "nameJPN": "ペラップ",
         "nameENG": "Chatot",
-        "data": ["sinnoh"]
+        "region": "Sinnoh",
+        "collection": []
     },
     {
         "dex": "0442",
         "nameJPN": "ミカルゲ",
         "nameENG": "Spiritomb",
-        "data": ["sinnoh"]
+        "region": "Sinnoh",
+        "collection": []
     },
     {
         "dex": "0443",
         "nameJPN": "フカマル",
         "nameENG": "Gible",
-        "data": ["sinnoh"]
+        "region": "Sinnoh",
+        "collection": []
     },
     {
         "dex": "0444",
         "nameJPN": "ガバイト",
         "nameENG": "Gabite",
-        "data": ["sinnoh", "bs600"]
+        "region": "Sinnoh",
+        "collection": ["bs600"]
     },
     {
         "dex": "0445",
         "nameJPN": "ガブリアス",
         "nameENG": "Garchomp",
-        "data": ["sinnoh", "bs600"]
+        "region": "Sinnoh",
+        "collection": ["bs600"]
     },
     {
         "dex": "0445M",
         "nameJPN": "メガガブリアス",
         "nameENG": "Mega Garchomp",
-        "data": ["sinnoh", "mega", "bs600"]
+        "region": "Sinnoh",
+        "collection": ["mega", "bs600"]
     },
     {
         "dex": "0446",
         "nameJPN": "ゴンベ",
         "nameENG": "Munchlax",
-        "data": ["sinnoh"]
+        "region": "Sinnoh",
+        "collection": []
     },
     {
         "dex": "0447",
         "nameJPN": "リオル",
         "nameENG": "Riolu",
-        "data": ["sinnoh"]
+        "region": "Sinnoh",
+        "collection": []
     },
     {
         "dex": "0448",
         "nameJPN": "ルカリオ",
         "nameENG": "Lucario",
-        "data": ["sinnoh"]
+        "region": "Sinnoh",
+        "collection": []
     },
     {
         "dex": "0448M",
         "nameJPN": "メガルカリオ",
         "nameENG": "Mega Lucario",
-        "data": ["sinnoh", "mega"]
+        "region": "Sinnoh",
+        "collection": ["mega"]
     },
     {
         "dex": "0449",
         "nameJPN": "ヒポポタス",
         "nameENG": "Hippopotas",
-        "data": ["sinnoh"]
+        "region": "Sinnoh",
+        "collection": []
     },
     {
         "dex": "0450",
         "nameJPN": "カバルドン",
         "nameENG": "Hippowdon",
-        "data": ["sinnoh"]
+        "region": "Sinnoh",
+        "collection": []
     },
     {
         "dex": "0451",
         "nameJPN": "スコルピ",
         "nameENG": "Skorupi",
-        "data": ["sinnoh"]
+        "region": "Sinnoh",
+        "collection": []
     },
     {
         "dex": "0452",
         "nameJPN": "ドラピオン",
         "nameENG": "Drapion",
-        "data": ["sinnoh"]
+        "region": "Sinnoh",
+        "collection": []
     },
     {
         "dex": "0453",
         "nameJPN": "グレッグル",
         "nameENG": "Croagunk",
-        "data": ["sinnoh"]
+        "region": "Sinnoh",
+        "collection": []
     },
     {
         "dex": "0454",
         "nameJPN": "ドクロッグ",
         "nameENG": "Toxicroak",
-        "data": ["sinnoh"]
+        "region": "Sinnoh",
+        "collection": []
     },
     {
         "dex": "0455",
         "nameJPN": "マスキッパ",
         "nameENG": "Carnivine",
-        "data": ["sinnoh"]
+        "region": "Sinnoh",
+        "collection": []
     },
     {
         "dex": "0456",
         "nameJPN": "ケイコウオ",
         "nameENG": "Finneon",
-        "data": ["sinnoh"]
+        "region": "Sinnoh",
+        "collection": []
     },
     {
         "dex": "0457",
         "nameJPN": "ネオラント",
         "nameENG": "Lumineon",
-        "data": ["sinnoh"]
+        "region": "Sinnoh",
+        "collection": []
     },
     {
         "dex": "0458",
         "nameJPN": "タマンタ",
         "nameENG": "Mantyke",
-        "data": ["sinnoh"]
+        "region": "Sinnoh",
+        "collection": []
     },
     {
         "dex": "0459",
         "nameJPN": "ユキカブリ",
         "nameENG": "Snover",
-        "data": ["sinnoh"]
+        "region": "Sinnoh",
+        "collection": []
     },
     {
         "dex": "0460",
         "nameJPN": "ユキノオー",
         "nameENG": "Abomasnow",
-        "data": ["sinnoh"]
+        "region": "Sinnoh",
+        "collection": []
     },
     {
         "dex": "0460M",
         "nameJPN": "メガユキノオー",
         "nameENG": "Mega Abomasnow",
-        "data": ["sinnoh", "mega"]
+        "region": "Sinnoh",
+        "collection": ["mega"]
     },
     {
         "dex": "0461",
         "nameJPN": "マニューラ",
         "nameENG": "Weavile",
-        "data": ["sinnoh"]
+        "region": "Sinnoh",
+        "collection": []
     },
     {
         "dex": "0462",
         "nameJPN": "ジバコイル",
         "nameENG": "Magnezone",
-        "data": ["sinnoh"]
+        "region": "Sinnoh",
+        "collection": []
     },
     {
         "dex": "0463",
         "nameJPN": "ベロベルト",
         "nameENG": "Lickilicky",
-        "data": ["sinnoh"]
+        "region": "Sinnoh",
+        "collection": []
     },
     {
         "dex": "0464",
         "nameJPN": "ドサイドン",
         "nameENG": "Rhyperior",
-        "data": ["sinnoh"]
+        "region": "Sinnoh",
+        "collection": []
     },
     {
         "dex": "0465",
         "nameJPN": "モジャンボ",
         "nameENG": "Tangrowth",
-        "data": ["sinnoh"]
+        "region": "Sinnoh",
+        "collection": []
     },
     {
         "dex": "0466",
         "nameJPN": "エレキブル",
         "nameENG": "Electivire",
-        "data": ["sinnoh"]
+        "region": "Sinnoh",
+        "collection": []
     },
     {
         "dex": "0467",
         "nameJPN": "ブーバーン",
         "nameENG": "Magmortar",
-        "data": ["sinnoh"]
+        "region": "Sinnoh",
+        "collection": []
     },
     {
         "dex": "0468",
         "nameJPN": "トゲキッス",
         "nameENG": "Togekiss",
-        "data": ["sinnoh"]
+        "region": "Sinnoh",
+        "collection": []
     },
     {
         "dex": "0469",
         "nameJPN": "メガヤンマ",
         "nameENG": "Yanmega",
-        "data": ["sinnoh"]
+        "region": "Sinnoh",
+        "collection": []
     },
     {
         "dex": "0470",
         "nameJPN": "リーフィア",
         "nameENG": "Leafeon",
-        "data": ["sinnoh", "eevee"]
+        "region": "Sinnoh",
+        "collection": ["eevee"]
     },
     {
         "dex": "0471",
         "nameJPN": "グレイシア",
         "nameENG": "Glaceon",
-        "data": ["sinnoh", "eevee"]
+        "region": "Sinnoh",
+        "collection": ["eevee"]
     },
     {
         "dex": "0472",
         "nameJPN": "グライオン",
         "nameENG": "Gliscor",
-        "data": ["sinnoh"]
+        "region": "Sinnoh",
+        "collection": []
     },
     {
         "dex": "0473",
         "nameJPN": "マンムー",
         "nameENG": "Mamoswine",
-        "data": ["sinnoh"]
+        "region": "Sinnoh",
+        "collection": []
     },
     {
         "dex": "0474",
         "nameJPN": "ポリゴンＺ",
         "nameENG": "Porygon-Z",
-        "data": ["sinnoh"]
+        "region": "Sinnoh",
+        "collection": []
     },
     {
         "dex": "0475",
         "nameJPN": "エルレイド",
         "nameENG": "Gallade",
-        "data": ["sinnoh"]
+        "region": "Sinnoh",
+        "collection": []
     },
     {
         "dex": "0475M",
         "nameJPN": "メガエルレイド",
         "nameENG": "Mega Gallade",
-        "data": ["sinnoh", "mega"]
+        "region": "Sinnoh",
+        "collection": ["mega"]
     },
     {
         "dex": "0476",
         "nameJPN": "ダイノーズ",
         "nameENG": "Probopass",
-        "data": ["sinnoh"]
+        "region": "Sinnoh",
+        "collection": []
     },
     {
         "dex": "0477",
         "nameJPN": "ヨノワール",
         "nameENG": "Dusknoir",
-        "data": ["sinnoh"]
+        "region": "Sinnoh",
+        "collection": []
     },
     {
         "dex": "0478",
         "nameJPN": "ユキメノコ",
         "nameENG": "Froslass",
-        "data": ["sinnoh"]
+        "region": "Sinnoh",
+        "collection": []
     },
     {
         "dex": "0479",
         "nameJPN": "ロトム",
         "nameENG": "Rotom",
-        "data": ["sinnoh"]
+        "region": "Sinnoh",
+        "collection": []
     },
     {
-        "dex": "0479O",
-        "nameJPN": "",
-        "nameENG": "",
-        "data": ["sinnoh"]
+        "dex": "0479H",
+        "nameJPN": "ロトム (ヒート)",
+        "nameENG": "Rotom (Heat)",
+        "region": "Sinnoh",
+        "collection": []
     },
     {
         "dex": "0479W",
-        "nameJPN": "",
-        "nameENG": "",
-        "data": ["sinnoh"]
-    },
-    {
-        "dex": "0479R",
-        "nameJPN": "",
-        "nameENG": "",
-        "data": ["sinnoh"]
+        "nameJPN": "ロトム (ウォッシュ)",
+        "nameENG": "Rotom (Wash)",
+        "region": "Sinnoh",
+        "collection": []
     },
     {
         "dex": "0479F",
-        "nameJPN": "",
-        "nameENG": "",
-        "data": ["sinnoh"]
+        "nameJPN": "ロトム (フロスト)",
+        "nameENG": "Rotom (Frost)",
+        "region": "Sinnoh",
+        "collection": []
     },
     {
-        "dex": "0479L",
-        "nameJPN": "",
-        "nameENG": "",
-        "data": ["sinnoh"]
+        "dex": "0479S",
+        "nameJPN": "ロトム (スピン)",
+        "nameENG": "Rotom (Fan)",
+        "region": "Sinnoh",
+        "collection": []
+    },
+    {
+        "dex": "0479C",
+        "nameJPN": "ロトム (カット)",
+        "nameENG": "Rotom (Mow)",
+        "region": "Sinnoh",
+        "collection": []
     },
     {
         "dex": "0480",
         "nameJPN": "ユクシー",
         "nameENG": "Uxie",
-        "data": ["sinnoh", "trio"]
+        "region": "Sinnoh",
+        "collection": ["trio"]
     },
     {
         "dex": "0481",
         "nameJPN": "エムリット",
         "nameENG": "Mesprit",
-        "data": ["sinnoh", "trio"]
+        "region": "Sinnoh",
+        "collection": ["trio"]
     },
     {
         "dex": "0482",
         "nameJPN": "アグノム",
         "nameENG": "Azelf",
-        "data": ["sinnoh", "trio"]
+        "region": "Sinnoh",
+        "collection": ["trio"]
     },
     {
         "dex": "0483",
         "nameJPN": "ディアルガ",
         "nameENG": "Dialga",
-        "data": ["sinnoh", "legendary"]
+        "region": "Sinnoh",
+        "collection": ["legendary"]
     },
     {
         "dex": "0484",
         "nameJPN": "パルキア",
         "nameENG": "Palkia",
-        "data": ["sinnoh", "legendary"]
+        "region": "Sinnoh",
+        "collection": ["legendary"]
     },
     {
         "dex": "0485",
         "nameJPN": "ヒードラン",
         "nameENG": "Heatran",
-        "data": ["sinnoh"]
+        "region": "Sinnoh",
+        "collection": []
     },
     {
         "dex": "0486",
         "nameJPN": "レジギガス",
         "nameENG": "Regigigas",
-        "data": ["sinnoh"]
+        "region": "Sinnoh",
+        "collection": []
     },
     {
         "dex": "0487",
-        "nameJPN": "ギラティナ",
-        "nameENG": "Giratina",
-        "data": ["sinnoh", "legendary"]
+        "nameJPN": "ギラティナ (アナザー)",
+        "nameENG": "Giratina (Altered)",
+        "region": "Sinnoh",
+        "collection": ["legendary"]
     },
     {
         "dex": "0487O",
-        "nameJPN": "",
-        "nameENG": "",
-        "data": ["sinnoh"]
+        "nameJPN": "ギラティナ (オリジン)",
+        "nameENG": "Giratina (Origin)",
+        "region": "Sinnoh",
+        "collection": []
     },
     {
         "dex": "0488",
         "nameJPN": "クレセリア",
         "nameENG": "Cresselia",
-        "data": ["sinnoh"]
+        "region": "Sinnoh",
+        "collection": []
     },
     {
         "dex": "0489",
         "nameJPN": "フィオネ",
         "nameENG": "Phione",
-        "data": ["sinnoh", "mirage"]
+        "region": "Sinnoh",
+        "collection": ["mythical"]
     },
     {
         "dex": "0490",
         "nameJPN": "マナフィ",
         "nameENG": "Manaphy",
-        "data": ["sinnoh", "mirage"]
+        "region": "Sinnoh",
+        "collection": ["mythical"]
     },
     {
         "dex": "0491",
         "nameJPN": "ダークライ",
         "nameENG": "Darkrai",
-        "data": ["sinnoh", "mirage"]
+        "region": "Sinnoh",
+        "collection": ["mythical"]
     },
     {
         "dex": "0492",
-        "nameJPN": "シェイミ",
-        "nameENG": "Shaymin",
-        "data": ["sinnoh", "mirage"]
+        "nameJPN": "シェイミ (ランド)",
+        "nameENG": "Shaymin (Land)",
+        "region": "Sinnoh",
+        "collection": ["mythical"]
     },
     {
         "dex": "0492S",
-        "nameJPN": "",
-        "nameENG": "",
-        "data": ["sinnoh", "mirage"]
+        "nameJPN": "シェイミ (スカイ)",
+        "nameENG": "Shaymin (Sky)",
+        "region": "Sinnoh",
+        "collection": ["mythical"]
     },
     {
         "dex": "0493",
         "nameJPN": "アルセウス",
         "nameENG": "Arceus",
-        "data": ["sinnoh", "mirage"]
+        "region": "Sinnoh",
+        "collection": ["mythical"]
     },
     {
         "dex": "0494",
         "nameJPN": "ビクティニ",
         "nameENG": "Victini",
-        "data": ["unova", "mirage"]
+        "region": "Unova",
+        "collection": ["mythical"]
     },
     {
         "dex": "0495",
         "nameJPN": "ツタージャ",
         "nameENG": "Snivy",
-        "data": ["unova", "starter"]
+        "region": "Unova",
+        "collection": ["starter"]
     },
     {
         "dex": "0496",
         "nameJPN": "ジャノビー",
         "nameENG": "Servine",
-        "data": ["unova", "starter"]
+        "region": "Unova",
+        "collection": ["starter"]
     },
     {
         "dex": "0497",
         "nameJPN": "ジャローダ",
         "nameENG": "Serperior",
-        "data": ["unova", "starter"]
+        "region": "Unova",
+        "collection": ["starter"]
     },
     {
         "dex": "0498",
         "nameJPN": "ポカブ",
         "nameENG": "Tepig",
-        "data": ["unova", "starter"]
+        "region": "Unova",
+        "collection": ["starter"]
     },
     {
         "dex": "0499",
         "nameJPN": "チャオブー",
         "nameENG": "Pignite",
-        "data": ["unova", "starter"]
+        "region": "Unova",
+        "collection": ["starter"]
     },
     {
         "dex": "0500",
         "nameJPN": "エンブオー",
         "nameENG": "Emboar",
-        "data": ["unova", "starter"]
+        "region": "Unova",
+        "collection": ["starter"]
     },
     {
         "dex": "0501",
         "nameJPN": "ミジュマル",
         "nameENG": "Oshawott",
-        "data": ["unova", "starter"]
+        "region": "Unova",
+        "collection": ["starter"]
     },
     {
         "dex": "0502",
         "nameJPN": "フタチマル",
         "nameENG": "Dewott",
-        "data": ["unova", "starter"]
+        "region": "Unova",
+        "collection": ["starter"]
     },
     {
         "dex": "0503",
         "nameJPN": "ダイケンキ",
         "nameENG": "Samurott",
-        "data": ["unova", "starter"]
+        "region": "Unova",
+        "collection": ["starter"]
     },
     {
         "dex": "0504",
         "nameJPN": "ミネズミ",
         "nameENG": "Patrat",
-        "data": ["unova"]
+        "region": "Unova",
+        "collection": []
     },
     {
         "dex": "0505",
         "nameJPN": "ミルホッグ",
         "nameENG": "Watchog",
-        "data": ["unova"]
+        "region": "Unova",
+        "collection": []
     },
     {
         "dex": "0506",
         "nameJPN": "ヨーテリー",
         "nameENG": "Lillipup",
-        "data": ["unova"]
+        "region": "Unova",
+        "collection": []
     },
     {
         "dex": "0507",
         "nameJPN": "ハーデリア",
         "nameENG": "Herdier",
-        "data": ["unova"]
+        "region": "Unova",
+        "collection": []
     },
     {
         "dex": "0508",
         "nameJPN": "ムーランド",
         "nameENG": "Stoutland",
-        "data": ["unova"]
+        "region": "Unova",
+        "collection": []
     },
     {
         "dex": "0509",
         "nameJPN": "チョロネコ",
         "nameENG": "Purrloin",
-        "data": ["unova"]
+        "region": "Unova",
+        "collection": []
     },
     {
         "dex": "0510",
         "nameJPN": "レパルダス",
         "nameENG": "Liepard",
-        "data": ["unova"]
+        "region": "Unova",
+        "collection": []
     },
     {
         "dex": "0511",
         "nameJPN": "ヤナップ",
         "nameENG": "Pansage",
-        "data": ["unova"]
+        "region": "Unova",
+        "collection": []
     },
     {
         "dex": "0512",
         "nameJPN": "ヤナッキー",
         "nameENG": "Simisage",
-        "data": ["unova"]
+        "region": "Unova",
+        "collection": []
     },
     {
         "dex": "0513",
         "nameJPN": "バオップ",
         "nameENG": "Pansear",
-        "data": ["unova"]
+        "region": "Unova",
+        "collection": []
     },
     {
         "dex": "0514",
         "nameJPN": "バオッキー",
         "nameENG": "Simisear",
-        "data": ["unova"]
+        "region": "Unova",
+        "collection": []
     },
     {
         "dex": "0515",
         "nameJPN": "ヒヤップ",
         "nameENG": "Panpour",
-        "data": ["unova"]
+        "region": "Unova",
+        "collection": []
     },
     {
         "dex": "0516",
         "nameJPN": "ヒヤッキー",
         "nameENG": "Simipour",
-        "data": ["unova"]
+        "region": "Unova",
+        "collection": []
     },
     {
         "dex": "0517",
         "nameJPN": "ムンナ",
         "nameENG": "Munna",
-        "data": ["unova"]
+        "region": "Unova",
+        "collection": []
     },
     {
         "dex": "0518",
         "nameJPN": "ムシャーナ",
         "nameENG": "Musharna",
-        "data": ["unova"]
+        "region": "Unova",
+        "collection": []
     },
     {
         "dex": "0519",
         "nameJPN": "マメパト",
         "nameENG": "Pidove",
-        "data": ["unova"]
+        "region": "Unova",
+        "collection": []
     },
     {
         "dex": "0520",
         "nameJPN": "ハトーボー",
         "nameENG": "Tranquill",
-        "data": ["unova"]
+        "region": "Unova",
+        "collection": []
     },
     {
         "dex": "0521",
-        "nameJPN": "ケンホロウ",
-        "nameENG": "Unfezant M",
-        "data": ["unova"]
+        "nameJPN": "ケンホロウ (♂)",
+        "nameENG": "Unfezant (M)",
+        "region": "Unova",
+        "collection": []
     },
     {
         "dex": "0521F",
-        "nameJPN": "",
-        "nameENG": "Unfezant F",
-        "data": ["unova"]
+        "nameJPN": "ケンホロウ (♀)",
+        "nameENG": "Unfezant (F)",
+        "region": "Unova",
+        "collection": []
     },
     {
         "dex": "0522",
         "nameJPN": "シママ",
         "nameENG": "Blitzle",
-        "data": ["unova"]
+        "region": "Unova",
+        "collection": []
     },
     {
         "dex": "0523",
         "nameJPN": "ゼブライカ",
         "nameENG": "Zebstrika",
-        "data": ["unova"]
+        "region": "Unova",
+        "collection": []
     },
     {
         "dex": "0524",
         "nameJPN": "ダンゴロ",
         "nameENG": "Roggenrola",
-        "data": ["unova"]
+        "region": "Unova",
+        "collection": []
     },
     {
         "dex": "0525",
         "nameJPN": "ガントル",
         "nameENG": "Boldore",
-        "data": ["unova"]
+        "region": "Unova",
+        "collection": []
     },
     {
         "dex": "0526",
         "nameJPN": "ギガイアス",
         "nameENG": "Gigalith",
-        "data": ["unova"]
+        "region": "Unova",
+        "collection": []
     },
     {
         "dex": "0527",
         "nameJPN": "コロモリ",
         "nameENG": "Woobat",
-        "data": ["unova"]
+        "region": "Unova",
+        "collection": []
     },
     {
         "dex": "0528",
         "nameJPN": "ココロモリ",
         "nameENG": "Swoobat",
-        "data": ["unova"]
+        "region": "Unova",
+        "collection": []
     },
     {
         "dex": "0529",
         "nameJPN": "モグリュー",
         "nameENG": "Drilbur",
-        "data": ["unova"]
+        "region": "Unova",
+        "collection": []
     },
     {
         "dex": "0530",
         "nameJPN": "ドリュウズ",
         "nameENG": "Excadrill",
-        "data": ["unova"]
+        "region": "Unova",
+        "collection": []
     },
     {
         "dex": "0531",
         "nameJPN": "タブンネ",
         "nameENG": "Audino",
-        "data": ["unova"]
+        "region": "Unova",
+        "collection": []
     },
     {
         "dex": "0531M",
         "nameJPN": "メガタブンネ",
         "nameENG": "Mega Audino",
-        "data": ["unova mega"]
+        "region": "Unova",
+        "collection": ["mega"]
     },
     {
         "dex": "0532",
         "nameJPN": "ドッコラー",
         "nameENG": "Timburr",
-        "data": ["unova"]
+        "region": "Unova",
+        "collection": []
     },
     {
         "dex": "0533",
         "nameJPN": "ドテッコツ",
         "nameENG": "Gurdurr",
-        "data": ["unova"]
+        "region": "Unova",
+        "collection": []
     },
     {
         "dex": "0534",
         "nameJPN": "ローブシン",
         "nameENG": "Conkeldurr",
-        "data": ["unova"]
+        "region": "Unova",
+        "collection": []
     },
     {
         "dex": "0535",
         "nameJPN": "オタマロ",
         "nameENG": "Tympole",
-        "data": ["unova"]
+        "region": "Unova",
+        "collection": []
     },
     {
         "dex": "0536",
         "nameJPN": "ガマガル",
         "nameENG": "Palpitoad",
-        "data": ["unova"]
+        "region": "Unova",
+        "collection": []
     },
     {
         "dex": "0537",
         "nameJPN": "ガマゲロゲ",
         "nameENG": "Seismitoad",
-        "data": ["unova"]
+        "region": "Unova",
+        "collection": []
     },
     {
         "dex": "0538",
         "nameJPN": "ナゲキ",
         "nameENG": "Throh",
-        "data": ["unova"]
+        "region": "Unova",
+        "collection": []
     },
     {
         "dex": "0539",
         "nameJPN": "ダゲキ",
         "nameENG": "Sawk",
-        "data": ["unova"]
+        "region": "Unova",
+        "collection": []
     },
     {
         "dex": "0540",
         "nameJPN": "クルミル",
         "nameENG": "Sewaddle",
-        "data": ["unova"]
+        "region": "Unova",
+        "collection": []
     },
     {
         "dex": "0541",
         "nameJPN": "クルマユ",
         "nameENG": "Swadloon",
-        "data": ["unova"]
+        "region": "Unova",
+        "collection": []
     },
     {
         "dex": "0542",
         "nameJPN": "ハハコモリ",
         "nameENG": "Leavanny",
-        "data": ["unova"]
+        "region": "Unova",
+        "collection": []
     },
     {
         "dex": "0543",
         "nameJPN": "フシデ",
         "nameENG": "Venipede",
-        "data": ["unova"]
+        "region": "Unova",
+        "collection": []
     },
     {
         "dex": "0544",
         "nameJPN": "ホイーガ",
         "nameENG": "Whirlipede",
-        "data": ["unova"]
+        "region": "Unova",
+        "collection": []
     },
     {
         "dex": "0545",
         "nameJPN": "ペンドラー",
         "nameENG": "Scolipede",
-        "data": ["unova"]
+        "region": "Unova",
+        "collection": []
     },
     {
         "dex": "0546",
         "nameJPN": "モンメン",
         "nameENG": "Cottonee",
-        "data": ["unova"]
+        "region": "Unova",
+        "collection": []
     },
     {
         "dex": "0547",
         "nameJPN": "エルフーン",
         "nameENG": "Whimsicott",
-        "data": ["unova"]
+        "region": "Unova",
+        "collection": []
     },
     {
         "dex": "0548",
         "nameJPN": "チュリネ",
         "nameENG": "Petilil",
-        "data": ["unova"]
+        "region": "Unova",
+        "collection": []
     },
     {
         "dex": "0549",
         "nameJPN": "ドレディア",
         "nameENG": "Lilligant",
-        "data": ["unova"]
+        "region": "Unova",
+        "collection": []
     },
     {
         "dex": "0550",
-        "nameJPN": "バスラオ",
-        "nameENG": "Basculin",
-        "data": ["unova"]
+        "nameJPN": "バスラオ (あかすじ)",
+        "nameENG": "Basculin (Red-Striped)",
+        "region": "Unova",
+        "collection": []
     },
     {
         "dex": "0550B",
-        "nameJPN": "",
-        "nameENG": "",
-        "data": ["unova"]
+        "nameJPN": "バスラオ (あおすじ)",
+        "nameENG": "Basculin (Blue-Striped)",
+        "region": "Unova",
+        "collection": []
     },
     {
         "dex": "0551",
         "nameJPN": "メグロコ",
         "nameENG": "Sandile",
-        "data": ["unova"]
+        "region": "Unova",
+        "collection": []
     },
     {
         "dex": "0552",
         "nameJPN": "ワルビル",
         "nameENG": "Krokorok",
-        "data": ["unova"]
+        "region": "Unova",
+        "collection": []
     },
     {
         "dex": "0553",
         "nameJPN": "ワルビアル",
         "nameENG": "Krookodile",
-        "data": ["unova"]
+        "region": "Unova",
+        "collection": []
     },
     {
         "dex": "0554",
         "nameJPN": "ダルマッカ",
         "nameENG": "Darumaka",
-        "data": ["unova"]
+        "region": "Unova",
+        "collection": []
     },
     {
         "dex": "0555",
-        "nameJPN": "ヒヒダルマ",
-        "nameENG": "Darmanitan",
-        "data": ["unova"]
+        "nameJPN": "ヒヒダルマ (ノーマル)",
+        "nameENG": "Darmanitan (Standard)",
+        "region": "Unova",
+        "collection": []
     },
     {
         "dex": "0555Z",
-        "nameJPN": "",
-        "nameENG": "",
-        "data": ["unova"]
+        "nameJPN": "ヒヒダルマ (ダルマ)",
+        "nameENG": "Darmanitan (Zen)",
+        "region": "Unova",
+        "collection": []
     },
     {
         "dex": "0556",
         "nameJPN": "マラカッチ",
         "nameENG": "Maractus",
-        "data": ["unova"]
+        "region": "Unova",
+        "collection": []
     },
     {
         "dex": "0557",
         "nameJPN": "イシズマイ",
         "nameENG": "Dwebble",
-        "data": ["unova"]
+        "region": "Unova",
+        "collection": []
     },
     {
         "dex": "0558",
         "nameJPN": "イワパレス",
         "nameENG": "Crustle",
-        "data": ["unova"]
+        "region": "Unova",
+        "collection": []
     },
     {
         "dex": "0559",
         "nameJPN": "ズルッグ",
         "nameENG": "Scraggy",
-        "data": ["unova"]
+        "region": "Unova",
+        "collection": []
     },
     {
         "dex": "0560",
         "nameJPN": "ズルズキン",
         "nameENG": "Scrafty",
-        "data": ["unova"]
+        "region": "Unova",
+        "collection": []
     },
     {
         "dex": "0561",
         "nameJPN": "シンボラー",
         "nameENG": "Sigilyph",
-        "data": ["unova"]
+        "region": "Unova",
+        "collection": []
     },
     {
         "dex": "0562",
         "nameJPN": "デスマス",
         "nameENG": "Yamask",
-        "data": ["unova"]
+        "region": "Unova",
+        "collection": []
     },
     {
         "dex": "0563",
         "nameJPN": "デスカーン",
         "nameENG": "Cofagrigus",
-        "data": ["unova"]
+        "region": "Unova",
+        "collection": []
     },
     {
         "dex": "0564",
         "nameJPN": "プロトーガ",
         "nameENG": "Tirtouga",
-        "data": ["unova"]
+        "region": "Unova",
+        "collection": []
     },
     {
         "dex": "0565",
         "nameJPN": "アバゴーラ",
         "nameENG": "Carracosta",
-        "data": ["unova"]
+        "region": "Unova",
+        "collection": []
     },
     {
         "dex": "0566",
         "nameJPN": "アーケン",
         "nameENG": "Archen",
-        "data": ["unova"]
+        "region": "Unova",
+        "collection": []
     },
     {
         "dex": "0567",
         "nameJPN": "アーケオス",
         "nameENG": "Archeops",
-        "data": ["unova"]
+        "region": "Unova",
+        "collection": []
     },
     {
         "dex": "0568",
         "nameJPN": "ヤブクロン",
         "nameENG": "Trubbish",
-        "data": ["unova"]
+        "region": "Unova",
+        "collection": []
     },
     {
         "dex": "0569",
         "nameJPN": "ダストダス",
         "nameENG": "Garbodor",
-        "data": ["unova"]
+        "region": "Unova",
+        "collection": []
     },
     {
         "dex": "0570",
         "nameJPN": "ゾロア",
         "nameENG": "Zorua",
-        "data": ["unova"]
+        "region": "Unova",
+        "collection": []
     },
     {
         "dex": "0571",
         "nameJPN": "ゾロアーク",
         "nameENG": "Zoroark",
-        "data": ["unova"]
+        "region": "Unova",
+        "collection": []
     },
     {
         "dex": "0572",
         "nameJPN": "チラーミィ",
         "nameENG": "Minccino",
-        "data": ["unova"]
+        "region": "Unova",
+        "collection": []
     },
     {
         "dex": "0573",
         "nameJPN": "チラチーノ",
         "nameENG": "Cinccino",
-        "data": ["unova"]
+        "region": "Unova",
+        "collection": []
     },
     {
         "dex": "0574",
         "nameJPN": "ゴチム",
         "nameENG": "Gothita",
-        "data": ["unova"]
+        "region": "Unova",
+        "collection": []
     },
     {
         "dex": "0575",
         "nameJPN": "ゴチミル",
         "nameENG": "Gothorita",
-        "data": ["unova"]
+        "region": "Unova",
+        "collection": []
     },
     {
         "dex": "0576",
         "nameJPN": "ゴチルゼル",
         "nameENG": "Gothitelle",
-        "data": ["unova"]
+        "region": "Unova",
+        "collection": []
     },
     {
         "dex": "0577",
         "nameJPN": "ユニラン",
         "nameENG": "Solosis",
-        "data": ["unova"]
+        "region": "Unova",
+        "collection": []
     },
     {
         "dex": "0578",
         "nameJPN": "ダブラン",
         "nameENG": "Duosion",
-        "data": ["unova"]
+        "region": "Unova",
+        "collection": []
     },
     {
         "dex": "0579",
         "nameJPN": "ランクルス",
         "nameENG": "Reuniclus",
-        "data": ["unova"]
+        "region": "Unova",
+        "collection": []
     },
     {
         "dex": "0580",
         "nameJPN": "コアルヒー",
         "nameENG": "Ducklett",
-        "data": ["unova"]
+        "region": "Unova",
+        "collection": []
     },
     {
         "dex": "0581",
         "nameJPN": "スワンナ",
         "nameENG": "Swanna",
-        "data": ["unova"]
+        "region": "Unova",
+        "collection": []
     },
     {
         "dex": "0582",
         "nameJPN": "バニプッチ",
         "nameENG": "Vanillite",
-        "data": ["unova"]
+        "region": "Unova",
+        "collection": []
     },
     {
         "dex": "0583",
         "nameJPN": "バニリッチ",
         "nameENG": "Vanillish",
-        "data": ["unova"]
+        "region": "Unova",
+        "collection": []
     },
     {
         "dex": "0584",
         "nameJPN": "バイバニラ",
         "nameENG": "Vanilluxe",
-        "data": ["unova"]
+        "region": "Unova",
+        "collection": []
     },
     {
         "dex": "0585",
-        "nameJPN": "シキジカ",
-        "nameENG": "Deerling Spring",
-        "data": ["unova"]
+        "nameJPN": "シキジカ (はる)",
+        "nameENG": "Deerling (Spring)",
+        "region": "Unova",
+        "collection": []
     },
     {
         "dex": "0585S",
-        "nameJPN": "",
-        "nameENG": "Deerling Summer",
-        "data": ["unova"]
+        "nameJPN": "シキジカ (なつ)",
+        "nameENG": "Deerling (Summer)",
+        "region": "Unova",
+        "collection": []
     },
     {
         "dex": "0585A",
-        "nameJPN": "",
-        "nameENG": "Deerling Autumn",
-        "data": ["unova"]
+        "nameJPN": "シキジカ (あき)",
+        "nameENG": "Deerling (Autumn)",
+        "region": "Unova",
+        "collection": []
     },
     {
         "dex": "0585W",
-        "nameJPN": "",
-        "nameENG": "Deerling Winter",
-        "data": ["unova"]
+        "nameJPN": "シキジカ (ふゆ)",
+        "nameENG": "Deerling (Winter)",
+        "region": "Unova",
+        "collection": []
     },
     {
         "dex": "0586",
-        "nameJPN": "メブキジカ",
-        "nameENG": "Sawsbuck Spring",
-        "data": ["unova"]
+        "nameJPN": "メブキジカ (はる)",
+        "nameENG": "Sawsbuck (Spring)",
+        "region": "Unova",
+        "collection": []
     },
     {
         "dex": "0586S",
-        "nameJPN": "",
-        "nameENG": "Sawsbuck Summer",
-        "data": ["unova"]
+        "nameJPN": "メブキジカ (なつ)",
+        "nameENG": "Sawsbuck (Summer)",
+        "region": "Unova",
+        "collection": []
     },
     {
         "dex": "0586A",
-        "nameJPN": "",
-        "nameENG": "Sawsbuck Autumn",
-        "data": ["unova"]
+        "nameJPN": "メブキジカ (あき)",
+        "nameENG": "Sawsbuck (Autumn)",
+        "region": "Unova",
+        "collection": []
     },
     {
         "dex": "0586W",
-        "nameJPN": "",
-        "nameENG": "Sawsbuck Winter",
-        "data": ["unova"]
+        "nameJPN": "メブキジカ (ふゆ)",
+        "nameENG": "Sawsbuck (Winter)",
+        "region": "Unova",
+        "collection": []
     },
     {
         "dex": "0587",
         "nameJPN": "エモンガ",
         "nameENG": "Emolga",
-        "data": ["unova"]
+        "region": "Unova",
+        "collection": ["pikachu"]
     },
     {
         "dex": "0588",
         "nameJPN": "カブルモ",
         "nameENG": "Karrablast",
-        "data": ["unova"]
+        "region": "Unova",
+        "collection": []
     },
     {
         "dex": "0589",
         "nameJPN": "シュバルゴ",
         "nameENG": "Escavalier",
-        "data": ["unova"]
+        "region": "Unova",
+        "collection": []
     },
     {
         "dex": "0590",
         "nameJPN": "タマゲタケ",
         "nameENG": "Foongus",
-        "data": ["unova"]
+        "region": "Unova",
+        "collection": []
     },
     {
         "dex": "0591",
         "nameJPN": "モロバレル",
         "nameENG": "Amoonguss",
-        "data": ["unova"]
+        "region": "Unova",
+        "collection": []
     },
     {
         "dex": "0592",
-        "nameJPN": "プルリル",
-        "nameENG": "Frillish",
-        "data": ["unova"]
+        "nameJPN": "プルリル (♂)",
+        "nameENG": "Frillish (M)",
+        "region": "Unova",
+        "collection": []
     },
     {
         "dex": "0592F",
-        "nameJPN": "",
-        "nameENG": "",
-        "data": ["unova"]
+        "nameJPN": "プルリル (♀)",
+        "nameENG": "Frillish (F)",
+        "region": "Unova",
+        "collection": []
     },
     {
         "dex": "0593",
-        "nameJPN": "ブルンゲル",
-        "nameENG": "Jellicent",
-        "data": ["unova"]
+        "nameJPN": "ブルンゲル (♂)",
+        "nameENG": "Jellicent (M)",
+        "region": "Unova",
+        "collection": []
     },
     {
         "dex": "0593F",
-        "nameJPN": "",
-        "nameENG": "",
-        "data": ["unova"]
+        "nameJPN": "ブルンゲル (♀)",
+        "nameENG": "Jellicent (F)",
+        "region": "Unova",
+        "collection": []
     },
     {
         "dex": "0594",
         "nameJPN": "ママンボウ",
         "nameENG": "Alomomola",
-        "data": ["unova"]
+        "region": "Unova",
+        "collection": []
     },
     {
         "dex": "0595",
         "nameJPN": "バチュル",
         "nameENG": "Joltik",
-        "data": ["unova"]
+        "region": "Unova",
+        "collection": []
     },
     {
         "dex": "0596",
         "nameJPN": "デンチュラ",
         "nameENG": "Galvantula",
-        "data": ["unova"]
+        "region": "Unova",
+        "collection": []
     },
     {
         "dex": "0597",
         "nameJPN": "テッシード",
         "nameENG": "Ferroseed",
-        "data": ["unova"]
+        "region": "Unova",
+        "collection": []
     },
     {
         "dex": "0598",
         "nameJPN": "ナットレイ",
         "nameENG": "Ferrothorn",
-        "data": ["unova"]
+        "region": "Unova",
+        "collection": []
     },
     {
         "dex": "0599",
         "nameJPN": "ギアル",
         "nameENG": "Klink",
-        "data": ["unova"]
+        "region": "Unova",
+        "collection": []
     },
     {
         "dex": "0600",
         "nameJPN": "ギギアル",
         "nameENG": "Klang",
-        "data": ["unova"]
+        "region": "Unova",
+        "collection": []
     },
     {
         "dex": "0601",
         "nameJPN": "ギギギアル",
         "nameENG": "Klinklang",
-        "data": ["unova"]
+        "region": "Unova",
+        "collection": []
     },
     {
         "dex": "0602",
         "nameJPN": "シビシラス",
         "nameENG": "Tynamo",
-        "data": ["unova"]
+        "region": "Unova",
+        "collection": []
     },
     {
         "dex": "0603",
         "nameJPN": "シビビール",
         "nameENG": "Eelektrik",
-        "data": ["unova"]
+        "region": "Unova",
+        "collection": []
     },
     {
         "dex": "0604",
         "nameJPN": "シビルドン",
         "nameENG": "Eelektross",
-        "data": ["unova"]
+        "region": "Unova",
+        "collection": []
     },
     {
         "dex": "0605",
         "nameJPN": "リグレー",
         "nameENG": "Elgyem",
-        "data": ["unova"]
+        "region": "Unova",
+        "collection": []
     },
     {
         "dex": "0606",
         "nameJPN": "オーベム",
         "nameENG": "Beheeyem",
-        "data": ["unova"]
+        "region": "Unova",
+        "collection": []
     },
     {
         "dex": "0607",
         "nameJPN": "ヒトモシ",
         "nameENG": "Litwick",
-        "data": ["unova"]
+        "region": "Unova",
+        "collection": []
     },
     {
         "dex": "0608",
         "nameJPN": "ランプラー",
         "nameENG": "Lampent",
-        "data": ["unova"]
+        "region": "Unova",
+        "collection": []
     },
     {
         "dex": "0609",
         "nameJPN": "シャンデラ",
         "nameENG": "Chandelure",
-        "data": ["unova"]
+        "region": "Unova",
+        "collection": []
     },
     {
         "dex": "0610",
         "nameJPN": "キバゴ",
         "nameENG": "Axew",
-        "data": ["unova"]
+        "region": "Unova",
+        "collection": []
     },
     {
         "dex": "0611",
         "nameJPN": "オノンド",
         "nameENG": "Fraxure",
-        "data": ["unova"]
+        "region": "Unova",
+        "collection": []
     },
     {
         "dex": "0612",
         "nameJPN": "オノノクス",
         "nameENG": "Haxorus",
-        "data": ["unova"]
+        "region": "Unova",
+        "collection": []
     },
     {
         "dex": "0613",
         "nameJPN": "クマシュン",
         "nameENG": "Cubchoo",
-        "data": ["unova"]
+        "region": "Unova",
+        "collection": []
     },
     {
         "dex": "0614",
         "nameJPN": "ツンベアー",
         "nameENG": "Beartic",
-        "data": ["unova"]
+        "region": "Unova",
+        "collection": []
     },
     {
         "dex": "0615",
         "nameJPN": "フリージオ",
         "nameENG": "Cryogonal",
-        "data": ["unova"]
+        "region": "Unova",
+        "collection": []
     },
     {
         "dex": "0616",
         "nameJPN": "チョボマキ",
         "nameENG": "Shelmet",
-        "data": ["unova"]
+        "region": "Unova",
+        "collection": []
     },
     {
         "dex": "0617",
         "nameJPN": "アギルダー",
         "nameENG": "Accelgor",
-        "data": ["unova"]
+        "region": "Unova",
+        "collection": []
     },
     {
         "dex": "0618",
         "nameJPN": "マッギョ",
         "nameENG": "Stunfisk",
-        "data": ["unova"]
+        "region": "Unova",
+        "collection": []
     },
     {
         "dex": "0619",
         "nameJPN": "コジョフー",
         "nameENG": "Mienfoo",
-        "data": ["unova"]
+        "region": "Unova",
+        "collection": []
     },
     {
         "dex": "0620",
         "nameJPN": "コジョンド",
         "nameENG": "Mienshao",
-        "data": ["unova"]
+        "region": "Unova",
+        "collection": []
     },
     {
         "dex": "0621",
         "nameJPN": "クリムガン",
         "nameENG": "Druddigon",
-        "data": ["unova"]
+        "region": "Unova",
+        "collection": []
     },
     {
         "dex": "0622",
         "nameJPN": "ゴビット",
         "nameENG": "Golett",
-        "data": ["unova"]
+        "region": "Unova",
+        "collection": []
     },
     {
         "dex": "0623",
         "nameJPN": "ゴルーグ",
         "nameENG": "Golurk",
-        "data": ["unova"]
+        "region": "Unova",
+        "collection": []
     },
     {
         "dex": "0624",
         "nameJPN": "コマタナ",
         "nameENG": "Pawniard",
-        "data": ["unova"]
+        "region": "Unova",
+        "collection": []
     },
     {
         "dex": "0625",
         "nameJPN": "キリキザン",
         "nameENG": "Bisharp",
-        "data": ["unova"]
+        "region": "Unova",
+        "collection": []
     },
     {
         "dex": "0626",
         "nameJPN": "バッフロン",
         "nameENG": "Bouffalant",
-        "data": ["unova"]
+        "region": "Unova",
+        "collection": []
     },
     {
         "dex": "0627",
         "nameJPN": "ワシボン",
         "nameENG": "Rufflet",
-        "data": ["unova"]
+        "region": "Unova",
+        "collection": []
     },
     {
         "dex": "0628",
         "nameJPN": "ウォーグル",
         "nameENG": "Braviary",
-        "data": ["unova"]
+        "region": "Unova",
+        "collection": []
     },
     {
         "dex": "0629",
         "nameJPN": "バルチャイ",
         "nameENG": "Vullaby",
-        "data": ["unova"]
+        "region": "Unova",
+        "collection": []
     },
     {
         "dex": "0630",
         "nameJPN": "バルジーナ",
         "nameENG": "Mandibuzz",
-        "data": ["unova"]
+        "region": "Unova",
+        "collection": []
     },
     {
         "dex": "0631",
         "nameJPN": "クイタラン",
         "nameENG": "Heatmor",
-        "data": ["unova"]
+        "region": "Unova",
+        "collection": []
     },
     {
         "dex": "0632",
         "nameJPN": "アイアント",
         "nameENG": "Durant",
-        "data": ["unova"]
+        "region": "Unova",
+        "collection": []
     },
     {
         "dex": "0633",
         "nameJPN": "モノズ",
         "nameENG": "Deino",
-        "data": ["unova", "bs600"]
+        "region": "Unova",
+        "collection": ["bs600"]
     },
     {
         "dex": "0634",
         "nameJPN": "ジヘッド",
         "nameENG": "Zweilous",
-        "data": ["unova", "bs600"]
+        "region": "Unova",
+        "collection": ["bs600"]
     },
     {
         "dex": "0635",
         "nameJPN": "サザンドラ",
         "nameENG": "Hydreigon",
-        "data": ["unova", "bs600"]
+        "region": "Unova",
+        "collection": ["bs600"]
     },
     {
         "dex": "0636",
         "nameJPN": "メラルバ",
         "nameENG": "Larvesta",
-        "data": ["unova"]
+        "region": "Unova",
+        "collection": []
     },
     {
         "dex": "0637",
         "nameJPN": "ウルガモス",
         "nameENG": "Volcarona",
-        "data": ["unova"]
+        "region": "Unova",
+        "collection": []
     },
     {
         "dex": "0638",
         "nameJPN": "コバルオン",
         "nameENG": "Cobalion",
-        "data": ["unova", "trio"]
+        "region": "Unova",
+        "collection": ["trio"]
     },
     {
         "dex": "0639",
         "nameJPN": "テラキオン",
         "nameENG": "Terrakion",
-        "data": ["unova", "trio"]
+        "region": "Unova",
+        "collection": ["trio"]
     },
     {
         "dex": "0640",
         "nameJPN": "ビリジオン",
         "nameENG": "Virizion",
-        "data": ["unova", "trio"]
+        "region": "Unova",
+        "collection": ["trio"]
     },
     {
         "dex": "0641",
-        "nameJPN": "トルネロス",
-        "nameENG": "Tornadus Incarnate",
-        "data": ["unova", "trio"]
+        "nameJPN": "トルネロス (けしん)",
+        "nameENG": "Tornadus (Incarnate)",
+        "region": "Unova",
+        "collection": ["trio"]
     },
     {
         "dex": "0641T",
-        "nameJPN": "",
-        "nameENG": "Tornadus Therian",
-        "data": ["unova"]
+        "nameJPN": "トルネロス (れいじゅう)",
+        "nameENG": "Tornadus (Therian)",
+        "region": "Unova",
+        "collection": []
     },
     {
         "dex": "0642",
-        "nameJPN": "ボルトロス",
-        "nameENG": "Thundurus Incarnate",
-        "data": ["unova", "trio"]
+        "nameJPN": "ボルトロス (けしん)",
+        "nameENG": "Thundurus (Incarnate)",
+        "region": "Unova",
+        "collection": ["trio"]
     },
     {
         "dex": "0642T",
-        "nameJPN": "",
-        "nameENG": "Thundurus Therian",
-        "data": ["unova"]
+        "nameJPN": "ボルトロス (れいじゅう)",
+        "nameENG": "Thundurus (Therian)",
+        "region": "Unova",
+        "collection": []
     },
     {
         "dex": "0643",
         "nameJPN": "レシラム",
         "nameENG": "Reshiram",
-        "data": ["unova", "legendary"]
+        "region": "Unova",
+        "collection": ["legendary"]
     },
     {
         "dex": "0644",
         "nameJPN": "ゼクロム",
         "nameENG": "Zekrom",
-        "data": ["unova", "legendary"]
+        "region": "Unova",
+        "collection": ["legendary"]
     },
     {
         "dex": "0645",
-        "nameJPN": "ランドロス",
-        "nameENG": "Landorus Incarnate",
-        "data": ["unova", "trio"]
+        "nameJPN": "ランドロス (けしん)",
+        "nameENG": "Landorus (Incarnate)",
+        "region": "Unova",
+        "collection": ["trio"]
     },
     {
         "dex": "0645T",
-        "nameJPN": "",
-        "nameENG": "Landorus Therian",
-        "data": ["unova", "trio"]
+        "nameJPN": "ランドロス (れいじゅう)",
+        "nameENG": "Landorus (Therian)",
+        "region": "Unova",
+        "collection": ["trio"]
     },
     {
         "dex": "0646",
         "nameJPN": "キュレム",
         "nameENG": "Kyurem",
-        "data": ["unova", "legendary"]
-    },
-    {
-        "dex": "0646B",
-        "nameJPN": "",
-        "nameENG": "Kyurem Black",
-        "data": ["unova", "legendary"]
+        "region": "Unova",
+        "collection": ["legendary"]
     },
     {
         "dex": "0646W",
-        "nameJPN": "",
-        "nameENG": "Kyurem White",
-        "data": ["unova", "legendary"]
+        "nameJPN": "ホワイト キュレム",
+        "nameENG": "White　Kyurem",
+        "region": "Unova",
+        "collection": ["legendary"]
+    },
+    {
+        "dex": "0646B",
+        "nameJPN": "ブラック キュレム",
+        "nameENG": "Black　Kyurem",
+        "region": "Unova",
+        "collection": ["legendary"]
     },
     {
         "dex": "0647",
-        "nameJPN": "ケルディオ",
-        "nameENG": "Keldeo",
-        "data": ["unova", "mirage"]
+        "nameJPN": "ケルディオ (いつものすがた)",
+        "nameENG": "Keldeo (Ordinary)",
+        "region": "Unova",
+        "collection": ["mythical"]
     },
     {
         "dex": "0647R",
-        "nameJPN": "",
-        "nameENG": "",
-        "data": ["unova", "mirage"]
+        "nameJPN": "ケルディオ (かくごのすがた)",
+        "nameENG": "Keldeo (Resolute)",
+        "region": "Unova",
+        "collection": ["mythical"]
     },
     {
         "dex": "0648",
-        "nameJPN": "メロエッタ",
-        "nameENG": "Meloetta",
-        "data": ["unova", "mirage"]
+        "nameJPN": "メロエッタ (ボイス)",
+        "nameENG": "Meloetta (Aria)",
+        "region": "Unova",
+        "collection": ["mythical"]
     },
     {
         "dex": "0648P",
-        "nameJPN": "",
-        "nameENG": "",
-        "data": ["unova", "mirage"]
+        "nameJPN": "メロエッタ (ステップ)",
+        "nameENG": "Meloetta (Pirouette)",
+        "region": "Unova",
+        "collection": ["mythical"]
     },
     {
         "dex": "0649",
         "nameJPN": "ゲノセクト",
         "nameENG": "Genesect",
-        "data": ["unova", "mirage"]
+        "region": "Unova",
+        "collection": ["mythical"]
     },
     {
         "dex": "0650",
         "nameJPN": "ハリマロン",
         "nameENG": "Chespin",
-        "data": ["kalos", "starter"]
+        "region": "Kalos",
+        "collection": ["starter"]
     },
     {
         "dex": "0651",
         "nameJPN": "ハリボーグ",
         "nameENG": "Quilladin",
-        "data": ["kalos", "starter"]
+        "region": "Kalos",
+        "collection": ["starter"]
     },
     {
         "dex": "0652",
         "nameJPN": "ブリガロン",
         "nameENG": "Chesnaught",
-        "data": ["kalos", "starter"]
+        "region": "Kalos",
+        "collection": ["starter"]
     },
     {
         "dex": "0653",
         "nameJPN": "フォッコ",
         "nameENG": "Fennekin",
-        "data": ["kalos", "starter"]
+        "region": "Kalos",
+        "collection": ["starter"]
     },
     {
         "dex": "0654",
         "nameJPN": "テールナー",
         "nameENG": "Braixen",
-        "data": ["kalos", "starter"]
+        "region": "Kalos",
+        "collection": ["starter"]
     },
     {
         "dex": "0655",
         "nameJPN": "マフォクシー",
         "nameENG": "Delphox",
-        "data": ["kalos", "starter"]
+        "region": "Kalos",
+        "collection": ["starter"]
     },
     {
         "dex": "0656",
         "nameJPN": "ケロマツ",
         "nameENG": "Froakie",
-        "data": ["kalos", "starter"]
+        "region": "Kalos",
+        "collection": ["starter"]
     },
     {
         "dex": "0657",
         "nameJPN": "ゲコガシラ",
         "nameENG": "Frogadier",
-        "data": ["kalos", "starter"]
+        "region": "Kalos",
+        "collection": ["starter"]
     },
     {
         "dex": "0658",
         "nameJPN": "ゲッコウガ",
         "nameENG": "Greninja",
-        "data": ["kalos", "starter"]
+        "region": "Kalos",
+        "collection": ["starter"]
     },
     {
         "dex": "0658A",
-        "nameJPN": "",
-        "nameENG": "",
-        "data": ["kalos", "starter"]
+        "nameJPN": "サトシゲッコウガ",
+        "nameENG": "Ash Greninja",
+        "region": "Kalos",
+        "collection": ["starter"]
     },
     {
         "dex": "0659",
         "nameJPN": "ホルビー",
         "nameENG": "Bunnelby",
-        "data": ["kalos"]
+        "region": "Kalos",
+        "collection": []
     },
     {
         "dex": "0660",
         "nameJPN": "ホルード",
         "nameENG": "Diggersby",
-        "data": ["kalos"]
+        "region": "Kalos",
+        "collection": []
     },
     {
         "dex": "0661",
         "nameJPN": "ヤヤコマ",
         "nameENG": "Fletchling",
-        "data": ["kalos"]
+        "region": "Kalos",
+        "collection": []
     },
     {
         "dex": "0662",
         "nameJPN": "ヒノヤコマ",
         "nameENG": "Fletchinder",
-        "data": ["kalos"]
+        "region": "Kalos",
+        "collection": []
     },
     {
         "dex": "0663",
         "nameJPN": "ファイアロー",
         "nameENG": "Talonflame",
-        "data": ["kalos"]
+        "region": "Kalos",
+        "collection": []
     },
     {
         "dex": "0664",
         "nameJPN": "コフキムシ",
         "nameENG": "Scatterbug",
-        "data": ["kalos"]
+        "region": "Kalos",
+        "collection": []
     },
     {
         "dex": "0665",
         "nameJPN": "コフーライ",
         "nameENG": "Spewpa",
-        "data": ["kalos"]
+        "region": "Kalos",
+        "collection": []
     },
     {
         "dex": "0666",
-        "nameJPN": "ビビヨン",
-        "nameENG": "Vivillon",
-        "data": ["kalos"]
+        "nameJPN": "ビビヨン (はなぞの)",
+        "nameENG": "Vivillon (Meadow)",
+        "region": "Kalos",
+        "collection": []
     },
     {
         "dex": "0666Arc",
-        "nameJPN": "",
-        "nameENG": "Vivillon Arc",
-        "data": ["kalos"]
+        "nameJPN": "ビビヨン (ぐんどう)",
+        "nameENG": "Vivillon (Archipelago)",
+        "region": "Kalos",
+        "collection": []
     },
     {
         "dex": "0666Con",
-        "nameJPN": "",
-        "nameENG": "Vivillon Con",
-        "data": ["kalos"]
+        "nameJPN": "ビビヨン (たいりく)",
+        "nameENG": "Vivillon (Continental)",
+        "region": "Kalos",
+        "collection": []
     },
     {
         "dex": "0666Ele",
-        "nameJPN": "",
-        "nameENG": "Vivillon Ele",
-        "data": ["kalos"]
-    },
-    {
-        "dex": "0666Fan",
-        "nameJPN": "",
-        "nameENG": "Vivillon Fan",
-        "data": ["kalos"]
+        "nameJPN": "ビビヨン (みやび)",
+        "nameENG": "Vivillon (Elegant)",
+        "region": "Kalos",
+        "collection": []
     },
     {
         "dex": "0666Gar",
-        "nameJPN": "",
-        "nameENG": "Vivillon Gar",
-        "data": ["kalos"]
+        "nameJPN": "ビビヨン (ていえん)",
+        "nameENG": "Vivillon (Garden)",
+        "region": "Kalos",
+        "collection": []
     },
     {
         "dex": "0666Hig",
-        "nameJPN": "",
-        "nameENG": "Vivillon Hig",
-        "data": ["kalos"]
+        "nameJPN": "ビビヨン (こうや)",
+        "nameENG": "Vivillon (High Plains)",
+        "region": "Kalos",
+        "collection": []
     },
     {
         "dex": "0666Icy",
-        "nameJPN": "",
-        "nameENG": "Vivillon Icy",
-        "data": ["kalos"]
+        "nameJPN": "ビビヨン (ひょうせつ)",
+        "nameENG": "Vivillon (Icy Snow)",
+        "region": "Kalos",
+        "collection": []
     },
     {
         "dex": "0666Jun",
-        "nameJPN": "",
-        "nameENG": "Vivillon Jun",
-        "data": ["kalos"]
+        "nameJPN": "ビビヨン (ジャングル)",
+        "nameENG": "Vivillon (Jungle)",
+        "region": "Kalos",
+        "collection": []
     },
     {
         "dex": "0666Mar",
-        "nameJPN": "",
-        "nameENG": "Vivillon Mar",
-        "data": ["kalos"]
+        "nameJPN": "ビビヨン (マリン)",
+        "nameENG": "Vivillon (Marine)",
+        "region": "Kalos",
+        "collection": []
     },
     {
         "dex": "0666Mod",
-        "nameJPN": "",
-        "nameENG": "Vivillon Mod",
-        "data": ["kalos"]
+        "nameJPN": "ビビヨン (モダン)",
+        "nameENG": "Vivillon (Modern)",
+        "region": "Kalos",
+        "collection": []
     },
     {
         "dex": "0666Mon",
-        "nameJPN": "",
-        "nameENG": "Vivillon Mon",
-        "data": ["kalos"]
+        "nameJPN": "ビビヨン (スコール)",
+        "nameENG": "Vivillon (Monsoon)",
+        "region": "Kalos",
+        "collection": []
     },
     {
         "dex": "0666Oce",
-        "nameJPN": "",
-        "nameENG": "Vivillon Oce",
-        "data": ["kalos"]
-    },
-    {
-        "dex": "0666Pok",
-        "nameJPN": "",
-        "nameENG": "Vivillon Pok",
-        "data": ["kalos"]
+        "nameJPN": "ビビヨン (オーシャン)",
+        "nameENG": "Vivillon (Ocean)",
+        "region": "Kalos",
+        "collection": []
     },
     {
         "dex": "0666Pol",
-        "nameJPN": "",
-        "nameENG": "Vivillon Pol",
-        "data": ["kalos"]
+        "nameJPN": "ビビヨン (ゆきぐに)",
+        "nameENG": "Vivillon (Polar)",
+        "region": "Kalos",
+        "collection": []
     },
     {
         "dex": "0666Riv",
-        "nameJPN": "",
-        "nameENG": "Vivillon Riv",
-        "data": ["kalos"]
+        "nameJPN": "ビビヨン (たいが)",
+        "nameENG": "Vivillon (River)",
+        "region": "Kalos",
+        "collection": []
     },
     {
         "dex": "0666San",
-        "nameJPN": "",
-        "nameENG": "Vivillon San",
-        "data": ["kalos"]
+        "nameJPN": "ビビヨン (さじん)",
+        "nameENG": "Vivillon (Sandstorm)",
+        "region": "Kalos",
+        "collection": []
     },
     {
         "dex": "0666Sav",
-        "nameJPN": "",
-        "nameENG": "Vivillon Sav",
-        "data": ["kalos"]
+        "nameJPN": "ビビヨン (サバンナ)",
+        "nameENG": "Vivillon (Savanna)",
+        "region": "Kalos",
+        "collection": []
     },
     {
         "dex": "0666Sun",
-        "nameJPN": "",
-        "nameENG": "Vivillon Sun",
-        "data": ["kalos"]
+        "nameJPN": "ビビヨン (たいよう)",
+        "nameENG": "Vivillon (Sun)",
+        "region": "Kalos",
+        "collection": []
     },
     {
         "dex": "0666Tun",
-        "nameJPN": "",
-        "nameENG": "Vivillon Tun",
-        "data": ["kalos"]
+        "nameJPN": "ビビヨン (せつげん)",
+        "nameENG": "Vivillon (Tundra)",
+        "region": "Kalos",
+        "collection": []
+    },
+    {
+        "dex": "0666Pok",
+        "nameJPN": "ビビヨン (ボール)",
+        "nameENG": "Vivillon (Poké Ball)",
+        "region": "Kalos",
+        "collection": []
+    },
+    {
+        "dex": "0666Fan",
+        "nameJPN": "ビビヨン (ファンシー)",
+        "nameENG": "Vivillon (Fancy)",
+        "region": "Kalos",
+        "collection": []
     },
     {
         "dex": "0667",
         "nameJPN": "シシコ",
         "nameENG": "Litleo",
-        "data": ["kalos"]
+        "region": "Kalos",
+        "collection": []
     },
     {
         "dex": "0668",
-        "nameJPN": "カエンジシ",
-        "nameENG": "Pyroar",
-        "data": ["kalos"]
+        "nameJPN": "カエンジシ (♂)",
+        "nameENG": "Pyroar (M)",
+        "region": "Kalos",
+        "collection": []
     },
     {
         "dex": "0668F",
-        "nameJPN": "",
-        "nameENG": "",
-        "data": ["kalos"]
+        "nameJPN": "カエンジシ (♀)",
+        "nameENG": "Pyroar (F)",
+        "region": "Kalos",
+        "collection": []
     },
     {
         "dex": "0669",
-        "nameJPN": "フラベベ 赤",
-        "nameENG": "Flabebe Red",
-        "data": ["kalos"]
+        "nameJPN": "フラベベ (赤)",
+        "nameENG": "Flabebe (Red)",
+        "region": "Kalos",
+        "collection": []
     },
     {
         "dex": "0669B",
-        "nameJPN": "フラベベ 青",
-        "nameENG": "Flabebe Blue",
-        "data": ["kalos"]
+        "nameJPN": "フラベベ (青)",
+        "nameENG": "Flabebe (Blue)",
+        "region": "Kalos",
+        "collection": []
     },
     {
         "dex": "0669Y",
-        "nameJPN": "フラベベ 黄",
-        "nameENG": "Flabebe Yellow",
-        "data": ["kalos"]
+        "nameJPN": "フラベベ (黄)",
+        "nameENG": "Flabebe (Yellow)",
+        "region": "Kalos",
+        "collection": []
     },
     {
         "dex": "0669O",
-        "nameJPN": "フラベベ 橙",
-        "nameENG": "Flabebe Orange",
-        "data": ["kalos"]
+        "nameJPN": "フラベベ (橙)",
+        "nameENG": "Flabebe (Orange)",
+        "region": "Kalos",
+        "collection": []
     },
     {
         "dex": "0669W",
-        "nameJPN": "フラベベ 白",
-        "nameENG": "Flabebe White",
-        "data": ["kalos"]
+        "nameJPN": "フラベベ (白)",
+        "nameENG": "Flabebe (White)",
+        "region": "Kalos",
+        "collection": []
     },
     {
         "dex": "0670",
-        "nameJPN": "フラエッテ 赤",
-        "nameENG": "Floette Red",
-        "data": ["kalos"]
+        "nameJPN": "フラエッテ (赤)",
+        "nameENG": "Floette (Red)",
+        "region": "Kalos",
+        "collection": []
     },
     {
         "dex": "0670B",
-        "nameJPN": "フラエッテ 青",
-        "nameENG": "Floette Blue",
-        "data": ["kalos"]
+        "nameJPN": "フラエッテ (青)",
+        "nameENG": "Floette (Blue)",
+        "region": "Kalos",
+        "collection": []
     },
     {
         "dex": "0670Y",
-        "nameJPN": "フラエッテ 黄",
-        "nameENG": "Floette Yellow",
-        "data": ["kalos"]
+        "nameJPN": "フラエッテ (黄)",
+        "nameENG": "Floette (Yellow)",
+        "region": "Kalos",
+        "collection": []
     },
     {
         "dex": "0670O",
-        "nameJPN": "フラエッテ 橙",
-        "nameENG": "Floette Orange",
-        "data": ["kalos"]
+        "nameJPN": "フラエッテ (橙)",
+        "nameENG": "Floette (Orange)",
+        "region": "Kalos",
+        "collection": []
     },
     {
         "dex": "0670W",
-        "nameJPN": "フラエッテ 白",
-        "nameENG": "Floette White",
-        "data": ["kalos"]
+        "nameJPN": "フラエッテ (白)",
+        "nameENG": "Floette (White)",
+        "region": "Kalos",
+        "collection": []
     },
     {
         "dex": "0670E",
-        "nameJPN": "フラエッテ AZ",
-        "nameENG": "Floette Eternal",
-        "data": ["kalos"]
+        "nameJPN": "フラエッテ (AZ)",
+        "nameENG": "Floette (Eternal)",
+        "region": "Kalos",
+        "collection": []
     },
     {
         "dex": "0671",
-        "nameJPN": "フラージェス 赤",
-        "nameENG": "Florges Red",
-        "data": ["kalos"]
+        "nameJPN": "フラージェス (赤)",
+        "nameENG": "Florges (Red)",
+        "region": "Kalos",
+        "collection": []
     },
     {
         "dex": "0671B",
-        "nameJPN": "フラージェス 青",
-        "nameENG": "Florges Blue",
-        "data": ["kalos"]
+        "nameJPN": "フラージェス (青)",
+        "nameENG": "Florges (Blue)",
+        "region": "Kalos",
+        "collection": []
     },
     {
         "dex": "0671Y",
-        "nameJPN": "フラージェス 黄",
-        "nameENG": "Florges Yellow",
-        "data": ["kalos"]
+        "nameJPN": "フラージェス (黄)",
+        "nameENG": "Florges (Yellow)",
+        "region": "Kalos",
+        "collection": []
     },
     {
         "dex": "0671O",
-        "nameJPN": "フラージェス 橙",
-        "nameENG": "Florges Orange",
-        "data": ["kalos"]
+        "nameJPN": "フラージェス (橙)",
+        "nameENG": "Florges (Orange)",
+        "region": "Kalos",
+        "collection": []
     },
     {
         "dex": "0671W",
-        "nameJPN": "フラージェス 白",
-        "nameENG": "Florges White",
-        "data": ["kalos"]
+        "nameJPN": "フラージェス (白)",
+        "nameENG": "Florges (White)",
+        "region": "Kalos",
+        "collection": []
     },
     {
         "dex": "0672",
         "nameJPN": "メェークル",
         "nameENG": "Skiddo",
-        "data": ["kalos"]
+        "region": "Kalos",
+        "collection": []
     },
     {
         "dex": "0673",
         "nameJPN": "ゴーゴート",
         "nameENG": "Gogoat",
-        "data": ["kalos"]
+        "region": "Kalos",
+        "collection": []
     },
     {
         "dex": "0674",
         "nameJPN": "ヤンチャム",
         "nameENG": "Pancham",
-        "data": ["kalos"]
+        "region": "Kalos",
+        "collection": []
     },
     {
         "dex": "0675",
         "nameJPN": "ゴロンダ",
         "nameENG": "Pangoro",
-        "data": ["kalos"]
+        "region": "Kalos",
+        "collection": []
     },
     {
         "dex": "0676",
-        "nameJPN": "トリミアン",
-        "nameENG": "Furfrou",
-        "data": ["kalos"]
-    },
-    {
-        "dex": "0676Da",
-        "nameJPN": "",
-        "nameENG": "Furfrou Da",
-        "data": ["kalos"]
-    },
-    {
-        "dex": "0676De",
-        "nameJPN": "",
-        "nameENG": "Furfrou De",
-        "data": ["kalos"]
-    },
-    {
-        "dex": "0676Di",
-        "nameJPN": "",
-        "nameENG": "Furfrou Di",
-        "data": ["kalos"]
+        "nameJPN": "トリミアン (ノーマル)",
+        "nameENG": "Furfrou (Natural)",
+        "region": "Kalos",
+        "collection": []
     },
     {
         "dex": "0676He",
-        "nameJPN": "",
-        "nameENG": "Furfrou He",
-        "data": ["kalos"]
+        "nameJPN": "トリミアン (ハート)",
+        "nameENG": "Furfrou (Heart)",
+        "region": "Kalos",
+        "collection": []
     },
     {
-        "dex": "0676Ka",
-        "nameJPN": "",
-        "nameENG": "Furfrou Ka",
-        "data": ["kalos"]
+        "dex": "0676Di",
+        "nameJPN": "トリミアン (ダイヤ)",
+        "nameENG": "Furfrou (Diamond)",
+        "region": "Kalos",
+        "collection": []
     },
     {
-        "dex": "0676La",
-        "nameJPN": "",
-        "nameENG": "Furfrou La",
-        "data": ["kalos"]
-    },
-    {
-        "dex": "0676Ma",
-        "nameJPN": "",
-        "nameENG": "Furfrou Ma",
-        "data": ["kalos"]
+        "dex": "0676De",
+        "nameJPN": "トリミアン (スター)",
+        "nameENG": "Furfrou (Star)",
+        "region": "Kalos",
+        "collection": []
     },
     {
         "dex": "0676Ph",
-        "nameJPN": "",
-        "nameENG": "Furfrou Ph",
-        "data": ["kalos"]
+        "nameJPN": "トリミアン (キングダム)",
+        "nameENG": "Furfrou (Pharaoh)",
+        "region": "Kalos",
+        "collection": []
+    },
+    {
+        "dex": "0676Ka",
+        "nameJPN": "トリミアン (カブキ)",
+        "nameENG": "Furfrou (Kabuki)",
+        "region": "Kalos",
+        "collection": []
+    },
+    {
+        "dex": "0676La",
+        "nameJPN": "トリミアン (クイーン)",
+        "nameENG": "Furfrou (La Reine)",
+        "region": "Kalos",
+        "collection": []
+    },
+    {
+        "dex": "0676Ma",
+        "nameJPN": "トリミアン (マダム)",
+        "nameENG": "Furfrou (Matron)",
+        "region": "Kalos",
+        "collection": []
+    },
+    {
+        "dex": "0676Da",
+        "nameJPN": "トリミアン (ジェントル)",
+        "nameENG": "Furfrou (Dandy)",
+        "region": "Kalos",
+        "collection": []
+    },
+    {
+        "dex": "0676De",
+        "nameJPN": "トリミアン (レディ)",
+        "nameENG": "Furfrou (Debutante)",
+        "region": "Kalos",
+        "collection": []
     },
     {
         "dex": "0677",
         "nameJPN": "ニャスパー",
         "nameENG": "Espurr",
-        "data": ["kalos"]
+        "region": "Kalos",
+        "collection": []
     },
     {
         "dex": "0678",
-        "nameJPN": "ニャオニクス",
-        "nameENG": "Meowstic M",
-        "data": ["kalos"]
+        "nameJPN": "ニャオニクス (♂)",
+        "nameENG": "Meowstic (M)",
+        "region": "Kalos",
+        "collection": []
     },
     {
         "dex": "0678F",
-        "nameJPN": "",
-        "nameENG": "Meowstic F",
-        "data": ["kalos"]
+        "nameJPN": "ニャオニクス (♀)",
+        "nameENG": "Meowstic (F)",
+        "region": "Kalos",
+        "collection": []
     },
     {
         "dex": "0679",
         "nameJPN": "ヒトツキ",
         "nameENG": "Honedge",
-        "data": ["kalos"]
+        "region": "Kalos",
+        "collection": []
     },
     {
         "dex": "0680",
         "nameJPN": "ニダンギル",
         "nameENG": "Doublade",
-        "data": ["kalos"]
+        "region": "Kalos",
+        "collection": []
     },
     {
         "dex": "0681",
-        "nameJPN": "ギルガルド",
-        "nameENG": "Aegislash",
-        "data": ["kalos"]
+        "nameJPN": "ギルガルド (シールド)",
+        "nameENG": "Aegislash (Shield)",
+        "region": "Kalos",
+        "collection": []
     },
     {
         "dex": "0681B",
-        "nameJPN": "",
-        "nameENG": "",
-        "data": ["kalos"]
+        "nameJPN": "ギルガルド (ブレード)",
+        "nameENG": "Aegislash (Blade)",
+        "region": "Kalos",
+        "collection": []
     },
     {
         "dex": "0682",
         "nameJPN": "シュシュプ",
         "nameENG": "Spritzee",
-        "data": ["kalos"]
+        "region": "Kalos",
+        "collection": []
     },
     {
         "dex": "0683",
         "nameJPN": "フレフワン",
         "nameENG": "Aromatisse",
-        "data": ["kalos"]
+        "region": "Kalos",
+        "collection": []
     },
     {
         "dex": "0684",
         "nameJPN": "ペロッパフ",
         "nameENG": "Swirlix",
-        "data": ["kalos"]
+        "region": "Kalos",
+        "collection": []
     },
     {
         "dex": "0685",
         "nameJPN": "ペロリーム",
         "nameENG": "Slurpuff",
-        "data": ["kalos"]
+        "region": "Kalos",
+        "collection": []
     },
     {
         "dex": "0686",
         "nameJPN": "マーイーカ",
         "nameENG": "Inkay",
-        "data": ["kalos"]
+        "region": "Kalos",
+        "collection": []
     },
     {
         "dex": "0687",
         "nameJPN": "カラマネロ",
         "nameENG": "Malamar",
-        "data": ["kalos"]
+        "region": "Kalos",
+        "collection": []
     },
     {
         "dex": "0688",
         "nameJPN": "カメテテ",
         "nameENG": "Binacle",
-        "data": ["kalos"]
+        "region": "Kalos",
+        "collection": []
     },
     {
         "dex": "0689",
         "nameJPN": "ガメノデス",
         "nameENG": "Barbaracle",
-        "data": ["kalos"]
+        "region": "Kalos",
+        "collection": []
     },
     {
         "dex": "0690",
         "nameJPN": "クズモー",
         "nameENG": "Skrelp",
-        "data": ["kalos"]
+        "region": "Kalos",
+        "collection": []
     },
     {
         "dex": "0691",
         "nameJPN": "ドラミドロ",
         "nameENG": "Dragalge",
-        "data": ["kalos"]
+        "region": "Kalos",
+        "collection": []
     },
     {
         "dex": "0692",
         "nameJPN": "ウデッポウ",
         "nameENG": "Clauncher",
-        "data": ["kalos"]
+        "region": "Kalos",
+        "collection": []
     },
     {
         "dex": "0693",
         "nameJPN": "ブロスター",
         "nameENG": "Clawitzer",
-        "data": ["kalos"]
+        "region": "Kalos",
+        "collection": []
     },
     {
         "dex": "0694",
         "nameJPN": "エリキテル",
         "nameENG": "Helioptile",
-        "data": ["kalos"]
+        "region": "Kalos",
+        "collection": []
     },
     {
         "dex": "0695",
         "nameJPN": "エレザード",
         "nameENG": "Heliolisk",
-        "data": ["kalos"]
+        "region": "Kalos",
+        "collection": []
     },
     {
         "dex": "0696",
         "nameJPN": "チゴラス",
         "nameENG": "Tyrunt",
-        "data": ["kalos"]
+        "region": "Kalos",
+        "collection": []
     },
     {
         "dex": "0697",
         "nameJPN": "ガチゴラス",
         "nameENG": "Tyrantrum",
-        "data": ["kalos"]
+        "region": "Kalos",
+        "collection": []
     },
     {
         "dex": "0698",
         "nameJPN": "アマルス",
         "nameENG": "Amaura",
-        "data": ["kalos"]
+        "region": "Kalos",
+        "collection": []
     },
     {
         "dex": "0699",
         "nameJPN": "アマルルガ",
         "nameENG": "Aurorus",
-        "data": ["kalos"]
+        "region": "Kalos",
+        "collection": []
     },
     {
         "dex": "0700",
         "nameJPN": "ニンフィア",
         "nameENG": "Sylveon",
-        "data": ["kalos", "eevee"]
+        "region": "Kalos",
+        "collection": ["eevee"]
     },
     {
         "dex": "0701",
         "nameJPN": "ルチャブル",
         "nameENG": "Hawlucha",
-        "data": ["kalos"]
+        "region": "Kalos",
+        "collection": []
     },
     {
         "dex": "0702",
         "nameJPN": "デデンネ",
         "nameENG": "Dedenne",
-        "data": ["kalos"]
+        "region": "Kalos",
+        "collection": ["pikachu"]
     },
     {
         "dex": "0703",
         "nameJPN": "メレシー",
         "nameENG": "Carbink",
-        "data": ["kalos"]
+        "region": "Kalos",
+        "collection": []
     },
     {
         "dex": "0704",
         "nameJPN": "ヌメラ",
         "nameENG": "Goomy",
-        "data": ["kalos", "bs600"]
+        "region": "Kalos",
+        "collection": ["bs600"]
     },
     {
         "dex": "0705",
         "nameJPN": "ヌメイル",
         "nameENG": "Sliggoo",
-        "data": ["kalos", "bs600"]
+        "region": "Kalos",
+        "collection": ["bs600"]
     },
     {
         "dex": "0706",
         "nameJPN": "ヌメルゴン",
         "nameENG": "Goodra",
-        "data": ["kalos", "bs600"]
+        "region": "Kalos",
+        "collection": ["bs600"]
     },
     {
         "dex": "0707",
         "nameJPN": "クレッフィ",
         "nameENG": "Klefki",
-        "data": ["kalos"]
+        "region": "Kalos",
+        "collection": []
     },
     {
         "dex": "0708",
         "nameJPN": "ボクレー",
         "nameENG": "Phantump",
-        "data": ["kalos"]
+        "region": "Kalos",
+        "collection": []
     },
     {
         "dex": "0709",
         "nameJPN": "オーロット",
         "nameENG": "Trevenant",
-        "data": ["kalos"]
+        "region": "Kalos",
+        "collection": []
     },
     {
         "dex": "0710",
         "nameJPN": "バケッチャ",
         "nameENG": "Pumpkaboo",
-        "data": ["kalos"]
+        "region": "Kalos",
+        "collection": []
     },
     {
         "dex": "0711",
         "nameJPN": "パンプジン",
         "nameENG": "Gourgeist",
-        "data": ["kalos"]
+        "region": "Kalos",
+        "collection": []
     },
     {
         "dex": "0712",
         "nameJPN": "カチコール",
         "nameENG": "Bergmite",
-        "data": ["kalos"]
+        "region": "Kalos",
+        "collection": []
     },
     {
         "dex": "0713",
         "nameJPN": "クレベース",
         "nameENG": "Avalugg",
-        "data": ["kalos"]
+        "region": "Kalos",
+        "collection": []
     },
     {
         "dex": "0714",
         "nameJPN": "オンバット",
         "nameENG": "Noibat",
-        "data": ["kalos"]
+        "region": "Kalos",
+        "collection": []
     },
     {
         "dex": "0715",
         "nameJPN": "オンバーン",
         "nameENG": "Noivern",
-        "data": ["kalos"]
+        "region": "Kalos",
+        "collection": []
     },
     {
         "dex": "0716N",
-        "nameJPN": "",
-        "nameENG": "",
-        "data": ["kalos"]
+        "nameJPN": "ゼルネアス (リラックス)",
+        "nameENG": "Xerneas (Neutral)",
+        "region": "Kalos",
+        "collection": []
     },
     {
         "dex": "0716",
-        "nameJPN": "ゼルネアス",
-        "nameENG": "Xerneas",
-        "data": ["kalos", "legendary"]
+        "nameJPN": "ゼルネアス (アクティブ)",
+        "nameENG": "Xerneas (Active)",
+        "region": "Kalos",
+        "collection": ["legendary"]
     },
     {
         "dex": "0717",
         "nameJPN": "イベルタル",
         "nameENG": "Yveltal",
-        "data": ["kalos", "legendary"]
+        "region": "Kalos",
+        "collection": ["legendary"]
     },
     {
         "dex": "0718T",
-        "nameJPN": "",
+        "nameJPN": "ジガルデ (10%)",
         "nameENG": "Zygarde 10%",
-        "data": ["kalos", "legendary"]
+        "region": "Kalos",
+        "collection": ["legendary"]
     },
     {
         "dex": "0718",
-        "nameJPN": "ジガルデ",
+        "nameJPN": "ジガルデ (50%)",
         "nameENG": "Zygarde 50%",
-        "data": ["kalos", "legendary"]
+        "region": "Kalos",
+        "collection": ["legendary"]
     },
     {
         "dex": "0718C",
-        "nameJPN": "",
+        "nameJPN": "ジガルデ (パーフェクト)",
         "nameENG": "Zygarde Complete",
-        "data": ["kalos", "legendary"]
+        "region": "Kalos",
+        "collection": ["legendary"]
     },
     {
         "dex": "0719",
         "nameJPN": "ディアンシー",
         "nameENG": "Diancie",
-        "data": ["kalos", "mirage"]
+        "region": "Kalos",
+        "collection": ["mythical"]
     },
     {
         "dex": "0719M",
         "nameJPN": "メガディアンシー",
         "nameENG": "Mega Diancie",
-        "data": ["kalos", "mega", "mirage"]
+        "region": "Kalos",
+        "collection": ["mega", "mythical"]
     },
     {
         "dex": "0720",
-        "nameJPN": "いましめられしフーパ",
+        "nameJPN": "いましめられし フーパ",
         "nameENG": "Hoopa Confined",
-        "data": ["kalos", "mirage"]
+        "region": "Kalos",
+        "collection": ["mythical"]
     },
     {
         "dex": "0720U",
-        "nameJPN": "ときはなたれしフーパ",
+        "nameJPN": "ときはなたれし フーパ",
         "nameENG": "Hoopa Unbound",
-        "data": ["kalos", "mirage"]
+        "region": "Kalos",
+        "collection": ["mythical"]
     },
     {
         "dex": "0721",
         "nameJPN": "ボルケニオン",
         "nameENG": "Volcanion",
-        "data": ["kalos", "mirage"]
+        "region": "Kalos",
+        "collection": ["mythical"]
     },
     {
         "dex": "0722",
         "nameJPN": "モクロー",
         "nameENG": "Rowlet",
-        "data": ["alola", "starter"]
+        "region": "Alola",
+        "collection": ["starter"]
     },
     {
         "dex": "0723",
         "nameJPN": "フクスロー",
         "nameENG": "Dartrix",
-        "data": ["alola", "starter"]
+        "region": "Alola",
+        "collection": ["starter"]
     },
     {
         "dex": "0724",
         "nameJPN": "ジュナイパー",
         "nameENG": "Decidueye",
-        "data": ["alola", "starter"]
+        "region": "Alola",
+        "collection": ["starter"]
     },
     {
         "dex": "0725",
         "nameJPN": "ニャビー",
         "nameENG": "Litten",
-        "data": ["alola", "starter"]
+        "region": "Alola",
+        "collection": ["starter"]
     },
     {
         "dex": "0726",
         "nameJPN": "ニャヒート",
         "nameENG": "Torracat",
-        "data": ["alola", "starter"]
+        "region": "Alola",
+        "collection": ["starter"]
     },
     {
         "dex": "0727",
         "nameJPN": "ガオガエン",
         "nameENG": "Incineroar",
-        "data": ["alola", "starter"]
+        "region": "Alola",
+        "collection": ["starter"]
     },
     {
         "dex": "0728",
         "nameJPN": "アシマリ",
         "nameENG": "Popplio",
-        "data": ["alola", "starter"]
+        "region": "Alola",
+        "collection": ["starter"]
     },
     {
         "dex": "0729",
         "nameJPN": "オシャマリ",
         "nameENG": "Brionne",
-        "data": ["alola", "starter"]
+        "region": "Alola",
+        "collection": ["starter"]
     },
     {
         "dex": "0730",
         "nameJPN": "アシレーヌ",
         "nameENG": "Primarina",
-        "data": ["alola", "starter"]
+        "region": "Alola",
+        "collection": ["starter"]
     },
     {
         "dex": "0731",
         "nameJPN": "ツツケラ",
         "nameENG": "Pikipek",
-        "data": ["alola"]
+        "region": "Alola",
+        "collection": []
     },
     {
         "dex": "0732",
         "nameJPN": "ケララッパ",
         "nameENG": "Trumbeak",
-        "data": ["alola"]
+        "region": "Alola",
+        "collection": []
     },
     {
         "dex": "0733",
         "nameJPN": "ドデカバシ",
         "nameENG": "Toucannon",
-        "data": ["alola"]
+        "region": "Alola",
+        "collection": []
     },
     {
         "dex": "0734",
         "nameJPN": "ヤングース",
         "nameENG": "Yungoos",
-        "data": ["alola"]
+        "region": "Alola",
+        "collection": []
     },
     {
         "dex": "0735",
         "nameJPN": "デカグース",
         "nameENG": "Gumshoos",
-        "data": ["alola"]
+        "region": "Alola",
+        "collection": []
     },
     {
         "dex": "0736",
         "nameJPN": "アゴジムシ",
         "nameENG": "Grubbin",
-        "data": ["alola"]
+        "region": "Alola",
+        "collection": []
     },
     {
         "dex": "0737",
         "nameJPN": "デンヂムシ",
         "nameENG": "Charjabug",
-        "data": ["alola"]
+        "region": "Alola",
+        "collection": []
     },
     {
         "dex": "0738",
         "nameJPN": "クワガノン",
         "nameENG": "Vikavolt",
-        "data": ["alola"]
+        "region": "Alola",
+        "collection": []
     },
     {
         "dex": "0739",
         "nameJPN": "マケンカニ",
         "nameENG": "Crabrawler",
-        "data": ["alola"]
+        "region": "Alola",
+        "collection": []
     },
     {
         "dex": "0740",
         "nameJPN": "ケケンカニ",
         "nameENG": "Crabominable",
-        "data": ["alola"]
+        "region": "Alola",
+        "collection": []
     },
     {
         "dex": "0741",
         "nameJPN": "オドリドリ めらめら",
         "nameENG": "Oricorio Baille",
-        "data": ["alola"]
+        "region": "Alola",
+        "collection": []
     },
     {
         "dex": "0741Po",
         "nameJPN": "オドリドリ ぱちぱち",
         "nameENG": "Oricorio PomPom",
-        "data": ["alola"]
+        "region": "Alola",
+        "collection": []
     },
     {
         "dex": "0741Pa",
         "nameJPN": "オドリドリ ふらふら",
         "nameENG": "Oricorio Pau",
-        "data": ["alola"]
+        "region": "Alola",
+        "collection": []
     },
     {
         "dex": "0741Se",
         "nameJPN": "オドリドリ まいまい",
         "nameENG": "Oricorio Sensu",
-        "data": ["alola"]
+        "region": "Alola",
+        "collection": []
     },
     {
         "dex": "0742",
         "nameJPN": "アブリー",
         "nameENG": "Cutiefly",
-        "data": ["alola"]
+        "region": "Alola",
+        "collection": []
     },
     {
         "dex": "0743",
         "nameJPN": "アブリボン",
         "nameENG": "Ribombee",
-        "data": ["alola"]
+        "region": "Alola",
+        "collection": []
     },
     {
         "dex": "0744",
         "nameJPN": "イワンコ",
         "nameENG": "Rockruff",
-        "data": ["alola"]
+        "region": "Alola",
+        "collection": []
     },
     {
         "dex": "0745",
         "nameJPN": "ルガルガン まひるのすがた",
         "nameENG": "Lycanroc Midday",
-        "data": ["alola"]
+        "region": "Alola",
+        "collection": []
     },
     {
         "dex": "0745Mn",
         "nameJPN": "ルガルガン まよなかのすがた",
         "nameENG": "Lycanroc Midnight",
-        "data": ["alola"]
+        "region": "Alola",
+        "collection": []
     },
     {
         "dex": "0746",
         "nameJPN": "ヨワシ",
         "nameENG": "Wishiwashi",
-        "data": ["alola"]
+        "region": "Alola",
+        "collection": []
     },
     {
         "dex": "0746Sc",
         "nameJPN": "ヨワシ むれたすがた",
         "nameENG": "Wishiwashi School",
-        "data": ["alola"]
+        "region": "Alola",
+        "collection": []
     },
     {
         "dex": "0747",
         "nameJPN": "ヒドイデ",
         "nameENG": "Mareanie",
-        "data": ["alola"]
+        "region": "Alola",
+        "collection": []
     },
     {
         "dex": "0748",
         "nameJPN": "ドヒドイデ",
         "nameENG": "Toxapex",
-        "data": ["alola"]
+        "region": "Alola",
+        "collection": []
     },
     {
         "dex": "0749",
         "nameJPN": "ドロバンコ",
         "nameENG": "Mudbray",
-        "data": ["alola"]
+        "region": "Alola",
+        "collection": []
     },
     {
         "dex": "0750",
         "nameJPN": "バンバドロ",
         "nameENG": "Mudsdale",
-        "data": ["alola"]
+        "region": "Alola",
+        "collection": []
     },
     {
         "dex": "0751",
         "nameJPN": "シズクモ",
         "nameENG": "Dewpider",
-        "data": ["alola"]
+        "region": "Alola",
+        "collection": []
     },
     {
         "dex": "0752",
         "nameJPN": "オニシズクモ",
         "nameENG": "Araquanid",
-        "data": ["alola"]
+        "region": "Alola",
+        "collection": []
     },
     {
         "dex": "0753",
         "nameJPN": "カリキリ",
         "nameENG": "Fomantis",
-        "data": ["alola"]
+        "region": "Alola",
+        "collection": []
     },
     {
         "dex": "0754",
         "nameJPN": "ラランテス",
         "nameENG": "Lurantis",
-        "data": ["alola"]
+        "region": "Alola",
+        "collection": []
     },
     {
         "dex": "0755",
         "nameJPN": "ネマシュ",
         "nameENG": "Morelull",
-        "data": ["alola"]
+        "region": "Alola",
+        "collection": []
     },
     {
         "dex": "0756",
         "nameJPN": "マシェード",
         "nameENG": "Shiinotic",
-        "data": ["alola"]
+        "region": "Alola",
+        "collection": []
     },
     {
         "dex": "0757",
         "nameJPN": "ヤトウモリ",
         "nameENG": "Salandit",
-        "data": ["alola"]
+        "region": "Alola",
+        "collection": []
     },
     {
         "dex": "0758",
         "nameJPN": "エンニュート",
         "nameENG": "Salazzle",
-        "data": ["alola"]
+        "region": "Alola",
+        "collection": []
     },
     {
         "dex": "0759",
         "nameJPN": "ヌイコグマ",
         "nameENG": "Stufful",
-        "data": ["alola"]
+        "region": "Alola",
+        "collection": []
     },
     {
         "dex": "0760",
         "nameJPN": "キテルグマ",
         "nameENG": "Bewear",
-        "data": ["alola"]
+        "region": "Alola",
+        "collection": []
     },
     {
         "dex": "0761",
         "nameJPN": "アマカジ",
         "nameENG": "Bounsweet",
-        "data": ["alola"]
+        "region": "Alola",
+        "collection": []
     },
     {
         "dex": "0762",
         "nameJPN": "アママイコ",
         "nameENG": "Steenee",
-        "data": ["alola"]
+        "region": "Alola",
+        "collection": []
     },
     {
         "dex": "0763",
         "nameJPN": "アマージョ",
         "nameENG": "Tsareena",
-        "data": ["alola"]
+        "region": "Alola",
+        "collection": []
     },
     {
         "dex": "0764",
         "nameJPN": "キュワワー",
         "nameENG": "Comfey",
-        "data": ["alola"]
+        "region": "Alola",
+        "collection": []
     },
     {
         "dex": "0765",
         "nameJPN": "ヤレユータン",
         "nameENG": "Oranguru",
-        "data": ["alola"]
+        "region": "Alola",
+        "collection": []
     },
     {
         "dex": "0766",
         "nameJPN": "ナゲツケサル",
         "nameENG": "Passimian",
-        "data": ["alola"]
+        "region": "Alola",
+        "collection": []
     },
     {
         "dex": "0767",
         "nameJPN": "コソクムシ",
         "nameENG": "Wimpod",
-        "data": ["alola"]
+        "region": "Alola",
+        "collection": []
     },
     {
         "dex": "0768",
         "nameJPN": "グソクムシャ",
         "nameENG": "Golisopod",
-        "data": ["alola"]
+        "region": "Alola",
+        "collection": []
     },
     {
         "dex": "0769",
         "nameJPN": "スナバァ",
         "nameENG": "Sandygast",
-        "data": ["alola"]
+        "region": "Alola",
+        "collection": []
     },
     {
         "dex": "0770",
         "nameJPN": "シロデスナ",
         "nameENG": "Palossand",
-        "data": ["alola"]
+        "region": "Alola",
+        "collection": []
     },
     {
         "dex": "0771",
         "nameJPN": "ナマコブシ",
         "nameENG": "Pyukumuku",
-        "data": ["alola"]
+        "region": "Alola",
+        "collection": []
     },
     {
         "dex": "0772",
         "nameJPN": "タイプ：ヌル",
         "nameENG": "Type: Null",
-        "data": ["alola"]
+        "region": "Alola",
+        "collection": []
     },
     {
         "dex": "0773",
         "nameJPN": "シルヴァディ",
         "nameENG": "Silvally",
-        "data": ["alola"]
+        "region": "Alola",
+        "collection": []
     },
     {
         "dex": "0774",
         "nameJPN": "メテノ りゅうせいのすがた",
         "nameENG": "Minior Shield",
-        "data": ["alola"]
+        "region": "Alola",
+        "collection": []
     },
     {
         "dex": "0774R",
         "nameJPN": "メテノ 赤",
         "nameENG": "Minior Red",
-        "data": ["alola"]
+        "region": "Alola",
+        "collection": []
     },
     {
         "dex": "0774O",
         "nameJPN": "メテノ 橙",
         "nameENG": "Minior Orange",
-        "data": ["alola"]
+        "region": "Alola",
+        "collection": []
     },
     {
         "dex": "0774Y",
         "nameJPN": "メテノ 黄",
         "nameENG": "Minior Yellow",
-        "data": ["alola"]
+        "region": "Alola",
+        "collection": []
     },
     {
         "dex": "0774G",
         "nameJPN": "メテノ 緑",
         "nameENG": "Minior Green",
-        "data": ["alola"]
+        "region": "Alola",
+        "collection": []
     },
     {
         "dex": "0774B",
         "nameJPN": "メテノ 青",
         "nameENG": "Minior Blue",
-        "data": ["alola"]
+        "region": "Alola",
+        "collection": []
     },
     {
         "dex": "0774I",
         "nameJPN": "メテノ 紺",
         "nameENG": "Minior Indigo",
-        "data": ["alola"]
+        "region": "Alola",
+        "collection": []
     },
     {
         "dex": "0774V",
         "nameJPN": "メテノ 紫",
         "nameENG": "Minior Violet",
-        "data": ["alola"]
+        "region": "Alola",
+        "collection": []
     },
     {
         "dex": "0775",
         "nameJPN": "ネッコアラ",
         "nameENG": "Komala",
-        "data": ["alola"]
+        "region": "Alola",
+        "collection": []
     },
     {
         "dex": "0776",
         "nameJPN": "バクガメス",
         "nameENG": "Turtonator",
-        "data": ["alola"]
+        "region": "Alola",
+        "collection": []
     },
     {
         "dex": "0777",
         "nameJPN": "トゲデマル",
         "nameENG": "Togedemaru",
-        "data": ["alola"]
+        "region": "Alola",
+        "collection": ["pikachu"]
     },
     {
         "dex": "0778",
         "nameJPN": "ミミッキュ",
         "nameENG": "Mimikyu",
-        "data": ["alola"]
+        "region": "Alola",
+        "collection": []
     },
     {
         "dex": "0779",
         "nameJPN": "ハギギシリ",
         "nameENG": "Bruxish",
-        "data": ["alola"]
+        "region": "Alola",
+        "collection": []
     },
     {
         "dex": "0780",
         "nameJPN": "ジジーロン",
         "nameENG": "Drampa",
-        "data": ["alola"]
+        "region": "Alola",
+        "collection": []
     },
     {
         "dex": "0781",
         "nameJPN": "ダダリン",
         "nameENG": "Dhelmise",
-        "data": ["alola"]
+        "region": "Alola",
+        "collection": []
     },
     {
         "dex": "0782",
         "nameJPN": "ジャラコ",
         "nameENG": "Jangmo-o",
-        "data": ["alola", "bs600"]
+        "region": "Alola",
+        "collection": ["bs600"]
     },
     {
         "dex": "0783",
         "nameJPN": "ジャランゴ",
         "nameENG": "Hakamo-o",
-        "data": ["alola", "bs600"]
+        "region": "Alola",
+        "collection": ["bs600"]
     },
     {
         "dex": "0784",
         "nameJPN": "ジャラランガ",
         "nameENG": "Kommo-o",
-        "data": ["alola", "bs600"]
+        "region": "Alola",
+        "collection": ["bs600"]
     },
     {
         "dex": "0785",
         "nameJPN": "カプ・コケコ",
         "nameENG": "Tapu Koko",
-        "data": ["alola", "trio"]
+        "region": "Alola",
+        "collection": ["trio"]
     },
     {
         "dex": "0786",
-        "nameJPN": "カプ・ブルル",
-        "nameENG": "Tapu Bulu",
-        "data": ["alola", "trio"]
+        "nameJPN": "カプ・テテフ",
+        "nameENG": "Tapu Lele",
+        "region": "Alola",
+        "collection": ["trio"]
     },
     {
         "dex": "0787",
-        "nameJPN": "カプ・テテフ",
-        "nameENG": "Tapu Lele",
-        "data": ["alola", "trio"]
+        "nameJPN": "カプ・ブルル",
+        "nameENG": "Tapu Bulu",
+        "region": "Alola",
+        "collection": ["trio"]
     },
     {
         "dex": "0788",
         "nameJPN": "カプ・レヒレ",
         "nameENG": "Tapu Fini",
-        "data": ["alola", "trio"]
+        "region": "Alola",
+        "collection": ["trio"]
     },
     {
         "dex": "0789",
         "nameJPN": "コスモッグ",
         "nameENG": "Cosmog",
-        "data": ["alola"]
+        "region": "Alola",
+        "collection": []
     },
     {
         "dex": "0790",
         "nameJPN": "コスモウム",
         "nameENG": "Cosmoem",
-        "data": ["alola"]
+        "region": "Alola",
+        "collection": []
     },
     {
         "dex": "0791",
         "nameJPN": "ソルガレオ",
         "nameENG": "Solgaleo",
-        "data": ["alola", "legendary"]
+        "region": "Alola",
+        "collection": ["legendary"]
     },
     {
         "dex": "0792",
         "nameJPN": "ルナアーラ",
         "nameENG": "Lunala",
-        "data": ["alola", "legendary"]
+        "region": "Alola",
+        "collection": ["legendary"]
     },
     {
         "dex": "0793",
         "nameJPN": "ウツロイド",
         "nameENG": "Nihilego",
-        "data": ["alola", "UB"]
+        "region": "Alola",
+        "collection": ["UB"]
     },
     {
         "dex": "0794",
         "nameJPN": "マッシブーン",
         "nameENG": "Buzzwole",
-        "data": ["alola", "UB"]
+        "region": "Alola",
+        "collection": ["UB"]
     },
     {
         "dex": "0795",
         "nameJPN": "フェローチェ",
         "nameENG": "Pheromosa",
-        "data": ["alola", "UB"]
+        "region": "Alola",
+        "collection": ["UB"]
     },
     {
         "dex": "0796",
         "nameJPN": "デンジュモク",
         "nameENG": "Xurkitree",
-        "data": ["alola", "UB"]
+        "region": "Alola",
+        "collection": ["UB"]
     },
     {
         "dex": "0797",
         "nameJPN": "テッカグヤ",
         "nameENG": "Celesteela",
-        "data": ["alola", "UB"]
+        "region": "Alola",
+        "collection": ["UB"]
     },
     {
         "dex": "0798",
         "nameJPN": "カミツルギ",
         "nameENG": "Kartana",
-        "data": ["alola", "UB"]
+        "region": "Alola",
+        "collection": ["UB"]
     },
     {
         "dex": "0799",
         "nameJPN": "アクジキング",
         "nameENG": "Guzzlord",
-        "data": ["alola", "UB"]
+        "region": "Alola",
+        "collection": ["UB"]
     },
     {
         "dex": "0800",
         "nameJPN": "ネクロズマ",
         "nameENG": "Necrozma",
-        "data": ["alola", "legendary"]
+        "region": "Alola",
+        "collection": ["legendary"]
     },
     {
         "dex": "0801",
         "nameJPN": "マギアナ",
         "nameENG": "Magearna",
-        "data": ["alola", "mirage"]
+        "region": "Alola",
+        "collection": ["mythical"]
     },
     {
         "dex": "0801O",
-        "nameJPN": "マギアナ オリジナル",
-        "nameENG": "Magearna Original",
-        "data": ["alola", "mirage"]
+        "nameJPN": "オリジナル マギアナ",
+        "nameENG": "Magearna (Original)",
+        "region": "Alola",
+        "collection": ["mythical"]
     },
     {
         "dex": "0802",
         "nameJPN": "マーシャドー",
         "nameENG": "Marshadow",
-        "data": ["alola"]
+        "region": "Alola",
+        "collection": ["mythical"]
     },
     {
         "dex": "Egg",
         "nameJPN": "タマゴ",
         "nameENG": "Egg",
-        "data": [""]
+        "region": "",
+        "collection": []
     }
 ]

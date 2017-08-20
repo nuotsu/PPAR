@@ -1,0 +1,269 @@
+/* Fonts */
+    @import url('https://fonts.googleapis.com/css?family=Press+Start+2P');
+    @font-face {
+        font-family: 'SF Pro Display';
+        src: url('../fonts/SF-Pro-Display-Regular.otf');
+    }
+
+/* Variables */
+    :root {
+        --font-size: 14px;
+        --transition: 0.3s ease-in-out;
+
+        --yellow: 252, 208, 49;
+        --red: 242, 69, 62;
+        --purple: 155, 48, 175;
+        --dark-blue: 64, 84, 178;
+        --light-blue: 30, 170, 242;
+        --green: 80, 175, 85;
+        --orange: 253, 151, 39;
+
+        --blur: blur(12px);
+    }
+    .blur {
+        border: 0.5px solid rgba(0,0,0, 0.5);
+        background: rgba(255, 255, 255, 0.7);
+        box-shadow: 0 4px 10px rgba(0,0,0, 0.3);
+    }
+    .blur-message {
+        border-radius: 10px;
+        background: rgba(0,0,0, 0.1);
+    }
+    @supports
+        (-webkit-backdrop-filter: var(--blur)) or
+        (-moz-backdrop-filter: var(--blur)) or
+        (backdrop-filter: var(--blur)) {
+        .blur {
+            -webkit-backdrop-filter: var(--blur);
+            -moz-backdrop-filter: var(--blur);
+            backdrop-filter: var(--blur);
+            background: rgba(255, 255, 255, 0.5);
+        }
+        .blur-message {
+            -webkit-backdrop-filter: var(--blur);
+            -moz-backdrop-filter: var(--blur);
+            backdrop-filter: var(--blur);
+        }
+
+/* Common */
+    * {
+        margin: 0;
+        padding: 0;
+        font-family: 'SF Pro Display';
+        font-size: var(--font-size);
+    }
+    body {
+        background: #eee;
+    }
+    input {
+        outline: none;
+        border: none;
+        border-radius: 4px;
+        height: 26px;
+        margin: 2px 0;
+        padding: 0 4px;
+        background: none;
+        font-size: var(--font-size);
+        transition: var(--transition);
+    }
+    input[type=number],
+    #ppaTotal { width: 60px; }
+    select {
+        cursor: pointer;
+        -webkit-appearance: none;
+        -moz-appearance: none;
+        appearance: none;
+        outline: none;
+        border: none;
+        height: 26px;
+        margin: 2px 0;
+        padding: 0 4px;
+        transition: var(--transition);
+    }
+    button {
+        cursor: pointer;
+        margin: 2px 0;
+        padding: 4px 6px;
+        border: none;
+        border-radius: 4px;
+        color: #fff;
+        transition: var(--transition);
+    }
+    button:matches(:not(#addSearch, #removeSearch)):hover {
+        box-shadow: 0 2px 5px rgba(0,0,0, 0.3);
+    }
+
+/* jQuery UI */
+    .ui-autocomplete {
+        position: relative;
+        z-index: 9999;
+        max-height: 200px;
+        overflow-y: scroll;
+    }
+
+/* Wallpaper */
+    #wallpaper {
+        display: block;
+        position: relative;
+        width: 100%;
+        height: 100vh;
+        margin: 0 auto;
+        overflow: scroll;
+    }
+    .html2canvasFix {
+        overflow: visible !important;
+        visibility: visible;
+    }
+
+/* Title & Copyright */
+    #ppaIcon {
+        text-align: center;
+        background-image: url('../images/ppaIcon_bg.png');
+        background-position: center;
+        background-size: cover;
+        background-repeat: no-repeat;
+    }
+    #ppaIcon img {
+        width: 40px;
+    }
+    .header p { margin: 0 2px; }
+    .header .subtitle { margin: 0 0 10px 0; }
+    .copyright p { margin: 10px 0 0 0; }
+    .header .title {
+        font-family: 'Press Start 2P', monospace;
+        font-size: 24px;
+    }
+    .header .subtitle {
+        font-style: italic;
+        font-size: 12px;
+        opacity: 0.5;
+    }
+    .copyright {
+        text-align: center;
+        color: rgba(0,0,0, 0.5);
+    }
+    .copyright p,
+    .copyright a {
+        font-size: 12px;
+        color: rgba(0,0,0, 0.5);
+    }
+
+/* Settings */
+    #openSettings {
+        cursor: pointer;
+        margin: -6px 6.3px -3px 6.5px;
+        font-size: 30px;
+    }
+    .settings {
+        position: fixed;
+        right: 11px;
+        top: 11px;
+        padding: 5px;
+        max-width: calc(100% - 33px);
+        max-height: calc(100vh - 41px - 69px);
+        overflow: scroll;
+        border-radius: 20px;
+        transition: var(--transition);
+    }
+    .settings:hover { transition: none; }
+    #settings tr td:first-child: { text-align: right; }
+    #lang { background: rgba(var(--red), 0.2); }
+    #lang:hover { background: rgba(var(--red), 1); }
+    #ppaTotal {
+        cursor: pointer;
+        border-radius: 4px;
+        margin: 2px 0;
+        padding: 4px;
+        background: rgba(var(--orange), 0.2);
+        text-align: center;
+        transition: var(--transition);
+    }
+    #ppaTotal:hover {
+        background: rgba(var(--orange), 1);
+    }
+    #width, #height, #ppaSize { text-align: right; }
+    #width:matches(:hover, :focus),
+    #height:matches(:hover, :focus),
+    #ppaSize:matches(:hover, :focus) {
+        background: rgba(var(--yellow), 1);
+    }
+    #size,
+    #width, #height,
+    #ppaSize { background: rgba(var(--yellow), 0.2); }
+    #size:hover { background: rgba(var(--yellow), 1); }
+    #region, #collection { background: rgba(var(--green), 0.2); }
+    #region:hover,
+    #collection:hover { background: rgba(var(--green), 1); }
+    .search {
+        width: 120px;
+        font-size: 14px;
+        background: rgba(var(--dark-blue), 0.2);
+        color: rgba(var(--dark-blue), 1);
+    }
+    .search:hover,
+    .search:focus {
+        background: rgba(var(--dark-blue), 1);
+        color: #fff;
+    }
+    #addSearch,
+    #removeSearch {
+        margin: 0 2px;
+        padding: 0;
+        width: 20px;
+        height: 20px;
+        border-radius: 20px;
+    }
+    #addSearch,
+    #removeSearch { background: rgba(var(--dark-blue), 0.2); }
+    #addSearch:hover,
+    #removeSearch:hover { background: rgba(var(--dark-blue), 1); }
+    #search { background: rgba(var(--dark-blue), 1); }
+    #bgIMG { background: rgba(var(--purple), 0.2); }
+    #bgIMG:hover { background: rgba(var(--purple), 1); }
+
+/* Buttons */
+    #buttons {
+        position: fixed;
+        left: 50%;
+        bottom: 0;
+        padding: 5px;
+        border-bottom: none;
+        border-radius: 5px 5px 0 0;
+        transform: translate(-50%, 0);
+    }
+    #buttons button { margin: 0 4px; }
+    #randomize {
+        background: rgba(var(--yellow), 1);
+        color: #000;
+    }
+    #organize { background: rgba(var(--red), 1); }
+    #save { background: rgba(var(--green), 1); }
+
+/* Preview */
+    #preview { text-align: center; }
+    .generated {
+        position: fixed;
+        left: 50%;
+        top: 50%;
+        transform: translate(-50%, -50%);
+        width: 200px;
+        padding: 20px;
+        color: rgba(0,0,0, 0.7);
+    }
+    .generated p span { margin: 0 10px; }
+    .preview {
+        margin: 0 5px;
+        text-decoration: none;
+    }
+    .preview img {
+        max-width: 300px;
+        max-height: 300px;
+        margin: 10px 0 50px 0;
+        vertical-align: middle;
+        border: 0.5px solid rgba(0,0,0, 0.5);
+        transition: var(--transition);
+    }
+    .preview img:hover {
+        opacity: 0.5;
+        box-shadow: 0 4px 10px rgba(0,0,0, 0.3);
+    }
