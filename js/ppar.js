@@ -28,6 +28,7 @@
                     <img
                         src="images/ppa/${ppaJSON[i].dex}_PPA.png"
                         data-region="${ppaJSON[i].region}"
+                        data-type="${ppaJSON[i].type.join(' ')}"
                         data-collection="${ppaJSON[i].collection.join(' ')}"
                     >
                 `)
@@ -56,15 +57,11 @@
     $('.settings').hover(function() {
         $('#settings').show()
         $('.settings').css({
-            'border-radius': 5
+            'border-radius': 5,
+            'width': 'auto',
+            'height': 'auto'
         })
-        $('#openSettings')
-            .html('×')
-            .css({
-                'position': 'fixed',
-                'right': 16.5,
-                'top': 16.5
-            })
+        $('#openSettings').html('×')
         var rPPA = ppaDex[Math.floor(Math.random() * ppaDex.length)]
             iPPA = `images/ppa/${rPPA}_PPA.png`
         $('#ppaIcon img').attr({
@@ -79,13 +76,11 @@
     function closeSettings() {
         $('#settings').hide()
         $('.settings').css({
-            'border-radius': 20
+            'border-radius': 20,
+            'width': 30,
+            'height': 30
         })
-        $('#openSettings')
-            .html('≡')
-            .css({
-                'position': 'static'
-            })
+        $('#openSettings').html('≡')
     }
 
 // Dimensions
@@ -118,12 +113,26 @@
     }
 
 // Collections
-    $('#region, #collection').change(function() {
+    $('#region, #type1, #type2, #collection').change(function() {
         var region = $('#region').val()
             if (region == 'all') $('#wallpaper img').addClass('showRegion')
             else {
                 $('#wallpaper img').removeClass('showRegion')
                 $(`#wallpaper img[data-region=${region}]`).addClass('showRegion')
+            }
+        var type1 = $('#type1').val()
+            type2 = $('#type2').val()
+            if (type1 == 'all') {
+                $('#type2')
+                    .val('all')
+                    .attr('disabled', true)
+                $('#wallpaper img').addClass('showType')
+            } else {
+                $('#type2').attr('disabled', false)
+                $('#wallpaper img').removeClass('showType')
+                if (type2 == 'all') $(`#wallpaper img[data-type*=${type1}]`).addClass('showType')
+                if (type2 == 'none') $(`#wallpaper img[data-type=${type1}]`).addClass('showType')
+                else $(`#wallpaper img[data-type*=${type1}][data-type*=${type2}]`).addClass('showType')
             }
         var collection = $('#collection').val()
             if (collection == 'all') $('#wallpaper img').addClass('showCollection')
@@ -132,7 +141,7 @@
                 $(`#wallpaper img[data-collection*=${collection}]`).addClass('showCollection')
             }
         $('#wallpaper img').css('display', 'none')
-        $('.showRegion.showCollection').css('display', 'inline')
+        $('.showRegion.showType.showCollection').css('display', 'inline')
         $('#ppaTotal').html( $('#wallpaper img[style*=inline]').length )
     })
 
@@ -153,7 +162,14 @@
     $('#addSearch').click(function() {
         $('#removeSearch').remove()
         $(this)
-            .before(`<br class="searchBR"><input class="search s${$('.search').length}" type="text" data-JPN="ピカチュウ" data-ENG="Pikachu">\n`)
+            .before(`
+                <br class="searchBR">
+                <input
+                    class="search s${$('.search').length}"
+                    type="text"
+                    data-JPN="ピカチュウ"
+                    data-ENG="Pikachu">\n
+                `)
             .after('<button id="removeSearch">-</button>')
         language( $('#lang').val() )
         $('#removeSearch').click(function() {

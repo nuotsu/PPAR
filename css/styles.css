@@ -52,9 +52,7 @@
         font-family: 'SF Pro Display';
         font-size: var(--font-size);
     }
-    body {
-        background: #eee;
-    }
+    body { background: #eee; }
     input {
         outline: none;
         border: none;
@@ -127,6 +125,7 @@
         width: 40px;
     }
     .header p { margin: 0 2px; }
+    .header .title { margin: 10px 0 5px 0; }
     .header .subtitle { margin: 0 0 10px 0; }
     .copyright p { margin: 10px 0 0 0; }
     .header .title {
@@ -151,7 +150,9 @@
 /* Settings */
     #openSettings {
         cursor: pointer;
-        margin: -6px 6.3px -3px 6.5px;
+        position: absolute;
+        right: 11px;
+        top: -1px;
         font-size: 30px;
     }
     .settings {
@@ -159,8 +160,10 @@
         right: 11px;
         top: 11px;
         padding: 5px;
+        width: 30px;
+        height: 30px;
         max-width: calc(100% - 33px);
-        max-height: calc(100vh - 41px - 69px);
+        max-height: calc(100vh - 115px);
         overflow: scroll;
         border-radius: 20px;
         transition: var(--transition);
@@ -191,8 +194,12 @@
     #width, #height,
     #ppaSize { background: rgba(var(--yellow), 0.2); }
     #size:hover { background: rgba(var(--yellow), 1); }
-    #region, #collection { background: rgba(var(--green), 0.2); }
+    #region,
+    #type1, #type2,
+    #collection { background: rgba(var(--green), 0.2); }
     #region:hover,
+    #type1:hover,
+    #type2:not([disabled]):hover,
     #collection:hover { background: rgba(var(--green), 1); }
     .search {
         width: 120px;
