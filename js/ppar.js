@@ -262,7 +262,7 @@
         html2canvas($('#wallpaper'), {
             onrendered: function(canvas) {
                 url = canvas.toDataURL('image/png')
-                $('#preview').append(`
+                $('#preview').html(`
                     <a class="preview" href="${url}" download="PPAR.png">
                         <img src=${url}>
                     </a>
@@ -337,6 +337,9 @@
                     mouseX = mouse.pageX - $('#popupDex').width()
                 else
                     mouseX = mouse.pageX
+                if (mouse.pageX > $(window).width() - $('#popupDex').width() &&
+                        mouse.pageX < $('#popupDex').width())
+                    mouseX = `calc(50% - ${$('#popupDex').width()/2}px)`
                 if (mouse.pageY > $(window).height() - $('#popupDex').height() - $('#buttons').height())
                     mouseY = mouse.pageY - $('#popupDex').height() - $('#buttons').height()
                 else
