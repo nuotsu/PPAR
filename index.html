@@ -9,7 +9,8 @@
     <title>PPAR | Pokémon Pixel Art Randomizer</title>
 
 	<link rel="stylesheet" href="https://code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
-        <link rel="stylesheet" type="text/css" href="css/styles.css">
+    <link rel="stylesheet" type="text/css" href="css/styles.css">
+    <link rel="stylesheet" type="text/css" href="css/popupDex.css">
 
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
     <script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.js"></script>
@@ -19,12 +20,29 @@
 <body>
     <div id="wallpaper"></div>
 
+    <div id="popupDex" class="blur">
+        <div id="closeDex">×</div>
+        <table>
+            <tr>
+                <td class="entryInfo">
+                    <p id="entryPPA">
+                        <a target="_blank"><img></a>
+                    </p>
+                    <p id="entryNum"></p>
+                </td>
+                <td><b id="entryName"></b></td>
+                <td id="entryType"></td>
+                <td><div style="width: 18px;"></div></td>
+            </tr>
+        </table>
+    </div>
+
     <div class="settings blur">
         <div id="openSettings">≡</div>
         <table id="settings">
             <tr>
-                <td id="ppaIcon">
-                    <img>
+                <td id="titlePPA">
+                    <a target="_blank"><img></a>
                 </td>
                 <td class="header" colspan="2">
                     <p class="title">PPAR</p>
@@ -93,14 +111,14 @@
                         <option value="water" data-JPN="みず" data-ENG="Water"></option>
                         <option value="grass" data-JPN="くさ" data-ENG="Grass"></option>
                         <option value="electric" data-JPN="でんき" data-ENG="Electric"></option>
-                        <option value="rock" data-JPN="いわ" data-ENG="Rock"></option>
-                        <option value="ground" data-JPN="じめん" data-ENG="Ground"></option>
                         <option value="ice" data-JPN="こおり" data-ENG="Ice"></option>
-                        <option value="poison" data-JPN="どく" data-ENG="Poison"></option>
-                        <option value="psychic" data-JPN="エスパー" data-ENG="Psychic"></option>
                         <option value="fighting" data-JPN="かくとう" data-ENG="Fighting"></option>
+                        <option value="poison" data-JPN="どく" data-ENG="Poison"></option>
+                        <option value="ground" data-JPN="じめん" data-ENG="Ground"></option>
                         <option value="flying" data-JPN="ひこう" data-ENG="Flying"></option>
+                        <option value="psychic" data-JPN="エスパー" data-ENG="Psychic"></option>
                         <option value="bug" data-JPN="むし" data-ENG="Bug"></option>
+                        <option value="rock" data-JPN="いわ" data-ENG="Rock"></option>
                         <option value="ghost" data-JPN="ゴースト" data-ENG="Ghost"></option>
                         <option value="dragon" data-JPN="ドラゴン" data-ENG="Dragon"></option>
                         <option value="dark" data-JPN="あく" data-ENG="Dark"></option>
@@ -115,14 +133,14 @@
                         <option value="water" data-JPN="みず" data-ENG="Water"></option>
                         <option value="grass" data-JPN="くさ" data-ENG="Grass"></option>
                         <option value="electric" data-JPN="でんき" data-ENG="Electric"></option>
-                        <option value="rock" data-JPN="いわ" data-ENG="Rock"></option>
-                        <option value="ground" data-JPN="じめん" data-ENG="Ground"></option>
                         <option value="ice" data-JPN="こおり" data-ENG="Ice"></option>
-                        <option value="poison" data-JPN="どく" data-ENG="Poison"></option>
-                        <option value="psychic" data-JPN="エスパー" data-ENG="Psychic"></option>
                         <option value="fighting" data-JPN="かくとう" data-ENG="Fighting"></option>
+                        <option value="poison" data-JPN="どく" data-ENG="Poison"></option>
+                        <option value="ground" data-JPN="じめん" data-ENG="Ground"></option>
                         <option value="flying" data-JPN="ひこう" data-ENG="Flying"></option>
+                        <option value="psychic" data-JPN="エスパー" data-ENG="Psychic"></option>
                         <option value="bug" data-JPN="むし" data-ENG="Bug"></option>
+                        <option value="rock" data-JPN="いわ" data-ENG="Rock"></option>
                         <option value="ghost" data-JPN="ゴースト" data-ENG="Ghost"></option>
                         <option value="dragon" data-JPN="ドラゴン" data-ENG="Dragon"></option>
                         <option value="dark" data-JPN="あく" data-ENG="Dark"></option>
@@ -187,7 +205,7 @@
     </table>
 
     <div id="preview">
-        <div class="generated blur-message">
+        <div class="generated blur">
             <p>
                 <b data-JPN="画像が作成されました" data-ENG="PPAR Image Generated"></b>
             </p>

@@ -22,12 +22,9 @@
     }
     .blur {
         border: 0.5px solid rgba(0,0,0, 0.5);
+        border-radius: 5px;
         background: rgba(255, 255, 255, 0.7);
         box-shadow: 0 4px 10px rgba(0,0,0, 0.3);
-    }
-    .blur-message {
-        border-radius: 10px;
-        background: rgba(0,0,0, 0.1);
     }
     @supports
         (-webkit-backdrop-filter: var(--blur)) or
@@ -65,7 +62,6 @@
         transition: var(--transition);
     }
     input[type=number],
-    #ppaTotal { width: 60px; }
     select {
         cursor: pointer;
         -webkit-appearance: none;
@@ -108,31 +104,43 @@
         margin: 0 auto;
         overflow: scroll;
     }
+    #wallpaper img:hover {
+        background-image: url('../images/ppaIcon_bg.png');
+        background-position: center;
+        background-size: cover;
+        background-repeat: no-repeat;
+    }
     .html2canvasFix {
         overflow: visible !important;
         visibility: visible;
     }
 
 /* Title & Copyright */
-    #ppaIcon {
+    #titlePPA, #entryPPA {
         text-align: center;
         background-image: url('../images/ppaIcon_bg.png');
         background-position: center;
         background-size: cover;
         background-repeat: no-repeat;
     }
-    #ppaIcon img {
+    #titlePPA a,
+    #entryPPA a {
+        text-decoration: none;
+        display: inline-block;
+    }
+    #titlePPA img,
+    #dexPPA img {
         width: 40px;
+        height: 40px;
     }
     .header p { margin: 0 2px; }
-    .header .title { margin: 10px 0 5px 0; }
-    .header .subtitle { margin: 0 0 10px 0; }
-    .copyright p { margin: 10px 0 0 0; }
     .header .title {
+        margin: 10px 0 5px 0;
         font-family: 'Press Start 2P', monospace;
         font-size: 24px;
     }
     .header .subtitle {
+        margin: 0 0 10px 0;
         font-style: italic;
         font-size: 12px;
         opacity: 0.5;
@@ -141,6 +149,7 @@
         text-align: center;
         color: rgba(0,0,0, 0.5);
     }
+    .copyright p { margin: 10px 0 0 0; }
     .copyright p,
     .copyright a {
         font-size: 12px;
@@ -175,6 +184,7 @@
     #ppaTotal {
         cursor: pointer;
         border-radius: 4px;
+        width: 60px;
         margin: 2px 0;
         padding: 4px;
         background: rgba(var(--orange), 0.2);
@@ -184,7 +194,10 @@
     #ppaTotal:hover {
         background: rgba(var(--orange), 1);
     }
-    #width, #height, #ppaSize { text-align: right; }
+    #width, #height, #ppaSize {
+        width: 55px;
+        text-align: right;
+    }
     #width:matches(:hover, :focus),
     #height:matches(:hover, :focus),
     #ppaSize:matches(:hover, :focus) {

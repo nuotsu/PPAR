@@ -46,10 +46,9 @@
     })
 
 // Title Icon & Favicon
-    var rPPA = ppaDex[Math.floor(Math.random() * ppaDex.length)]
-        iPPA = `images/ppa/${rPPA}_PPA.png`
+    var rPPAi = ppaDex[Math.floor(Math.random() * ppaDex.length)]
     $('#favicon').attr({
-        'href': iPPA
+        'href': `images/ppa/${rPPAi}_PPA.png`
     })
 
 // Open/Close Settings
@@ -63,10 +62,22 @@
         })
         $('#openSettings').html('×')
         var rPPA = ppaDex[Math.floor(Math.random() * ppaDex.length)]
-            iPPA = `images/ppa/${rPPA}_PPA.png`
-        $('#ppaIcon img').attr({
-            'src': iPPA
+        $('#titlePPA img').attr({
+            'src': `images/ppa/${rPPA}_PPA.png`
         })
+        // Yakkun / Bulba
+            if ($('#lang').val() == 'JPN')
+                $('#titlePPA a').attr({
+                    'href': 'https://yakkun.com/sm/zukan/n' + rPPA.toLowerCase()
+                })
+            else {
+                var rBulba = pkmnENG[ppaDex.indexOf(rPPA)]
+                                    .replace('(', '')
+                                    .replace(')', '')
+                $('#titlePPA a').attr({
+                    'href': 'https://bulbapedia.bulbagarden.net/wiki/' + rBulba
+                })
+            }
     }, function() {
         closeSettings()
     })
@@ -109,7 +120,9 @@
             'width': $('#width').val(),
             'height': $('#height').val()
         })
-        $('#wallpaper img').css('width', $('#ppaSize').val())
+        $('#wallpaper img').css({
+            'width': $('#ppaSize').val()
+        })
     }
 
 // Collections
@@ -140,8 +153,8 @@
                 $('#wallpaper img').removeClass('showCollection')
                 $(`#wallpaper img[data-collection*=${collection}]`).addClass('showCollection')
             }
-        $('#wallpaper img').css('display', 'none')
-        $('.showRegion.showType.showCollection').css('display', 'inline')
+        $('#wallpaper img').hide()
+        $('.showRegion.showType.showCollection').show()
         $('#ppaTotal').html( $('#wallpaper img[style*=inline]').length )
     })
 
@@ -191,9 +204,9 @@
             else qDex[i] = ppaDex[pkmnENG.indexOf(query[i])]
         }
         console.log(pkmnENG, query, qDex);
-        $('#wallpaper img').css('display', 'none')
+        $('#wallpaper img').hide()
         for (var i in qDex) {
-            $(`#wallpaper img[src*=${qDex[i]}_PPA]`).css('display', 'inline')
+            $(`#wallpaper img[src*=${qDex[i]}_PPA]`).show()
         }
     })
 
@@ -242,11 +255,13 @@
 
 // Save
     $('#save').click(function() {
+        $('#wallpaper img').css({
+            'background': 'none'
+        })
         $('#wallpaper').addClass('html2canvasFix')
         html2canvas($('#wallpaper'), {
             onrendered: function(canvas) {
                 url = canvas.toDataURL('image/png')
-                // $('.preview').remove()
                 $('#preview').append(`
                     <a class="preview" href="${url}" download="PPAR.png">
                         <img src=${url}>
@@ -265,4 +280,80 @@
         setTimeout(function() {
             $('.generated').fadeOut()
         }, 1000*2)
+    })
+
+// Pop-up Dex
+    $('#popupDex').hide()
+    $('#wallpaper img[src*=0]').click(function(mouse) {
+        var entryDex = $(this).attr('src')
+                        .replace('images/ppa/', '')
+                        .replace('_PPA.png', '')
+        // PPA
+            $('#entryPPA img').attr({
+                'src': $(this).attr('src')
+            })
+        // Yakkun / Bulba
+            if ($('#lang').val() == 'JPN')
+                $('#entryPPA a').attr({
+                    'href': 'https://yakkun.com/sm/zukan/n' + entryDex.toLowerCase()
+                })
+            else {
+                var entryBulba = pkmnENG[ppaDex.indexOf(entryDex)]
+                                    .replace('(', '')
+                                    .replace(')', '')
+                $('#entryPPA a').attr({
+                    'href': 'https://bulbapedia.bulbagarden.net/wiki/' + entryBulba
+                })
+            }
+        // Dex #
+            $('#entryNum').html(entryDex)
+        // Name
+            var entryNameJPN = pkmnJPN[ppaDex.indexOf(entryDex)]
+            var entryNameENG = pkmnENG[ppaDex.indexOf(entryDex)]
+            $('#entryName').html(`<i>${entryNameJPN}<br>${entryNameENG}</i>`)
+        // Type
+            var entryType = $(this).attr('data-type').split(' ')
+            $('#entryType').html('')
+            if ($('#lang').val() == 'JPN')
+                for (var i in entryType) $('#entryType').append(`
+                    <p class="${entryType[i]} ${entryType[i]}JPN"></p>
+                `)
+            else
+                for (var i in entryType) $('#entryType').append(`
+                    <p class="${entryType[i]} ${entryType[i]}ENG"></p>
+                `)
+        if ($('#popupDex').width() > $(window).width() * 0.95)
+            $('#popupDex').css({
+                'white-space': 'normal',
+                'width': '95%'
+            })
+        else
+            $('#popupDex').css({
+                'white-space': 'nowrap',
+                'width': 'auto'
+            })
+        // Mouse Position
+                if (mouse.pageX > $(window).width() - $('#popupDex').width())
+                    mouseX = mouse.pageX - $('#popupDex').width()
+                else
+                    mouseX = mouse.pageX
+                if (mouse.pageY > $(window).height() - $('#popupDex').height() - $('#buttons').height())
+                    mouseY = mouse.pageY - $('#popupDex').height() - $('#buttons').height()
+                else
+                    mouseY = mouse.pageY
+                console.log();
+            $('#popupDex')
+                .css({
+                    'left': mouseX,
+                    'top':mouseY
+                })
+                .hide()
+                .fadeIn()
+        // esc to close
+            $(document).keydown(function(key) {
+    			if (key.which == 27) $('#popupDex').fadeOut()	// esc
+    		});
+    })
+    $('#closeDex, #buttons button').click(function() {
+        $('#popupDex').fadeOut()
     })

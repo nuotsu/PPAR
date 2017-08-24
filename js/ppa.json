@@ -379,7 +379,7 @@
         "dex": "0027",
         "nameJPN": "サンド",
         "nameENG": "Sandshrew",
-        "type": ["Ground"],
+        "type": ["ground"],
         "region": "Kanto",
         "collection": []
     },
@@ -1977,224 +1977,224 @@
     },
     {
         "dex": "0201",
-        "nameJPN": "アンノーン A",
-        "nameENG": "Unown A",
+        "nameJPN": "アンノーン (A)",
+        "nameENG": "Unown (A)",
         "type": ["psychic"],
         "region": "Johto",
         "collection": ["unown"]
     },
     {
         "dex": "0201B",
-        "nameJPN": "アンノーン B",
-        "nameENG": "Unown B",
+        "nameJPN": "アンノーン (B)",
+        "nameENG": "Unown (B)",
         "type": ["psychic"],
         "region": "Johto",
         "collection": ["unown"]
     },
     {
         "dex": "0201C",
-        "nameJPN": "アンノーン C",
-        "nameENG": "Unown C",
+        "nameJPN": "アンノーン (C)",
+        "nameENG": "Unown (C)",
         "type": ["psychic"],
         "region": "Johto",
         "collection": ["unown"]
     },
     {
         "dex": "0201D",
-        "nameJPN": "アンノーン D",
-        "nameENG": "Unown D",
+        "nameJPN": "アンノーン (D)",
+        "nameENG": "Unown (D)",
         "type": ["psychic"],
         "region": "Johto",
         "collection": ["unown"]
     },
     {
         "dex": "0201E",
-        "nameJPN": "アンノーン E",
-        "nameENG": "Unown E",
+        "nameJPN": "アンノーン (E)",
+        "nameENG": "Unown (E)",
         "type": ["psychic"],
         "region": "Johto",
         "collection": ["unown"]
     },
     {
         "dex": "0201F",
-        "nameJPN": "アンノーン F",
-        "nameENG": "Unown F",
+        "nameJPN": "アンノーン (F)",
+        "nameENG": "Unown (F)",
         "type": ["psychic"],
         "region": "Johto",
         "collection": ["unown"]
     },
     {
         "dex": "0201G",
-        "nameJPN": "アンノーン G",
-        "nameENG": "Unown G",
+        "nameJPN": "アンノーン (G)",
+        "nameENG": "Unown (G)",
         "type": ["psychic"],
         "region": "Johto",
         "collection": ["unown"]
     },
     {
         "dex": "0201H",
-        "nameJPN": "アンノーン H",
-        "nameENG": "Unown H",
+        "nameJPN": "アンノーン (H)",
+        "nameENG": "Unown (H)",
         "type": ["psychic"],
         "region": "Johto",
         "collection": ["unown"]
     },
     {
         "dex": "0201I",
-        "nameJPN": "アンノーン I",
-        "nameENG": "Unown I",
+        "nameJPN": "アンノーン (I)",
+        "nameENG": "Unown (I)",
         "type": ["psychic"],
         "region": "Johto",
         "collection": ["unown"]
     },
     {
         "dex": "0201J",
-        "nameJPN": "アンノーン J",
-        "nameENG": "Unown J",
+        "nameJPN": "アンノーン (J)",
+        "nameENG": "Unown (J)",
         "type": ["psychic"],
         "region": "Johto",
         "collection": ["unown"]
     },
     {
         "dex": "0201K",
-        "nameJPN": "アンノーン K",
-        "nameENG": "Unown K",
+        "nameJPN": "アンノーン (K)",
+        "nameENG": "Unown (K)",
         "type": ["psychic"],
         "region": "Johto",
         "collection": ["unown"]
     },
     {
         "dex": "0201L",
-        "nameJPN": "アンノーン L",
-        "nameENG": "Unown L",
+        "nameJPN": "アンノーン (L)",
+        "nameENG": "Unown (L)",
         "type": ["psychic"],
         "region": "Johto",
         "collection": ["unown"]
     },
     {
         "dex": "0201M",
-        "nameJPN": "アンノーン M",
-        "nameENG": "Unown M",
+        "nameJPN": "アンノーン (M)",
+        "nameENG": "Unown (M)",
         "type": ["psychic"],
         "region": "Johto",
         "collection": ["unown"]
     },
     {
         "dex": "0201N",
-        "nameJPN": "アンノーン N",
-        "nameENG": "Unown N",
+        "nameJPN": "アンノーン (N)",
+        "nameENG": "Unown (N)",
         "type": ["psychic"],
         "region": "Johto",
         "collection": ["unown"]
     },
     {
         "dex": "0201O",
-        "nameJPN": "アンノーン O",
-        "nameENG": "Unown O",
+        "nameJPN": "アンノーン (O)",
+        "nameENG": "Unown (O)",
         "type": ["psychic"],
         "region": "Johto",
         "collection": ["unown"]
     },
     {
         "dex": "0201P",
-        "nameJPN": "アンノーン P",
-        "nameENG": "Unown P",
+        "nameJPN": "アンノーン (P)",
+        "nameENG": "Unown (P)",
         "type": ["psychic"],
         "region": "Johto",
         "collection": ["unown"]
     },
     {
         "dex": "0201Q",
-        "nameJPN": "アンノーン Q",
-        "nameENG": "Unown Q",
+        "nameJPN": "アンノーン (Q)",
+        "nameENG": "Unown (Q)",
         "type": ["psychic"],
         "region": "Johto",
         "collection": ["unown"]
     },
     {
         "dex": "0201R",
-        "nameJPN": "アンノーン R",
-        "nameENG": "Unown R",
+        "nameJPN": "アンノーン (R)",
+        "nameENG": "Unown (R)",
         "type": ["psychic"],
         "region": "Johto",
         "collection": ["unown"]
     },
     {
         "dex": "0201S",
-        "nameJPN": "アンノーン S",
-        "nameENG": "Unown S",
+        "nameJPN": "アンノーン (S)",
+        "nameENG": "Unown (S)",
         "type": ["psychic"],
         "region": "Johto",
         "collection": ["unown"]
     },
     {
         "dex": "0201T",
-        "nameJPN": "アンノーン T",
-        "nameENG": "Unown T",
+        "nameJPN": "アンノーン (T)",
+        "nameENG": "Unown (T)",
         "type": ["psychic"],
         "region": "Johto",
         "collection": ["unown"]
     },
     {
         "dex": "0201U",
-        "nameJPN": "アンノーン U",
-        "nameENG": "Unown U",
+        "nameJPN": "アンノーン (U)",
+        "nameENG": "Unown (U)",
         "type": ["psychic"],
         "region": "Johto",
         "collection": ["unown"]
     },
     {
         "dex": "0201V",
-        "nameJPN": "アンノーン V",
-        "nameENG": "Unown V",
+        "nameJPN": "アンノーン (V)",
+        "nameENG": "Unown (V)",
         "type": ["psychic"],
         "region": "Johto",
         "collection": ["unown"]
     },
     {
         "dex": "0201W",
-        "nameJPN": "アンノーン W",
-        "nameENG": "Unown W",
+        "nameJPN": "アンノーン (W)",
+        "nameENG": "Unown (W)",
         "type": ["psychic"],
         "region": "Johto",
         "collection": ["unown"]
     },
     {
         "dex": "0201X",
-        "nameJPN": "アンノーン X",
-        "nameENG": "Unown X",
+        "nameJPN": "アンノーン (X)",
+        "nameENG": "Unown (X)",
         "type": ["psychic"],
         "region": "Johto",
         "collection": ["unown"]
     },
     {
         "dex": "0201Y",
-        "nameJPN": "アンノーン Y",
-        "nameENG": "Unown Y",
+        "nameJPN": "アンノーン (Y)",
+        "nameENG": "Unown (Y)",
         "type": ["psychic"],
         "region": "Johto",
         "collection": ["unown"]
     },
     {
         "dex": "0201Z",
-        "nameJPN": "アンノーン Z",
-        "nameENG": "Unown Z",
+        "nameJPN": "アンノーン (Z)",
+        "nameENG": "Unown (Z)",
         "type": ["psychic"],
         "region": "Johto",
         "collection": ["unown"]
     },
     {
         "dex": "0201Ex",
-        "nameJPN": "アンノーン !",
-        "nameENG": "Unown !",
+        "nameJPN": "アンノーン (!)",
+        "nameENG": "Unown (!)",
         "type": ["psychic"],
         "region": "Johto",
         "collection": ["unown"]
     },
     {
         "dex": "0201Qu",
-        "nameJPN": "アンノーン ?",
-        "nameENG": "Unown ?",
+        "nameJPN": "アンノーン (?)",
+        "nameENG": "Unown (?)",
         "type": ["psychic"],
         "region": "Johto",
         "collection": ["unown"]
@@ -5715,7 +5715,7 @@
         "dex": "0585",
         "nameJPN": "シキジカ (はる)",
         "nameENG": "Deerling (Spring)",
-        "type": ["grass"],
+        "type": ["normal", "grass"],
         "region": "Unova",
         "collection": []
     },
@@ -5723,7 +5723,7 @@
         "dex": "0585S",
         "nameJPN": "シキジカ (なつ)",
         "nameENG": "Deerling (Summer)",
-        "type": ["grass"],
+        "type": ["normal", "grass"],
         "region": "Unova",
         "collection": []
     },
@@ -5731,7 +5731,7 @@
         "dex": "0585A",
         "nameJPN": "シキジカ (あき)",
         "nameENG": "Deerling (Autumn)",
-        "type": ["grass"],
+        "type": ["normal", "grass"],
         "region": "Unova",
         "collection": []
     },
@@ -5739,7 +5739,7 @@
         "dex": "0585W",
         "nameJPN": "シキジカ (ふゆ)",
         "nameENG": "Deerling (Winter)",
-        "type": ["grass"],
+        "type": ["normal", "grass"],
         "region": "Unova",
         "collection": []
     },
@@ -5747,7 +5747,7 @@
         "dex": "0586",
         "nameJPN": "メブキジカ (はる)",
         "nameENG": "Sawsbuck (Spring)",
-        "type": ["grass"],
+        "type": ["normal", "grass"],
         "region": "Unova",
         "collection": []
     },
@@ -5755,7 +5755,7 @@
         "dex": "0586S",
         "nameJPN": "メブキジカ (なつ)",
         "nameENG": "Sawsbuck (Summer)",
-        "type": ["grass"],
+        "type": ["normal", "grass"],
         "region": "Unova",
         "collection": []
     },
@@ -5763,7 +5763,7 @@
         "dex": "0586A",
         "nameJPN": "メブキジカ (あき)",
         "nameENG": "Sawsbuck (Autumn)",
-        "type": ["grass"],
+        "type": ["normal", "grass"],
         "region": "Unova",
         "collection": []
     },
@@ -5771,7 +5771,7 @@
         "dex": "0586W",
         "nameJPN": "メブキジカ (ふゆ)",
         "nameENG": "Sawsbuck (Winter)",
-        "type": ["grass"],
+        "type": ["normal", "grass"],
         "region": "Unova",
         "collection": []
     },
@@ -6298,7 +6298,7 @@
     {
         "dex": "0646W",
         "nameJPN": "ホワイト キュレム",
-        "nameENG": "White　Kyurem",
+        "nameENG": "White Kyurem",
         "type": ["dragon", "ice"],
         "region": "Unova",
         "collection": ["legendary"]
@@ -6306,7 +6306,7 @@
     {
         "dex": "0646B",
         "nameJPN": "ブラック キュレム",
-        "nameENG": "Black　Kyurem",
+        "nameENG": "Black Kyurem",
         "type": ["dragon", "ice"],
         "region": "Unova",
         "collection": ["legendary"]
@@ -7266,7 +7266,7 @@
     {
         "dex": "0718T",
         "nameJPN": "ジガルデ (10%)",
-        "nameENG": "Zygarde 10%",
+        "nameENG": "Zygarde (10%)",
         "type": ["dragon", "ground"],
         "region": "Kalos",
         "collection": ["legendary"]
@@ -7274,7 +7274,7 @@
     {
         "dex": "0718",
         "nameJPN": "ジガルデ (50%)",
-        "nameENG": "Zygarde 50%",
+        "nameENG": "Zygarde (50%)",
         "type": ["dragon", "ground"],
         "region": "Kalos",
         "collection": ["legendary"]
@@ -7282,7 +7282,7 @@
     {
         "dex": "0718C",
         "nameJPN": "ジガルデ (パーフェクト)",
-        "nameENG": "Zygarde Complete",
+        "nameENG": "Zygarde (Complete)",
         "type": ["dragon", "ground"],
         "region": "Kalos",
         "collection": ["legendary"]
@@ -7537,16 +7537,16 @@
     },
     {
         "dex": "0745",
-        "nameJPN": "ルガルガン まひるのすがた",
-        "nameENG": "Lycanroc Midday",
+        "nameJPN": "ルガルガン (まひるのすがた)",
+        "nameENG": "Lycanroc (Midday)",
         "type": ["rock"],
         "region": "Alola",
         "collection": []
     },
     {
         "dex": "0745Mn",
-        "nameJPN": "ルガルガン まよなかのすがた",
-        "nameENG": "Lycanroc Midnight",
+        "nameJPN": "ルガルガン (まよなかのすがた)",
+        "nameENG": "Lycanroc (Midnight)",
         "type": ["rock"],
         "region": "Alola",
         "collection": []
@@ -7785,64 +7785,64 @@
     },
     {
         "dex": "0774",
-        "nameJPN": "メテノ りゅうせいのすがた",
-        "nameENG": "Minior Shield",
+        "nameJPN": "メテノ (りゅうせいのすがた)",
+        "nameENG": "Minior (Shield)",
         "type": ["rock", "flying"],
         "region": "Alola",
         "collection": []
     },
     {
         "dex": "0774R",
-        "nameJPN": "メテノ 赤",
-        "nameENG": "Minior Red",
+        "nameJPN": "メテノ (赤)",
+        "nameENG": "Minior (Red)",
         "type": ["rock", "flying"],
         "region": "Alola",
         "collection": []
     },
     {
         "dex": "0774O",
-        "nameJPN": "メテノ 橙",
-        "nameENG": "Minior Orange",
+        "nameJPN": "メテノ (橙)",
+        "nameENG": "Minior (Orange)",
         "type": ["rock", "flying"],
         "region": "Alola",
         "collection": []
     },
     {
         "dex": "0774Y",
-        "nameJPN": "メテノ 黄",
-        "nameENG": "Minior Yellow",
+        "nameJPN": "メテノ (黄)",
+        "nameENG": "Minior (Yellow)",
         "type": ["rock", "flying"],
         "region": "Alola",
         "collection": []
     },
     {
         "dex": "0774G",
-        "nameJPN": "メテノ 緑",
-        "nameENG": "Minior Green",
+        "nameJPN": "メテノ (緑)",
+        "nameENG": "Minior (Green)",
         "type": ["rock", "flying"],
         "region": "Alola",
         "collection": []
     },
     {
         "dex": "0774B",
-        "nameJPN": "メテノ 青",
-        "nameENG": "Minior Blue",
+        "nameJPN": "メテノ (青)",
+        "nameENG": "Minior (Blue)",
         "type": ["rock", "flying"],
         "region": "Alola",
         "collection": []
     },
     {
         "dex": "0774I",
-        "nameJPN": "メテノ 紺",
-        "nameENG": "Minior Indigo",
+        "nameJPN": "メテノ (紺)",
+        "nameENG": "Minior (Indigo)",
         "type": ["rock", "flying"],
         "region": "Alola",
         "collection": []
     },
     {
         "dex": "0774V",
-        "nameJPN": "メテノ 紫",
-        "nameENG": "Minior Violet",
+        "nameJPN": "メテノ (紫)",
+        "nameENG": "Minior (Violet)",
         "type": ["rock", "flying"],
         "region": "Alola",
         "collection": []
