@@ -3,11 +3,10 @@
         $('[data-JPN]').each(function() {
             $(this).html( $(this).attr('data-' + lang) )
         })
-        if ($('.search')) {
+        if ($('.search'))
             $('.search').attr({
                 'placeholder': $('.search').attr('data-' + lang)
             })
-        }
     }
     language('JPN') // Initial Language
     $('#lang').change(function() {
@@ -72,8 +71,8 @@
                 })
             else {
                 var rBulba = pkmnENG[ppaDex.indexOf(rPPA)]
-                                    .replace('(', '')
-                                    .replace(')', '')
+                                .replace('(', '')
+                                .replace(')', '')
                 $('#titlePPA a').attr({
                     'href': 'https://bulbapedia.bulbagarden.net/wiki/' + rBulba
                 })
@@ -259,10 +258,11 @@
             'background': 'none'
         })
         $('#wallpaper').addClass('html2canvasFix')
+        $('#preview .preview').remove()
         html2canvas($('#wallpaper'), {
             onrendered: function(canvas) {
                 url = canvas.toDataURL('image/png')
-                $('#preview').html(`
+                $('#preview').append(`
                     <a class="preview" href="${url}" download="PPAR.png">
                         <img src=${url}>
                     </a>
@@ -274,9 +274,6 @@
     $('.generated').hide()
     $(document).on('DOMNodeInserted', '.preview', function() {
         $('.generated').fadeIn()
-        $('.generated').click(function() {
-
-        })
         setTimeout(function() {
             $('.generated').fadeOut()
         }, 1000*2)
