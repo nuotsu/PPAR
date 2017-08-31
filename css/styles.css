@@ -22,6 +22,22 @@
         background: rgba(255, 255, 255, 0.7);
         box-shadow: 0 4px 10px rgba(0,0,0, 0.3);
     }
+    @supports
+        (-webkit-backdrop-filter: var(--blur)) or
+        (-moz-backdrop-filter: var(--blur)) or
+        (backdrop-filter: var(--blur)) {
+        .blur {
+            -webkit-backdrop-filter: var(--blur);
+            -moz-backdrop-filter: var(--blur);
+            backdrop-filter: var(--blur);
+            background: rgba(255, 255, 255, 0.5);
+        }
+        .blur-message {
+            -webkit-backdrop-filter: var(--blur);
+            -moz-backdrop-filter: var(--blur);
+            backdrop-filter: var(--blur);
+        }
+    }
 
 /* Common */
     * {
@@ -267,20 +283,4 @@
     .preview img:hover {
         opacity: 0.5;
         box-shadow: 0 4px 10px rgba(0,0,0, 0.3);
-    }
-
-@supports
-    (-webkit-backdrop-filter: var(--blur)) or
-    (-moz-backdrop-filter: var(--blur)) or
-    (backdrop-filter: var(--blur)) {
-    .blur {
-        -webkit-backdrop-filter: var(--blur);
-        -moz-backdrop-filter: var(--blur);
-        backdrop-filter: var(--blur);
-        background: rgba(255, 255, 255, 0.5);
-    }
-    .blur-message {
-        -webkit-backdrop-filter: var(--blur);
-        -moz-backdrop-filter: var(--blur);
-        backdrop-filter: var(--blur);
     }
