@@ -21,7 +21,10 @@
     }
 
 /* Pop-up Dex */
-    #popupDex { position: fixed; }
+    #popupDex {
+        cursor: default;
+        position: fixed;
+    }
     #closeDex {
         cursor: pointer;
         position: absolute;
@@ -41,10 +44,11 @@
     #entryType p {
         margin: 4px;
         padding: 2px;
-        width: 74px;
+        width: 72px;
         border-radius: 4px;
         text-align: center;
         color: #fff;
+        font-size: 12px;
     }
     #entryType .normal { background: var(--normal); }
         .normalJPN::after { content: 'ノーマル'; }

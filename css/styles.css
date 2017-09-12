@@ -1,5 +1,9 @@
 /* Fonts */
     @import url('https://fonts.googleapis.com/css?family=Press+Start+2P|Roboto');
+    @font-face {
+        font-family: 'SF Pro Display';
+        src: url('../fonts/SF-Pro-Display-Regular');
+    }
 
 /* Variables */
     :root {
@@ -43,11 +47,12 @@
     * {
         margin: 0;
         padding: 0;
-        font-family: 'Roboto', sans-serif;
+        font-family: 'SF Pro Display';
         font-size: var(--font-size);
     }
     body { background: #eee; }
     input {
+        cursor: default;
         outline: none;
         border: none;
         border-radius: 4px;
@@ -60,7 +65,7 @@
     }
     input[type=number],
     select {
-        cursor: pointer;
+        cursor: default;
         -webkit-appearance: none;
         -moz-appearance: none;
         appearance: none;
@@ -169,7 +174,7 @@
         width: 30px;
         height: 30px;
         max-width: calc(100% - 33px);
-        max-height: calc(100vh - 115px);
+        max-height: calc(100vh - 120px);
         overflow: scroll;
         border-radius: 20px;
         transition: var(--transition);
@@ -179,7 +184,7 @@
     #lang { background: rgba(var(--red), 0.2); }
     #lang:hover { background: rgba(var(--red), 1); }
     #ppaTotal {
-        cursor: pointer;
+        cursor: default;
         border-radius: 4px;
         width: 60px;
         margin: 2px 0;

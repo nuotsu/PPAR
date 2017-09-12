@@ -499,7 +499,7 @@
         "dex": "0038A",
         "nameJPN": "アローラ キュウコン",
         "nameENG": "Alolan Ninetales",
-        "type": ["ice"],
+        "type": ["ice", "fairy"],
         "region": "Kanto",
         "collection": ["rf"]
     },

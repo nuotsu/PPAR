@@ -11,6 +11,7 @@
     language('JPN') // Initial Language
     $('#lang').change(function() {
         language( $('#lang').val() )
+        $('popupDex').fadeOut()
     })
 
 // ppaJSON
@@ -96,7 +97,7 @@
 // Dimensions
     $('#width').val( $('#wallpaper').width().toFixed(0) )
     $('#height').val( $('#wallpaper').height().toFixed(0) )
-    $('#currentScreen').val(`${$(window).width()} ${$(window).height()} 60`)
+    $('#currentScreen').val(`${$(window).width()} ${$(window).height()} 40`)
     $('#size').change(function() {
         var wpSize = []
             wpSize[0] = $('#size').val().split(' ')[0]
