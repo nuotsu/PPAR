@@ -18,29 +18,13 @@
         --green: 80, 175, 85;
         --orange: 253, 151, 39;
 
-        --blur: blur(12px);
+        --blur: blur(12px) saturate(3);
     }
     .blur {
         border: 0.5px solid rgba(0,0,0, 0.5);
         border-radius: 5px;
-        background: rgba(255, 255, 255, 0.7);
+        background: rgba(255, 255, 255, 0.9);
         box-shadow: 0 4px 10px rgba(0,0,0, 0.3);
-    }
-    @supports
-        (-webkit-backdrop-filter: var(--blur)) or
-        (-moz-backdrop-filter: var(--blur)) or
-        (backdrop-filter: var(--blur)) {
-        .blur {
-            -webkit-backdrop-filter: var(--blur);
-            -moz-backdrop-filter: var(--blur);
-            backdrop-filter: var(--blur);
-            background: rgba(255, 255, 255, 0.5);
-        }
-        .blur-message {
-            -webkit-backdrop-filter: var(--blur);
-            -moz-backdrop-filter: var(--blur);
-            backdrop-filter: var(--blur);
-        }
     }
 
 /* Common */
@@ -68,7 +52,6 @@
         cursor: default;
         -webkit-appearance: none;
         -moz-appearance: none;
-        appearance: none;
         outline: none;
         border: none;
         height: 26px;
@@ -85,17 +68,27 @@
         color: #fff;
         transition: var(--transition);
     }
-    button:matches(:not(#addSearch, #removeSearch)):hover {
+    button:not(#addSearch):hover,
+    button:not(#removeSearch):hover {
         box-shadow: 0 2px 5px rgba(0,0,0, 0.3);
     }
 
 /* jQuery UI */
     .ui-autocomplete {
-        position: relative;
-        z-index: 9999;
+        z-index: 9999 !important;
+        width: 120px;
+        font-size: 14px;
         max-height: 200px;
+        border-radius: 4px;
         overflow-y: scroll;
     }
+	.ui-menu-item-wrapper {
+		border: none !important;
+	}
+	.ui-state-active {
+		background: rgb(var(--dark-blue)) !important;
+		color: #fff !important;
+	}
 
 /* Wallpaper */
     #wallpaper {
@@ -180,7 +173,7 @@
         transition: var(--transition);
     }
     .settings:hover { transition: none; }
-    #settings tr td:first-child: { text-align: right; }
+    #settings tr td:not(#titlePPA, .copyright):first-child { text-align: right; }
     #lang { background: rgba(var(--red), 0.2); }
     #lang:hover { background: rgba(var(--red), 1); }
     #ppaTotal {
@@ -200,9 +193,9 @@
         width: 55px;
         text-align: right;
     }
-    #width:matches(:hover, :focus),
-    #height:matches(:hover, :focus),
-    #ppaSize:matches(:hover, :focus) {
+    #width:hover, #width:focus,
+    #height:hover, #height:focus,
+    #ppaSize:hover, #ppaSize:focus {
         background: rgba(var(--yellow), 1);
     }
     #size,
@@ -289,3 +282,18 @@
         opacity: 0.5;
         box-shadow: 0 4px 10px rgba(0,0,0, 0.3);
     }
+
+@supports
+    (-webkit-backdrop-filter: var(--blur)) or
+    (-moz-backdrop-filter: var(--blur)) or
+    (backdrop-filter: var(--blur)) {
+    .blur,
+    .blur-message,
+    .ui-autocomplete {
+        -webkit-backdrop-filter: var(--blur);
+        -moz-backdrop-filter: var(--blur);
+        backdrop-filter: var(--blur);
+    }
+    .blur,
+    .ui-autocomplete { background: rgba(255, 255, 255, 0.5) !important; }
+}

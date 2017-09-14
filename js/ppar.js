@@ -38,7 +38,7 @@
                 pkmnENG[i] = ppaJSON[i].nameENG
             }
             $('#ppaTotal').html( $('#wallpaper img').length )
-            $('*:not(#wallpaper), .ui-autocomplet').css({
+            $('*:not(#wallpaper)').css({
                 'z-index': $('#wallpaper img').length
             })
             return ppaDex, pkmnJPN, pkmnENG
