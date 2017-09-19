@@ -220,7 +220,7 @@
         rdr.onloadend = function() {
             $('#wallpaper').css({
                 'background': 'none',
-                'background-image': 'url(\'' + rdr.result + '\')',
+                'background-image': `url('${rdr.result}')`,
                 'background-position': 'center',
                 'background-size': 'cover',
                 'background-repeat': 'no-repeat'
