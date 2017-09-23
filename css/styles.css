@@ -105,6 +105,9 @@
         margin: 0 auto;
         overflow: scroll;
     }
+    #wallpaper img {
+        float: left;
+    }
     #wallpaper img:hover {
         background-image: url('../images/ppaIcon_bg.png');
         background-position: center;
