@@ -2,7 +2,7 @@
     @import url('https://fonts.googleapis.com/css?family=Press+Start+2P|Roboto');
     @font-face {
         font-family: 'SF Pro Display';
-        src: url('../fonts/SF-Pro-Display-Regular');
+        src: url('../fonts/SF-Pro-Display-Regular.otf');
     }
 
 /* Variables */
@@ -78,6 +78,7 @@
     button:not(#removeSearch):hover {
         box-shadow: 0 2px 5px rgba(0,0,0, 0.3);
     }
+    ::-webkit-scrollbar { display: none; }
 
 /* jQuery UI */
     .ui-autocomplete {
