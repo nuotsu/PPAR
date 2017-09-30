@@ -410,7 +410,7 @@
     {
         "dex": "0029",
         "nameJPN": "ニドラン♀",
-        "nameENG": "Nidoran (F)",
+        "nameENG": "Nidoran♀",
         "type": ["poison", "ground"],
         "region": "Kanto",
         "collection": []
@@ -434,7 +434,7 @@
     {
         "dex": "0032",
         "nameJPN": "ニドラン♂",
-        "nameENG": "Nidoran (M)",
+        "nameENG": "Nidoran♂",
         "type": ["poison", "ground"],
         "region": "Kanto",
         "collection": []
@@ -930,7 +930,7 @@
     {
         "dex": "0083",
         "nameJPN": "カモネギ",
-        "nameENG": "Farfetchd",
+        "nameENG": "Farfetch'd",
         "type": ["normal", "flying"],
         "region": "Kanto",
         "collection": []
@@ -1282,7 +1282,7 @@
     {
         "dex": "0122",
         "nameJPN": "バリヤード",
-        "nameENG": "Mr.Mime",
+        "nameENG": "Mr. Mime",
         "type": ["psychic", "fairy"],
         "region": "Kanto",
         "collection": []
@@ -2626,7 +2626,7 @@
     {
         "dex": "0250",
         "nameJPN": "ホウオウ",
-        "nameENG": "Ho",
+        "nameENG": "Ho-Oh",
         "type": ["fire", "flying"],
         "region": "Johto",
         "collection": ["legendary"]

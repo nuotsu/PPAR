@@ -26,7 +26,7 @@
             for (var i in ppaJSON) {
                 $('#wallpaper').append(`
                     <img
-                        src="images/ppa/${ppaJSON[i].dex}_PPA.png"
+                        src="img/ppa/${ppaJSON[i].dex}_PPA.png"
                         data-region="${ppaJSON[i].region}"
                         data-type="${ppaJSON[i].type.join(' ')}"
                         data-collection="${ppaJSON[i].collection.join(' ')}"
@@ -48,7 +48,7 @@
 // Title Icon & Favicon
     var rPPAi = ppaDex[Math.floor(Math.random() * ppaDex.length)]
     $('#favicon').attr({
-        'href': `images/ppa/${rPPAi}_PPA.png`
+        'href': `img/ppa/${rPPAi}_PPA.png`
     })
 
 // Open/Close Settings
@@ -63,7 +63,7 @@
         $('#openSettings').html('×')
         var rPPA = ppaDex[Math.floor(Math.random() * ppaDex.length)]
         $('#titlePPA img').attr({
-            'src': `images/ppa/${rPPA}_PPA.png`
+            'src': `img/ppa/${rPPA}_PPA.png`
         })
         // Yakkun / Bulba
             if ($('#lang').val() == 'JPN')
@@ -255,36 +255,61 @@
 
 // Save
     $('#save').click(function() {
-        $('#wallpaper img').css({
-            'background': 'none'
-        })
-        $('#wallpaper').addClass('html2canvasFix')
-        $('#preview .preview').remove()
+        $('#wallpaper img').css('background', 'none')
+        $('.loader').fadeIn()
+
         html2canvas($('#wallpaper'), {
             onrendered: function(canvas) {
-                url = canvas.toDataURL('image/png')
-                $('#preview').append(`
-                    <a class="preview" href="${url}" download="PPAR.png">
-                        <img src=${url}>
-                    </a>
-                `)
-                $('#wallpaper').removeClass('html2canvasFix')
+                var formData = new FormData()
+                        formData.append('image', canvas.toDataURL('image/png').replace('data:image/png;base64,', ''))
+
+                $.ajax({
+                    url: 'https://api.imgur.com/3/image',
+                    type: 'POST',
+                    datatype: 'json',
+                    headers: {
+                        'Authorization': 'Client-ID 1f37facd924fbb3'
+                    },
+                    data: formData,
+                    success: function(response) {
+                        $('#preview .pparIMG').html(`
+                            <a class="preview" href="${response.data.link}" target="_blank">
+                                <img class="pparIMGs" src="${response.data.link}">
+                            </a>
+                        `)
+                        $('#tweet').html('').html('<a id="tweetBtn"></a>')
+                        $('#tweetBtn')
+                            .attr({
+                                'class': 'twitter-share-button',
+                                'href': 'https://twitter.com/share?ref_src=twsrc%5Etfw',
+                                'target': '_blank',
+                                'data-size': 'large',
+                                'data-text': `Generated with PPAR! https://goo.gl/4mMKhS ${response.data.link}`,
+                                'data-hashtags': 'ppar',
+                                'data-show-count': 'false'
+                            })
+                            .append(
+                                '<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>'
+                            )
+                        $('.loader').fadeOut()
+                        $('#preview').fadeIn()
+                    },
+                    cache: false,
+                    contentType: false,
+                    processData: false
+                })
             }
         })
     })
-    $('.generated').hide()
-    $(document).on('DOMNodeInserted', '.preview', function() {
-        $('.generated').fadeIn()
-        setTimeout(function() {
-            $('.generated').fadeOut()
-        }, 1000*2)
+    $('#closePreview').click(function() {
+        $('#preview').fadeOut()
     })
 
 // Pop-up Dex
     $('#popupDex').hide()
     $('#wallpaper img[src*=0]').click(function(mouse) {
         var entryDex = $(this).attr('src')
-                        .replace('images/ppa/', '')
+                        .replace('img/ppa/', '')
                         .replace('_PPA.png', '')
         // PPA
             $('#entryPPA img').attr({

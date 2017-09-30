@@ -11,10 +11,6 @@
     <link rel="stylesheet" type="text/css" href="css/styles.css">
     <link rel="stylesheet" type="text/css" href="css/popupDex.css">
     <link rel="stylesheet" type="text/css" href="https://code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
-
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
-    <script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.js"></script>
-	<script src="https://github.com/niklasvh/html2canvas/releases/download/0.5.0-alpha1/html2canvas.js"></script>
 </head>
 
 <body>
@@ -204,21 +200,21 @@
         </tr>
     </table>
 
-    <div id="preview">
-        <div class="generated blur">
-            <p>
-                <b data-JPN="画像が作成されました" data-ENG="PPAR Image Generated"></b>
-            </p>
-            <br>
-            <p>
-                <span>↓</span>
-                <span>↓</span>
-                <span>↓</span>
-            </p>
-        </div>
+    <div id="preview" class="blur">
+        <span id="closePreview">×</span>
+        <h6 data-JPN="作成されたPPAR:" data-ENG="Generated PPAR:"></h6>
+        <div class="pparIMG"></div>
+        <div id="tweet"></div>
     </div>
 
-    <!-- jQuery -->
+    <div class="loader blur">
+        <img src="img/loading_egg.gif">
+    </div>
+
+    <!-- .js -->
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+        <script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.js"></script>
+    	<script src="https://github.com/niklasvh/html2canvas/releases/download/0.5.0-alpha1/html2canvas.js"></script>
         <script src="js/ppar.js"></script>
 </body>
 

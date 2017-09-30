@@ -20,6 +20,7 @@
 
         --blur: blur(12px) saturate(3);
     }
+    ::-webkit-scrollbar { display: none; }
     .blur {
         border: 0.5px solid rgba(0,0,0, 0.5);
         border-radius: 5px;
@@ -35,7 +36,7 @@
         font-size: var(--font-size);
     }
     body { background: #eee; }
-    img,
+    img:not(.pparIMGs),
     #titlePPA {
         image-rendering:-moz-crisp-edges;
         image-rendering:-webkit-optimize-contrast;
@@ -78,7 +79,6 @@
     button:not(#removeSearch):hover {
         box-shadow: 0 2px 5px rgba(0,0,0, 0.3);
     }
-    ::-webkit-scrollbar { display: none; }
 
 /* jQuery UI */
     .ui-autocomplete {
@@ -110,7 +110,7 @@
         float: left;
     }
     #wallpaper img:hover {
-        background-image: url('../images/ppaIcon_bg.png');
+        background-image: url('../img/ppaIcon_bg.png');
         background-position: center;
         background-size: cover;
         background-repeat: no-repeat;
@@ -123,7 +123,7 @@
 /* Title & Copyright */
     #titlePPA, #entryPPA {
         text-align: center;
-        background-image: url('../images/ppaIcon_bg.png');
+        background-image: url('../img/ppaIcon_bg.png');
         background-position: center;
         background-size: cover;
         background-repeat: no-repeat;
@@ -267,32 +267,48 @@
     #save { background: rgba(var(--green), 1); }
 
 /* Preview */
-    #preview { text-align: center; }
-    .generated {
+    #preview {
+        display: none;
         position: fixed;
+        left: 0;
+        right: 0;
+        top: 0;
+        bottom: 0;
+        border: none;
+        border-radius: 0;
+        text-align: center;
+    }
+    #closePreview {
+        cursor: pointer;
+        position: absolute;
+        right: 0px;
+        top: 0;
+        padding: 10px 16px;
+        font-size: 30px;
+    }
+    #preview > *:not(#closePreview) { margin: 20px 0 10px 0; }
+    .pparIMG img {
+        max-width: calc(100vw);
+        max-height: calc(100vh * 0.8);
+    }
+
+/* Loader */
+    .loader {
+        display: none;
+        position: fixed;
+        left: 0;
+        right: 0;
+        top: 0;
+        bottom: 0;
+        border: none;
+        border-radius: 0;
+    }
+    .loader img {
+        position: absolute;
         left: 50%;
         top: 50%;
         transform: translate(-50%, -50%);
-        width: 200px;
-        padding: 20px;
-        color: rgba(0,0,0, 0.7);
-    }
-    .generated p span { margin: 0 10px; }
-    .preview {
-        margin: 0 5px;
-        text-decoration: none;
-    }
-    .preview img {
-        max-width: 300px;
-        max-height: 300px;
-        margin: 10px 0 50px 0;
-        vertical-align: middle;
-        border: 0.5px solid rgba(0,0,0, 0.5);
-        transition: var(--transition);
-    }
-    .preview img:hover {
-        opacity: 0.5;
-        box-shadow: 0 4px 10px rgba(0,0,0, 0.3);
+        max-height: calc(100vh * 0.3);
     }
 
 @supports
@@ -300,7 +316,6 @@
     (-moz-backdrop-filter: var(--blur)) or
     (backdrop-filter: var(--blur)) {
     .blur,
-    .blur-message,
     .ui-autocomplete {
         -webkit-backdrop-filter: var(--blur);
         -moz-backdrop-filter: var(--blur);
