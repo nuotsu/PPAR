@@ -8,3 +8,5 @@ https://nuotsu.github.io/PPAR
 - Image database for all pixel art as of Generation VII (1011 total).
 - Generate, save, and tweet images of Pokémon pixel art.
 - Available in Japanese and English.
+
+![PPAR](https://i.imgur.com/uecXNcC.png)
