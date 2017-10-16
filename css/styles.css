@@ -37,7 +37,8 @@
     }
     body { background: #eee; }
     img:not(.pparIMGs),
-    #titlePPA {
+    #titlePPA,
+    #entryPPA {
         image-rendering:-moz-crisp-edges;
         image-rendering:-webkit-optimize-contrast;
         image-rendering: pixelated;
