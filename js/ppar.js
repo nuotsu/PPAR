@@ -155,7 +155,7 @@
             }
         $('#wallpaper img').hide()
         $('.showRegion.showType.showCollection').show()
-        $('#ppaTotal').html( $('#wallpaper img[style*=inline]').length )
+        $('#ppaTotal').html( $('.showRegion.showType.showCollection').length )
     })
 
 // Search
