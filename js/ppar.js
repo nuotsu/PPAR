@@ -381,10 +381,3 @@
     $('#closeDex, #buttons button').click(function() {
         $('#popupDex').fadeOut()
     })
-
-// URL Yakkun Redirect
-    if (window.location.href.indexOf('#') > 0) {
-        var url = decodeURIComponent(window.location.href.split('#_')[1])
-            yakkunSearch = ppaDex[pkmnJPN.indexOf(url)]
-        window.location.href = `https://yakkun.com/sm/zukan/n${yakkunSearch}`
-    }
