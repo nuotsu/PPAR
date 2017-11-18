@@ -115,7 +115,7 @@
     $('#width, #height, #ppaSize').change(function() {
         changeWallpaper()
     })
-    function changeWallpaper() {
+    changeWallpaper = function() {
         $('#wallpaper').css({
             'width': $('#width').val(),
             'height': $('#height').val()
@@ -188,9 +188,7 @@
         $('#removeSearch').click(function() {
             $('.search').last().remove()
             $('.searchBR').last().remove()
-            if ($('.search').length == 1) {
-                $(this).remove()
-            }
+            if ($('.search').length == 1) $(this).remove()
         });
         searchSuggestions()
     })
@@ -203,11 +201,11 @@
             if ($('#lang').val() == 'JPN') qDex[i] = ppaDex[pkmnJPN.indexOf(query[i])]
             else qDex[i] = ppaDex[pkmnENG.indexOf(query[i])]
         }
-        console.log(pkmnENG, query, qDex);
         $('#wallpaper img').hide()
-        for (var i in qDex) {
+        for (var i in qDex)
             $(`#wallpaper img[src*=${qDex[i]}_PPA]`).show()
-        }
+        if (qDex[0] == undefined)
+            $('#wallpaper img').show()
     })
 
 // BG Image
@@ -383,3 +381,10 @@
     $('#closeDex, #buttons button').click(function() {
         $('#popupDex').fadeOut()
     })
+
+// URL Yakkun Redirect
+    if (window.location.href.indexOf('#') > 0) {
+        var url = decodeURIComponent(window.location.href.split('#_')[1])
+            yakkunSearch = ppaDex[pkmnJPN.indexOf(url)]
+        window.location.href = `https://yakkun.com/sm/zukan/n${yakkunSearch}`
+    }
