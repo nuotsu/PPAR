@@ -8056,6 +8056,30 @@
         "collection": ["legendary"]
     },
     {
+        "dex": "0800DM",
+        "nameJPN": "ネクロズマ（たそがれのたてがみ）",
+        "nameENG": "Dusk Mane Necrozma",
+        "type": ["psychic", "steel"],
+        "region": "Alola",
+        "collection": ["legendary"]
+    },
+    {
+        "dex": "0800DW",
+        "nameJPN": "ネクロズマ（あかつきのつばさ）",
+        "nameENG": "Dawn Wings Necrozma",
+        "type": ["psychic", "ghost"],
+        "region": "Alola",
+        "collection": ["legendary"]
+    },
+    {
+        "dex": "0800U",
+        "nameJPN": "ウルトラネクロズマ",
+        "nameENG": "Ultra Necrozma",
+        "type": ["psychic", "dragon"],
+        "region": "Alola",
+        "collection": ["legendary"]
+    },
+    {
         "dex": "0801",
         "nameJPN": "マギアナ",
         "nameENG": "Magearna",
@@ -8076,6 +8100,46 @@
         "nameJPN": "マーシャドー",
         "nameENG": "Marshadow",
         "type": ["fighting", "ghost"],
+        "region": "Alola",
+        "collection": ["mythical"]
+    },
+    {
+        "dex": "0803",
+        "nameJPN": "ベベノム",
+        "nameENG": "Poipole",
+        "type": ["poison"],
+        "region": "Alola",
+        "collection": ["UB"]
+    },
+    {
+        "dex": "0804",
+        "nameJPN": "アーゴヨン",
+        "nameENG": "Naganadel",
+        "type": ["poison", "dragon"],
+        "region": "Alola",
+        "collection": ["UB"]
+    },
+    {
+        "dex": "0805",
+        "nameJPN": "ツンデツンデ",
+        "nameENG": "Stakataka",
+        "type": ["rock", "steel"],
+        "region": "Alola",
+        "collection": ["UB"]
+    },
+    {
+        "dex": "0806",
+        "nameJPN": "ズガドーン",
+        "nameENG": "Blacephalon",
+        "type": ["fire", "ghost"],
+        "region": "Alola",
+        "collection": ["UB"]
+    },
+    {
+        "dex": "0807",
+        "nameJPN": "ゼラオラ",
+        "nameENG": "Zeraora",
+        "type": ["electric"],
         "region": "Alola",
         "collection": ["mythical"]
     },
