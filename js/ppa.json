@@ -7552,6 +7552,14 @@
         "collection": []
     },
     {
+        "dex": "0745D",
+        "nameJPN": "ルガルガン (たそがれのすがた)",
+        "nameENG": "Lycanroc (Dusk)",
+        "type": ["rock"],
+        "region": "Alola",
+        "collection": []
+    },
+    {
         "dex": "0746",
         "nameJPN": "ヨワシ",
         "nameENG": "Wishiwashi",
