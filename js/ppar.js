@@ -14,6 +14,12 @@
         $('popupDex').fadeOut()
     })
 
+    // URL => ENG
+        if (window.location.href.indexOf('?lang=ENG') > 0) {
+            language('ENG')
+            $('#lang').val('ENG')
+        }
+
 // ppaJSON
     var ppaDex = []
         pkmnJPN = []
