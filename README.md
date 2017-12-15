@@ -1,7 +1,7 @@
 # PPAR (_Pokémon Pixel Art Randomizer_)
 https://nuotsu.github.io/PPAR
 
-![(v10)](https://i.imgur.com/1wLvGWS.png)
+![(v10)](https://i.imgur.com/nJG8y0D.png)
 
 ## Info
 - Pixel art database for all Pokémon as of Generation VII (Total: `1021`).
