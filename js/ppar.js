@@ -1,246 +1,157 @@
-// Language Localization
-    function language(lang) {
-        $('[data-JPN]').each(function() {
-            $(this).html( $(this).attr('data-' + lang) )
-        })
-        if ($('.search'))
-            $('.search').attr({
-                'placeholder': $('.search').attr('data-' + lang)
-            })
-    }
-    language('JPN') // Initial Language
-    $('#lang').change(function() {
-        language( $('#lang').val() )
-        $('popupDex').fadeOut()
-    })
-
-    // URL => ENG
-        if (window.location.href.indexOf('?lang=ENG') > 0) {
-            language('ENG')
-            $('#lang').val('ENG')
-        }
-
-// ppaJSON
-    var ppaDex = []
-        pkmnJPN = []
-        pkmnENG = []
+// Initialize ppa.json
+    var ppa = []
     $.ajax({
         url: 'js/ppa.json',
         dataType: 'json',
         async: false,
         success: function(ppaJSON) {
-            for (var i in ppaJSON) {
-                $('#wallpaper').append(`
-                    <img
-                        src="img/ppa/${ppaJSON[i].dex}_PPA.png"
-                        data-region="${ppaJSON[i].region}"
-                        data-type="${ppaJSON[i].type.join(' ')}"
-                        data-collection="${ppaJSON[i].collection.join(' ')}"
-                    >
-                `)
-
-                ppaDex[i] = ppaJSON[i].dex
-                pkmnJPN[i] = ppaJSON[i].nameJPN
-                pkmnENG[i] = ppaJSON[i].nameENG
-            }
-            $('#ppaTotal').html( $('#wallpaper img').length )
-            $('*:not(#wallpaper)').css({
-                'z-index': $('#wallpaper img').length
-            })
-            return ppaDex, pkmnJPN, pkmnENG
+            ppa = ppaJSON
         }
     })
 
-// Title Icon & Favicon
-    var rPPAi = ppaDex[Math.floor(Math.random() * ppaDex.length)]
-    $('#favicon').attr({
-        'href': `img/ppa/${rPPAi}_PPA.png`
-    })
+    for (var i in ppa)
+        $('#ppar').append(`
+            <img
+                dex="${ppa[i].dex}"
+                nameJPN="${ppa[i].nameJPN}"
+                nameENG="${ppa[i].nameENG}"
+                type="${ppa[i].type[0]} ${ppa[i].type[1]}"
+                region="${ppa[i].region}"
+                category="${ppa[i].collection}"
+            >
+        `)
 
-// Open/Close Settings
-    $('#settings').hide()
-    $('.settings').hover(function() {
-        $('#settings').show()
-        $('.settings').css({
-            'border-radius': 5,
-            'width': 'auto',
-            'height': 'auto'
-        })
-        $('#openSettings').html('×')
-        var rPPA = ppaDex[Math.floor(Math.random() * ppaDex.length)]
-        $('#titlePPA img').attr({
-            'src': `img/ppa/${rPPA}_PPA.png`
-        })
-        // Yakkun / Bulba
-            if ($('#lang').val() == 'JPN')
-                $('#titlePPA a').attr({
-                    'href': 'https://yakkun.com/sm/zukan/n' + rPPA.toLowerCase()
-                })
-            else {
-                var rBulba = pkmnENG[ppaDex.indexOf(rPPA)]
-                                .replace('(', '')
-                                .replace(')', '')
-                $('#titlePPA a').attr({
-                    'href': 'https://bulbapedia.bulbagarden.net/wiki/' + rBulba
-                })
-            }
-    }, function() {
-        closeSettings()
-    })
-    $('#openSettings').click(function() {
-        closeSettings()
-    })
-    function closeSettings() {
-        $('#settings').hide()
-        $('.settings').css({
-            'border-radius': 20,
-            'width': 30,
-            'height': 30
-        })
-        $('#openSettings').html('≡')
-    }
-
-// Dimensions
-    $('#width').val( $('#wallpaper').width().toFixed(0) )
-    $('#height').val( $('#wallpaper').height().toFixed(0) )
-    $('#currentScreen').val(`${$(window).width()} ${$(window).height()} 40`)
-    $('#size').change(function() {
-        var wpSize = []
-            wpSize[0] = $('#size').val().split(' ')[0]
-            wpSize[1] = $('#size').val().split(' ')[1]
-            ppaSize = $('#size').val().split(' ')[2]
-        $('#width').val(wpSize[0])
-        $('#height').val(wpSize[1])
-        $('#ppaSize').val(ppaSize)
-        changeWallpaper()
-    })
-    $(window).resize(function() {
-        $('#width').val( $('#wallpaper').width().toFixed(0) )
-        $('#height').val( $('#wallpaper').height() )
-    })
-    $('#width, #height, #ppaSize').change(function() {
-        changeWallpaper()
-    })
-    changeWallpaper = function() {
-        $('#wallpaper').css({
-            'width': $('#width').val(),
-            'height': $('#height').val()
-        })
-        $('#wallpaper img').css({
-            'width': $('#ppaSize').val()
-        })
-    }
-
-// Collections
-    $('#region, #type1, #type2, #collection').change(function() {
-        var region = $('#region').val()
-            if (region == 'all') $('#wallpaper img').addClass('showRegion')
-            else {
-                $('#wallpaper img').removeClass('showRegion')
-                $(`#wallpaper img[data-region=${region}]`).addClass('showRegion')
-            }
-        var type1 = $('#type1').val()
-            type2 = $('#type2').val()
-            if (type1 == 'all') {
-                $('#type2')
-                    .val('all')
-                    .attr('disabled', true)
-                $('#wallpaper img').addClass('showType')
-            } else {
-                $('#type2').attr('disabled', false)
-                $('#wallpaper img').removeClass('showType')
-                if (type2 == 'all') $(`#wallpaper img[data-type*=${type1}]`).addClass('showType')
-                if (type2 == 'none') $(`#wallpaper img[data-type=${type1}]`).addClass('showType')
-                else $(`#wallpaper img[data-type*=${type1}][data-type*=${type2}]`).addClass('showType')
-            }
-        var collection = $('#collection').val()
-            if (collection == 'all') $('#wallpaper img').addClass('showCollection')
-            else {
-                $('#wallpaper img').removeClass('showCollection')
-                $(`#wallpaper img[data-collection*=${collection}]`).addClass('showCollection')
-            }
-        $('#wallpaper img').hide()
-        $('.showRegion.showType.showCollection').show()
-        $('#ppaTotal').html( $('.showRegion.showType.showCollection').length )
-    })
-
-// Search
-    function searchSuggestions() {
-        $('.search').keyup(function() {
-            if ($('#lang').val() == 'JPN')
-                $('.search').autocomplete({
-                    source: pkmnJPN
-                })
-            else
-                $('.search').autocomplete({
-                    source: pkmnENG
-                })
-        })
-    }
-    searchSuggestions()
-    $('#addSearch').click(function() {
-        $('#removeSearch').remove()
+    $('#ppar img').each(function() {
         $(this)
-            .before(`
-                <br class="searchBR">
-                <input
-                    class="search s${$('.search').length}"
-                    type="text"
-                    data-JPN="ピカチュウ"
-                    data-ENG="Pikachu">\n
-                `)
-            .after('<button id="removeSearch">-</button>')
-        language( $('#lang').val() )
-        $('#removeSearch').click(function() {
-            $('.search').last().remove()
-            $('.searchBR').last().remove()
-            if ($('.search').length == 1) $(this).remove()
-        });
-        searchSuggestions()
-    })
-    $('#search').click(function() {
-        var query = []
-        var qDex = []  // query converted to ppaDex
-        for (var i = 0; i < $('.search').length; i++)
-            query.push( $(`.s${i}`).val() )
-        for (var i = 0; i < query.length; i++) {
-            if ($('#lang').val() == 'JPN') qDex[i] = ppaDex[pkmnJPN.indexOf(query[i])]
-            else qDex[i] = ppaDex[pkmnENG.indexOf(query[i])]
-        }
-        $('#wallpaper img').hide()
-        for (var i in qDex)
-            $(`#wallpaper img[src*=${qDex[i]}_PPA]`).show()
-        if (qDex[0] == undefined)
-            $('#wallpaper img').show()
-    })
-
-// BG Image
-    $('#bgIMG').click(function() {
-        $('#bgIMG_upload').click()
-    })
-    $('#bgIMG_upload').change(function() {
-        img = this.files[0]
-        rdr = new FileReader()
-        rdr.onloadend = function() {
-            $('#wallpaper').css({
-                'background': 'none',
-                'background-image': `url('${rdr.result}')`,
-                'background-position': 'center',
-                'background-size': 'cover',
-                'background-repeat': 'no-repeat'
+            .attr({
+                'src': `img/ppa/${$(this).attr('dex')}_PPA.png`
             })
-        }
-        if (img) rdr.readAsDataURL(img)
+            .addClass('showRegion showT1 showT2 showCategory')
+    })
+    $('#nav').css('z-index', $('#ppar img').length)
+    totalPPA()
+
+// BG
+    changeBG()
+    $('#bg_change').change(changeBG)
+    function changeBG() {
+        $('#bg > *').hide()
+        $(`#bg .${$('#bg_change').val()}`).show()
+    }
+
+    var p1_x = 0; var p1_y = 0
+    setInterval(function() {
+        $('#bg .rotom1').css({
+            'background-position': `${p1_x}px ${p1_y}px`
+        })
+        p1_x += 0.8
+        p1_y -= 0.4
+        if (p1_x > 229) p1_x = 0
+        if (p1_y > 119) p1_y = 0
+    }, 50)
+
+    var p2_x = 0; var p2_y = 0
+    setInterval(function() {
+        $('#bg .rotom2').css({
+            'background-position': `${p2_x}px ${p2_y}px`
+        })
+        p2_x += 1.4
+        p2_y -= 0.7
+        if (p2_x > 24) p2_x = 0
+        if (p2_y > 6) p2_y = 0
+    }, 50)
+
+// Collection
+    var typeList = [
+        "all",
+        "normal",
+        "fire",
+        "water",
+        "grass",
+        "electric",
+        "ice",
+        "fighting",
+        "poison",
+        "ground",
+        "flying",
+        "psychic",
+        "bug",
+        "rock",
+        "ghost",
+        "dragon",
+        "dark",
+        "steel",
+        "fairy"
+    ]
+    for (var i in typeList)
+        $('#type1, #type2').append(`<option value="${typeList[i]}" lang="t_${typeList[i]}"></option>`)
+        $('#type1').change(function() {
+            if ($(this).val() == 'all') $('#type2').attr('disabled', true)
+            else $('#type2').attr('disabled', false)
+        })
+    $('#collections input, #collections select').change(function() {
+        $('#ppar img')
+            .hide()
+            .removeClass('showRegion showT1 showT2 showCategory')
+        if ($('#region').val() != 'all')
+            $(`#ppar img[region="${$('#region').val()}"]`).addClass('showRegion')
+            else $('#ppar img').addClass('showRegion')
+        if ($('#type1').val() != 'all')
+            $(`#ppar img[type*="${$('#type1').val()}"]`).addClass('showT1')
+            else $('#ppar img').addClass('showT1')
+        if ($('#type2').val() != 'all')
+            $(`#ppar img[type*="${$('#type2').val()}"]`).addClass('showT2')
+            else $('#ppar img').addClass('showT2')
+        if ($('#category').val() != 'all')
+            $(`#ppar img[category="${$('#category').val()}"]`).addClass('showCategory')
+            else $('#ppar img').addClass('showCategory')
+        $('.showRegion.showT1.showT2.showCategory').show()
+        totalPPA()
+    })
+    function totalPPA() {
+        $('#total').html($('#ppar img.showRegion.showT1.showT2.showCategory').length)
+    }
+
+// Pokémon Info
+    $('#ppar img').click(function() {
+        $('#nav, #pkmn').prop('open', true)
+        var dex = $(this).attr('dex')
+            $('#pkmn #ppa').attr({
+                'src': `img/ppa/${dex}_PPA.png`
+            })
+            $('#pkmn #dex').html(dex)
+        var nameJPN = $(this).attr('nameJPN')
+            $('#pkmn #nameJPN').html(nameJPN)
+        var nameENG = $(this).attr('nameENG')
+            $('#pkmn #nameENG').html(nameENG)
+        var types = $(this).attr('type').split(' ')
+            $('#pkmn #types').html('')
+            for (var i in types)
+                if (types[i] != 'undefined') $('#pkmn #types').append(`<span lang="t_${types[i]}"></span>`)
+            $('#pkmn #types span').each(function() {
+                $(this).css({
+                    'background-color': `var(--${$(this).attr('lang').replace('t_', '')})`
+                })
+            })
+        $('#pkmn #links #bulba').attr({
+            'href': `https://bulbapedia.bulbagarden.net/wiki/${nameENG.replace('(', '').replace(')', '')}`
+        })
+        $('#pkmn #links #serebii').attr({
+            'href': `https://www.serebii.net/pokedex-sm/${dex.substring(1).replace(/\D/g, '')}.shtml`
+        })
+        $('#pkmn #links #yakkun').attr({
+            'href': `https://yakkun.com/sm/zukan/n${dex.toLowerCase()}`
+        })
     })
 
-// Randomize & Organize
+// Randomizer
     $('#randomize').click(function() {
-        var w = $('#width').val()
-            h = $('#height').val()
-            ppaSize = $('#ppaSize').val()
-            z = $('#wallpaper img').length
+        var w = $('#bg').width()
+            h = $('#bg').height()
+            ppaSize = $('#ppar img').width()
+            z = $('#ppar img').length
             dir = [-1,1]
-        $('#wallpaper img').each(function() {
+        $('#ppar img').each(function() {
             $(this).css({
                 'position': 'absolute',
                 'left': Math.floor(Math.random() * (w - ppaSize)),
@@ -251,139 +162,8 @@
         })
     })
     $('#organize').click(function() {
-        $('#wallpaper img').css({
+        $('#ppar img').css({
             'position': 'static',
-            'transform': `scaleX(1)`
+            'transform': 'scaleX(1)'
         })
-    })
-
-// Save
-    $('#save').click(function() {
-        $('#wallpaper img').css('background', 'none')
-        $('.loader').fadeIn()
-
-        html2canvas($('#wallpaper'), {
-            onrendered: function(canvas) {
-                var formData = new FormData()
-                        formData.append('image', canvas.toDataURL('image/png').replace('data:image/png;base64,', ''))
-
-                $.ajax({
-                    url: 'https://api.imgur.com/3/image',
-                    type: 'POST',
-                    datatype: 'json',
-                    headers: {
-                        'Authorization': 'Client-ID 1f37facd924fbb3'
-                    },
-                    data: formData,
-                    success: function(response) {
-                        $('#preview .pparIMG').html(`
-                            <a class="preview" href="${response.data.link}" target="_blank">
-                                <img class="pparIMGs" src="${response.data.link}">
-                            </a>
-                        `)
-                        $('#tweet').html('').html('<a id="tweetBtn"></a>')
-                        $('#tweetBtn')
-                            .attr({
-                                'class': 'twitter-share-button',
-                                'href': 'https://twitter.com/share?ref_src=twsrc%5Etfw',
-                                'target': '_blank',
-                                'data-size': 'large',
-                                'data-text': `Generated with PPAR! https://goo.gl/4mMKhS ${response.data.link}`,
-                                'data-hashtags': 'ppar',
-                                'data-show-count': 'false'
-                            })
-                            .append(
-                                '<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>'
-                            )
-                        $('.loader').fadeOut()
-                        $('#preview').fadeIn()
-                    },
-                    cache: false,
-                    contentType: false,
-                    processData: false
-                })
-            }
-        })
-    })
-    $('#closePreview').click(function() {
-        $('#preview').fadeOut()
-    })
-
-// Pop-up Dex
-    $('#popupDex').hide()
-    $('#wallpaper img[src*=0]').click(function(mouse) {
-        var entryDex = $(this).attr('src')
-                        .replace('img/ppa/', '')
-                        .replace('_PPA.png', '')
-        // PPA
-            $('#entryPPA img').attr({
-                'src': $(this).attr('src')
-            })
-        // Yakkun / Bulba
-            if ($('#lang').val() == 'JPN')
-                $('#entryPPA a').attr({
-                    'href': 'https://yakkun.com/sm/zukan/n' + entryDex.toLowerCase()
-                })
-            else {
-                var entryBulba = pkmnENG[ppaDex.indexOf(entryDex)]
-                                    .replace('(', '')
-                                    .replace(')', '')
-                $('#entryPPA a').attr({
-                    'href': 'https://bulbapedia.bulbagarden.net/wiki/' + entryBulba
-                })
-            }
-        // Dex #
-            $('#entryNum').html(entryDex)
-        // Name
-            var entryNameJPN = pkmnJPN[ppaDex.indexOf(entryDex)]
-            var entryNameENG = pkmnENG[ppaDex.indexOf(entryDex)]
-            $('#entryName').html(`<i>${entryNameJPN}<br>${entryNameENG}</i>`)
-        // Type
-            var entryType = $(this).attr('data-type').split(' ')
-            $('#entryType').html('')
-            if ($('#lang').val() == 'JPN')
-                for (var i in entryType) $('#entryType').append(`
-                    <p class="${entryType[i]} ${entryType[i]}JPN"></p>
-                `)
-            else
-                for (var i in entryType) $('#entryType').append(`
-                    <p class="${entryType[i]} ${entryType[i]}ENG"></p>
-                `)
-        if ($('#popupDex').width() > $(window).width() * 0.95)
-            $('#popupDex').css({
-                'white-space': 'normal',
-                'width': '95%'
-            })
-        else
-            $('#popupDex').css({
-                'white-space': 'nowrap',
-                'width': 'auto'
-            })
-        // Mouse Position
-                if (mouse.pageX > $(window).width() - $('#popupDex').width())
-                    mouseX = mouse.pageX - $('#popupDex').width()
-                else
-                    mouseX = mouse.pageX
-                if (mouse.pageX > $(window).width() - $('#popupDex').width() &&
-                        mouse.pageX < $('#popupDex').width())
-                    mouseX = `calc(50% - ${$('#popupDex').width()/2}px)`
-                if (mouse.pageY > $(window).height() - $('#popupDex').height() - $('#buttons').height())
-                    mouseY = mouse.pageY - $('#popupDex').height() - $('#buttons').height()
-                else
-                    mouseY = mouse.pageY
-                console.log();
-            $('#popupDex')
-                .css({
-                    'left': mouseX,
-                    'top':mouseY
-                })
-                .hide()
-                .fadeIn()
-        // esc to close
-            $(document).keydown(function(key) {
-    			if (key.which == 27) $('#popupDex').fadeOut()	// esc
-    		});
-    })
-    $('#closeDex, #buttons button').click(function() {
-        $('#popupDex').fadeOut()
     })

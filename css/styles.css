@@ -1,328 +1,246 @@
 /* Fonts */
     @import url('https://fonts.googleapis.com/css?family=Press+Start+2P|Roboto');
-    @font-face {
-        font-family: 'SF Pro Display';
-        src: url('../fonts/SF-Pro-Display-Regular.otf');
-    }
 
 /* Variables */
     :root {
-        --font-size: 14px;
-        --transition: 0.3s ease-in-out;
-
-        --yellow: 252, 208, 49;
-        --red: 242, 69, 62;
-        --purple: 155, 48, 175;
-        --dark-blue: 64, 84, 178;
-        --light-blue: 30, 170, 242;
-        --green: 80, 175, 85;
-        --orange: 253, 151, 39;
-
-        --blur: blur(12px) saturate(3);
-    }
-    ::-webkit-scrollbar { display: none; }
-    .blur {
-        border: 0.5px solid rgba(0,0,0, 0.5);
-        border-radius: 5px;
-        background: rgba(255, 255, 255, 0.9);
-        box-shadow: 0 4px 10px rgba(0,0,0, 0.3);
+        --normal: #b1b1b1;
+        --fire: #e4653f;
+        --water: #50abda;
+        --grass: #9ac30e;
+        --electric: #e8c71a;
+        --ice: #53c4e6;
+        --fighting: #e99a3f;
+        --poison: #ba78c1;
+        --ground: #c8a841;
+        --flying: #5e9fe2;
+        --psychic: #e885b2;
+        --bug: #6cbe50;
+        --rock: #b08754;
+        --ghost: #756eb4;
+        --dragon: #6c81c8;
+        --dark: #5b3c1e;
+        --steel: #919191;
+        --fairy: #e06cbb;
     }
 
 /* Common */
     * {
+        cursor: default;
         margin: 0;
         padding: 0;
-        font-family: 'SF Pro Display';
-        font-size: var(--font-size);
+        font-family: 'Roboto', sans-serif;
+        font-size: 15px;
     }
-    body { background: #eee; }
-    img:not(.pparIMGs),
-    #titlePPA,
-    #entryPPA {
+    ::-webkit-scrollbar {
+        display: none;
+    }
+    #ppar img,
+    #pkmn #ppa {
         image-rendering: -moz-crisp-edges;
-        image-rendering: -webkit-optimize-contrast;
-        image-rendering: pixelated;
-    }
-    input {
-        cursor: default;
-        outline: none;
-        border: none;
-        border-radius: 4px;
-        height: 26px;
-        margin: 2px 0;
-        padding: 0 4px;
-        background: none;
-        font-size: var(--font-size);
-        transition: var(--transition);
-    }
-    input[type=number],
-    select {
-        cursor: default;
-        -webkit-appearance: none;
-        -moz-appearance: none;
-        outline: none;
-        border: none;
-        height: 26px;
-        margin: 2px 0;
-        padding: 0 4px;
-        transition: var(--transition);
-    }
-    button {
-        cursor: pointer;
-        margin: 2px 0;
-        padding: 4px 6px;
-        border: none;
-        border-radius: 4px;
-        color: #fff;
-        transition: var(--transition);
-    }
-    button:not(#addSearch):hover,
-    button:not(#removeSearch):hover {
-        box-shadow: 0 2px 5px rgba(0,0,0, 0.3);
+            image-rendering: -webkit-optimize-contrast;
+            image-rendering: pixelated;
     }
 
-/* jQuery UI */
-    .ui-autocomplete {
-        z-index: 9999 !important;
-        width: 120px;
-        font-size: 14px;
-        max-height: 200px;
-        border-radius: 4px;
-        overflow-y: scroll;
-    }
-	.ui-menu-item-wrapper {
-		border: none !important;
-	}
-	.ui-state-active {
-		background: rgb(var(--dark-blue)) !important;
-		color: #fff !important;
-	}
-
-/* Wallpaper */
-    #wallpaper {
-        display: block;
+/* PPAR */
+    #ppar img {
         position: relative;
-        width: 100%;
-        height: 100vh;
-        margin: 0 auto;
-        overflow: scroll;
-            -webkit-overflow-scrolling: touch;
-    }
-    #wallpaper img {
         float: left;
     }
-    #wallpaper img:hover {
-        background-image: url('../img/ppaIcon_bg.png');
-        background-position: center;
-        background-size: cover;
-        background-repeat: no-repeat;
+    #ppar img:hover {
+        z-index: 1021 !important;
+        background:
+            url('../img/ui/pokeball_bg.png')
+            center/cover no-repeat;
     }
-    .html2canvasFix {
-        overflow: visible !important;
-        visibility: visible;
+    #ppar img:nth-last-child(1) {
+        margin: 0 0 40px 0;
     }
 
-/* Title & Copyright */
-    #titlePPA, #entryPPA {
-        text-align: center;
-        background-image: url('../img/ppaIcon_bg.png');
-        background-position: center;
-        background-size: cover;
-        background-repeat: no-repeat;
+/* Navigation */
+    details table {
+        margin: 0 auto;
     }
-    #titlePPA a,
-    #entryPPA a {
-        text-decoration: none;
-        display: inline-block;
+    summary {
+        cursor: pointer;
+        outline: none;
+        font-weight: bold;
     }
-    #titlePPA img,
-    #dexPPA img {
-        width: 40px;
-        height: 40px;
+    summary::-webkit-details-marker {
+        width: 24px;
+        height: 24px;
+        vertical-align: middle;
+        color: rgba(0,0,0, 0);
+        background:
+            url('../img/ui/pokeball.png')
+            center/cover no-repeat;
     }
-    .header p { margin: 0 2px; }
-    .header .title {
-        margin: 10px 0 5px 0;
+    [open] > summary::-webkit-details-marker {
+        background:
+            url('../img/ui/pokeball_open.png')
+            center/cover no-repeat;
+    }
+
+    #nav {
+        position: fixed;
+        bottom: 0;
+        left: 50%;
+        z-index: 2;
+        transform: translate(-50%, 0);
+        min-width: 280px;
+        max-width: 100vw;
+        max-height: 100vh;
+        overflow-y: scroll;
+    }
+    #nav > summary {
+        padding: 10px;
+        background:
+            linear-gradient(
+                180deg,
+                rgba(255,255,255, 0),
+                rgba(255,255,255, 0.7)
+            )
+    }
+    #nav > summary span {
+        cursor: pointer;
+        display: table;
+        margin: -24px auto 0 auto;
         font-family: 'Press Start 2P', monospace;
         font-size: 24px;
+        text-shadow:
+    		-2px -2px 0 #fff,
+    		2px -2px 0 #fff,
+    		-2px 2px 0 #fff,
+    		2px 2px 0 #fff;
     }
-    .header .subtitle {
-        margin: 0 0 10px 0;
-        font-style: italic;
-        font-size: 12px;
-        opacity: 0.5;
+    #nav > details {
+        padding: 0 10px 10px 10px;
+        background: rgba(255,255,255, 0.7);
     }
-    .copyright {
-        text-align: center;
-        color: rgba(0,0,0, 0.5);
-    }
-    .copyright p { margin: 10px 0 0 0; }
-    .copyright p,
-    .copyright a {
-        font-size: 12px;
-        color: rgba(0,0,0, 0.5);
+    #nav details > summary {
+        background: rgba(227,11,32, 0.2);
+        border-radius: 24px;
     }
 
-/* Settings */
-    #openSettings {
-        cursor: pointer;
-        position: absolute;
-        right: 11px;
-        top: -1px;
-        font-size: 30px;
-    }
-    .settings {
-        position: fixed;
-        right: 11px;
-        top: 11px;
-        padding: 5px;
-        width: 30px;
-        height: 30px;
-        max-width: calc(100% - 33px);
-        max-height: calc(100vh - 120px);
-        overflow: scroll;
-        border-radius: 20px;
-        transition: var(--transition);
-    }
-    .settings:hover { transition: none; }
-    #settings tr td:not(#titlePPA):first-child,
-    #settings tr td:not(.copyright):first-child,
-     #settings tr td:not(#titlePPA, .copyright):first-child,{ text-align: right; }
-    #lang { background: rgba(var(--red), 0.2); }
-    #lang:hover { background: rgba(var(--red), 1); }
-    #ppaTotal {
-        cursor: default;
-        border-radius: 4px;
-        width: 60px;
-        margin: 2px 0;
-        padding: 4px;
-        background: rgba(var(--orange), 0.2);
+    #pkmn table td {
+        position: relative;
         text-align: center;
-        transition: var(--transition);
     }
-    #ppaTotal:hover {
-        background: rgba(var(--orange), 1);
+    #pkmn #ppa {
+        display: table;
+        position: relative;
+        z-index: 1;
+        margin: 0 auto;
+        width: 100px;
+        background:
+            url('../img/ui/pokeball_bg.png')
+            center/cover no-repeat;
     }
-    #width, #height, #ppaSize {
-        width: 55px;
-        text-align: right;
+    #pkmn #dex {
+        position: absolute;
+        left: 50%;
+        top: 0;
+        transform: translate(-50%, 0);
+        font-family: 'Press Start 2P', cursive;
+        text-shadow:
+    		-2px -2px 0 #fff,
+    		2px -2px 0 #fff,
+    		-2px 2px 0 #fff,
+    		2px 2px 0 #fff;
+        opacity: 0.3;
     }
-    #width:hover, #width:focus,
-    #height:hover, #height:focus,
-    #ppaSize:hover, #ppaSize:focus {
-        background: rgba(var(--yellow), 1);
+    #pkmn #nameJPN,
+    #pkmn #nameENG,
+    #collections #total,
+    #buttons button {
+        display: inline-block;
+        max-width: 245px;
+        margin: 2px;
+        padding: 2px 4px;
+        overflow-x: scroll;
+        border: none;
+        border-radius: 4px;
+        background: rgba(0,0,0, 0.1);
+        font-weight: bold;
     }
-    #size,
-    #width, #height,
-    #ppaSize { background: rgba(var(--yellow), 0.2); }
-    #size:hover { background: rgba(var(--yellow), 1); }
-    #region,
-    #type1, #type2,
-    #collection { background: rgba(var(--green), 0.2); }
-    #region:hover,
-    #type1:hover,
-    #type2:not([disabled]):hover,
-    #collection:hover { background: rgba(var(--green), 1); }
-    .search {
-        width: 120px;
-        font-size: 14px;
-        background: rgba(var(--dark-blue), 0.2);
-        color: rgba(var(--dark-blue), 1);
-    }
-    .search:hover,
-    .search:focus {
-        background: rgba(var(--dark-blue), 1);
+    #pkmn #types span {
+        display: inline-block;
+        margin: 2px;
+        padding: 2px 0;
+        width: 80px;
+        border: 2px solid rgba(255,255,255,0.5);
+        border-radius: 20px;
+        text-align: center;
+        font-size: 12px;
+        font-weight: bold;
+        text-transform: uppercase;
+        letter-spacing: 0.5px;
         color: #fff;
     }
-    #addSearch,
-    #removeSearch {
-        margin: 0 2px;
-        padding: 0;
-        width: 20px;
-        height: 20px;
-        border-radius: 20px;
-    }
-    #addSearch,
-    #removeSearch { background: rgba(var(--dark-blue), 0.2); }
-    #addSearch:hover,
-    #removeSearch:hover { background: rgba(var(--dark-blue), 1); }
-    #search { background: rgba(var(--dark-blue), 1); }
-    #bgIMG { background: rgba(var(--purple), 0.2); }
-    #bgIMG:hover { background: rgba(var(--purple), 1); }
-
-/* Buttons */
-    #buttons {
-        position: fixed;
-        left: 50%;
-        bottom: 0;
-        padding: 5px;
-        border-bottom: none;
-        border-radius: 5px 5px 0 0;
-        transform: translate(-50%, 0);
-    }
-    #buttons button { margin: 0 4px; }
-    #randomize {
-        background: rgba(var(--yellow), 1);
-        color: #000;
-    }
-    #organize { background: rgba(var(--red), 1); }
-    #save { background: rgba(var(--green), 1); }
-
-/* Preview */
-    #preview {
-        display: none;
-        position: fixed;
-        left: 0;
-        right: 0;
-        top: 0;
-        bottom: 0;
-        border: none;
-        border-radius: 0;
+    #pkmn #links {
         text-align: center;
     }
-    #closePreview {
+    #pkmn #links a img {
         cursor: pointer;
-        position: absolute;
-        right: 0px;
-        top: 0;
-        padding: 10px 16px;
-        font-size: 30px;
+        margin: 2px;
+        width: 20px;
+        vertical-align: middle;
     }
-    #preview > *:not(#closePreview) { margin: 20px 0 10px 0; }
-    .pparIMG img {
-        max-width: calc(100vw);
-        max-height: calc(100vh * 0.6);
+    #pkmn #links a:hover {
+        opacity: 0.5;
     }
 
-/* Loader */
-    .loader {
-        display: none;
+    #collections td:first-child,
+    #settings td:first-child {
+        text-align: right;
+    }
+
+    #buttons button {
+        cursor: pointer;
+    }
+
+    #nuotsu {
+        text-align: center !important;
+        opacity: 0.5;
+    }
+    #nuotsu a {
+        cursor: pointer;
+        text-decoration: none;
+        color: #000;
+    }
+
+/* BG */
+    #bg {
         position: fixed;
-        left: 0;
-        right: 0;
-        top: 0;
-        bottom: 0;
-        border: none;
-        border-radius: 0;
+        width: 100vw;
+        height: 100vh;
+        z-index: -1;
     }
-    .loader img {
+    #bg .rotom,
+    #bg .black {
         position: absolute;
-        left: 50%;
-        top: 50%;
-        transform: translate(-50%, -50%);
-        max-height: calc(100vh * 0.3);
+        width: 100%;
+        height: 100%;
     }
 
-@supports
-    (-webkit-backdrop-filter: var(--blur)) or
-    (-moz-backdrop-filter: var(--blur)) or
-    (backdrop-filter: var(--blur)) {
-    .blur,
-    .ui-autocomplete {
-        -webkit-backdrop-filter: var(--blur);
-        -moz-backdrop-filter: var(--blur);
-        backdrop-filter: var(--blur);
+    #bg .rotom0 {
+        background:
+            linear-gradient(
+                30deg,
+                rgb(52, 188, 199),
+                rgb(34, 133, 198)
+            );
     }
-    .blur,
-    .ui-autocomplete { background: rgba(255, 255, 255, 0.5) !important; }
-}
+    #bg .rotom1 {
+        background-image: url('../img/bg/pattern1.png');
+        opacity: 0.2;
+        mix-blend-mode: overlay;
+    }
+    #bg .rotom2 {
+        background-image: url('../img/bg/pattern2.png');
+        opacity: 0.1;
+        mix-blend-mode: hard-light;
+    }
+
+    #bg .black {
+        background: #000;
+    }

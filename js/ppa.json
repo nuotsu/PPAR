@@ -1245,7 +1245,7 @@
 		"dex": "0102",
 		"nameJPN": "タマタマ",
 		"nameENG": "Exeggcute",
-		"type": ["grass", "pyshic"],
+		"type": ["grass", "psychic"],
 		"gender": ["m", "f"],
 		"region": "Kanto",
 		"collection": []
@@ -1254,7 +1254,7 @@
 		"dex": "0103",
 		"nameJPN": "ナッシー",
 		"nameENG": "Exeggutor",
-		"type": ["grass", "pyshic"],
+		"type": ["grass", "psychic"],
 		"gender": ["m", "f"],
 		"region": "Kanto",
 		"collection": []
@@ -8424,7 +8424,7 @@
 	},
 	{
 		"dex": "0741",
-		"nameJPN": "オドリドリ めらめら",
+		"nameJPN": "オドリドリ（めらめら）",
 		"nameENG": "Oricorio Baille",
 		"type": ["fire", "flying"],
 		"gender": ["m", "f"],
@@ -8433,7 +8433,7 @@
 	},
 	{
 		"dex": "0741Po",
-		"nameJPN": "オドリドリ ぱちぱち",
+		"nameJPN": "オドリドリ（ぱちぱち）",
 		"nameENG": "Oricorio PomPom",
 		"type": ["electric", "flying"],
 		"gender": ["m", "f"],
@@ -8442,7 +8442,7 @@
 	},
 	{
 		"dex": "0741Pa",
-		"nameJPN": "オドリドリ ふらふら",
+		"nameJPN": "オドリドリ（ふらふら）",
 		"nameENG": "Oricorio Pau",
 		"type": ["psychic", "flying"],
 		"gender": ["m", "f"],
@@ -8451,7 +8451,7 @@
 	},
 	{
 		"dex": "0741Se",
-		"nameJPN": "オドリドリ まいまい",
+		"nameJPN": "オドリドリ（まいまい）",
 		"nameENG": "Oricorio Sensu",
 		"type": ["ghost", "flying"],
 		"gender": ["m", "f"],
@@ -8514,7 +8514,7 @@
 	},
 	{
 		"dex": "0746",
-		"nameJPN": "ヨワシ",
+		"nameJPN": "ヨワシ（たんどくのすがた）",
 		"nameENG": "Wishiwashi",
 		"type": ["water"],
 		"gender": ["m", "f"],
@@ -8523,7 +8523,7 @@
 	},
 	{
 		"dex": "0746Sc",
-		"nameJPN": "ヨワシ むれたすがた",
+		"nameJPN": "ヨワシ（むれたすがた）",
 		"nameENG": "Wishiwashi School",
 		"type": ["water"],
 		"gender": ["m", "f"],
