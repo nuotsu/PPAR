@@ -139,6 +139,12 @@
         $('#pkmn #links #serebii').attr({
             'href': `https://www.serebii.net/pokedex-sm/${dex.substring(1).replace(/\D/g, '')}.shtml`
         })
+        $('#pkmn #links #smogon').attr({
+            'href': `http://www.smogon.com/dex/sm/pokemon/${nameENG}`
+        })
+        $('#pkmn #links #pdb').attr({
+            'href': `https://pokemondb.net/pokedex/${nameENG}`
+        })
         $('#pkmn #links #yakkun').attr({
             'href': `https://yakkun.com/sm/zukan/n${dex.toLowerCase()}`
         })
