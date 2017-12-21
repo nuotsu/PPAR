@@ -16,6 +16,9 @@
                 nameJPN="${ppa[i].nameJPN}"
                 nameENG="${ppa[i].nameENG}"
                 type="${ppa[i].type[0]} ${ppa[i].type[1]}"
+                stats="${ppa[i].stats[0]} ${ppa[i].stats[1]} ${ppa[i].stats[2]} ${ppa[i].stats[3]} ${ppa[i].stats[4]} ${ppa[i].stats[5]}"
+                abilityJPN="${ppa[i].abilityJPN[0]}|${ppa[i].abilityJPN[1]}|${ppa[i].abilityJPN[2]}"
+                abilityENG="${ppa[i].abilityENG[0]}|${ppa[i].abilityENG[1]}|${ppa[i].abilityENG[2]}"
                 region="${ppa[i].region}"
                 category="${ppa[i].collection}"
             >
@@ -133,6 +136,26 @@
                     'background-color': `var(--${$(this).attr('lang').replace('t_', '')})`
                 })
             })
+        var abilityJPN = $(this).attr('abilityJPN').split('|')
+            $('#pkmn #ability').html('')
+            for (var i in abilityJPN)
+                if (abilityJPN[i] != 'undefined') $('#pkmn #ability').append(`<p class="ability_jp">${abilityJPN[i]}</p>`)
+        var abilityENG = $(this).attr('abilityENG').split('|')
+            for (var i in abilityENG)
+                if (abilityENG[i] != 'undefined') $('#pkmn #ability').append(`<p class="ability_en">${abilityENG[i]}</p>`)
+        var stats = $(this).attr('stats').split(' ')
+            $('#stats td:nth-child(2)').html('')
+            var s_total = 0
+            for (var i in stats) {
+                if (stats[i] != 'undefined') {
+                    $('#stats tr').eq(i).find('td').eq(1).html(stats[i])
+                    $('#stats tr').eq(i).find('td').eq(2).find('span').css({
+                        'width': `${stats[i] / 2}%`
+                    })
+                }
+                s_total += stats[i]*1
+            }
+            $('#s_total').html(s_total)
         $('#pkmn #links #bulba').attr({
             'href': `https://bulbapedia.bulbagarden.net/wiki/${nameENG.replace('(', '').replace(')', '')}`
         })

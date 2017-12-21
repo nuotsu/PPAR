@@ -3,6 +3,9 @@
 
 /* Variables */
     :root {
+        --ui-gray: rgba(0,0,0, 0.1);
+        --ui-red: rgba(227,11,32, 0.2);
+
         --normal: #b1b1b1;
         --fire: #e4653f;
         --water: #50abda;
@@ -33,6 +36,12 @@
     }
     ::-webkit-scrollbar {
         display: none;
+    }
+    hr {
+        margin: 4px 0;
+        height: 1px;
+        background: var(--ui-gray);
+        border: none;
     }
     #ppar img,
     #pkmn #ppa {
@@ -90,6 +99,7 @@
         max-width: 100vw;
         max-height: 100vh;
         overflow-y: scroll;
+        -webkit-overflow-scrolling: touch;
     }
     #nav > summary {
         padding: 10px;
@@ -117,7 +127,7 @@
         background: rgba(255,255,255, 0.7);
     }
     #nav details > summary {
-        background: rgba(227,11,32, 0.2);
+        background: var(--ui-red);
         border-radius: 24px;
     }
 
@@ -150,6 +160,8 @@
     }
     #pkmn #nameJPN,
     #pkmn #nameENG,
+    #pkmn #ability p,
+    #pkmn #links,
     #collections #total,
     #buttons button {
         display: inline-block;
@@ -159,7 +171,7 @@
         overflow-x: scroll;
         border: none;
         border-radius: 4px;
-        background: rgba(0,0,0, 0.1);
+        background: var(--ui-gray);
         font-weight: bold;
     }
     #pkmn #types span {
@@ -176,6 +188,31 @@
         letter-spacing: 0.5px;
         color: #fff;
     }
+    #pkmn #ability p {
+        display: block;
+        font-weight: 500;
+        font-size: 14px;
+    }
+
+    #pkmn #stats td:nth-child(1) {
+        font-size: 12px;
+        font-style: italic;
+    }
+    #pkmn #stats td:nth-child(2) {
+        width: 35px;
+    }
+    #pkmn #stats td:nth-child(3) {
+        text-align: left;
+        width: 100px;
+    }
+    #pkmn #stats span {
+        display: inline-block;
+        height: 12px;
+        border-radius: 0 2px 2px 0;
+        background: var(--ui-red);
+        vertical-align: middle;
+    }
+
     #pkmn #links {
         text-align: center;
     }
@@ -199,6 +236,7 @@
     }
 
     #nuotsu {
+        padding: 10px 0 0 0;
         text-align: center !important;
         opacity: 0.5;
     }
