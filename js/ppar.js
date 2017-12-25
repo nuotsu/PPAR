@@ -1,11 +1,14 @@
 // Initialize ppa.json
     var ppa = []
+        dex = []
     $.ajax({
         url: 'js/ppa.json',
         dataType: 'json',
         async: false,
         success: function(ppaJSON) {
             ppa = ppaJSON
+            for (i in ppa)
+                dex.push(ppa[i].dex)
         }
     })
 
@@ -116,7 +119,9 @@
     }
 
 // Pokémon Info
+    $('#pkmn > table').hide()
     $('#ppar img').click(function() {
+        $('#pkmn > table').show()
         $('#nav, #pkmn').prop('open', true)
         var dex = $(this).attr('dex')
             $('#pkmn #ppa').attr({
@@ -150,7 +155,7 @@
                 if (stats[i] != 'undefined') {
                     $('#stats tr').eq(i).find('td').eq(1).html(stats[i])
                     $('#stats tr').eq(i).find('td').eq(2).find('span').css({
-                        'width': `${stats[i] / 2}%`
+                        'width': `${stats[i] / 2.55}%`
                     })
                 }
                 s_total += stats[i]*1
@@ -172,6 +177,12 @@
             'href': `https://yakkun.com/sm/zukan/n${dex.toLowerCase()}`
         })
     })
+    $('.arrow').click(function() {
+        var curr_ppa = dex.indexOf($('#dex').html())
+            newDex = dex[curr_ppa*1 + $(this).attr('value')*1]
+        $(`img[dex="${newDex}"]`).click()
+    })
+
 
 // Randomizer
     $('#randomize').click(function() {
@@ -196,3 +207,12 @@
             'transform': 'scaleX(1)'
         })
     })
+
+// Hotkeys
+    $(document).keydown(function(e) {
+    		if (e.which == 27) $('#nav > summary').click();	// esc
+    		if (e.which == 37) $('.a_left').click();	// ←
+    		if (e.which == 39) $('.a_right').click();	// →
+            if (e.which == 82) $('#randomize').click();	// r
+            if (e.which == 79) $('#organize').click();	// o
+    	});

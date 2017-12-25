@@ -23,8 +23,10 @@
             if (lang == -1) lang = 0
         for (var i in langJSON)
             $(`[lang="${i}"]`).html(`${langJSON[i][lang]}`)
-        $('#pkmn #ability p').hide()
-        var whatLang = window.location.href.split('?lang=')[1]
-            if (whatLang == null) whatLang = 'en'
-        $(`#pkmn #ability p.ability_${whatLang}`).show()
+
+        // Adjustments
+            $('#pkmn #ability p').hide()
+            var whatLang = window.location.href.split('?lang=')[1]
+                if (whatLang == null) whatLang = 'en'
+            $(`#pkmn #ability p.ability_${whatLang}`).show()
     }
